@@ -76,7 +76,7 @@ or
 ### Demos:
 Projects using Hadith API:
 - [Hadiths](https://fawazahmed0.github.io/hadiths)
-- [Quran Hadith Search](https://fawazahmed0.github.io/quran-hadith-search/)
+- [Quran Hadith Search Engine](https://fawazahmed0.github.io/quran-hadith-search/)
 
 ### Other Similar Projects:
 - [Quran-api](https://github.com/fawazahmed0/quran-api)
