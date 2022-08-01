@@ -74,7 +74,9 @@ or
 ### Any Issues: [Raise here](https://github.com/fawazahmed0/hadith-api/issues/new "Raise here")
 
 ### Demos:
-- [Hadiths](https://github.com/fawazahmed0/hadiths)
+Projects using Quran API:
+- [Hadiths](https://fawazahmed0.github.io/hadiths)
+- [Quran Hadith Search](https://fawazahmed0.github.io/quran-hadith-search/)
 
 ### Other Similar Projects:
 - [Quran-api](https://github.com/fawazahmed0/quran-api)
