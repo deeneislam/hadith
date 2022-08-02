@@ -85,6 +85,11 @@ Projects using Hadith API:
 ### Share:
 Please share this with your friends and Star this repo by clicking on [:star: button](#) above [:arrow_upper_right:](#)
 
+### References:
+All the open source projects and dawah/Islamic organizations
+
+Please see [References](https://github.com/fawazahmed0/hadith-api/blob/1/References.md "References")
+
 
 <br>
 <br>
