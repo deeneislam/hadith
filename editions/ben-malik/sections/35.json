@@ -18,7 +18,7 @@
 			],
 			"reference": {
 				"book": 35,
-				"hadith": 1395
+				"hadith": 1
 			}
 		},
 		{
@@ -33,7 +33,7 @@
 			],
 			"reference": {
 				"book": 35,
-				"hadith": 1396
+				"hadith": 2
 			}
 		},
 		{
@@ -48,7 +48,7 @@
 			],
 			"reference": {
 				"book": 35,
-				"hadith": 1397
+				"hadith": 3
 			}
 		},
 		{
@@ -63,7 +63,7 @@
 			],
 			"reference": {
 				"book": 35,
-				"hadith": 1398
+				"hadith": 4
 			}
 		}
 	]

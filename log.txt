@@ -999,3 +999,91 @@ Generating Edition
  Generated edition ara-tirmidhi1
 
 editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/17.9.1/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ara-malik.txt
+
+ deletion completed for ara-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-malik
+
+Starting to create files for ara-malik1.txt
+
+ deletion completed for ara-malik1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-malik1
+
+Starting to create files for ben-malik.txt
+
+ deletion completed for ben-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-malik
+
+Starting to create files for eng-malik.txt
+
+ deletion completed for eng-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-malik
+
+Starting to create files for fra-malik.txt
+
+ deletion completed for fra-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition fra-malik
+
+Starting to create files for ind-malik.txt
+
+ deletion completed for ind-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-malik
+
+Starting to create files for tur-malik.txt
+
+ deletion completed for tur-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-malik
+
+Starting to create files for urd-malik.txt
+
+ deletion completed for urd-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-malik
+
+editions.json and editions.min.json generated
