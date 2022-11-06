@@ -12,7 +12,7 @@ maqtu
 mauquf
 sahih
 daif
-munqar
+munkar
 batil
 mursal
 hasan
