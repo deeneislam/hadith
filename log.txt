@@ -1165,3 +1165,43 @@ Generating Edition
  Generated edition ara-tirmidhi1
 
 editions.json and editions.min.json generated
+BEGIN:
+/usr/bin/node /home/alfi/Projects/hadith-api/apiscript.js create
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ara-tirmidhi.txt
+
+Generating Edition
+
+ Generated edition ara-tirmidhi
+
+Starting to create files for eng-tirmidhi.txt
+
+Generating Edition
+
+ Generated edition eng-tirmidhi
+
+editions.json and editions.min.json generated
+BEGIN:
+/usr/bin/node /home/alfi/Projects/hadith-api/apiscript.js create
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ara-tirmidhi.txt
+
+Generating Edition
+
+ Generated edition ara-tirmidhi
+
+Starting to create files for eng-tirmidhi.txt
+
+Generating Edition
+
+ Generated edition eng-tirmidhi
+
+editions.json and editions.min.json generated
