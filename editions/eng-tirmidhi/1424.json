@@ -9,7 +9,7 @@
 		{
 			"hadithnumber": 1424,
 			"arabicnumber": 1424,
-			"text": "",
+			"text": "Narrated 'Aishah: that the Messenger of Allah (ﷺ): \"Avert the legal penalties from the Muslims as much as possible, if he has a way out then leave him to his way, for if the Imam makes a mistake in forgiving it would be better than making mistake in punishment",
 			"grades": [
 				{
 					"name": "Ahmad Muhammad Shakir",
@@ -31,6 +31,16 @@
 			"reference": {
 				"book": 17,
 				"hadith": 2
+			}
+		},
+		{
+			"hadithnumber": 1424.2,
+			"arabicnumber": 1424.2,
+			"text": "(Another chain) which is similar to the narration of Muhammad bin Rabi'ah (a narrator in no.1424) but he did not narrate it in Marfu' form",
+			"grades": [],
+			"reference": {
+				"book": 0,
+				"hadith": 0
 			}
 		}
 	]

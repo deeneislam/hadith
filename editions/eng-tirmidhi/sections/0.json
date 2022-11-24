@@ -64,6 +64,26 @@
 			}
 		},
 		{
+			"hadithnumber": 1424.2,
+			"arabicnumber": 1424.2,
+			"text": "(Another chain) which is similar to the narration of Muhammad bin Rabi'ah (a narrator in no.1424) but he did not narrate it in Marfu' form",
+			"grades": [],
+			"reference": {
+				"book": 0,
+				"hadith": 0
+			}
+		},
+		{
+			"hadithnumber": 1425.2,
+			"arabicnumber": 1425.2,
+			"text": "Asbat bin Muhammad reported it from Al-A'mash who said: \"It has been narrated to me from Abu Salih, from Abu Hurairah, from the Prophet (ﷺ),\" and it is similar. [It is as if this is more correct than the first narration.] (Another chain) for this Hadith",
+			"grades": [],
+			"reference": {
+				"book": 0,
+				"hadith": 0
+			}
+		},
+		{
 			"hadithnumber": 1433.2,
 			"arabicnumber": 1433.2,
 			"text": "(Another chain) with similar",
