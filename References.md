@@ -22,6 +22,14 @@ https://muhammad.pk
 
 https://github.com/gadingnst/hadith-api
 
+http://forhuman.free.fr/hadith/muslim/
+
+http://forhuman.free.fr/hadith/malek/L
+
+https://www.rahmathpublications.com
+
+http://www.normalift.com/kitap
+
 https://zubairalizai.com/ zubair ali zai
 
 https://al-maktaba.org/book/1755  abu dawed, albani
