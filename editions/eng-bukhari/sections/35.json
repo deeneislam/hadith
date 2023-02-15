@@ -17,6 +17,16 @@
 			}
 		},
 		{
+			"hadithnumber": 2239.2,
+			"arabicnumber": 2239.2,
+			"text": "Narrated Ibn Abi Najih:as above, mentioning only specific measure",
+			"grades": [],
+			"reference": {
+				"book": 35,
+				"hadith": 2
+			}
+		},
+		{
 			"hadithnumber": 2240,
 			"arabicnumber": 2240,
 			"text": "Narrated Ibn `Abbas:The Prophet (ﷺ) came to Medina and the people used to pay in advance the price of dates to be delivered within two or three years. He said (to them), \"Whoever pays in advance the price of a thing to be delivered later should pay it for a specified measure at specified weight for a specified period",
@@ -24,6 +34,16 @@
 			"reference": {
 				"book": 35,
 				"hadith": 3
+			}
+		},
+		{
+			"hadithnumber": 2240.2,
+			"arabicnumber": 2240.2,
+			"text": "Narrated Ibn Abi Najih:as above, saying, \"He should pay the price in advance for a specified measure and for a specified period",
+			"grades": [],
+			"reference": {
+				"book": 35,
+				"hadith": 4
 			}
 		},
 		{

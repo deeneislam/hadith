@@ -337,6 +337,16 @@
 			}
 		},
 		{
+			"hadithnumber": 6895.2,
+			"arabicnumber": 6895.2,
+			"text": "Narrated Ibn `Abbas:I heard the Prophet (saying the same as above Hadith 34)",
+			"grades": [],
+			"reference": {
+				"book": 87,
+				"hadith": 34
+			}
+		},
+		{
 			"hadithnumber": 6896,
 			"arabicnumber": 6896,
 			"text": "Ibn 'Umar said:A boy was assassinated. 'Umar said, \"If all the people of San'a took part in the assassination I would kill them all.\" Al-Mughira bin Hakim said that his father said, \"Four persons killed a boy, and 'Umar said (as above).\" Abu Bakr, Ibn Az-Zubair, 'Ali and Suwaid bin Muqarrin gave the judgement of Al-Qisas (equality in punishment) in cases of slapping. And 'Umar carried out Al-Qisas for a strike with a stick. And 'Ali carried out Al-Qisas for three lashes with a whip. And Shuraih carried out for one last and for scratching",
@@ -444,6 +454,16 @@
 			"reference": {
 				"book": 87,
 				"hadith": 45
+			}
+		},
+		{
+			"hadithnumber": 6908.2,
+			"arabicnumber": 6908.2,
+			"text": "Narrated `Urwa:I heard Al-Maghira bin Shu`ba narrating that `Umar had consulted them about the case of abortion (similarly as narrated in No. 42)",
+			"grades": [],
+			"reference": {
+				"book": 87,
+				"hadith": 47
 			}
 		},
 		{

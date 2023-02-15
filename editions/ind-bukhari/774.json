@@ -15,6 +15,16 @@
 				"book": 10,
 				"hadith": 168
 			}
+		},
+		{
+			"hadithnumber": 774.2,
+			"arabicnumber": 774.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 10,
+				"hadith": 169
+			}
 		}
 	]
 }

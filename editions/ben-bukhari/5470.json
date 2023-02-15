@@ -15,6 +15,16 @@
 				"book": 71,
 				"hadith": 4
 			}
+		},
+		{
+			"hadithnumber": 5470.2,
+			"arabicnumber": 5470.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 71,
+				"hadith": 5
+			}
 		}
 	]
 }

@@ -15,6 +15,26 @@
 				"book": 23,
 				"hadith": 142
 			}
+		},
+		{
+			"hadithnumber": 1390.2,
+			"arabicnumber": 1390.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 23,
+				"hadith": 143
+			}
+		},
+		{
+			"hadithnumber": 1390.3,
+			"arabicnumber": 1390.3,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 23,
+				"hadith": 144
+			}
 		}
 	]
 }

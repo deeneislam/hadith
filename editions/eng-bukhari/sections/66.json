@@ -547,6 +547,16 @@
 			}
 		},
 		{
+			"hadithnumber": 5032.2,
+			"arabicnumber": 5032.2,
+			"text": "Narrated `Abdullah:I heard the Prophet (ﷺ) saying... (as above, no. 550)",
+			"grades": [],
+			"reference": {
+				"book": 66,
+				"hadith": 55
+			}
+		},
+		{
 			"hadithnumber": 5033,
 			"arabicnumber": 5033,
 			"text": "Narrated Abu Musa:The Prophet (ﷺ) said, \"Commit yourself to the Qur'an, for by Him in whose Hand is my soul, it is surely more prone to break away than a camel in its bind",
@@ -594,6 +604,16 @@
 			"reference": {
 				"book": 66,
 				"hadith": 60
+			}
+		},
+		{
+			"hadithnumber": 5037.2,
+			"arabicnumber": 5037.2,
+			"text": "Narrated Hisham:(The same Hadith as 6.556, adding): which I missed (modifying the Verses)",
+			"grades": [],
+			"reference": {
+				"book": 66,
+				"hadith": 61
 			}
 		},
 		{
@@ -734,6 +754,16 @@
 			"reference": {
 				"book": 66,
 				"hadith": 75
+			}
+		},
+		{
+			"hadithnumber": 5051.2,
+			"arabicnumber": 5051.2,
+			"text": "Narrated Abu Mas'ud:The Prophet (ﷺ) said, \"If somebody recites the last two Verses of Surat al-Baqara at night, it will be sufficient for him",
+			"grades": [],
+			"reference": {
+				"book": 66,
+				"hadith": 76
 			}
 		},
 		{

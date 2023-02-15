@@ -15,6 +15,16 @@
 				"book": 62,
 				"hadith": 101
 			}
+		},
+		{
+			"hadithnumber": 3756.2,
+			"arabicnumber": 3756.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 62,
+				"hadith": 102
+			}
 		}
 	]
 }

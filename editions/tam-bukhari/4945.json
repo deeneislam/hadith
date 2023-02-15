@@ -15,6 +15,16 @@
 				"book": 65,
 				"hadith": 466
 			}
+		},
+		{
+			"hadithnumber": 4945.2,
+			"arabicnumber": 4945.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 65,
+				"hadith": 467
+			}
 		}
 	]
 }

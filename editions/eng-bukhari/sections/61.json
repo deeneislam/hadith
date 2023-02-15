@@ -717,6 +717,16 @@
 			}
 		},
 		{
+			"hadithnumber": 3562.2,
+			"arabicnumber": 3562.2,
+			"text": "Narrated Shuba:A similar Hadith (i e. No. 762) with this addition: And if he (i.e. the Prophet) disliked something, the sign of aversion would appear on his face",
+			"grades": [],
+			"reference": {
+				"book": 61,
+				"hadith": 72
+			}
+		},
+		{
 			"hadithnumber": 3563,
 			"arabicnumber": 3563,
 			"text": "Narrated Abu Huraira:The Prophet (ﷺ) never criticized any food (presented him), but he would eat it if he liked it; otherwise, he would leave it (without expressing his dislike)",
@@ -1014,6 +1024,16 @@
 			"reference": {
 				"book": 61,
 				"hadith": 102
+			}
+		},
+		{
+			"hadithnumber": 3595.2,
+			"arabicnumber": 3595.2,
+			"text": "Narrated `Adi:as above (i.e. Hadith No. 793)",
+			"grades": [],
+			"reference": {
+				"book": 61,
+				"hadith": 103
 			}
 		},
 		{

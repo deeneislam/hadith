@@ -15,6 +15,16 @@
 				"book": 8,
 				"hadith": 53
 			}
+		},
+		{
+			"hadithnumber": 402.2,
+			"arabicnumber": 402.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 8,
+				"hadith": 54
+			}
 		}
 	]
 }

@@ -15,6 +15,16 @@
 				"book": 87,
 				"hadith": 45
 			}
+		},
+		{
+			"hadithnumber": 6908.2,
+			"arabicnumber": 6908.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 87,
+				"hadith": 47
+			}
 		}
 	]
 }
