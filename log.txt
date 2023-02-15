@@ -1327,3 +1327,41 @@ Generating Edition
  Generated edition urd-bukhari
 
 editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.6.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ben-bukhari.txt
+
+ deletion completed for ben-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-bukhari
+
+Starting to create files for ind-bukhari.txt
+
+ deletion completed for ind-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-bukhari
+
+Starting to create files for tam-bukhari.txt
+
+ deletion completed for tam-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tam-bukhari
+
+editions.json and editions.min.json generated
