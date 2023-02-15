@@ -89,7 +89,7 @@ jobs:
 
       - name: Running the command
         run: | 
-          node apiscript.js ${{ env.mycmd }} ${{ env.myargs }}
+          node apiscript.js ${{ env.mycmd }} ${{ env.myargs }} && node infofixer.js
 
           
           
