@@ -887,16 +887,27 @@
 			"grades": [
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
 				"book": 4,
 				"hadith": 39
+			}
+		},
+		{
+			"hadithnumber": 434.2,
+			"arabicnumber": 434.2,
+			"text": "اخبرنا محمد بن عبد الاعلى، انبانا امية بن خالد، حدثنا شعبة، ان مخارقا، اخبرهم عن طارق بن شهاب، ان رجلا، اجنب فلم يصل فاتى النبي صلى الله عليه وسلم فذكر ذلك له فقال \" اصبت \" . فاجنب رجل اخر فتيمم وصلى فاتاه فقال نحوا مما قال للاخر يعني \" اصبت",
+			"grades": [
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 4,
+				"hadith": 40
 			}
 		},
 		{

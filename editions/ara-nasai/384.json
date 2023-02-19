@@ -21,7 +21,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -35,8 +35,8 @@
 			"text": "قَالَ إِسْحَاقُ أَنْبَأَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏",
 			"grades": [],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 3,
+				"hadith": 37
 			}
 		}
 	]

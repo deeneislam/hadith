@@ -9,7 +9,7 @@
 		{
 			"hadithnumber": 348,
 			"arabicnumber": 348,
-			"text": "",
+			"text": "Aişe (r.anha)’dan rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v) ile birlikte hac için yola çıktık. Serif denilen yere geldiğimizde ben aybaşı oluverdim ve ağlıyordum, yanıma giren Rasûlullah (s.a.v): “Ne oldu sana yoksa nifas (hayız) mı oldun?” buyurdu. Ben de “Evet” diye cevap verince şöyle buyurdu: “Bu hayız olma işi Allah’ın Adem kızlarına yazdığı bir yazgısıdır. Kâbe’yi tavaf dışında haccın gereklerinin hepsini yerine getir.” (Buhârî, Hayz: 9; Ebû Davud, Menasik: 10)",
 			"grades": [
 				{
 					"name": "Abu Ghuddah",
@@ -32,7 +32,7 @@
 		{
 			"hadithnumber": 349,
 			"arabicnumber": 349,
-			"text": "Âişe (radıyallahü anha)’dan rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: görmeye başladığınız zaman namazı bırakın bitince gusledin.) (Buhârî, Hayz: 9; İbn Mâce, Tahara: 115)",
+			"text": "Urve (r.a)’den rivâyete göre, Kureyş kabilesinin Esed kolundan olan Fatıma binti Kays, Rasûlullah (s.a.v)’e gelerek: “Benden kan geliyor halbuki günüm değil” dedi. Bunun üzerine Rasûlullah (s.a.v): “O gördüğün damardan gelen bir kandır, sen normal hayız kanını gördüğünde namaz kılmayı bırak, kan kesilince guslet, üzerine bulaşan kan lekelerini temizle ve namazını kılmaya başla” buyurdular. (Buhârî, Hayz: 9; İbn Mâce, Tahara: 115)",
 			"grades": [
 				{
 					"name": "Abu Ghuddah",
@@ -55,7 +55,7 @@
 		{
 			"hadithnumber": 350,
 			"arabicnumber": 350,
-			"text": "",
+			"text": "Aişe (r.anha)’dan rivâyete göre, Rasûlullah (s.a.v) şöyle buyurdu: “Hayız görmeye başladığınız zaman namazı bırakın bitince gusledin.” (Buhârî, Hayz: 9; İbn Mâce, Tahara: 115)",
 			"grades": [
 				{
 					"name": "Abu Ghuddah",
@@ -96,6 +96,25 @@
 			"reference": {
 				"book": 3,
 				"hadith": 4
+			}
+		},
+		{
+			"hadithnumber": 352,
+			"arabicnumber": 352,
+			"text": "Âişe (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: Ümmü Habibe, Rasûlüllah (sallallahü aleyhi ve sellem)’e hayız kanıyla ilgili bir soru sormuştu. Âişe diyor ki: Ümmü Habibe’nin yıkandığı leğen kanla dolmuştu. Rasûlüllah (sallallahü aleyhi ve sellem) ona: müddetin ne kadarsa bekle sonra guslet) buyurdular. (İbn Mâce, Tahara: 116; Ebû Dâvûd, Tahara: 108)",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 3,
+				"hadith": 5
 			}
 		},
 		{
@@ -814,12 +833,22 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
 				"book": 3,
 				"hadith": 36
+			}
+		},
+		{
+			"hadithnumber": 384.2,
+			"arabicnumber": 384.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 3,
+				"hadith": 37
 			}
 		},
 		{

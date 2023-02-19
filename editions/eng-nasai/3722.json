@@ -21,11 +21,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -37,10 +33,15 @@
 			"hadithnumber": 3722.2,
 			"arabicnumber": 3722.2,
 			"text": "It was narrated from Zaid bin Thabit that the Prophet ruled that 'Umra (a gift given for life) belongs to the heir",
-			"grades": [],
+			"grades": [
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 34,
+				"hadith": 4
 			}
 		}
 	]

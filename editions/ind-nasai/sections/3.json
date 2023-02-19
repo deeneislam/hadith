@@ -99,9 +99,28 @@
 			}
 		},
 		{
+			"hadithnumber": 352,
+			"arabicnumber": 352,
+			"text": "Telah mengabarkan kepada kami [Qutaibah] dia berkata; Telah menceritakan kepada kami [Al-Laits] dari [Yazid bin Abu Habib] dari [Ja'far bin Rabi'ah] dari ['Irak bin Malik] dari ['Urwah] dari [Aisyah] bahwa Ummu Habibah bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang darah? Aisyah Radliyallahu'anha lalu berkata, \"Aku melihat tempatnya mencuci pakaian penuh darah. Lantas Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: \"Tetapkanlah olehmu sesuai ukuran kebiasaan haidlmu, kemudian mandilah",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 3,
+				"hadith": 5
+			}
+		},
+		{
 			"hadithnumber": 353,
 			"arabicnumber": 353,
-			"text": "",
+			"text": "Juga telah mengabarkan kepada kami Qutaibah dengan hadits yang serupa, tetapi tidak menyebutkan Ja'far bin Rabi'ah",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -814,12 +833,22 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
 				"book": 3,
 				"hadith": 36
+			}
+		},
+		{
+			"hadithnumber": 384.2,
+			"arabicnumber": 384.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 3,
+				"hadith": 37
 			}
 		},
 		{

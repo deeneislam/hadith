@@ -2,7 +2,7 @@
 	"metadata": {
 		"name": "Sunan an Nasai",
 		"section": {
-			"0": ""
+			"3": "The Book of Menstruation and Istihadah"
 		}
 	},
 	"hadiths": [
@@ -21,8 +21,8 @@
 				}
 			],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 3,
+				"hadith": 5
 			}
 		}
 	]

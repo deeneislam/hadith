@@ -2,7 +2,7 @@
 	"metadata": {
 		"name": "Sunan an Nasai",
 		"section": {
-			"0": ""
+			"6": "The Book of the Times (of Prayer)"
 		}
 	},
 	"hadiths": [
@@ -21,8 +21,8 @@
 				}
 			],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 6,
+				"hadith": 77
 			}
 		}
 	]

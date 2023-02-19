@@ -1559,9 +1559,32 @@
 			}
 		},
 		{
+			"hadithnumber": 4938,
+			"arabicnumber": 4938,
+			"text": "Uthman bin Abi Al-Walid said:\"I heard 'Urwah bin Az-Zubair say: \"Aishah used to narrate that he Prophet of Allah said: The hand (of the thief) should not be cut off except for a shield or its equivalent in value. And he said that 'Urwah said: A shield is (worth) four Dirhams",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 46,
+				"hadith": 69
+			}
+		},
+		{
 			"hadithnumber": 4939,
 			"arabicnumber": 4939,
-			"text": "",
+			"text": "And he (the narrator) said: I heard sulaiman bin Yasar say that he heard 'Amrah say: I heard 'Aishah narrate that she heard the Messenger of Allah say: The hand (of the thief) should not be cut off except for four Dinars or more",
 			"grades": [
 				{
 					"name": "Abu Ghuddah",

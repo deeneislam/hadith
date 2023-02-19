@@ -9,7 +9,7 @@
 		{
 			"hadithnumber": 3722,
 			"arabicnumber": 3722,
-			"text": "زید بن ثابت رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فیصلہ کیا کہ عمریٰ وارث کا حق ہے۔",
+			"text": "زید بن ثابت رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے عمریٰ کا فیصلہ وارث کے حق میں کیا۔",
 			"grades": [
 				{
 					"name": "Abu Ghuddah",
@@ -21,16 +21,27 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
 				"book": 34,
 				"hadith": 3
+			}
+		},
+		{
+			"hadithnumber": 3722.2,
+			"arabicnumber": 3722.2,
+			"text": "زید بن ثابت رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فیصلہ کیا کہ عمریٰ وارث کا حق ہے۔",
+			"grades": [
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 34,
+				"hadith": 4
 			}
 		}
 	]

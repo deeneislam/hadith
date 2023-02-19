@@ -99,9 +99,28 @@
 			}
 		},
 		{
+			"hadithnumber": 352,
+			"arabicnumber": 352,
+			"text": "اخبرنا قتيبة، قال حدثنا الليث، عن يزيد بن ابي حبيب، عن جعفر بن ربيعة، عن عراك بن مالك، عن عروة، عن عايشة، قالت ان ام حبيبة سالت رسول الله صلى الله عليه وسلم عن الدم - فقالت عايشة رايت مركنها ملان دما - فقال لها رسول الله صلى الله عليه وسلم ‏ \"‏ امكثي قدر ما كانت تحبسك حيضتك ثم اغتسلي ‏\"‏ ‏.‏",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 3,
+				"hadith": 5
+			}
+		},
+		{
 			"hadithnumber": 353,
 			"arabicnumber": 353,
-			"text": "",
+			"text": "واخبرنا به قتيبة مرة اخرى ولم يذكر فيه جعفر بن ربيعة",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -814,12 +833,22 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
 				"book": 3,
 				"hadith": 36
+			}
+		},
+		{
+			"hadithnumber": 384.2,
+			"arabicnumber": 384.2,
+			"text": "قال اسحاق انبانا ابو معاوية، عن الاعمش، بهذا الاسناد مثله",
+			"grades": [],
+			"reference": {
+				"book": 3,
+				"hadith": 37
 			}
 		},
 		{

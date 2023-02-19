@@ -7,63 +7,6 @@
 	},
 	"hadiths": [
 		{
-			"hadithnumber": 352,
-			"arabicnumber": 352,
-			"text": "Âişe (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: Ümmü Habibe, Rasûlüllah (sallallahü aleyhi ve sellem)’e hayız kanıyla ilgili bir soru sormuştu. Âişe diyor ki: Ümmü Habibe’nin yıkandığı leğen kanla dolmuştu. Rasûlüllah (sallallahü aleyhi ve sellem) ona: müddetin ne kadarsa bekle sonra guslet) buyurdular. (İbn Mâce, Tahara: 116; Ebû Dâvûd, Tahara: 108)",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 0,
-				"hadith": 0
-			}
-		},
-		{
-			"hadithnumber": 512,
-			"arabicnumber": 512,
-			"text": "",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 0,
-				"hadith": 0
-			}
-		},
-		{
-			"hadithnumber": 570,
-			"arabicnumber": 570,
-			"text": "",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				}
-			],
-			"reference": {
-				"book": 0,
-				"hadith": 0
-			}
-		},
-		{
 			"hadithnumber": 3857,
 			"arabicnumber": 3857,
 			"text": "",
@@ -1602,29 +1545,6 @@
 				{
 					"name": "Al-Albani",
 					"grade": "Sahih Isnaad Maqtu"
-				}
-			],
-			"reference": {
-				"book": 0,
-				"hadith": 0
-			}
-		},
-		{
-			"hadithnumber": 4938,
-			"arabicnumber": 4938,
-			"text": "",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
 				}
 			],
 			"reference": {

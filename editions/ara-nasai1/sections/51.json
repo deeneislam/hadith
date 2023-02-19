@@ -573,16 +573,35 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
 				"book": 51,
 				"hadith": 25
+			}
+		},
+		{
+			"hadithnumber": 5564.2,
+			"arabicnumber": 5564.2,
+			"text": "اخبرنا سويد، قال انبانا عبد الله، عن سعيد بن ابي عروبة، قال قتادة كان انس يامر بالتذنوب فيقرض",
+			"grades": [
+				{
+					"name": "Abu Ghuddah",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 51,
+				"hadith": 26
 			}
 		},
 		{

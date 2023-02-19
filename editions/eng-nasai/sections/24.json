@@ -4659,16 +4659,27 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Isnaad"
 				}
 			],
 			"reference": {
 				"book": 24,
 				"hadith": 203
+			}
+		},
+		{
+			"hadithnumber": 2821.2,
+			"arabicnumber": 2821.2,
+			"text": "It was narrated that Ibn 'Abbas said:\"Zaid bin Arqam came and Ibn Abbas said to him, reminding him: \"What did you tell me about the game meat that was given to the Messenger of Allah when he was in Ihram?\" He said: \"Yes, a man gave him a piece of game meat but he returned it and said: 'We cannot eat it, we are in Ihram",
+			"grades": [
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 24,
+				"hadith": 204
 			}
 		},
 		{

@@ -21,16 +21,27 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
 				"book": 34,
 				"hadith": 3
+			}
+		},
+		{
+			"hadithnumber": 3722.2,
+			"arabicnumber": 3722.2,
+			"text": "",
+			"grades": [
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 34,
+				"hadith": 4
 			}
 		}
 	]
