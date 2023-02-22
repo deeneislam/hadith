@@ -153,6 +153,26 @@
 			}
 		},
 		{
+			"hadithnumber": 2741.2,
+			"arabicnumber": 2741.2,
+			"text": "(Another chain) with similar narration. He [At-Tirmidhi] said:This is how Shu'bah reported this Hadith from IbnAbi Laila, and he said: \"From Abu Ayyub from the Prophet (ﷺ).\" Ibn Abi Laila was confused in this narration, sometimes he would say: \"From Abu Ayyub from the Prophet (ﷺ)\" and sometimes he would say: \"From 'Ali from the Prophet (ﷺ)\" similarly in meaning",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 7
+			}
+		},
+		{
+			"hadithnumber": 2741.3,
+			"arabicnumber": 2741.3,
+			"text": "(Another chain) from 'Ali from the Prophet (ﷺ) with similar meaning",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 8
+			}
+		},
+		{
 			"hadithnumber": 2742,
 			"arabicnumber": 2742,
 			"text": "Narrated Anas bin Malik:that two men sneezed in the presence of the Prophet (ﷺ); he responded to one of them and did not respond to the other. The one who was not responded to said: \"O Messenger of Allah! You responded to this person and did not respond to me?' So the Messenger of Allah (ﷺ) said: \"He praised Allah while you did not praise Him",
@@ -200,6 +220,36 @@
 			"reference": {
 				"book": 43,
 				"hadith": 10
+			}
+		},
+		{
+			"hadithnumber": 2743.2,
+			"arabicnumber": 2743.2,
+			"text": "(Another chain) from Iyas bin Salamah from his father, from the Prophet (ﷺ) with similar narration, except that he said to him the third time:\"You are suffering from a cold.\" [He said:] And this is more correct than the narration of Ibn Al-Mubarak",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 11
+			}
+		},
+		{
+			"hadithnumber": 2743.3,
+			"arabicnumber": 2743.3,
+			"text": "Shu'bah reported this Hadith from 'Ikrimah bin 'Ammar and it is similar to the narration of Yahya bin Sa'eed. (A chain to support that)",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 12
+			}
+		},
+		{
+			"hadithnumber": 2743.4,
+			"arabicnumber": 2743.4,
+			"text": "And 'Abdur-Rahman bin Mahdi reported it from 'Ikrimah bin 'Ammar and it is similar to the narration of Ibn Al-Mubarak, but he said to him the third time:\"You are suffering from a cold.\" (A chain to support that)",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 13
 			}
 		},
 		{
@@ -1126,6 +1176,16 @@
 			}
 		},
 		{
+			"hadithnumber": 2780.2,
+			"arabicnumber": 2780.2,
+			"text": "Another chain with a similar narration",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 51
+			}
+		},
+		{
 			"hadithnumber": 2781,
 			"arabicnumber": 2781,
 			"text": "Narrated Humaid bin 'Abdur-Rahman:that he heard Mu'awiyah giving a Khutbah in Al-Madinah, and saying: \"Where are your scholars, O people of Al-Madinah? [Indeed] I heard the Messenger of Allah (ﷺ) forbidding from these locks (of hair), and saying: 'The Children of Isra'il were only ruined when their women used them",
@@ -1200,6 +1260,16 @@
 			"reference": {
 				"book": 43,
 				"hadith": 54
+			}
+		},
+		{
+			"hadithnumber": 2783.2,
+			"arabicnumber": 2783.2,
+			"text": "(Another chain) with a similar narration",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 55
 			}
 		},
 		{
@@ -1300,6 +1370,16 @@
 			"reference": {
 				"book": 43,
 				"hadith": 59
+			}
+		},
+		{
+			"hadithnumber": 2787.2,
+			"arabicnumber": 2787.2,
+			"text": "Another chain of narration similar in meaning",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 60
 			}
 		},
 		{
@@ -1876,6 +1956,16 @@
 			}
 		},
 		{
+			"hadithnumber": 2811.2,
+			"arabicnumber": 2811.2,
+			"text": "Shu'bah and Ath-Thawri reported it from Abu Ishaq from Al-Bara bin 'Azib who said:\"I saw a red Hullah on the Messenger of Allah.\" (Another chain of narration)",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 85
+			}
+		},
+		{
 			"hadithnumber": 2812,
 			"arabicnumber": 2812,
 			"text": "Narrated Abu Rimthah:\"I saw the Messenger of Allah wearing two green Burud",
@@ -1942,6 +2032,39 @@
 			"reference": {
 				"book": 43,
 				"hadith": 88
+			}
+		},
+		{
+			"hadithnumber": 2815,
+			"arabicnumber": 2815,
+			"text": "Narrated Anas bin Malik:that the Messenger of Allah (ﷺ) prohibited saffron for men",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Bashar Awad Maarouf",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari And Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 89
+			}
+		},
+		{
+			"hadithnumber": 2815.2,
+			"arabicnumber": 2815.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 89
 			}
 		},
 		{
@@ -2142,6 +2265,63 @@
 			"reference": {
 				"book": 43,
 				"hadith": 97
+			}
+		},
+		{
+			"hadithnumber": 2824,
+			"arabicnumber": 2824,
+			"text": "Narrated Salim and Hamzah, the sons of 'Abdullah bin 'Umar:from their father that the Messenger of Allah (ﷺ) said: \"An omen is in three: A woman, a dwelling, and a (riding) beast",
+			"grades": [
+				{
+					"name": "Ahmad Muhammad Shakir",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Bashar Awad Maarouf",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 98
+			}
+		},
+		{
+			"hadithnumber": 2824.2,
+			"arabicnumber": 2824.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 98
+			}
+		},
+		{
+			"hadithnumber": 2824.3,
+			"arabicnumber": 2824.3,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 98
+			}
+		},
+		{
+			"hadithnumber": 2824.4,
+			"arabicnumber": 2824.4,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 98
 			}
 		},
 		{
@@ -2675,6 +2855,16 @@
 			}
 		},
 		{
+			"hadithnumber": 2846.2,
+			"arabicnumber": 2846.2,
+			"text": "(Another chain) from 'Aishah with the same narration",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 121
+			}
+		},
+		{
 			"hadithnumber": 2847,
 			"arabicnumber": 2847,
 			"text": "Narrated Anas:that the Prophet (ﷺ) entered Makkah during 'Umratil-Qada and 'Abdullah bin Rawahah was walking in front of him reciting verses of poetry. \"O tribes of disbelievers get out of his way - today we will strike you about its revelation; a strike that removes the heads from the shoulders - and makes the friend not concerned about his friend.\" 'Umar said to him: \"O Ibn Rawahah! Before the Messenger of Allah (ﷺ), and in the sanctuary of Allah you utter poetry?\" the Messenger of Allah (ﷺ) said: \"Leave him O 'Umar! For it is quicker upon them than the raining arrow",
@@ -2910,6 +3100,29 @@
 			}
 		},
 		{
+			"hadithnumber": 2855.2,
+			"arabicnumber": 2855.2,
+			"text": "(Another chain) with similar meaning",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Bashar Awad Maarouf",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 131
+			}
+		},
+		{
 			"hadithnumber": 2856,
 			"arabicnumber": 2856,
 			"text": "Narrated Abu Salih:\"I asked 'Aishah and Umm Salamah about which deed did the Messenger of Allah (ﷺ) like to do most. They said: 'Whatever he could do regularly, even if it was little",
@@ -2926,6 +3139,25 @@
 			"reference": {
 				"book": 43,
 				"hadith": 132
+			}
+		},
+		{
+			"hadithnumber": 2856.2,
+			"arabicnumber": 2856.2,
+			"text": "It has been reported from Hisham bin 'Urwah from his father, that 'Aishah said:\"The most loved deed to the Messenger of Allah (ﷺ) was what he could do regularly.\" (Another chain) with similar meaning",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 133
 			}
 		},
 		{
@@ -2980,33 +3212,6 @@
 			"reference": {
 				"book": 43,
 				"hadith": 135
-			}
-		},
-		{
-			"hadithnumber": 3093,
-			"arabicnumber": 3093,
-			"text": "Narrated Abu Sa'eed:that the Messenger of Allah (ﷺ) said: \"When you see a man frequenting the Masjid, then testify to his faith. Indeed Allah, Most High, said: The Masjid shall be maintained by those who believe in Allah and the Last day (9:18).\" (Another chain) from Abu Sa'eed from the Prophet (ﷺ) with similar wording except that he said: \"Yata'ahadul Masjid",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Daif"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Bashar Awad Maarouf",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 43,
-				"hadith": 131
 			}
 		}
 	]

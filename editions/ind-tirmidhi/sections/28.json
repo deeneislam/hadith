@@ -1292,6 +1292,21 @@
 				"book": 28,
 				"hadith": 53
 			}
+		},
+		{
+			"hadithnumber": 2089,
+			"arabicnumber": 2089,
+			"text": "",
+			"grades": [
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 28,
+				"hadith": 54
+			}
 		}
 	]
 }

@@ -2,7 +2,7 @@
 	"metadata": {
 		"name": "Jami At Tirmidhi",
 		"section": {
-			"0": ""
+			"39": "The Book on the Description of Hellfire"
 		}
 	},
 	"hadiths": [
@@ -25,8 +25,8 @@
 				}
 			],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 39,
+				"hadith": 19
 			}
 		}
 	]

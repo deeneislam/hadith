@@ -32,6 +32,16 @@
 				"book": 44,
 				"hadith": 10
 			}
+		},
+		{
+			"hadithnumber": 2868.2,
+			"arabicnumber": 2868.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 44,
+				"hadith": 11
+			}
 		}
 	]
 }

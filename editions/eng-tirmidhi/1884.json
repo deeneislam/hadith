@@ -28,6 +28,16 @@
 				"book": 26,
 				"hadith": 24
 			}
+		},
+		{
+			"hadithnumber": 1884.2,
+			"arabicnumber": 1884.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 26,
+				"hadith": 25
+			}
 		}
 	]
 }

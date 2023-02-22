@@ -2,7 +2,7 @@
 	"metadata": {
 		"name": "Jami At Tirmidhi",
 		"section": {
-			"0": ""
+			"47": "Chapters on Tafsir"
 		}
 	},
 	"hadiths": [
@@ -29,8 +29,18 @@
 				}
 			],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 47,
+				"hadith": 63
+			}
+		},
+		{
+			"hadithnumber": 3011.2,
+			"arabicnumber": 3011.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 47,
+				"hadith": 63
 			}
 		}
 	]

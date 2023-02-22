@@ -2,7 +2,7 @@
 	"metadata": {
 		"name": "Jami At Tirmidhi",
 		"section": {
-			"0": ""
+			"37": "Chapters on the description of the Day of Judgement, Ar-Riqaq, and Al-Wara'"
 		}
 	},
 	"hadiths": [
@@ -25,8 +25,8 @@
 				}
 			],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 37,
+				"hadith": 107
 			}
 		}
 	]

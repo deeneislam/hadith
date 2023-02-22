@@ -153,6 +153,26 @@
 			}
 		},
 		{
+			"hadithnumber": 2741.2,
+			"arabicnumber": 2741.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 7
+			}
+		},
+		{
+			"hadithnumber": 2741.3,
+			"arabicnumber": 2741.3,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 8
+			}
+		},
+		{
 			"hadithnumber": 2742,
 			"arabicnumber": 2742,
 			"text": "Telah menceritakan kepada kami [Ibnu Abu Umar] telah menceritakan kepada kami [Sufyan] dari [Sulaiman At Taimi] dari [Anas bin Malik], bahwa dua orang bersin di dekat nabi shallallahu 'alaihi wasallam, salah satunya didoakan oleh Rasulullah shallallahu 'alaihi wasallam, tapi yang lain tidak, lalu yang tidak didoakan berkata; \"Wahai Rasulullah, mengapa anda mendoakannya, dan tidak mendoakanku?.\" Rasulullah shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya ia memuji Allah sementara kamu tidak.\" Abu Isa berkata; Hadits ini hasan shahih. Hadits ini juga diriwayatkan dari Abu Hurairah dari nabi shallallahu 'alaihi wasallam",
@@ -200,6 +220,36 @@
 			"reference": {
 				"book": 43,
 				"hadith": 10
+			}
+		},
+		{
+			"hadithnumber": 2743.2,
+			"arabicnumber": 2743.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 11
+			}
+		},
+		{
+			"hadithnumber": 2743.3,
+			"arabicnumber": 2743.3,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 12
+			}
+		},
+		{
+			"hadithnumber": 2743.4,
+			"arabicnumber": 2743.4,
+			"text": "Telah menceritakan kepada kami [Suwaid bin Nashr] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Ikrimah bin 'Ammar] dari [Iyas bin Salamah] dari [Ayahnya] ia berkata; \"Seseorang bersin di dekat Rasulullah shallallahu 'alaihi wasallam dan saya menyaksikan hal itu, maka Rasulullah shallallahu 'alaihi wasallam bersabda: \"Semoga Allah merahmatimu.\" Lalu ia bersin kedua kali, maka Rasulullah shallallahu 'alaihi wasallam bersabda: \"Orang ini baru terserang pilek.\" Abu Isa berkata; Hadits ini hasan shahih. Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Yahya bin Sa'id] telah menceritakan kepada kami [Ikrimah bin 'Ammar] dari [Iyas bin Salamah] dari [Ayahnya] dari Nabi shallallahu 'alaihi wasallam sepertinya hadits di atas, hanya saja ia menyebutkan (dengan redaksi), beliau bersabda padanya di kali yang ketiga: \"Engkau baru terserang pilek.\" Ini lebih shahih dari hadits Ibnu Al Mubarak. [Syu'bah] telah meriwayatkan hadits ini dari [Ikrimah bin 'Ammar] seperti riwayat Yahya bin Sa'id. Telah menceritakan kepada kami [Ahmad bin Al Hakam Al Bashri] seperti itu, telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Ikrimah bin 'Ammar] seperti ini. [Abdurrahman bin Mahdi] juga telah meriwayatkan dari [Ikrimah bin 'Ammar] seperti riwayat Ibnu Al Mubarak, Beliau bersabda kepadanya pada kali ketiga: \"Engkau terserang pilek.\" Telah menceritakan kepada kami [Ishaq bin Manshur] seperti itu, telah menceritakan kepada kami [Abdurrahman bin Mahdi]",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 13
 			}
 		},
 		{
@@ -1126,6 +1176,16 @@
 			}
 		},
 		{
+			"hadithnumber": 2780.2,
+			"arabicnumber": 2780.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 51
+			}
+		},
+		{
 			"hadithnumber": 2781,
 			"arabicnumber": 2781,
 			"text": "Telah menceritakan kepada kami [Suwaid] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Yunus] dari [Az Zuhri] telah mengabarkan kepada kami [Humaid bin Abdurrahman] ia mendengar [Mu'awiyah] berkhutbah di Madinah, ia berkata; \"Manakah para ulama kalian, wahai penduduk Madinah? Sesungguhnya aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam melarang menyambung rambut, beliau bersabda: \"Sesungguhnya Bani Isra`il binasa karena wanita-wanita mereka melakukan hal itu.\" Abu Isa berkata; Hadits ini hasan sahih dan hadits ini diriwayatkan melalui beberapa sanad dari Mu'awiyah",
@@ -1200,6 +1260,16 @@
 			"reference": {
 				"book": 43,
 				"hadith": 54
+			}
+		},
+		{
+			"hadithnumber": 2783.2,
+			"arabicnumber": 2783.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 55
 			}
 		},
 		{
@@ -1300,6 +1370,16 @@
 			"reference": {
 				"book": 43,
 				"hadith": 59
+			}
+		},
+		{
+			"hadithnumber": 2787.2,
+			"arabicnumber": 2787.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 60
 			}
 		},
 		{
@@ -1876,6 +1956,16 @@
 			}
 		},
 		{
+			"hadithnumber": 2811.2,
+			"arabicnumber": 2811.2,
+			"text": "Telah menceritakan kepada kami [Syu'bah] dan [Ats Tsauri] dari [Abu Ishaq] dari [Al Bara` bin Azib] ia berkata; Aku melihat Rasulullah shallallahu 'alaihi wasallam mengenakan busana merah.\" Telah menceritakan kepada kami [Mahmud bin Ghailan] seperti itu, telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Sufyan] dari [Abu Ishaq] dan telah menceritakan kepada kami [Muhammad bin Basyr] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dengan hadits serupa. Dalam hadits tersebut, terdapat pembicaraan yang lebih banyak dari hadits ini. Perawi berkata; Aku bertanya kepada Muhammad, Aku berkata padanya: \"Apakah hadits Abu Ishaq dari Al Barra` lebih shahih atau hadits Jabir bin Samurah?.\" Muhammad menilai kedua hadits itu shahih. Dalam hal ini, ada hadits serupa dari Al Barra` dan Abu Juhaifah",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 85
+			}
+		},
+		{
 			"hadithnumber": 2812,
 			"arabicnumber": 2812,
 			"text": "Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Abdurrahman bin Mahdi] telah menceritakan kepada kami ['Ubaidullah bin Iyad bin Laqith] dari [Ayahnya] dari [Abu Rimtsah] ia berkata; \"Aku pernah melihat Rasulullah shallallahu 'alaihi wasallam mengenakan dua selimut berwarna hijau.\" Abu Isa berkata; Hadits ini hasan gharib, kami hanya mengetahuinya dari hadits 'Ubaidullah bin Iyad dan Abu Rimtsah At Taimi. Ada yang mengatakan bahwa namanya adalah Habib bin Hayyan, yang lain mengatakan namanya Rifa'ah bin Yatsribi",
@@ -1942,6 +2032,39 @@
 			"reference": {
 				"book": 43,
 				"hadith": 88
+			}
+		},
+		{
+			"hadithnumber": 2815,
+			"arabicnumber": 2815,
+			"text": "Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Hammad bin Zaid] ia berkata, -dan diriwayatkan dari jalur lain- telah menceritakan kepada kami [Ishaq bin Manshur] telah menceritakan kepada kami [Abdurrahman bin Mahdi] dari [Hammad bin Zaid] dari [Abdul Aziz bin Shuhaib] dari [Anas bin Malik] ia berkata; \"Rasulullah shallallahu 'alaihi wasallam melarang seorang laki-laki mengenakan za'faran.\" Abu Isa berkata; Hadits ini hasan shahih. [Syu'bah] meriwayatkan hadits ini dari [Isma'il bin 'Ulaiyah] dari [Abdul Aziz bin Shuhaib] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam melarang mengenakan za'faran. Telah menceritakan kepada kami [Abdullah bin Abdurrahman] seperti itu, telah menceritakan kepada kami [Adam] dari [Syu'bah]. Abu Isa berkata; \"Makna makruhnya mengenakan za'faran bagi lelaki adalah bila dipakai untuk wewangian",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Bashar Awad Maarouf",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari And Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 89
+			}
+		},
+		{
+			"hadithnumber": 2815.2,
+			"arabicnumber": 2815.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 89
 			}
 		},
 		{
@@ -2142,6 +2265,63 @@
 			"reference": {
 				"book": 43,
 				"hadith": 97
+			}
+		},
+		{
+			"hadithnumber": 2824,
+			"arabicnumber": 2824,
+			"text": "",
+			"grades": [
+				{
+					"name": "Ahmad Muhammad Shakir",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Bashar Awad Maarouf",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 98
+			}
+		},
+		{
+			"hadithnumber": 2824.2,
+			"arabicnumber": 2824.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 98
+			}
+		},
+		{
+			"hadithnumber": 2824.3,
+			"arabicnumber": 2824.3,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 98
+			}
+		},
+		{
+			"hadithnumber": 2824.4,
+			"arabicnumber": 2824.4,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 98
 			}
 		},
 		{
@@ -2675,6 +2855,16 @@
 			}
 		},
 		{
+			"hadithnumber": 2846.2,
+			"arabicnumber": 2846.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 121
+			}
+		},
+		{
 			"hadithnumber": 2847,
 			"arabicnumber": 2847,
 			"text": "Telah menceritakan kepada kami [Ishaq bin Manshur] telah mengabarkan kepada kami [Abdurrazzaq] telah mengabarkan kepada kami [Ja'far bin Sulaiman] telah menceritakan kepada kami [Tsabit] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam memasuki Makkah pada saat Umratul Qadla`, sedangkan Abdullah bin Rawahah berjalan di depan beliau sambil bersyair; \"Biarkanlah orang-orang kafir pergi saat ini, kami akan menebas kalian atas kedatangan beliau, dengan tebusan yang melenyapkan kepala dari tempatnya dan yang membingungkan seorang kekasih dari kekasihnya.\" Umar berkata kepadanya; \"Wahai Ibnu Rawahah, berada di hadapan Rasulullah shallallahu 'alaihi wasallam dan di tanah haramillah (tempat yang Allah sucikan) ini kamu berani membaca sya'ir?\" Nabi shallallahu 'alaihi wasallam bersabda kepadanya: \"Biarkan dia wahai Umar, syair itu lebih cepat mengenai mereka (orang-orang Kafir Quraisy) melebihi lemparan tombak.\" Abu Isa berkata; Hadits ini hasan shahih gharib dari jalur ini. Dan [Abdurrazzaq] telah meriwayatkan hadits ini dari [Ma'mar] dari [Az Zuhri] dari [Anas] dengan matan yang semakna. Riwayat lain menyebutkan bahwa Nabi shallallahu 'alaihi wasallam masuk Makkah pada saat Umratul Qadla`, sementara Ka'ab bin Malik berada di hadapan beliau.\" Dan hadits ini lebih shahih menurut sebagian ahli hadits, karena Abdullah bin Rawahah terbunuh pada saat perang Mu'tah, sedangkan Umratul Qadla` terjadi setelah peristiwa itu",
@@ -2910,6 +3100,29 @@
 			}
 		},
 		{
+			"hadithnumber": 2855.2,
+			"arabicnumber": 2855.2,
+			"text": "",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Bashar Awad Maarouf",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 131
+			}
+		},
+		{
 			"hadithnumber": 2856,
 			"arabicnumber": 2856,
 			"text": "",
@@ -2926,6 +3139,25 @@
 			"reference": {
 				"book": 43,
 				"hadith": 132
+			}
+		},
+		{
+			"hadithnumber": 2856.2,
+			"arabicnumber": 2856.2,
+			"text": "Telah menceritakan kepada kami [Abu Hisyam Ar Rifa'I] telah menceritakan kepada kami [Ibnu Fudlail] dari [Al A'masy] dari [Abu Shalih] ia berkata; ['Aisyah] dan [Ummu Salamah] pernah ditanya tentang amalan apakah yang paling disukai Rasulullah shallallahu 'alaihi wasallam?\" keduanya menjawab; \"Amalan yang dilakkukan secara terus menerus sekalipun sedikit.\" Abu Isa berkata; Dari jalur ini, hadits ini hasan gharib. Dan telah diriwayatkan dari [Hisyam bin 'Urwah] dari [Ayahnya] dari ['Aisyah] bahwa dia berkata; \"Amalan yang paling disukai oleh Rasulullah shallallahu 'alaihi wasallam adalah yang dikerjakan secara terus menerus.\" [Harun bin Ishaq Al Hamdani] telah menceritakan yang demikian kepada kami, telah menceritakan kepada kami ['Abdah] dari [Hisyam bin 'Urwah] dari [Ayahnya] dari ['Aisyah] dari Nabi shallallahu 'alaihi wasallam dengan matan hadits yang semakna dengannya, hadits ini hasan shahih",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 133
 			}
 		},
 		{
@@ -2980,33 +3212,6 @@
 			"reference": {
 				"book": 43,
 				"hadith": 135
-			}
-		},
-		{
-			"hadithnumber": 3093,
-			"arabicnumber": 3093,
-			"text": "",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Daif"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Bashar Awad Maarouf",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 43,
-				"hadith": 131
 			}
 		}
 	]

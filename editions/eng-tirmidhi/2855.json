@@ -30,13 +30,26 @@
 			}
 		},
 		{
-			"hadithnumber": 2855.5,
-			"arabicnumber": 2855.5,
+			"hadithnumber": 2855.2,
+			"arabicnumber": 2855.2,
 			"text": "(Another chain) with similar meaning",
-			"grades": [],
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Bashar Awad Maarouf",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 43,
+				"hadith": 131
 			}
 		}
 	]

@@ -57,6 +57,16 @@
 			}
 		},
 		{
+			"hadithnumber": 1424.2,
+			"arabicnumber": 1424.2,
+			"text": "(Another chain) which is similar to the narration of Muhammad bin Rabi'ah (a narrator in no.1424) but he did not narrate it in Marfu' form",
+			"grades": [],
+			"reference": {
+				"book": 17,
+				"hadith": 3
+			}
+		},
+		{
 			"hadithnumber": 1425,
 			"arabicnumber": 1425,
 			"text": "Narrated Abu Hurairah: That the Messenger of Allah (ﷺ) said: \"Whoever relieves a Muslim of a burden from the burdens of the world, Allah will relieve him of a burden from the burdens of the Hereafter. And whoever covers (the faults of) a Muslim, Allah will cover (his faults) for him in the world and the Hereafter. And Allah is engaged in helping the worshipper as long as the worshipper is engaged in helping his brother",
@@ -77,6 +87,16 @@
 			"reference": {
 				"book": 17,
 				"hadith": 4
+			}
+		},
+		{
+			"hadithnumber": 1425.2,
+			"arabicnumber": 1425.2,
+			"text": "Asbat bin Muhammad reported it from Al-A'mash who said: \"It has been narrated to me from Abu Salih, from Abu Hurairah, from the Prophet (ﷺ),\" and it is similar. [It is as if this is more correct than the first narration.] (Another chain) for this Hadith",
+			"grades": [],
+			"reference": {
+				"book": 17,
+				"hadith": 5
 			}
 		},
 		{
@@ -281,6 +301,26 @@
 			"reference": {
 				"book": 17,
 				"hadith": 13
+			}
+		},
+		{
+			"hadithnumber": 1433.2,
+			"arabicnumber": 1433.2,
+			"text": "(Another chain) with similar",
+			"grades": [],
+			"reference": {
+				"book": 17,
+				"hadith": 14
+			}
+		},
+		{
+			"hadithnumber": 1433.3,
+			"arabicnumber": 1433.3,
+			"text": "(Another chain) with similar",
+			"grades": [],
+			"reference": {
+				"book": 17,
+				"hadith": 15
 			}
 		},
 		{

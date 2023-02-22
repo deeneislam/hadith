@@ -32,6 +32,36 @@
 				"book": 43,
 				"hadith": 10
 			}
+		},
+		{
+			"hadithnumber": 2743.2,
+			"arabicnumber": 2743.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 11
+			}
+		},
+		{
+			"hadithnumber": 2743.3,
+			"arabicnumber": 2743.3,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 12
+			}
+		},
+		{
+			"hadithnumber": 2743.4,
+			"arabicnumber": 2743.4,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 13
+			}
 		}
 	]
 }

@@ -29,10 +29,19 @@
 			"hadithnumber": 2856.2,
 			"arabicnumber": 2856.2,
 			"text": "It has been reported from Hisham bin 'Urwah from his father, that 'Aishah said:\"The most loved deed to the Messenger of Allah (ﷺ) was what he could do regularly.\" (Another chain) with similar meaning",
-			"grades": [],
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 43,
+				"hadith": 133
 			}
 		}
 	]

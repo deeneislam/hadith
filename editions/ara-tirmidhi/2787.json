@@ -24,6 +24,16 @@
 				"book": 43,
 				"hadith": 59
 			}
+		},
+		{
+			"hadithnumber": 2787.2,
+			"arabicnumber": 2787.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 60
+			}
 		}
 	]
 }

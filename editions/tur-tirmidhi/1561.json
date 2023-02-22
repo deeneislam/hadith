@@ -28,6 +28,16 @@
 				"book": 21,
 				"hadith": 18
 			}
+		},
+		{
+			"hadithnumber": 1561.2,
+			"arabicnumber": 1561.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 21,
+				"hadith": 19
+			}
 		}
 	]
 }

@@ -72,6 +72,33 @@
 			}
 		},
 		{
+			"hadithnumber": 455,
+			"arabicnumber": 455,
+			"text": "",
+			"grades": [
+				{
+					"name": "Ahmad Muhammad Shakir",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Bashar Awad Maarouf",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 3,
+				"hadith": 4
+			}
+		},
+		{
 			"hadithnumber": 456,
 			"arabicnumber": 456,
 			"text": "Masruq narrated that :he asked Aishah about the Witr of the Prophet. She said: \"He would perform Witr during all of the night; (either) its beginning, its middle, or its end. So when he died, his Witr ended, during the approachof As-Sahar",

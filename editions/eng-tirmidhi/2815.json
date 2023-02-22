@@ -2,7 +2,7 @@
 	"metadata": {
 		"name": "Jami At Tirmidhi",
 		"section": {
-			"0": ""
+			"43": "Chapters on Manners"
 		}
 	},
 	"hadiths": [
@@ -25,8 +25,18 @@
 				}
 			],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 43,
+				"hadith": 89
+			}
+		},
+		{
+			"hadithnumber": 2815.2,
+			"arabicnumber": 2815.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 89
 			}
 		}
 	]

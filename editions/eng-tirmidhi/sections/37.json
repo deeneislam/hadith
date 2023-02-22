@@ -2681,6 +2681,29 @@
 			}
 		},
 		{
+			"hadithnumber": 2521,
+			"arabicnumber": 2521,
+			"text": "Sahl bin Mu'adh[bin Anas] Al-Juhni narrated from his father that the Prophet (s.a.w) said:\"Whoever gives for the sake of Allah, withholds for the sake of Allah, loves for the sake of Allah, hates for the sake of Allah, and marries for the sake of Allah, he has indeed perfected his faith",
+			"grades": [
+				{
+					"name": "Ahmad Muhammad Shakir",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 107
+			}
+		},
+		{
 			"hadithnumber": 2522,
 			"arabicnumber": 2522,
 			"text": "Abu Sa'eed Al-Khudri narrated that the Prophet (s.a.w) said:\"The first batch to enter Paradise will appear like the moon of a night that is full. The second will appear like the color of the most beautiful star in the sky. Each man among them shall have two wives, each wife wearing seventy bracelets, with the marrow of their shins being visible from behind them",

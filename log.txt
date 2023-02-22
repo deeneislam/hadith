@@ -1903,3 +1903,81 @@ Generating Edition
  Generated edition urd-tirmidhi
 
 editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.7.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ara-tirmidhi.txt
+
+ deletion completed for ara-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-tirmidhi
+
+Starting to create files for ara-tirmidhi1.txt
+
+ deletion completed for ara-tirmidhi1
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ara-tirmidhi1
+
+Starting to create files for ben-tirmidhi.txt
+
+ deletion completed for ben-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-tirmidhi
+
+Starting to create files for eng-tirmidhi.txt
+
+ deletion completed for eng-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition eng-tirmidhi
+
+Starting to create files for ind-tirmidhi.txt
+
+ deletion completed for ind-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ind-tirmidhi
+
+Starting to create files for tur-tirmidhi.txt
+
+ deletion completed for tur-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition tur-tirmidhi
+
+Starting to create files for urd-tirmidhi.txt
+
+ deletion completed for urd-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition urd-tirmidhi
+
+editions.json and editions.min.json generated

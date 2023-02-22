@@ -2,7 +2,7 @@
 	"metadata": {
 		"name": "Jami At Tirmidhi",
 		"section": {
-			"0": ""
+			"38": "Chapters on the description of Paradise"
 		}
 	},
 	"hadiths": [
@@ -29,8 +29,8 @@
 				}
 			],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 38,
+				"hadith": 13
 			}
 		}
 	]

@@ -99,6 +99,16 @@
 			}
 		},
 		{
+			"hadithnumber": 2953.2,
+			"arabicnumber": 2953.2,
+			"text": "(Another chain) from 'Adi bin Hatim who said:\"I went to the Prophet (ﷺ) while he was sitting in the Masjid, the people said: 'This is 'Adi bin Hatim.' And I came without having a treaty nor a writ. When I was brought to him, he took my hand. Prior to that he had said: 'I hope that Allah will place his hand in my hand.'\" He said: \"He stood with me, and a woman and a boy met him and said: 'We have a need from you.' He stood with them, until he was finished dealing with what they wanted. Then he took me by the hand until he brought me to his house. A slave girl brought him a cushion to sit on, and I sat in front of him. He expressed thanks and praise for Allah then said: 'What has caused you to flee from saying La Ilaha Illallah? Do you know of another god other than Him?'\" He said: \"I said: 'No.'\" He said: \"Then he talked for some time, and then said: 'You refuse to say Allahu Akbar because you know that there is something greater than Allah?'\" He said: \"I said: 'No.' He said: 'Indeed the Jews are those who Allah is wrath with, and the Christians have strayed.'\" He said: \"I said: 'Indeed I am a Muslim, Hanif.'\" He said: \"I saw his face smiling with happiness.\" He said: \"Then he ordered that I stop with him at the home of a man from the Ansar, whom he would frequently visit in the mornings and the evenings. When I was with him at night, a people in woolen garments of these Nimar (a cloth with certain patters, and the word appeared before) came. Then he performed Salat and stood to encourage them (the people) to give (charity) to them. Then he said: 'Even with a Sa' or half a Sa', or a handful or part of a handful, to save the face of one of you from the heat of Hell, or the Fire. And even if it be by a date or a part of a date - for indeed one of you shall meet Allah and it shall be said to him what I say to you: \"Have I not given hearing and seeing to you?\" He shall say: \"Of course.\" It will be said: \"Have I not given you wealth and children?\" He shall say: \"Of course.\" It will be said: \"So where is what you have sent forth for yourself?\" He will look before him and behind him, on his right and on his left, but he shall not find anything to protect his face from the heat of Hell. Let one of you protect his face from the Fire, even if with part of a date, and if he does not find that, then with a good statement. For indeed I do not fear poverty for you - Allah will aid you and grant you, such that a woman can travel on her camel howda from Yathrib to Al-Hirah, or further, without fear of being robbed.' I began thinking to myself: \"Where would the thieves of Taiy' be then?",
+			"grades": [],
+			"reference": {
+				"book": 47,
+				"hadith": 5
+			}
+		},
+		{
 			"hadithnumber": 2954,
 			"arabicnumber": 2954,
 			"text": "Narrated 'Adiyy bin Hatim:that the Prophet (ﷺ) said: \"The Jews are those who Allah is wrath with, and the Christians have strayed",
@@ -1562,6 +1572,43 @@
 			}
 		},
 		{
+			"hadithnumber": 3011,
+			"arabicnumber": 3011,
+			"text": "Narrated Masruq:from 'Abdullah that he was asked about Allah's saying: Think not of those as dead who are killed in the way of Allah. Nay they are alive, with their Lord (3:169). So he said: \"As for us, we asked about that, and we were informed that their souls are in green birds wandering in Paradise wherever they wish, returning to lamps hanging from the Throne. Your Lord looks at them and says: 'Do you want anything more that We may grant you more?' They say: 'Our Lord! What more could we have when we are in Paradise wandering wherever we want' Then He looks at them a second time and says: \"Do you want anything more that We may grant you more?' When they realize that they will not be left alone with that, they say: 'Return our souls to our bodies, so that we may return to the world to be killed in Your cause another time.'\" AbU 'Ubaidah narrated similar from Ibn Mas'ud but he added: \"Convey our Salam to our Prophet (ﷺ) and inform him that we are pleased, and You are pleased with us.\" (Da'if)",
+			"grades": [
+				{
+					"name": "Ahmad Muhammad Shakir",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Bashar Awad Maarouf",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 47,
+				"hadith": 63
+			}
+		},
+		{
+			"hadithnumber": 3011.2,
+			"arabicnumber": 3011.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 47,
+				"hadith": 63
+			}
+		},
+		{
 			"hadithnumber": 3012,
 			"arabicnumber": 3012,
 			"text": "Narrated Abu Wa'il:\"'Abdullah [bin Mas'ud] narrating from the Prophet (ﷺ) that he said: 'There is no person who does not pay the Zakat due on his wealth but on the Day of Resurrection Allah will make a Shuja'a around his neck.' Then he recited the Ayah for us from the Book of Allah, the Mighty and Sublime, testifying to that: And let not those who are stringy with that which Allah has bestowed on them of His bounty... (3:180) And another time he said: 'Testifying to that, the Messenger of Allah (ﷺ) recited: On the Day of Resurrection, the things that they were stingy with... (3:180)' and whoever deprives his Muslim brother of his wealth by swearing, then he shall meet Allah while He is angry with him.' Then testifying to that, the Messenger of Allah (ﷺ) recited the Ayah from Allah's Book: Verily, those who purchase a small gain at the cost of Allah's covenant (3:77)",
@@ -1640,6 +1687,39 @@
 			"reference": {
 				"book": 47,
 				"hadith": 66
+			}
+		},
+		{
+			"hadithnumber": 3015,
+			"arabicnumber": 3015,
+			"text": "Narrated Jabir bin 'Abdullah:\"I was ill, so the Messenger of Allah (ﷺ) came to visit me, and I was unconscious. When I awoke, I said: 'How do you order me regarding my wealth?' He did not answer me until Allah revealed: Allah commands you regarding your children's (inheritance): to the male, a portion equal to that of two females (4:11).\" Jãbir bin 'Abdulläh narrated from the Prophet similarly. And in the narration of Al-Fadl bin As-Sabbäh (a narrator in the chain) there is more than this stated",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Bashar Awad Maarouf",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 47,
+				"hadith": 67
+			}
+		},
+		{
+			"hadithnumber": 3015.2,
+			"arabicnumber": 3015.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 47,
+				"hadith": 67
 			}
 		},
 		{
@@ -3515,6 +3595,33 @@
 			"reference": {
 				"book": 47,
 				"hadith": 144
+			}
+		},
+		{
+			"hadithnumber": 3093,
+			"arabicnumber": 3093,
+			"text": "Narrated Abu Sa'eed:that the Messenger of Allah (ﷺ) said: \"When you see a man frequenting the Masjid, then testify to his faith. Indeed Allah, Most High, said: The Masjid shall be maintained by those who believe in Allah and the Last day (9:18).\" (Another chain) from Abu Sa'eed from the Prophet (ﷺ) with similar wording except that he said: \"Yata'ahadul Masjid",
+			"grades": [
+				{
+					"name": "Ahmad Muhammad Shakir",
+					"grade": "Daif"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Bashar Awad Maarouf",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 47,
+				"hadith": 145
 			}
 		},
 		{
@@ -8003,6 +8110,29 @@
 			}
 		},
 		{
+			"hadithnumber": 3273,
+			"arabicnumber": 3273,
+			"text": "Narrated Abu Wa'il:from a man of Rabi'ah who said: \"I arrived in Al-Madinah, entered upon the Messenger of Allah (ﷺ) and mentioned the emissary of 'Ad to him. I said: 'I seek refuge in Allah from being like the emissary of 'Ad.' So the Messenger of Allah (ﷺ) said: 'And what of the emissary of 'Ad?'\" He said: \"I said: You have got the one who is informed about it. When 'Ad suffered from famine they sent Qail and he stayed with Bakr bin Mu'awiyah. He gave him wine to drink and two slave girls to sing for him. Then he went out towards the mountains of Murrah and said: \"O Allah! I did not come to You to cure a sick person, nor to ransom a captive! So give water to Your slave as You used to do, and give water to Bakr bin Mu'awiyah along with him.\" He said that out of gratitude for the wine which he gave him to drink. So two clouds appeared and it was said to him: \"Choose one of them.\" So he chose the black one. It was said to him: \"Take it as ashes that will leave none in 'Ad.\" So he mentioned that the wind sent upon them was not more than this circle - meaning the circle of a ring - then he recited: \"...We sent against them the barren wind; it spared nothing that it reached, but blew it into broken spreads of rotten ruins. (51:41 & 42)",
+			"grades": [
+				{
+					"name": "Ahmad Muhammad Shakir",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 47,
+				"hadith": 325
+			}
+		},
+		{
 			"hadithnumber": 3274,
 			"arabicnumber": 3274,
 			"text": "Narrated Abu Wa'il:that Al-Harith bin Yazid Al-Bakri said: \"I arrived in Al-Madinah and entered the Masjid and found it full with the people and I also noticed a black banner raised high, while Bilal was holding a sword before the Messenger of Allah (ﷺ). I said: 'What is the matter with the people?' They said: 'He intends to send 'Amr bin Al-'As somewhere.'\" So he mentioned the Hadith in its entirety, similar in meaning to the narration of Sufyan bin 'Uyainah (#3273). He said: He is also called Al-Harith bin Hassan",
@@ -10362,6 +10492,29 @@
 			"reference": {
 				"book": 47,
 				"hadith": 419
+			}
+		},
+		{
+			"hadithnumber": 3368,
+			"arabicnumber": 3368,
+			"text": "",
+			"grades": [
+				{
+					"name": "Ahmad Muhammad Shakir",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Bashar Awad Maarouf",
+					"grade": "Hasan"
+				}
+			],
+			"reference": {
+				"book": 47,
+				"hadith": 420
 			}
 		},
 		{

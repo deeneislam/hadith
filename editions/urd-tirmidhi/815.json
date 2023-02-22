@@ -32,6 +32,16 @@
 				"book": 9,
 				"hadith": 7
 			}
+		},
+		{
+			"hadithnumber": 815.2,
+			"arabicnumber": 815.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 9,
+				"hadith": 8
+			}
 		}
 	]
 }

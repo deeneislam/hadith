@@ -26,13 +26,13 @@
 			}
 		},
 		{
-			"hadithnumber": 2787.5,
-			"arabicnumber": 2787.5,
+			"hadithnumber": 2787.2,
+			"arabicnumber": 2787.2,
 			"text": "Another chain of narration similar in meaning",
 			"grades": [],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 43,
+				"hadith": 60
 			}
 		}
 	]

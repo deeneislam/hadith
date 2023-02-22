@@ -153,6 +153,26 @@
 			}
 		},
 		{
+			"hadithnumber": 2741.2,
+			"arabicnumber": 2741.2,
+			"text": "Muhammed b. Müsenna, Muhammed b. Cafer vasıtasıyla Şu’be’den, İbn ebî Leylâ’dan aynı senedle bu hadisin bir benzerini bize aktarmıştır. Şu’be bu hadisi böylece İbn ebî Leylâ’dan ve Eyyûb’tan rivâyet etmiştir. İbn ebî Leylâ bu hadiste karmaşıklığa düşerdi bazen Ebû Eyyûb’tan ve Peygamber (s.a.v.)’den derdi. Bazen de Ali’den ve Peygamber (s.a.v.)’den derdi. Muhammed b. Beşşâr, Muhammed b. Yahya es Sekafî el Mervezî vasıtasıyla Yahya b. Saîd el Kattan’dan İbn ebî Leylâ’dan kardeşi İsa’dan, Abdurrahman b. ebî Leylâ’dan ve Ali’den bu hadisin bir benzerini bize aktarmıştır. Diğer tahric: İbn Mâce, Edeb",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 7
+			}
+		},
+		{
+			"hadithnumber": 2741.3,
+			"arabicnumber": 2741.3,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 8
+			}
+		},
+		{
 			"hadithnumber": 2742,
 			"arabicnumber": 2742,
 			"text": "Enes b. Mâlik (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.)’in yanında iki adam aksırdı. Rasûlullah (s.a.v.) bunlardan birine karşılık verdi diğerine ise karşılık vermedi. Kendisine karşılık vermediği kimse Ey Allah’ın Rasûlü! dedi. Bu kimseye karşılık verdin bana neden karşılık vermedin diye sordu. Bunun üzerine Rasûlullah (s.a.v.) şöyle buyurdu: O Allah’a hamdetti; elhamdülillah dedi sen ise elhamdülillah demedin.” Diğer tahric: Buhârî, Edeb; Müslim, Zühd Tirmizî: Bu hadis hasen sahihtir. Ebû Hüreyre’den de bu hadis rivâyet edilmiştir",
@@ -200,6 +220,36 @@
 			"reference": {
 				"book": 43,
 				"hadith": 10
+			}
+		},
+		{
+			"hadithnumber": 2743.2,
+			"arabicnumber": 2743.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 11
+			}
+		},
+		{
+			"hadithnumber": 2743.3,
+			"arabicnumber": 2743.3,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 12
+			}
+		},
+		{
+			"hadithnumber": 2743.4,
+			"arabicnumber": 2743.4,
+			"text": "Tirmizî: Bu hadis hasen sahihtir. Muhammed b. Beşşâr, Yahya b. Saîd vasıtasıyla İkrime b. Ammâr’dan, İyas b. Seleme’den ve babasından bu hadisin bir benzerini rivâyet etmiştir ki bu rivayette Rasûlullah (s.a.v.) “Üçüncüsünde sen nezleye yakalanmışsın” buyurmuştur. Bu rivâyet İbn’ül Mübarek’in rivâyetinden daha sağlamdır. Şu’be bu hadisi İkrime b. Ammâr vasıtasıyla Yahya b. Saîd’in rivâyetine benzer şekilde rivâyet etmiştir. Aynı şekilde Ahmed b. Hakem el Basrî, Muhammed b. Cafer vasıtasıyla Şu’be’den, İkrime b. Ammâr’dan bu şekilde rivâyet etmiştir. Abdurrahman b. Mehdî İkrime b. Ammâr’dan, İbn’ül Mübarek’in rivâyetine benzer şekilde rivâyet etmiştir ve “üçüncüsünde sen nezle olmuşsun” demiştir. Aynı şekilde İshâk b. Mansur, Abdurrahman b. Mehdî vasıtasıyla bu hadisi rivâyet etmiştir",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 13
 			}
 		},
 		{
@@ -1126,6 +1176,16 @@
 			}
 		},
 		{
+			"hadithnumber": 2780.2,
+			"arabicnumber": 2780.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 51
+			}
+		},
+		{
 			"hadithnumber": 2781,
 			"arabicnumber": 2781,
 			"text": "Humeyd b. Abdurrahman (r.a.), Medîne’de halka hitaben şöyle işittiğini bize aktarmıştır: “Ey Medîneliler! Sizin âlimleriniz nerede Rasûlullah (s.a.v.), peruk kullanmayı yasaklıyor ve şöyle buyuruyordu: İsrail oğullarının kadınları bu peruk işine başladıklarında helak olmuşlardır.” Diğer tahric: Buhârî, Ehadis-ul Kur’ân; Müslim, Libas Tirmizî: Bu hadis hasen sahihtir. Muaviye’den değişik şekillerde de rivâyet edilmiştir",
@@ -1200,6 +1260,16 @@
 			"reference": {
 				"book": 43,
 				"hadith": 54
+			}
+		},
+		{
+			"hadithnumber": 2783.2,
+			"arabicnumber": 2783.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 55
 			}
 		},
 		{
@@ -1300,6 +1370,16 @@
 			"reference": {
 				"book": 43,
 				"hadith": 59
+			}
+		},
+		{
+			"hadithnumber": 2787.2,
+			"arabicnumber": 2787.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 60
 			}
 		},
 		{
@@ -1876,6 +1956,16 @@
 			}
 		},
 		{
+			"hadithnumber": 2811.2,
+			"arabicnumber": 2811.2,
+			"text": "Tirmizî: Bu hadis hasen garibtir. Sadece Eş’as rivâyetiyle biliyoruz. Şu’be ve Sevrî, Ebû İshâk vasıtasıyla Berâ b. Âzib’den rivâyet ederek şöyle demiştir: “Rasûlullah (s.a.v.)’i üzerinde kırmızı bir elbise ile gördüm.” Aynı şekilde Mahmûd b. Gaylân, Vekî’ vasıtasıyla Sûfyân’dan, Ebû İshâk’tan bu hadisi rivâyet etmişlerdir. Muhammed b. Beşşâr, Muahmmed b. Cafer vasıtasıyla Şu’be’den, Ebû İshâk’tan bu şekilde rivâyet etmişlerdir. Bu hadis buradakinden daha uzundur. Muhammed’e sordum. Ebû İshâk’ın Berâ’dan rivâyeti mi yoksa Câbir b. Semure’nin rivâyeti mi daha sağlamdır? Bu iki hadisi de sağlam buldu. Bu konuda Berâ’dan ve Ebû Cuhayfe’den de hadis rivâyet edilmiştir",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 85
+			}
+		},
+		{
 			"hadithnumber": 2812,
 			"arabicnumber": 2812,
 			"text": "",
@@ -1942,6 +2032,39 @@
 			"reference": {
 				"book": 43,
 				"hadith": 88
+			}
+		},
+		{
+			"hadithnumber": 2815,
+			"arabicnumber": 2815,
+			"text": "",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Bashar Awad Maarouf",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Bukhari And Sahih Muslim"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 89
+			}
+		},
+		{
+			"hadithnumber": 2815.2,
+			"arabicnumber": 2815.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 89
 			}
 		},
 		{
@@ -2142,6 +2265,63 @@
 			"reference": {
 				"book": 43,
 				"hadith": 97
+			}
+		},
+		{
+			"hadithnumber": 2824,
+			"arabicnumber": 2824,
+			"text": "Saîd b. Abdurrahman, Sûfyân vasıtasıyla Zührî’den, Sâlim’den babasından bu hadisin bir benzerini rivâyet etmişlerdir. Saîd’in rivâyeti daha sağlamdır. Çünkü Ali el Medîni ve Humeydî ikisi birden Sûfyân’dan, Zührî’den, Sâlim’den, babasından rivâyet etmişlerdir. Sûfyân şöyle bir hatırlatmada bulunmuştur: Bu hadisi bize Zührî Sâlim ve İbn Ömer vasıtasıyla rivâyet etmiştir. bu hadisi Zührî’den rivâyet ederek şöyle demiştir: b. Ömer’in iki oğlu Sâlim ve Hamza’dan, babalarından demiştir. konuda Sehl b. Sa’d, Âişe ve Enes’den de hadis rivâyet edilmiştir. Peygamber (sallallahü aleyhi ve sellem)’den şöyle de rivâyet edilmiştir: “Uğursuzluk olmuş olsaydı kadın da, binitte ve evde olurdu.”",
+			"grades": [
+				{
+					"name": "Ahmad Muhammad Shakir",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Bashar Awad Maarouf",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 98
+			}
+		},
+		{
+			"hadithnumber": 2824.2,
+			"arabicnumber": 2824.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 98
+			}
+		},
+		{
+			"hadithnumber": 2824.3,
+			"arabicnumber": 2824.3,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 98
+			}
+		},
+		{
+			"hadithnumber": 2824.4,
+			"arabicnumber": 2824.4,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 98
 			}
 		},
 		{
@@ -2675,6 +2855,16 @@
 			}
 		},
 		{
+			"hadithnumber": 2846.2,
+			"arabicnumber": 2846.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 121
+			}
+		},
+		{
 			"hadithnumber": 2847,
 			"arabicnumber": 2847,
 			"text": "Enes (radıyallahü anh)’den rivâyete göre, Peygamber (sallallahü aleyhi ve sellem) kaza umresinde Mekke’ye girdi. Abdullah b. Revaha önünde yürüyor ve şöyle diyordu: kafir oğlu kafirler çekilin O’nun yolundan, ona gelen Kur’ân gereğince boyunlarınızı vurabiliriz. bir vuruş ki tüm başları yerinden yok eder. en yakın dostu dostuna unutturur.” üzerine Ömer ona “Ey Revaha’nın oğlu Peygamber (sallallahü aleyhi ve sellem)’in önünde ve Allah’ın hareminde şiir mi söylüyorsun?” Deyince: Rasûlüllah (sallallahü aleyhi ve sellem): “Ey Ömer bırak onu çünkü onun şiirleri; onlara ok’un tesirinden daha hızlıdır.” (Nesâî, Menasik: 27) Bu hadis bu şekliyle hasen sahih garibtir. bu hadisi Ma’mer’den, Zührî’den, Enes’den buradaki gibi rivâyet etmiştir. Başka bir hadiste şöyle rivâyet edilmiştir: “Peygamber (sallallahü aleyhi ve sellem), kaza umresinde Mekke’ye girdi, Ka’b b. Mâlik onun önünde idi.” Bazı hadisçiler yanında bu rivâyet daha sağlamdır. Çünkü Abdullah b. Revaha, Mute vak’asında şehîd düşmüştü. Kaza umresi ise bundan sonradır",
@@ -2910,6 +3100,29 @@
 			}
 		},
 		{
+			"hadithnumber": 2855.2,
+			"arabicnumber": 2855.2,
+			"text": "",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Bashar Awad Maarouf",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 131
+			}
+		},
+		{
 			"hadithnumber": 2856,
 			"arabicnumber": 2856,
 			"text": "Ebû Salih (r.a.)’den rivâyete göre, şöyle demiştir: Âişe ve Ümmü Seleme (r.anhüma)’ya Rasûlullah (s.a.v.)’e hangi amel daha sevimliydi diye soruldu da şöyle cevap vermişlerdi: “Az da olsa devamlı olandır.” Tirmizî rivâyet etmiştir",
@@ -2926,6 +3139,25 @@
 			"reference": {
 				"book": 43,
 				"hadith": 132
+			}
+		},
+		{
+			"hadithnumber": 2856.2,
+			"arabicnumber": 2856.2,
+			"text": "Tirmizî: Bu hadis bu şekliyle hasen garibtir. Hişâm b. Urve’den, babasından, Âişe’den rivâyete göre, şöyle demiştir: “Rasûlullah (s.a.v.)’e amellerin en sevimlisi devamlı olanıdır.” Aynı şekilde Harun b. İshâk el Hemadânî Abde vasıtasıyla Hişâm b. Urve’den, babasından, Âişe’den bu hadisin manaca bir benzeri bize rivâyet etmiştir. Bu hadis hasen sahihtir",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 133
 			}
 		},
 		{
@@ -2980,33 +3212,6 @@
 			"reference": {
 				"book": 43,
 				"hadith": 135
-			}
-		},
-		{
-			"hadithnumber": 3093,
-			"arabicnumber": 3093,
-			"text": "",
-			"grades": [
-				{
-					"name": "Ahmad Muhammad Shakir",
-					"grade": "Daif"
-				},
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Bashar Awad Maarouf",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
-			"reference": {
-				"book": 43,
-				"hadith": 131
 			}
 		}
 	]

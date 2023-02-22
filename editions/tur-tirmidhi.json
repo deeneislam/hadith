@@ -9789,6 +9789,16 @@
 			}
 		},
 		{
+			"hadithnumber": 391.2,
+			"arabicnumber": 391.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 2,
+				"hadith": 244
+			}
+		},
+		{
 			"hadithnumber": 392,
 			"arabicnumber": 392,
 			"text": "Abdullah b. Mes’ûd (r.a.)’den rivâyete göre; “Rasûlullah (s.a.v.) bir sefer öğle namazını unutarak beş rek’at olarak kıldı da kendisine namaz mı artırıldı? Denildi, o da selam verilmiş durumda olduğu için selamdan sonra iki secde yaptı.” Diğer tahric: Nesâî, Sehv; İbn Mâce, İkame Bu hadis hasen sahihtir",
@@ -11384,8 +11394,8 @@
 				}
 			],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 3,
+				"hadith": 4
 			}
 		},
 		{
@@ -20237,8 +20247,8 @@
 			"text": "Katâde’den rivâyete göre, şöyle demiştir: Enes b. Mâlik’e sordum “Rasûlullah (s.a.v.) kaç sefer haccetti?” Dedi ki: “Bir hac ve dört umre yaptı; Zilkade’de bir umre, Hudeybiye umresi, Hac ile birlikte yaptığı umre ve Huneyn ganimetini dağıttığı zaman yaptığı “Cirane” umresi. Tirmîzî: Bu hadis hasen sahihtir. Habban b. Hilâl; Ebû Habib el Basrî’dir. O güvenilen ve hürmete layık bir insandır. Yahya b. Saîd el Kattan onun güvenilir bir kimse olduğunu söylemiştir",
 			"grades": [],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 9,
+				"hadith": 8
 			}
 		},
 		{
@@ -27708,8 +27718,8 @@
 			"text": "Ömer b. Hattâb (r.a.)’den rivâyete göre, şöyle demiştir: “Bakın! Kadınların mehirlerini çok yükseltmeyin. Mehirleri çoğaltmak bu dünyada bir şeref ve Allah katında da iyi bir Müslümanlık modeli olsaydı. Allah’ın Rasûlü buna hepinizden daha layık olurdu. Halbuki Rasûlullah (s.a.v.)’in on iki okıyye’den fazla mihir karşılığında, kadınlardan hiçbirini kendisine nikahladığını ve kızlarından hiçbirini de başkalarına nikahladığını bilmiyorum.” Diğer tahric: Ebû Dâvûd, Nikah; İbn Mâce, Nikah Tirmîzî: Bu hadis hasen sahihtir. Ebûl Acfa es Sülemî’nin adı Herm’dir. İlim adamlarına göre bir Ukıyye kırk dirhemdir. On iki Ukıyye ise dört yüz seksen dirhem eder",
 			"grades": [],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 11,
+				"hadith": 36
 			}
 		},
 		{
@@ -29535,8 +29545,8 @@
 			"text": "İbn Abbas (r.a.)’den rivâyete göre: Sabit b. Kays’ın karısı Rasûlullah (s.a.v.), zamanında kocasından hul yoluyla (bir bedel karşılığında) boşanmıştı. Peygamber (s.a.v) ona bir hayızlık süre iddet beklemesini emretmişti.” Diğer tahric: Ebû Dâvûd, Talak; Nesâî, Talak Tirmîzî: Bu hadis hasen garibtir. İlim adamları hulu’ yoluyla boşanan kadının iddet süresinde değişik görüşler ortaya koydular. Rasûlullah (s.a.v.)’in ashabından ve sonraki dönemlerden pek çok ilim adamı hulu’ yoluyla boşanan kadının iddet süresi kadardır. Yani üç hayz süresidir. Sûfyân es Sevrî, Küfeliler, Ahmed ve İshâk’ta bu görüştedirler. Rasûlullah (s.a.v.)’in ashabından ve sonraki dönemlerden bazı ilim adamları ise hul’ yoluyla boşananın iddeti bir hayz süresidir. Derler. İshâk diyor ki: Kim bu görüşe uyarsa bu yol ve görüş sağlam bir görüştür",
 			"grades": [],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 13,
+				"hadith": 12
 			}
 		},
 		{
@@ -35613,6 +35623,16 @@
 			}
 		},
 		{
+			"hadithnumber": 1424.2,
+			"arabicnumber": 1424.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 17,
+				"hadith": 3
+			}
+		},
+		{
 			"hadithnumber": 1425,
 			"arabicnumber": 1425,
 			"text": "",
@@ -35633,6 +35653,16 @@
 			"reference": {
 				"book": 17,
 				"hadith": 4
+			}
+		},
+		{
+			"hadithnumber": 1425.2,
+			"arabicnumber": 1425.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 17,
+				"hadith": 5
 			}
 		},
 		{
@@ -35840,13 +35870,23 @@
 			}
 		},
 		{
+			"hadithnumber": 1433.2,
+			"arabicnumber": 1433.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 17,
+				"hadith": 14
+			}
+		},
+		{
 			"hadithnumber": 1433.3,
 			"arabicnumber": 1433.3,
 			"text": "Tirmizî: Bu konuda Ebû Bekre, Ubede b. Sâmit, Ebû Hüreyre, Ebû Saîd, İbn Abbâs, Câbir b. Semure, Hezzal, Büreyde, Seleme b. Muhabbik, Ebû Berze ve Imrân b. Husayn’dan da hadis rivâyet edilmiştir. Tirmizî: Ebû Hüreyre Zeyd b. Hâlid hadisi hasen sahihtir. Aynı şekilde Mâlik b. Enes; Ma’mer ve pek çok kimse Zürî’den, Ubeydullah b. Abdullah b. Utbe’den, Ebû Hüreyre’den ve Zeyd b. Hâlid’den rivâyet etmiştir. Aynı şekilde aynı senedle Rasûlullah (s.a.v.)’den şu şekilde rivâyet etmişlerdir: “Cariye zina ederse ona yüz değnek vurun dördüncü sefer yine zina ederse değersiz bir ip parasına bile olsa satıp elden çıkarın.” Sûfyân b. Uyeyne; Zührî’den, Ubeydullah’tan, Ebû Hüreyre’den, Zeyd b. Hâlid’den ve Şibl’den rivâyet ederek şöyle der: “Rasûlullah (s.a.v.)’in yanında idik…” İbn Uyeyne her iki hadisi de topluca Ebû Hüreyre’den Zeyd b. Hâlid’den ve Şibl’den rivâyet ediyor. İbn Uyeyne rivâyet ettiği bu hadiste vehme kapılmıştır. Sûfyân b. Uyeyne iki hadisi birbirine karıştırmıştır. Sahih olan rivâyet Muhammed b. el Velîd ez Zebîdî, Yunus b. Ubeyde, Zührî’nin kardeşinin oğlunun Zührî’den, Ubeydullah’tan, Ebû Hüreyre’den ve Zeyd b. Hâlid’den yapılan rivâyetidir ki; şöyle başlar: “Cariye zina ederse ona yüz değnek vurun…” Zührî; Ubeybullah’tan, Şibl b. Hâlid, Abdullah b. Mâlik el Evsî’den rivâyet etti şöyle demiştir: Cariye zina ederse…” hadisçiler yanında sahih kabul edilen rivâyet budur. Şibl b. Hâlid, Peygamber (s.a.v.)’e yetişmemiştir. Şibl sadece Abdullah b. Mâlik el Evsî vasıtasıyla hadis rivâyet etmektedir. Doğru olanı budur. İbn Uyeyne rivâyeti pek makbul değildir. İbn Uyeyne’den, Şibl b. Hamid dediği rivâyet edildi ki bu bir yanlışlıktır. Gerçekte o Şibl b. Hâlid’tir. Aynı şekilde ona Şibl b. Huleyd’de deniliyor",
 			"grades": [],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 17,
+				"hadith": 15
 			}
 		},
 		{
@@ -39059,6 +39099,16 @@
 			"reference": {
 				"book": 21,
 				"hadith": 18
+			}
+		},
+		{
+			"hadithnumber": 1561.2,
+			"arabicnumber": 1561.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 21,
+				"hadith": 19
 			}
 		},
 		{
@@ -47203,6 +47253,16 @@
 			}
 		},
 		{
+			"hadithnumber": 1884.2,
+			"arabicnumber": 1884.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 26,
+				"hadith": 25
+			}
+		},
+		{
 			"hadithnumber": 1885,
 			"arabicnumber": 1885,
 			"text": "İbn Abbâs (r.a.)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v.) şöyle buyurdu: “Develer gibi bir solukta içmeyin iki veya üç nefeste için içeceğinizde Bismillah deyin içmeyi bitirdiğinizde ise Elhamdülillah deyin.” Tirmizî rivâyet etmiştir. Tirmizî: Bu hadis garibtir. Yezîd b. Sinan el Cezerî; Ebû Ferve er Ruvahî’dir",
@@ -47728,8 +47788,18 @@
 			"text": "Bu hadis hasen sahihtir. Ebû Küreyb, Ebû Muaviye vasıtasıyla Muhammed b. Sûka’dan, Ebû Bekir b. Hafs’tan bu hadisin bir benzerini bize aktarmış olup bu rivâyetinde “İbn Ömer’den” dememiştir. Bu rivâyet Ebû Muaviye’nin rivâyetinden daha sahihtir. Ebû Bekir b. Hafs, Ömer b. Sa’d b. ebî Vakkâs’ın oğludur",
 			"grades": [],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 27,
+				"hadith": 9
+			}
+		},
+		{
+			"hadithnumber": 1904.3,
+			"arabicnumber": 1904.3,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 27,
+				"hadith": 10
 			}
 		},
 		{
@@ -52359,8 +52429,8 @@
 				}
 			],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 28,
+				"hadith": 54
 			}
 		},
 		{
@@ -53798,8 +53868,8 @@
 				}
 			],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 32,
+				"hadith": 14
 			}
 		},
 		{
@@ -57636,8 +57706,8 @@
 			"text": "Tirmizî: Bu hadis A’meş’in, Ali b. Müdrîk’den rivâyeti olarak garibtir. A’meş’in adamları bu hadisi A’meş’den, Hilâl b. Yesaf’tan ve Imrân b. Husayn’dan rivâyet etmişlerdir. Ebû Ammâr Hüseyin b. Hureys, Vekî’ vasıtasıyla A’meş’den Hilâl b. Yesaf’tan ve Imrân b. Husayn’dan bu hadisin bir benzerini bize aktarmışlardır. Bu rivâyet Muhammed b. Fudayl’in rivâyetinden daha sağlamdır. Tirmizî: Bazı ilim adamlarına göre: “İstenmeden şâhidlik yapacaklar” sözünün manası yalancı şâhidlik anlamındadır. Yani kişi şâhid tutulmadığı halde yalan yere şâhidlik yapacak demektir",
 			"grades": [],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 35,
+				"hadith": 9
 			}
 		},
 		{
@@ -63217,8 +63287,8 @@
 				}
 			],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 37,
+				"hadith": 107
 			}
 		},
 		{
@@ -63551,8 +63621,8 @@
 				}
 			],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 38,
+				"hadith": 13
 			}
 		},
 		{
@@ -64927,8 +64997,8 @@
 				}
 			],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 39,
+				"hadith": 19
 			}
 		},
 		{
@@ -68743,8 +68813,18 @@
 			"text": "Muhammed b. Müsenna, Muhammed b. Cafer vasıtasıyla Şu’be’den, İbn ebî Leylâ’dan aynı senedle bu hadisin bir benzerini bize aktarmıştır. Şu’be bu hadisi böylece İbn ebî Leylâ’dan ve Eyyûb’tan rivâyet etmiştir. İbn ebî Leylâ bu hadiste karmaşıklığa düşerdi bazen Ebû Eyyûb’tan ve Peygamber (s.a.v.)’den derdi. Bazen de Ali’den ve Peygamber (s.a.v.)’den derdi. Muhammed b. Beşşâr, Muhammed b. Yahya es Sekafî el Mervezî vasıtasıyla Yahya b. Saîd el Kattan’dan İbn ebî Leylâ’dan kardeşi İsa’dan, Abdurrahman b. ebî Leylâ’dan ve Ali’den bu hadisin bir benzerini bize aktarmıştır. Diğer tahric: İbn Mâce, Edeb",
 			"grades": [],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 43,
+				"hadith": 7
+			}
+		},
+		{
+			"hadithnumber": 2741.3,
+			"arabicnumber": 2741.3,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 8
 			}
 		},
 		{
@@ -68798,13 +68878,33 @@
 			}
 		},
 		{
+			"hadithnumber": 2743.2,
+			"arabicnumber": 2743.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 11
+			}
+		},
+		{
+			"hadithnumber": 2743.3,
+			"arabicnumber": 2743.3,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 12
+			}
+		},
+		{
 			"hadithnumber": 2743.4,
 			"arabicnumber": 2743.4,
 			"text": "Tirmizî: Bu hadis hasen sahihtir. Muhammed b. Beşşâr, Yahya b. Saîd vasıtasıyla İkrime b. Ammâr’dan, İyas b. Seleme’den ve babasından bu hadisin bir benzerini rivâyet etmiştir ki bu rivayette Rasûlullah (s.a.v.) “Üçüncüsünde sen nezleye yakalanmışsın” buyurmuştur. Bu rivâyet İbn’ül Mübarek’in rivâyetinden daha sağlamdır. Şu’be bu hadisi İkrime b. Ammâr vasıtasıyla Yahya b. Saîd’in rivâyetine benzer şekilde rivâyet etmiştir. Aynı şekilde Ahmed b. Hakem el Basrî, Muhammed b. Cafer vasıtasıyla Şu’be’den, İkrime b. Ammâr’dan bu şekilde rivâyet etmiştir. Abdurrahman b. Mehdî İkrime b. Ammâr’dan, İbn’ül Mübarek’in rivâyetine benzer şekilde rivâyet etmiştir ve “üçüncüsünde sen nezle olmuşsun” demiştir. Aynı şekilde İshâk b. Mansur, Abdurrahman b. Mehdî vasıtasıyla bu hadisi rivâyet etmiştir",
 			"grades": [],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 43,
+				"hadith": 13
 			}
 		},
 		{
@@ -69731,6 +69831,16 @@
 			}
 		},
 		{
+			"hadithnumber": 2780.2,
+			"arabicnumber": 2780.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 51
+			}
+		},
+		{
 			"hadithnumber": 2781,
 			"arabicnumber": 2781,
 			"text": "Humeyd b. Abdurrahman (r.a.), Medîne’de halka hitaben şöyle işittiğini bize aktarmıştır: “Ey Medîneliler! Sizin âlimleriniz nerede Rasûlullah (s.a.v.), peruk kullanmayı yasaklıyor ve şöyle buyuruyordu: İsrail oğullarının kadınları bu peruk işine başladıklarında helak olmuşlardır.” Diğer tahric: Buhârî, Ehadis-ul Kur’ân; Müslim, Libas Tirmizî: Bu hadis hasen sahihtir. Muaviye’den değişik şekillerde de rivâyet edilmiştir",
@@ -69805,6 +69915,16 @@
 			"reference": {
 				"book": 43,
 				"hadith": 54
+			}
+		},
+		{
+			"hadithnumber": 2783.2,
+			"arabicnumber": 2783.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 55
 			}
 		},
 		{
@@ -69905,6 +70025,16 @@
 			"reference": {
 				"book": 43,
 				"hadith": 59
+			}
+		},
+		{
+			"hadithnumber": 2787.2,
+			"arabicnumber": 2787.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 60
 			}
 		},
 		{
@@ -70513,8 +70643,8 @@
 			"text": "Tirmizî: Bu hadis hasen garibtir. Sadece Eş’as rivâyetiyle biliyoruz. Şu’be ve Sevrî, Ebû İshâk vasıtasıyla Berâ b. Âzib’den rivâyet ederek şöyle demiştir: “Rasûlullah (s.a.v.)’i üzerinde kırmızı bir elbise ile gördüm.” Aynı şekilde Mahmûd b. Gaylân, Vekî’ vasıtasıyla Sûfyân’dan, Ebû İshâk’tan bu hadisi rivâyet etmişlerdir. Muhammed b. Beşşâr, Muahmmed b. Cafer vasıtasıyla Şu’be’den, Ebû İshâk’tan bu şekilde rivâyet etmişlerdir. Bu hadis buradakinden daha uzundur. Muhammed’e sordum. Ebû İshâk’ın Berâ’dan rivâyeti mi yoksa Câbir b. Semure’nin rivâyeti mi daha sağlamdır? Bu iki hadisi de sağlam buldu. Bu konuda Berâ’dan ve Ebû Cuhayfe’den de hadis rivâyet edilmiştir",
 			"grades": [],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 43,
+				"hadith": 85
 			}
 		},
 		{
@@ -70605,8 +70735,18 @@
 				}
 			],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 43,
+				"hadith": 89
+			}
+		},
+		{
+			"hadithnumber": 2815.2,
+			"arabicnumber": 2815.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 89
 			}
 		},
 		{
@@ -70832,8 +70972,38 @@
 				}
 			],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 43,
+				"hadith": 98
+			}
+		},
+		{
+			"hadithnumber": 2824.2,
+			"arabicnumber": 2824.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 98
+			}
+		},
+		{
+			"hadithnumber": 2824.3,
+			"arabicnumber": 2824.3,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 98
+			}
+		},
+		{
+			"hadithnumber": 2824.4,
+			"arabicnumber": 2824.4,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 98
 			}
 		},
 		{
@@ -71367,6 +71537,16 @@
 			}
 		},
 		{
+			"hadithnumber": 2846.2,
+			"arabicnumber": 2846.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 43,
+				"hadith": 121
+			}
+		},
+		{
 			"hadithnumber": 2847,
 			"arabicnumber": 2847,
 			"text": "Enes (radıyallahü anh)’den rivâyete göre, Peygamber (sallallahü aleyhi ve sellem) kaza umresinde Mekke’ye girdi. Abdullah b. Revaha önünde yürüyor ve şöyle diyordu: kafir oğlu kafirler çekilin O’nun yolundan, ona gelen Kur’ân gereğince boyunlarınızı vurabiliriz. bir vuruş ki tüm başları yerinden yok eder. en yakın dostu dostuna unutturur.” üzerine Ömer ona “Ey Revaha’nın oğlu Peygamber (sallallahü aleyhi ve sellem)’in önünde ve Allah’ın hareminde şiir mi söylüyorsun?” Deyince: Rasûlüllah (sallallahü aleyhi ve sellem): “Ey Ömer bırak onu çünkü onun şiirleri; onlara ok’un tesirinden daha hızlıdır.” (Nesâî, Menasik: 27) Bu hadis bu şekliyle hasen sahih garibtir. bu hadisi Ma’mer’den, Zührî’den, Enes’den buradaki gibi rivâyet etmiştir. Başka bir hadiste şöyle rivâyet edilmiştir: “Peygamber (sallallahü aleyhi ve sellem), kaza umresinde Mekke’ye girdi, Ka’b b. Mâlik onun önünde idi.” Bazı hadisçiler yanında bu rivâyet daha sağlamdır. Çünkü Abdullah b. Revaha, Mute vak’asında şehîd düşmüştü. Kaza umresi ise bundan sonradır",
@@ -71602,6 +71782,29 @@
 			}
 		},
 		{
+			"hadithnumber": 2855.2,
+			"arabicnumber": 2855.2,
+			"text": "",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Bashar Awad Maarouf",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 43,
+				"hadith": 131
+			}
+		},
+		{
 			"hadithnumber": 2856,
 			"arabicnumber": 2856,
 			"text": "Ebû Salih (r.a.)’den rivâyete göre, şöyle demiştir: Âişe ve Ümmü Seleme (r.anhüma)’ya Rasûlullah (s.a.v.)’e hangi amel daha sevimliydi diye soruldu da şöyle cevap vermişlerdi: “Az da olsa devamlı olandır.” Tirmizî rivâyet etmiştir",
@@ -71624,10 +71827,19 @@
 			"hadithnumber": 2856.2,
 			"arabicnumber": 2856.2,
 			"text": "Tirmizî: Bu hadis bu şekliyle hasen garibtir. Hişâm b. Urve’den, babasından, Âişe’den rivâyete göre, şöyle demiştir: “Rasûlullah (s.a.v.)’e amellerin en sevimlisi devamlı olanıdır.” Aynı şekilde Harun b. İshâk el Hemadânî Abde vasıtasıyla Hişâm b. Urve’den, babasından, Âişe’den bu hadisin manaca bir benzeri bize rivâyet etmiştir. Bu hadis hasen sahihtir",
-			"grades": [],
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 43,
+				"hadith": 133
 			}
 		},
 		{
@@ -71936,6 +72148,16 @@
 			"reference": {
 				"book": 44,
 				"hadith": 10
+			}
+		},
+		{
+			"hadithnumber": 2868.2,
+			"arabicnumber": 2868.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 44,
+				"hadith": 11
 			}
 		},
 		{
@@ -73999,8 +74221,8 @@
 			"text": "Abd b. Humeyd, Abdurrahman b. Sa’d vasıtasıyla Amr b. ebî Kays’den, Simak b. Harb’den, Abbad b. Hubeyş’den, Adiyy b. Hatim’den şöyle nakledilmiştir: Mescidde oturmakta olan Rasulullah (s.a.v.)’in yanına geldim insanlar bu Adiyy b. Hatim’dir. Hiçbir kimse’nin korumasına tabi olmadan gelmiştim. Kendisine takdim edildiğim zaman elimden tuttu ve bundan önce de Allah’tan onun elini elime tutuşturmasını istiyordum buyurdu. Benimle birlikte kalktı, tam o sırada yanında bir çocuğu bulunan bir kadın O’nu karşıladı ve sana arz edeceğimiz bir ihtiyacımız var dedi. Onların ihtiyacını görünceye kadar onlarla beraber ayakta kaldı, sonra elimden tuttu ve beni evine götürdü. Bir kız çocuğu bir minder attı, Rasulullah (s.a.v.) onun üzerine oturdu. Ben de onun önüne oturdum. Allah’a hamd-ü sena ettikten sonra şöyle buyurdu: “La ilahe illallah” demekten seni alıkoyan nedir? Yoksa Allah’ın dışında bildiğin bir ilah mı var? Ben hayır diye cevap verdim sonra Rasulullah (s.a.v.) bir süre konuştu ve şöyle buyurdu: “Allahu ekber” demekten mi kaçıyor ve Allah’tan daha büyük bir varlık mı tanıyorsun? Ben de Hayır dedim ve şöyle devam etti: Yahudiler, Allah’ın gazablandığı kimselerdir. Hıristiyanlar ise sapıktır. Ben de: “Müslüman oldum ve geldim dedim” dedim. Bunun üzerine yüzünün sevinçten değiştiğini gördüm, sonra benim için emir verdi, Ensar’dan bir kimsenin evine yerleştirildim ve sabah akşam Rasulullah (s.a.v.)’in yanına gidip gelmeye başladım. Bir akşam vakti Rasulullah (s.a.v.)’in yanındayken yünden çizgili elbiseler giymiş fakir bir gurup geldi namazı kıldırıp kalktı ve cemaati bu kimselere yardım etmeye teşvik etti ve şöyle buyurdu: Bir ölçek olsun, yarım ölçek olsun, bir avuç parçası olsun bu insanlara vermek suretiyle sizler kendinizi Cehennem ateşinden koruyabilirsiniz. Bir hurma ile de yarım hurma ile de olsa veriniz... Hepiniz bir gün Allah’la karşı karşıya geleceksiniz ve Allah size şöyle buyuracaktır: Sizlere göz, kulak vermedim mi? O kimse de evet verdin diyecektir. Allah: Sana çoluk çocuk vermedim mi? Buyuracak. O kimse de evet diyecek Allah, Kendin için gönderdiklerin nerede? Buyuracak o kimse önüne arkasına sağına soluna bakınacak Cehennem ateşinden kendisini koruyacak bir şey bulamayacak. Her biriniz yarım hurma ile olsa bile kendinizi ateşten koruyunuz. Şayet bulamaz ise güzel sözle yapsın. Buyurdu. Ben sizin için yoksulluktan endişe etmiyorum. Allah size her şeyi veren ve yardım edendir. Hatta bir kadın Hîre ile Medîne arasında kendi başına gidecek bineğin çalınmasından korkulmayacaktır. Ben de bu söz üzerine içimden Tayy kabilesinin meşhur hırsızları nerede olacak, dedim",
 			"grades": [],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 47,
+				"hadith": 5
 			}
 		},
 		{
@@ -75489,8 +75711,18 @@
 				}
 			],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 47,
+				"hadith": 63
+			}
+		},
+		{
+			"hadithnumber": 3011.2,
+			"arabicnumber": 3011.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 47,
+				"hadith": 63
 			}
 		},
 		{
@@ -75593,8 +75825,18 @@
 				}
 			],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 47,
+				"hadith": 67
+			}
+		},
+		{
+			"hadithnumber": 3015.2,
+			"arabicnumber": 3015.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 47,
+				"hadith": 67
 			}
 		},
 		{
@@ -77495,8 +77737,8 @@
 				}
 			],
 			"reference": {
-				"book": 43,
-				"hadith": 131
+				"book": 47,
+				"hadith": 145
 			}
 		},
 		{
@@ -82003,8 +82245,8 @@
 				}
 			],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 47,
+				"hadith": 325
 			}
 		},
 		{
@@ -84388,8 +84630,8 @@
 				}
 			],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 47,
+				"hadith": 420
 			}
 		},
 		{
@@ -90176,6 +90418,96 @@
 			"reference": {
 				"book": 48,
 				"hadith": 235
+			}
+		},
+		{
+			"hadithnumber": 3604.02,
+			"arabicnumber": 3604.02,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 48,
+				"hadith": 236
+			}
+		},
+		{
+			"hadithnumber": 3604.03,
+			"arabicnumber": 3604.03,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 48,
+				"hadith": 237
+			}
+		},
+		{
+			"hadithnumber": 3604.04,
+			"arabicnumber": 3604.04,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 48,
+				"hadith": 238
+			}
+		},
+		{
+			"hadithnumber": 3604.05,
+			"arabicnumber": 3604.05,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 48,
+				"hadith": 239
+			}
+		},
+		{
+			"hadithnumber": 3604.06,
+			"arabicnumber": 3604.06,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 48,
+				"hadith": 240
+			}
+		},
+		{
+			"hadithnumber": 3604.07,
+			"arabicnumber": 3604.07,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 48,
+				"hadith": 241
+			}
+		},
+		{
+			"hadithnumber": 3604.08,
+			"arabicnumber": 3604.08,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 48,
+				"hadith": 242
+			}
+		},
+		{
+			"hadithnumber": 3604.09,
+			"arabicnumber": 3604.09,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 48,
+				"hadith": 243
+			}
+		},
+		{
+			"hadithnumber": 3604.1,
+			"arabicnumber": 3604.1,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 48,
+				"hadith": 244
 			}
 		},
 		{

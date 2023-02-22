@@ -2,7 +2,7 @@
 	"metadata": {
 		"name": "Jami At Tirmidhi",
 		"section": {
-			"0": ""
+			"28": "Chapters on Medicine"
 		}
 	},
 	"hadiths": [
@@ -17,8 +17,8 @@
 				}
 			],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 28,
+				"hadith": 54
 			}
 		}
 	]

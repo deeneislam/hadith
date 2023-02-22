@@ -39,8 +39,8 @@
 			"text": "(Another chain) with similar",
 			"grades": [],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 17,
+				"hadith": 14
 			}
 		},
 		{
@@ -49,8 +49,8 @@
 			"text": "(Another chain) with similar",
 			"grades": [],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 17,
+				"hadith": 15
 			}
 		}
 	]

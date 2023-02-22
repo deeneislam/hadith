@@ -29,10 +29,19 @@
 			"hadithnumber": 2856.2,
 			"arabicnumber": 2856.2,
 			"text": "Tirmizî: Bu hadis bu şekliyle hasen garibtir. Hişâm b. Urve’den, babasından, Âişe’den rivâyete göre, şöyle demiştir: “Rasûlullah (s.a.v.)’e amellerin en sevimlisi devamlı olanıdır.” Aynı şekilde Harun b. İshâk el Hemadânî Abde vasıtasıyla Hişâm b. Urve’den, babasından, Âişe’den bu hadisin manaca bir benzeri bize rivâyet etmiştir. Bu hadis hasen sahihtir",
-			"grades": [],
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 43,
+				"hadith": 133
 			}
 		}
 	]

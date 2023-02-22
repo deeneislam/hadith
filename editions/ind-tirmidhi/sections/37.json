@@ -2681,6 +2681,29 @@
 			}
 		},
 		{
+			"hadithnumber": 2521,
+			"arabicnumber": 2521,
+			"text": "",
+			"grades": [
+				{
+					"name": "Ahmad Muhammad Shakir",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
+				}
+			],
+			"reference": {
+				"book": 37,
+				"hadith": 107
+			}
+		},
+		{
 			"hadithnumber": 2522,
 			"arabicnumber": 2522,
 			"text": "",

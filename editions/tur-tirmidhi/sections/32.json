@@ -334,6 +334,29 @@
 			}
 		},
 		{
+			"hadithnumber": 2146,
+			"arabicnumber": 2146,
+			"text": "Matar b. Ukâmis (radıyallahü anh)’den rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: “Allah bir kulunun bir yerde ölmesine hükmettiği vakit o kulunun işini oraya yöneltir.” (Müsned: 20980) Bu konuda Ebû Azze’den de hadis rivâyet edilmiştir. Bu hadis hasen garibtir. Matar b. Ukâmis’in Rasûlüllah (sallallahü aleyhi ve sellem)’den bundan başka hadis rivâyet ettiğini bilmiyoruz",
+			"grades": [
+				{
+					"name": "Ahmad Muhammad Shakir",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
+				}
+			],
+			"reference": {
+				"book": 32,
+				"hadith": 14
+			}
+		},
+		{
 			"hadithnumber": 2147,
 			"arabicnumber": 2147,
 			"text": "Ebû Azze (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Allah bir kulun bir yerde ölmesine hükmetti ise o kimse için oraya veya orada kendisine bir iş çıkarır.” Tirmizî rivâyet etmiştir. Tirmizî: Bu hadis sahihtir. Ebû Azze sahabî olup ismi Yesâr b. Abd’tir. Ebû’l Melih’in ismi ise Âmir b. Üsâme b. Umeyr el Hûzelî’dir, kendisine Zeyd b. Üsâme de denilir",
