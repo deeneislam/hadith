@@ -1267,6 +1267,33 @@
 			}
 		},
 		{
+			"hadithnumber": 2064,
+			"arabicnumber": 2064,
+			"text": "It was narrated from Salamah bin Sakhr Al-Bayedi that:the Prophet (ﷺ) said concerning a man who declared Zihar upon his wife having intercourse with her before compensation: \"Let him offer one expiation",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 49
+			}
+		},
+		{
 			"hadithnumber": 2065,
 			"arabicnumber": 2065,
 			"text": "It was narrated from Ibn 'Abbas that:a man declared Zihar upon his wife, then he had intercourse with her before offering expiation. He came to the Prophet (ﷺ) and told him about that. He said: \"What made you do that?\" He said: \"I saw her ankles in the moonlight, and I could not control myself, and I had intercourse with her.\" The Messenger of Allah (ﷺ) smiled and told him not to go near her until he had offered expiation",
@@ -1553,6 +1580,60 @@
 			"reference": {
 				"book": 10,
 				"hadith": 60
+			}
+		},
+		{
+			"hadithnumber": 2076,
+			"arabicnumber": 2076,
+			"text": "It was narrated that Aishah said:'Three Sunan were established because of Barirah: She was given the choice (of whether to remain married) when she was freed, and her husband was a slave; they used to give her charity and she used to give it as a gift to the Prophet (ﷺ), and he would say: 'It is charity for her and a gift for us,' and he said, the 'Wala' is for the one who set the slave free",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Hasan"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 61
+			}
+		},
+		{
+			"hadithnumber": 2077,
+			"arabicnumber": 2077,
+			"text": "It was narrated that 'Aishah said:\"Barirah was told to observe the waiting period for three menstrual cycles",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 62
 			}
 		},
 		{
@@ -1869,6 +1950,33 @@
 			"reference": {
 				"book": 10,
 				"hadith": 74
+			}
+		},
+		{
+			"hadithnumber": 2435,
+			"arabicnumber": 2435,
+			"text": "It was narrated from 'Abdullah bin 'Amr that the Messenger of Allah (ﷺ) said:“A debt will be settled on the Day of Resurrection if the one who owes it dies, apart from three: A man who lost his strength fighting in the cause of Allah (SWT), so he borrows in order to become strong again to fighting in the cause of Allah (SWT), so he borrows in order to become strong again to fight the enemy of Allah (SWT) and his enemy. A man who sees a Muslims die and he cannot find anything with which to shroud him except by taking a loan. A man who sees a Muslim die and he cannot find anything with which to shroud him except, by taking a loan. A man who fears Allah (SWT) if he stays single, so he gets married for fear of (losing) his religious commitment. Allah will pay off the debt for these people on the Day of Resurrection.”",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Daif"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
+				}
+			],
+			"reference": {
+				"book": 10,
+				"hadith": 46
 			}
 		},
 		{

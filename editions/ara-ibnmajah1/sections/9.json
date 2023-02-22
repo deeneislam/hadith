@@ -2195,6 +2195,33 @@
 			}
 		},
 		{
+			"hadithnumber": 1929,
+			"arabicnumber": 1929,
+			"text": "",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 85
+			}
+		},
+		{
 			"hadithnumber": 1930,
 			"arabicnumber": 1930,
 			"text": "حدثنا ابو كريب، حدثنا عبدة بن سليمان، عن محمد بن اسحاق، عن يعقوب بن عتبة، عن سليمان بن يسار، عن ابي سعيد الخدري، قال سمعت رسول الله صلى الله عليه وسلم ينهى عن نكاحين ان يجمع الرجل بين المراة وعمتها وبين المراة وخالتها",
@@ -3105,6 +3132,29 @@
 			"reference": {
 				"book": 9,
 				"hadith": 120
+			}
+		},
+		{
+			"hadithnumber": 1965,
+			"arabicnumber": 1965,
+			"text": "حدثنا ابو بكر بن خلاد الباهلي، حدثنا سفيان بن عيينة، عن عمرو بن دينار، عن جابر بن زيد، عن ابن عباس، ان النبي ـ صلى الله عليه وسلم ـ نكح وهو محرم ‏.‏",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 121
 			}
 		},
 		{

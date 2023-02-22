@@ -2195,6 +2195,33 @@
 			}
 		},
 		{
+			"hadithnumber": 1929,
+			"arabicnumber": 1929,
+			"text": "",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 85
+			}
+		},
+		{
 			"hadithnumber": 1930,
 			"arabicnumber": 1930,
 			"text": "Telah menceritakan kepada kami [Abu Kuraib] berkata, telah menceritakan kepada kami ['Abdah bin Sulaiman] dari [Muhammad bin Ishaq] dari [Ya'qub bin 'Utbah] dari [Sulaiman bin Yasar] dari [Abu Sa'id Al Khudlri] ia berkata, \"Aku mendengar Rasulullah shallallahu 'alaihi wasallam melarang dari dua bentuk pernikahan; seorang laki-laki menikahi wanita dan menikahi bibi (isteri) nya dari pihak ayah, dan seorang laki-laki menikahi wanita dan menikahi bibinya dari pihak ibu",
@@ -3105,6 +3132,29 @@
 			"reference": {
 				"book": 9,
 				"hadith": 120
+			}
+		},
+		{
+			"hadithnumber": 1965,
+			"arabicnumber": 1965,
+			"text": "",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 121
 			}
 		},
 		{

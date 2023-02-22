@@ -2,7 +2,7 @@
 	"metadata": {
 		"name": "Sunan Ibn Majah",
 		"section": {
-			"0": "The Book of the Sunnah"
+			"10": "The Chapters on Divorce"
 		}
 	},
 	"hadiths": [
@@ -29,8 +29,8 @@
 				}
 			],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 10,
+				"hadith": 62
 			}
 		}
 	]

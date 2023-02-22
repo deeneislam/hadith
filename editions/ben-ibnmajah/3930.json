@@ -32,6 +32,16 @@
 				"book": 36,
 				"hadith": 4
 			}
+		},
+		{
+			"hadithnumber": 3930.2,
+			"arabicnumber": 3930.2,
+			"text": "",
+			"grades": [],
+			"reference": {
+				"book": 36,
+				"hadith": 5
+			}
 		}
 	]
 }

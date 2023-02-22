@@ -2,14 +2,14 @@
 	"metadata": {
 		"name": "Sunan Ibn Majah",
 		"section": {
-			"0": "The Book of the Sunnah"
+			"9": "The Chapters on Marriage"
 		}
 	},
 	"hadiths": [
 		{
 			"hadithnumber": 1965,
 			"arabicnumber": 1965,
-			"text": "",
+			"text": "It was narrated from Ibn 'Abbas that the Prophet got married while he was a Muhrim (in Ihram)",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -25,8 +25,8 @@
 				}
 			],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 9,
+				"hadith": 121
 			}
 		}
 	]

@@ -2,7 +2,7 @@
 	"metadata": {
 		"name": "Sunan Ibn Majah",
 		"section": {
-			"0": "The Book of the Sunnah"
+			"9": "The Chapters on Marriage"
 		}
 	},
 	"hadiths": [
@@ -29,8 +29,8 @@
 				}
 			],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 9,
+				"hadith": 85
 			}
 		}
 	]

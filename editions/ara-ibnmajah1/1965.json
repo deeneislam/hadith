@@ -2,14 +2,14 @@
 	"metadata": {
 		"name": "Sunan Ibn Majah",
 		"section": {
-			"0": "The Book of the Sunnah"
+			"9": "The Chapters on Marriage"
 		}
 	},
 	"hadiths": [
 		{
 			"hadithnumber": 1965,
 			"arabicnumber": 1965,
-			"text": "",
+			"text": "حدثنا ابو بكر بن خلاد الباهلي، حدثنا سفيان بن عيينة، عن عمرو بن دينار، عن جابر بن زيد، عن ابن عباس، ان النبي ـ صلى الله عليه وسلم ـ نكح وهو محرم ‏.‏",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -25,8 +25,8 @@
 				}
 			],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 9,
+				"hadith": 121
 			}
 		}
 	]

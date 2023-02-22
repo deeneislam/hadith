@@ -2195,6 +2195,33 @@
 			}
 		},
 		{
+			"hadithnumber": 1929,
+			"arabicnumber": 1929,
+			"text": "“... Ömer bin el-Hattâb (radıyallahü anh)’den; Şöyle demiştir: kadının izni olmadıkça (kocası tarafından) ondan azil yapılmasını Resûlüllah (sallallahü aleyhi ve sellem) yasaklamıştır",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Shuaib Al Arnaut",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 85
+			}
+		},
+		{
 			"hadithnumber": 1930,
 			"arabicnumber": 1930,
 			"text": "Ebu Said-i Hudri (r.a.)'den; Şöyle demiştir: Adam'ın, bir kadınla onun halasını, yine bir kadınla onun teyzesini birlikte nikahı altında bulundurmasının yasaklığını Resulullah (Sallallahu Aleyhi ve Sellem)'den işittim. Not:. Zevaid'de şöyle denilmiştir: Bunun senedinde bulunan Muhammed bin İshak tedlisçi olup bu hadisi an'ane ile rivayet etmiştir. AÇIKLAMA VE TAHRİC BİLGİSİ 1931’de",
@@ -3105,6 +3132,29 @@
 			"reference": {
 				"book": 9,
 				"hadith": 120
+			}
+		},
+		{
+			"hadithnumber": 1965,
+			"arabicnumber": 1965,
+			"text": "Abdullah bin Alılıas (r.a.)'dan: Şöyle demiştir: Nebi (Sallallahu Aleyhi ve Sellem) ihramda iken (Meymune ile) evlendi. EBU DAVUD HADİSİ VE İZAH İÇİN TIKLA",
+			"grades": [
+				{
+					"name": "Al-Albani",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Muhammad Fouad Abd al-Baqi",
+					"grade": "Shadh"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Hasan Or Sahih"
+				}
+			],
+			"reference": {
+				"book": 9,
+				"hadith": 121
 			}
 		},
 		{

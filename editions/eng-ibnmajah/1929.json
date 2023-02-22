@@ -2,14 +2,14 @@
 	"metadata": {
 		"name": "Sunan Ibn Majah",
 		"section": {
-			"0": "The Book of the Sunnah"
+			"9": "The Chapters on Marriage"
 		}
 	},
 	"hadiths": [
 		{
 			"hadithnumber": 1929,
 			"arabicnumber": 1929,
-			"text": "",
+			"text": "It was narrated from Abu Hurairah: that the Prophet said: “A woman should not be married to a man who is married to her paternal aunt of maternal aunt (at the same time).”",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -29,8 +29,8 @@
 				}
 			],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 9,
+				"hadith": 85
 			}
 		}
 	]
