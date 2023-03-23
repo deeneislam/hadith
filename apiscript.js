@@ -322,6 +322,11 @@ function generateFiles(json, jsondata) {
       delete sectionObj["metadata"]["sections"]
       sectionObj["metadata"]["section"] = {}
       sectionObj["metadata"]["section"][key] = value
+      
+      sectionObj["metadata"]["section_detail"] = {}
+      sectionObj["metadata"]["section_detail"][key] = sectionObj["metadata"]["section_details"][key]
+      delete sectionObj["metadata"]["section_details"]
+
       sectionObj["metadata"] = sortJSON(sectionObj["metadata"], sortByArr)
       saveJSON(sectionObj, path.join(sectionsPath, key + '.json'), prettyindent)
       saveJSON(sectionObj, path.join(sectionsPath, key + '.min.json'))
@@ -339,6 +344,10 @@ function generateFiles(json, jsondata) {
       //let sectionNum = mode(singleObj["hadiths"].map(e=>e.reference.book))
       let sectionNum = singleObj["hadiths"][0].reference.book
       singleObj["metadata"]["section"][sectionNum] = metainfo[bookName]["metadata"]["sections"][sectionNum]
+
+      singleObj["metadata"]["section_detail"] = {}
+      singleObj["metadata"]["section_detail"][sectionNum] = metainfo[bookName]["metadata"]["section_details"][sectionNum]
+      delete singleObj["metadata"]["section_details"]
 
       singleObj["metadata"] = sortJSON(singleObj["metadata"], sortByArr)
       singleObj = sortJSON(singleObj, sortByArr)
