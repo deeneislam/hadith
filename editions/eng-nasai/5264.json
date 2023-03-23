@@ -3,6 +3,14 @@
 		"name": "Sunan an Nasai",
 		"section": {
 			"48": "The Book of Adornment"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 5040,
+				"hadithnumber_last": 5378,
+				"arabicnumber_first": 5040,
+				"arabicnumber_last": 5378
+			}
 		}
 	},
 	"hadiths": [

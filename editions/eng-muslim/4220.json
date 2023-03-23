@@ -3,6 +3,14 @@
 		"name": "Sahih Muslim",
 		"section": {
 			"25": "The Book of Wills"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 4204,
+				"hadithnumber_last": 4234,
+				"arabicnumber_first": 1004.03,
+				"arabicnumber_last": 1637.03
+			}
 		}
 	},
 	"hadiths": [

@@ -3,6 +3,14 @@
 		"name": "Sahih Muslim",
 		"section": {
 			"20": "The Book of Emancipating Slaves"
+		},
+		"section_detail": {
+			"20": {
+				"hadithnumber_first": 3770,
+				"hadithnumber_last": 3800,
+				"arabicnumber_first": 1370.04,
+				"arabicnumber_last": 1510.02
+			}
 		}
 	},
 	"hadiths": [
