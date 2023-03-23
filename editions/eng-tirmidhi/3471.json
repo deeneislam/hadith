@@ -13,10 +13,14 @@
 			"grades": [
 				{
 					"name": "Ahmad Muhammad Shakir",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Al-Albani",
+					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
 					"grade": "Daif"
 				}
 			],

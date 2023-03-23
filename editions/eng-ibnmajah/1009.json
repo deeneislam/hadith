@@ -9,7 +9,7 @@
 		{
 			"hadithnumber": 1009,
 			"arabicnumber": 1009,
-			"text": "It was narrated that Anas bin Malik told that ‘Umar said:“I said: ‘O Messenger of Allah (ﷺ), why do you not take the Maqam of Ibrahim as a place of prayer?’ Then the following was revealed: ‘And take you (people) the Maqam of Ibrahim as a place of prayer.’” [2:125]",
+			"text": "It was narrated that Anas bin Malik told that ‘Umar said:“I said: ‘O Messenger of Allah (ﷺ), why do you not take the Maqam of Ibrahim as a place of prayer?’ Then the following was revealed: ‘And take you (people) the Maqam of Ibrahim as a place of prayer.’” [2:]",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -25,7 +25,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {

@@ -9,7 +9,7 @@
 		{
 			"hadithnumber": 2937,
 			"arabicnumber": 2937,
-			"text": "Narrated 'Abdullah bin Mas'ud:that the Messenger of Allah (ﷺ) would recite: \"Then is there anyone who would remember? (54:17)",
+			"text": "Narrated 'Abdullah bin Mas'ud:that the Messenger of Allah (ﷺ) would recite: \"Then is there anyone who would remember? (54:)",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -18,6 +18,10 @@
 				{
 					"name": "Bashar Awad Maarouf",
 					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {

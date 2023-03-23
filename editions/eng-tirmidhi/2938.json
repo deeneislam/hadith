@@ -9,11 +9,15 @@
 		{
 			"hadithnumber": 2938,
 			"arabicnumber": 2938,
-			"text": "Narrated 'Aishah:that the Prophet (ﷺ) would recite: \"Furuhun Wa Raihanun Wa Jannatu Na'im (56:89)",
+			"text": "Narrated 'Aishah:that the Prophet (ﷺ) would recite: \"Furuhun Wa Raihanun Wa Jannatu Na'im (56:)",
 			"grades": [
 				{
 					"name": "Al-Albani",
 					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {

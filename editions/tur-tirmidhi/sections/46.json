@@ -152,6 +152,10 @@
 				{
 					"name": "Al-Albani",
 					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -175,6 +179,10 @@
 				{
 					"name": "Bashar Awad Maarouf",
 					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -244,6 +252,10 @@
 				{
 					"name": "Bashar Awad Maarouf",
 					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -259,6 +271,10 @@
 				{
 					"name": "Al-Albani",
 					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -282,6 +298,10 @@
 				{
 					"name": "Bashar Awad Maarouf",
 					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -305,6 +325,10 @@
 				{
 					"name": "Bashar Awad Maarouf",
 					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -323,6 +347,10 @@
 				},
 				{
 					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
 					"grade": "Sahih"
 				}
 			],
@@ -347,6 +375,10 @@
 				{
 					"name": "Bashar Awad Maarouf",
 					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -369,7 +401,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {

@@ -9,7 +9,7 @@
 		{
 			"hadithnumber": 342,
 			"arabicnumber": 342,
-			"text": "İbn Ömer (r.a)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v) zamanında erkekler ve kadınlar aynı kaptaki suyu kullanarak abdest alırlardı. (Buhârî, Vudu’: 46; İbn Mâce, Tahara: 36)",
+			"text": "İbn Ömer (r.a)’den rivâyete göre, şöyle demiştir: Rasûlullah (s.a.v) zamanında erkekler ve kadınlar aynı kaptaki suyu kullanarak abdest alırlardı. (Buhârî, Vudu’: 46; İbn Mâce, Tahara:)",
 			"grades": [
 				{
 					"name": "Abu Ghuddah",
@@ -21,7 +21,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {

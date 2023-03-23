@@ -75,7 +75,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -102,7 +102,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (1977)"
 				}
 			],
 			"reference": {
@@ -129,7 +129,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (1967)"
 				}
 			],
 			"reference": {
@@ -152,7 +152,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari"
+					"grade": "Sahih Bukhari (1712)"
 				}
 			],
 			"reference": {
@@ -175,7 +175,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari"
+					"grade": "Sahih Bukhari (3799)"
 				}
 			],
 			"reference": {
@@ -202,7 +202,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -256,7 +256,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (1963)"
 				}
 			],
 			"reference": {
@@ -283,7 +283,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -333,7 +333,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (983) Sahih Muslim (1961)"
 				}
 			],
 			"reference": {
@@ -360,7 +360,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (5556) Sahih Muslim (1961)"
 				}
 			],
 			"reference": {
@@ -433,7 +433,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -514,7 +514,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (1318)"
 				}
 			],
 			"reference": {
@@ -568,7 +568,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (1318)"
 				}
 			],
 			"reference": {
@@ -637,7 +637,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (1971)"
 				}
 			],
 			"reference": {
@@ -691,7 +691,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (1975)"
 				}
 			],
 			"reference": {
@@ -718,7 +718,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Muslim (1955)"
 				}
 			],
 			"reference": {
@@ -745,7 +745,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Bukhari (5513) Sahih Muslim (1956)"
 				}
 			],
 			"reference": {
@@ -756,7 +756,7 @@
 		{
 			"hadithnumber": 2817,
 			"arabicnumber": 2817,
-			"text": "İbn Abbâs'dan demiştir ki: (Yüce Allah) \"Üzerine Allah'ın adı anılmış olanlardan yeyin.....\"[En'âm, 118] \"Üzerine Allah'ın adı anılmayanlardan yemeyin\"[En’âm, 121] (âyetlerini indirdi). Bir süre sonra da bunu neshetti. ve (bazı yiyecekleri helâl kılarak) bu (âyetin genel hükmü)nden dışarı çıkardı. (Bu hükmünü bildirmek üzere şöyle) buyurdu: \"Kendilerine kitap verilmiş olanların yemeği, size helâldir.. Sizin yemeğiniz de onlara helaldir.\"[Mâide 5]",
+			"text": "İbn Abbâs'dan demiştir ki: (Yüce Allah) \"Üzerine Allah'ın adı anılmış olanlardan yeyin.....\"[En'âm, 118] \"Üzerine Allah'ın adı anılmayanlardan yemeyin\"[En’âm, 121] (âyetlerini indirdi). Bir süre sonra da bunu neshetti. ve (bazı yiyecekleri helâl kılarak) bu (âyetin genel hükmü)nden dışarı çıkardı. (Bu hükmünü bildirmek üzere şöyle) buyurdu: \"Kendilerine kitap verilmiş olanların yemeği, size helâldir.. Sizin yemeğiniz de onlara helaldir.\"[Mâide]",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -814,15 +814,15 @@
 			"grades": [
 				{
 					"name": "Al-Albani",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -868,7 +868,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (5498) Sahih Muslim (1968)"
 				}
 			],
 			"reference": {
@@ -960,7 +960,7 @@
 				},
 				{
 					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Shuaib Al Arnaut",
@@ -979,7 +979,7 @@
 		{
 			"hadithnumber": 2826,
 			"arabicnumber": 2826,
-			"text": "İbn Abbas ile Ebü Hüreyre'den rivayet olunmuştur ki: \"Rasûlullah (S.A.V.) şeritatüşşeytanı yasaklamıştır\" (Ravî el-Hasen) İbn îsa (şeritatüşşeytan tabirini açıklamak üzere) rivayetine (şu sözleri de) ekledi: \"O derisinin (ve boğazının bir kısmının) kesilerek (yemek ve nefes borularının sağ ve solunda bulunan) iki şah damarı kesilmeden bırakılan, sonra ölünceye kadar (o hal üzere terk edilmek suretiyle) kesilen hayvandır\" Diğer tahric: Müsned 19359",
+			"text": "İbn Abbas ile Ebü Hüreyre'den rivayet olunmuştur ki: \"Rasûlullah (S.A.V.) şeritatüşşeytanı yasaklamıştır\" (Ravî el-Hasen) İbn îsa (şeritatüşşeytan tabirini açıklamak üzere) rivayetine (şu sözleri de) ekledi: \"O derisinin (ve boğazının bir kısmının) kesilerek (yemek ve nefes borularının sağ ve solunda bulunan) iki şah damarı kesilmeden bırakılan, sonra ölünceye kadar (o hal üzere terk edilmek suretiyle) kesilen hayvandır\" Diğer tahric: Müsned",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -1018,7 +1018,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -1114,7 +1114,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (5474) Sahih Muslim (1976)"
 				}
 			],
 			"reference": {
@@ -1141,7 +1141,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -1322,7 +1322,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari"
+					"grade": "Sahih Bukhari (5471، 5472)"
 				}
 			],
 			"reference": {

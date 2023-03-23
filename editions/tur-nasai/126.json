@@ -9,7 +9,7 @@
 		{
 			"hadithnumber": 126,
 			"arabicnumber": 126,
-			"text": "Saffan b. Assâl (radıyallahü anh) şöyle demiştir: sallallahü aleyhi ve sellem) yolculukta bize mestlerimizi üç gün üç gece çıkarmamak üzere izin verdi.) (Müslim, Tahara: 24; İbn Mâce, Tahara: 86)",
+			"text": "Saffan b. Assâl (radıyallahü anh) şöyle demiştir: sallallahü aleyhi ve sellem) yolculukta bize mestlerimizi üç gün üç gece çıkarmamak üzere izin verdi.) (Müslim, Tahara: 24; İbn Mâce, Tahara:)",
 			"grades": [
 				{
 					"name": "Abu Ghuddah",
@@ -21,7 +21,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {

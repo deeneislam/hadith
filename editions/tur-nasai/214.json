@@ -9,7 +9,7 @@
 		{
 			"hadithnumber": 214,
 			"arabicnumber": 214,
-			"text": "Câbir b. Abdullah (radıyallahü anh)’den rivâyet edilmiştir: Esma binti Umeys Zulhuleyfe denilen yerde lohusa olunca, Rasûlüllah (sallallahü aleyhi ve sellem), Ebû Bekir es Sıddık’a: yıkanmasını ve ihrama niyet etmesini emret) buyurdular. (Müslim, Hac: 15; İbn Mâce, Menasik: 12)",
+			"text": "Câbir b. Abdullah (radıyallahü anh)’den rivâyet edilmiştir: Esma binti Umeys Zulhuleyfe denilen yerde lohusa olunca, Rasûlüllah (sallallahü aleyhi ve sellem), Ebû Bekir es Sıddık’a: yıkanmasını ve ihrama niyet etmesini emret) buyurdular. (Müslim, Hac: 15; İbn Mâce, Menasik:)",
 			"grades": [
 				{
 					"name": "Abu Ghuddah",
@@ -18,10 +18,6 @@
 				{
 					"name": "Al-Albani",
 					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
 				}
 			],
 			"reference": {

@@ -218,10 +218,6 @@
 				{
 					"name": "Shuaib Al Arnaut",
 					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -241,10 +237,6 @@
 				{
 					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
 					"grade": "Sahih Maqtu"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -321,7 +313,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (2912)"
 				}
 			],
 			"reference": {
@@ -348,7 +340,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (2929) Sahih Muslim (2912)"
 				}
 			],
 			"reference": {
@@ -494,7 +486,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (2941)"
 				}
 			],
 			"reference": {
@@ -521,7 +513,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (2901)"
 				}
 			],
 			"reference": {
@@ -548,7 +540,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (4635) Sahih Muslim (157)"
 				}
 			],
 			"reference": {
@@ -571,7 +563,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (7119) Sahih Muslim (2894)"
 				}
 			],
 			"reference": {
@@ -594,7 +586,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari"
+					"grade": "Sahih Bukhari (7119) Sahih Muslim (2894)"
 				}
 			],
 			"reference": {
@@ -617,7 +609,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (3450) Sahih Muslim (2934)"
 				}
 			],
 			"reference": {
@@ -640,7 +632,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (7131) Sahih Muslim (2933)"
 				}
 			],
 			"reference": {
@@ -663,7 +655,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (2933)"
 				}
 			],
 			"reference": {
@@ -686,7 +678,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (2933)"
 				}
 			],
 			"reference": {
@@ -732,7 +724,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -755,7 +747,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (2937)"
 				}
 			],
 			"reference": {
@@ -801,7 +793,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (809)"
 				}
 			],
 			"reference": {
@@ -878,7 +870,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (2942)"
 				}
 			],
 			"reference": {
@@ -905,7 +897,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -959,7 +951,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (3055) Sahih Muslim (2930)"
 				}
 			],
 			"reference": {
@@ -1013,7 +1005,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (7355) Sahih Muslim (2929)"
 				}
 			],
 			"reference": {
@@ -1240,7 +1232,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (49)"
 				}
 			],
 			"reference": {
@@ -1436,7 +1428,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (2537)"
 				}
 			],
 			"reference": {
@@ -1482,7 +1474,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {

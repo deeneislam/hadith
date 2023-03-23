@@ -128,7 +128,7 @@
 		{
 			"hadithnumber": 2932,
 			"arabicnumber": 2932,
-			"text": "Telah menceritakan kepada kami [Yahya bin Musa] telah menceritakan kepada kami [Waki'] dan [Habban bin Hilal] keduanya berkata; telah menceritakan kepada kami [Harun An Nahwi] dari [Tsabit Al Bunani] dari [Syahr bin Hausyab] dari [Ummu Salamah] bahwa Rasulullah shallallahu 'alaihi wasallam membaca ayat ini: \"INNAHU AMILA GHAIRU SHAALIH (Sesungguhnya (perbuatan) nya, perbuatan yang tidak baik).\" QS Huud: 46",
+			"text": "Telah menceritakan kepada kami [Yahya bin Musa] telah menceritakan kepada kami [Waki'] dan [Habban bin Hilal] keduanya berkata; telah menceritakan kepada kami [Harun An Nahwi] dari [Tsabit Al Bunani] dari [Syahr bin Hausyab] dari [Ummu Salamah] bahwa Rasulullah shallallahu 'alaihi wasallam membaca ayat ini: \"INNAHU AMILA GHAIRU SHAALIH (Sesungguhnya (perbuatan) nya, perbuatan yang tidak baik).\" QS Huud:",
 			"grades": [
 				{
 					"name": "Zubair Ali Zai",
@@ -152,6 +152,10 @@
 				{
 					"name": "Al-Albani",
 					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -175,6 +179,10 @@
 				{
 					"name": "Bashar Awad Maarouf",
 					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -244,6 +252,10 @@
 				{
 					"name": "Bashar Awad Maarouf",
 					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -259,6 +271,10 @@
 				{
 					"name": "Al-Albani",
 					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -269,7 +285,7 @@
 		{
 			"hadithnumber": 2939,
 			"arabicnumber": 2939,
-			"text": "Telah menceritakan kepada kami [Hannad] telah menceritakan kepada kami [Abu Muawiyah] dari [Al A'masy] dari [Ibrahim] dari ['Alqamah] ia berkata; \"Kami tiba di Syam, lalu kami mendatangi Abu Ad Darda`, ia bertanya; \"Apakah di antara kalian ada yang mau membacakan untukku bacaan Abdullah?.\" 'Alqamah berkata; \"Kemudian orang-orang menunjukku, aku lantas mejawab; \"Baiklah.\" Abu Ad Darda` bertanya; \"Bagaimana kamu mendengarkan [Abdullah] membaca ayat ini; \"WAL LAILI IDZA YAGHSYAA?\" 'Alqamah berkata; Aku menjawab; \"Aku mendengarnya meambacanya; \"WAL LAILI IDZA YAGHSYAA, WADZ DZAKARA WAL UNTSAA (Demi malam apabila menutupi (cahaya siang), dan demi penciptaan laki-laki dan perempuan).\" QS Al Lail; 1, 3. [Abu Ad Darda`] berkata; Demi Allah, aku mendengar Rasulullah shallallahu 'alaihi wasallam membacanya seperti itu, namun orang-orang menginginkanku untuk membacanya; \"WA MAA KHALAQA, \" akan tetapi aku tidak menuruti mereka.\" Abu Isa berkata; Hadits ini hasan shahih. Demikian juga bacaan Abdullah bin Mas'ud; \"WAL LAILI IDZAA YAGHSYAA WAN NAHAARI IDZAA TAJALLAA WAD DZAKARA WAL UNTSAA.\" Demi malam apabila menutupi (cahaya siang), Dan siang apabila terang benderang, Dan penciptaan laki-laki dan perempuan).\" QS Al Lail; 1-3",
+			"text": "Telah menceritakan kepada kami [Hannad] telah menceritakan kepada kami [Abu Muawiyah] dari [Al A'masy] dari [Ibrahim] dari ['Alqamah] ia berkata; \"Kami tiba di Syam, lalu kami mendatangi Abu Ad Darda`, ia bertanya; \"Apakah di antara kalian ada yang mau membacakan untukku bacaan Abdullah?.\" 'Alqamah berkata; \"Kemudian orang-orang menunjukku, aku lantas mejawab; \"Baiklah.\" Abu Ad Darda` bertanya; \"Bagaimana kamu mendengarkan [Abdullah] membaca ayat ini; \"WAL LAILI IDZA YAGHSYAA?\" 'Alqamah berkata; Aku menjawab; \"Aku mendengarnya meambacanya; \"WAL LAILI IDZA YAGHSYAA, WADZ DZAKARA WAL UNTSAA (Demi malam apabila menutupi (cahaya siang), dan demi penciptaan laki-laki dan perempuan).\" QS Al Lail; 1, 3. [Abu Ad Darda`] berkata; Demi Allah, aku mendengar Rasulullah shallallahu 'alaihi wasallam membacanya seperti itu, namun orang-orang menginginkanku untuk membacanya; \"WA MAA KHALAQA, \" akan tetapi aku tidak menuruti mereka.\" Abu Isa berkata; Hadits ini hasan shahih. Demikian juga bacaan Abdullah bin Mas'ud; \"WAL LAILI IDZAA YAGHSYAA WAN NAHAARI IDZAA TAJALLAA WAD DZAKARA WAL UNTSAA.\" Demi malam apabila menutupi (cahaya siang), Dan siang apabila terang benderang, Dan penciptaan laki-laki dan perempuan).\" QS Al Lail;",
 			"grades": [
 				{
 					"name": "Ahmad Muhammad Shakir",
@@ -282,6 +298,10 @@
 				{
 					"name": "Bashar Awad Maarouf",
 					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -305,6 +325,10 @@
 				{
 					"name": "Bashar Awad Maarouf",
 					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -323,6 +347,10 @@
 				},
 				{
 					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
 					"grade": "Sahih"
 				}
 			],
@@ -347,6 +375,10 @@
 				{
 					"name": "Bashar Awad Maarouf",
 					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -369,7 +401,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {

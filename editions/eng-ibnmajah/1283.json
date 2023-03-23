@@ -9,7 +9,7 @@
 		{
 			"hadithnumber": 1283,
 			"arabicnumber": 1283,
-			"text": "It was narrated from Ibn ‘Abbas that the Prophet (ﷺ) used to recite in the ‘Eid prayer “Glorify the Name of your Lord, the Most High.” [Al-A’la (87)] and “Has there come to you the narration of the overwhelming?” [Al-Ghashiyah (88]",
+			"text": "It was narrated from Ibn ‘Abbas that the Prophet (ﷺ) used to recite in the ‘Eid prayer “Glorify the Name of your Lord, the Most High.” [Al-A’la (87)] and “Has there come to you the narration of the overwhelming?” [Al-Ghashiyah]",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -25,7 +25,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {

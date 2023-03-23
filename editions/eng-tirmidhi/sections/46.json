@@ -32,7 +32,7 @@
 		{
 			"hadithnumber": 2928,
 			"arabicnumber": 2928,
-			"text": "Narrated Anas:that the Prophet (ﷺ), Abu Bakr, and 'Umar - and I think he said - and 'Uthman would recite: \"Maaliki Yawmid-Din (1:4)",
+			"text": "Narrated Anas:that the Prophet (ﷺ), Abu Bakr, and 'Umar - and I think he said - and 'Uthman would recite: \"Maaliki Yawmid-Din (1:)",
 			"grades": [
 				{
 					"name": "Ahmad Muhammad Shakir",
@@ -55,7 +55,7 @@
 		{
 			"hadithnumber": 2929,
 			"arabicnumber": 2929,
-			"text": "Narrated Anas bin Malik:\"The Prophet (ﷺ) would recite: 'Anin-nafsu Bin-Nafsi Wal-'Ainu Bil-'Aini'\" (From 5:45)",
+			"text": "Narrated Anas bin Malik:\"The Prophet (ﷺ) would recite: 'Anin-nafsu Bin-Nafsi Wal-'Ainu Bil-'Aini'\" (From 5:)",
 			"grades": [
 				{
 					"name": "Ahmad Muhammad Shakir",
@@ -128,7 +128,7 @@
 		{
 			"hadithnumber": 2932,
 			"arabicnumber": 2932,
-			"text": "Narrated Umm Salamah:\"The Messenger of Allah (ﷺ) recited this Ayah: 'Innahu 'Amalun Ghairu Salih'\" (11:46)",
+			"text": "Narrated Umm Salamah:\"The Messenger of Allah (ﷺ) recited this Ayah: 'Innahu 'Amalun Ghairu Salih'\" (11:)",
 			"grades": [
 				{
 					"name": "Zubair Ali Zai",
@@ -152,6 +152,10 @@
 				{
 					"name": "Al-Albani",
 					"grade": "Daif Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -162,7 +166,7 @@
 		{
 			"hadithnumber": 2934,
 			"arabicnumber": 2934,
-			"text": "Narrated Ibn 'Abbas:from Ubay bin Ka'b that the Prophet (ﷺ) recited: \"Fi 'Ainin Hami'ah\" (18:86)",
+			"text": "Narrated Ibn 'Abbas:from Ubay bin Ka'b that the Prophet (ﷺ) recited: \"Fi 'Ainin Hami'ah\" (18:)",
 			"grades": [
 				{
 					"name": "Ahmad Muhammad Shakir",
@@ -175,6 +179,10 @@
 				{
 					"name": "Bashar Awad Maarouf",
 					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -235,7 +243,7 @@
 		{
 			"hadithnumber": 2937,
 			"arabicnumber": 2937,
-			"text": "Narrated 'Abdullah bin Mas'ud:that the Messenger of Allah (ﷺ) would recite: \"Then is there anyone who would remember? (54:17)",
+			"text": "Narrated 'Abdullah bin Mas'ud:that the Messenger of Allah (ﷺ) would recite: \"Then is there anyone who would remember? (54:)",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -244,6 +252,10 @@
 				{
 					"name": "Bashar Awad Maarouf",
 					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -254,11 +266,15 @@
 		{
 			"hadithnumber": 2938,
 			"arabicnumber": 2938,
-			"text": "Narrated 'Aishah:that the Prophet (ﷺ) would recite: \"Furuhun Wa Raihanun Wa Jannatu Na'im (56:89)",
+			"text": "Narrated 'Aishah:that the Prophet (ﷺ) would recite: \"Furuhun Wa Raihanun Wa Jannatu Na'im (56:)",
 			"grades": [
 				{
 					"name": "Al-Albani",
 					"grade": "Sahih Isnaad"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -282,6 +298,10 @@
 				{
 					"name": "Bashar Awad Maarouf",
 					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -292,7 +312,7 @@
 		{
 			"hadithnumber": 2940,
 			"arabicnumber": 2940,
-			"text": "Narrated 'Abdullah:\"The Messenger of Allah (ﷺ) recited to me: \"Indeed Allah is the Provider, The Possessor of power, the Firm.\" (51:58)",
+			"text": "Narrated 'Abdullah:\"The Messenger of Allah (ﷺ) recited to me: \"Indeed Allah is the Provider, The Possessor of power, the Firm.\" (51:)",
 			"grades": [
 				{
 					"name": "Ahmad Muhammad Shakir",
@@ -305,6 +325,10 @@
 				{
 					"name": "Bashar Awad Maarouf",
 					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -315,7 +339,7 @@
 		{
 			"hadithnumber": 2941,
 			"arabicnumber": 2941,
-			"text": "Narrated 'Imran bin Husain:\"The Prophet (ﷺ) recited: You shall see mankind as if in a drunken state, yet they will not be in a drunken state. (22:2)",
+			"text": "Narrated 'Imran bin Husain:\"The Prophet (ﷺ) recited: You shall see mankind as if in a drunken state, yet they will not be in a drunken state. (22:)",
 			"grades": [
 				{
 					"name": "Ahmad Muhammad Shakir",
@@ -323,6 +347,10 @@
 				},
 				{
 					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
 					"grade": "Sahih"
 				}
 			],
@@ -347,6 +375,10 @@
 				{
 					"name": "Bashar Awad Maarouf",
 					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -369,7 +401,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {

@@ -9,7 +9,7 @@
 		{
 			"hadithnumber": 1,
 			"arabicnumber": 1,
-			"text": "Muğîre b. Şu'be'den demiştir ki; \"Nebi Sallellahu aleyhi ve seliem abdest bozacağı zaman (halkın gözünden) uzaklaşırdı\" Diğer tahric: Tîrimizi, taharet; Nesaî, tahare; İbn Mace tahare; Ahmed b. Hanbel, IV, 248",
+			"text": "Muğîre b. Şu'be'den demiştir ki; \"Nebi Sallellahu aleyhi ve seliem abdest bozacağı zaman (halkın gözünden) uzaklaşırdı\" Diğer tahric: Tîrimizi, taharet; Nesaî, tahare; İbn Mace tahare; Ahmed b. Hanbel, IV",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -106,7 +106,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih Bukhari (142) Sahih Muslim (375)"
 				}
 			],
 			"reference": {
@@ -140,7 +140,7 @@
 		{
 			"hadithnumber": 6,
 			"arabicnumber": 6,
-			"text": "Zeyd b. Erkam'dan, Nebi Sallallahu Aleyhi ve Sellem*în şöyle buyurduğu rivayet edilmiştir: \"Şu abdest bozulan yerler, (cin ve şeytanların) bulunacağı yerlerdir. Onun için sizden biriniz belâya girmek istediği zaman: \"Erkek ve dişi şeytanlardan Allah'a sığınırım\" desin. Diğer tahric: İbn Mace, tahare; Ahmed b. Hanbel, IV, 369, 373",
+			"text": "Zeyd b. Erkam'dan, Nebi Sallallahu Aleyhi ve Sellem*în şöyle buyurduğu rivayet edilmiştir: \"Şu abdest bozulan yerler, (cin ve şeytanların) bulunacağı yerlerdir. Onun için sizden biriniz belâya girmek istediği zaman: \"Erkek ve dişi şeytanlardan Allah'a sığınırım\" desin. Diğer tahric: İbn Mace, tahare; Ahmed b. Hanbel, IV",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -163,7 +163,7 @@
 		{
 			"hadithnumber": 7,
 			"arabicnumber": 7,
-			"text": "Selman (r.a)'dan rivayet olunduğuna göre, Kendisine: \"Nebiiniz size abdest bozarken nasıl oturulacağına kadar her şeyi öğretti (öyle) mi?\" diye sorulmuş da; \"Evet, salat ve selâm üzerine olsun (Allah Resulü) bizleri büyük abdest bozarken, su dökerken kıbleye yönelmekten, sağ elle, üçten az taşla, hayvan tezeği veya kemikle taharetlenmekten men etti\" diye cevap vermiştir. Diğer tahric: Buharî, vudu; Müslim, tahare; Tirmizî, tahare; Nesaî, tahare; İbn Mace, tahare; Dârîmî, vudu; Ahmed b. Hanbel V/439",
+			"text": "Selman (r.a)'dan rivayet olunduğuna göre, Kendisine: \"Nebiiniz size abdest bozarken nasıl oturulacağına kadar her şeyi öğretti (öyle) mi?\" diye sorulmuş da; \"Evet, salat ve selâm üzerine olsun (Allah Resulü) bizleri büyük abdest bozarken, su dökerken kıbleye yönelmekten, sağ elle, üçten az taşla, hayvan tezeği veya kemikle taharetlenmekten men etti\" diye cevap vermiştir. Diğer tahric: Buharî, vudu; Müslim, tahare; Tirmizî, tahare; Nesaî, tahare; İbn Mace, tahare; Dârîmî, vudu; Ahmed b. Hanbel V",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -179,7 +179,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (262)"
 				}
 			],
 			"reference": {
@@ -229,7 +229,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (394) Sahih Muslim (264)"
 				}
 			],
 			"reference": {
@@ -248,7 +248,7 @@
 				},
 				{
 					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Shuaib Al Arnaut",
@@ -279,7 +279,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -306,7 +306,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (145) Sahih Muslim (266)"
 				}
 			],
 			"reference": {
@@ -414,7 +414,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (370)"
 				}
 			],
 			"reference": {
@@ -441,7 +441,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -464,7 +464,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (373)"
 				}
 			],
 			"reference": {
@@ -483,7 +483,7 @@
 				},
 				{
 					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Zubair Ali Zai",
@@ -514,7 +514,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (6052) Sahih Muslim (292)"
 				}
 			],
 			"reference": {
@@ -541,7 +541,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari"
+					"grade": "Sahih Bukhari (216)"
 				}
 			],
 			"reference": {
@@ -595,7 +595,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (224) Sahih Muslim (273)"
 				}
 			],
 			"reference": {
@@ -618,7 +618,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -645,7 +645,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (269)"
 				}
 			],
 			"reference": {
@@ -699,7 +699,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -799,7 +799,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (153، 154) Sahih Muslim (267)"
 				}
 			],
 			"reference": {
@@ -845,7 +845,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -868,7 +868,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -964,7 +964,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (263)"
 				}
 			],
 			"reference": {
@@ -1083,7 +1083,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (152) Sahih Muslim (270)"
 				}
 			],
 			"reference": {
@@ -1164,7 +1164,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih Bukhari (887، 7240) Sahih Muslim (252)"
 				}
 			],
 			"reference": {
@@ -1175,7 +1175,7 @@
 		{
 			"hadithnumber": 47,
 			"arabicnumber": 47,
-			"text": "Zeyd b. Halid el-Cüheni'den, demiştir ki; Resulullah (sallallahu aleyhi ve sellem)ı, şöyle buyururken işittim: \"Mu'minlere sıkıntı vermeyecek olsaydım, her namaz'da misvak kullanmalarını emrederdim” (Hadisi Zeyd'den rivayet eden (Ebu Seleme de dedi ki: \"Ben Zeyd'i kulağına -katiplerin kulaklarına kalem koydukları yere misvak koymuş olarak mescidde otururken gördüm. Her namaza kalkışında misvak kullanırdı.\" Buharî, cuma; temennî, savm; Müslim, tahâre; Tirmizî, tahâre; Nesâî, tahâre ; Mevâkît İbn Mâce, tahâre; Dârimî, salât; Muvatta, tahâre, Ahmed b. Hanbel 410)",
+			"text": "Zeyd b. Halid el-Cüheni'den, demiştir ki; Resulullah (sallallahu aleyhi ve sellem)ı, şöyle buyururken işittim: \"Mu'minlere sıkıntı vermeyecek olsaydım, her namaz'da misvak kullanmalarını emrederdim” (Hadisi Zeyd'den rivayet eden (Ebu Seleme de dedi ki: \"Ben Zeyd'i kulağına -katiplerin kulaklarına kalem koydukları yere misvak koymuş olarak mescidde otururken gördüm. Her namaza kalkışında misvak kullanırdı.\" Buharî, cuma; temennî, savm; Müslim, tahâre; Tirmizî, tahâre; Nesâî, tahâre ; Mevâkît İbn Mâce, tahâre; Dârimî, salât; Muvatta, tahâre, Ahmed b. Hanbel)",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -1191,7 +1191,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -1245,7 +1245,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (244) Sahih Muslim (254)"
 				}
 			],
 			"reference": {
@@ -1299,7 +1299,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (253)"
 				}
 			],
 			"reference": {
@@ -1346,10 +1346,6 @@
 				{
 					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
 					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -1368,7 +1364,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -1395,7 +1391,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (245، 889) Sahih Muslim (255)"
 				}
 			],
 			"reference": {
@@ -1476,7 +1472,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (763)"
 				}
 			],
 			"reference": {
@@ -1530,7 +1526,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (135) Sahih Muslim (225)"
 				}
 			],
 			"reference": {
@@ -1753,7 +1749,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (282)"
 				}
 			],
 			"reference": {
@@ -1807,7 +1803,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (279)"
 				}
 			],
 			"reference": {
@@ -1884,7 +1880,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (280)"
 				}
 			],
 			"reference": {
@@ -1965,7 +1961,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari"
+					"grade": "Sahih Bukhari (299)"
 				}
 			],
 			"reference": {
@@ -2019,7 +2015,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari"
+					"grade": "Sahih Bukhari (193)"
 				}
 			],
 			"reference": {
@@ -2177,7 +2173,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (450)"
 				}
 			],
 			"reference": {
@@ -2258,7 +2254,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -2285,7 +2281,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (560)"
 				}
 			],
 			"reference": {
@@ -2477,7 +2473,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Muslim (241)"
 				}
 			],
 			"reference": {
@@ -2542,7 +2538,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (191، 197) Sahih Muslim (235)"
 				}
 			],
 			"reference": {
@@ -2619,7 +2615,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (278)"
 				}
 			],
 			"reference": {
@@ -2700,7 +2696,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (1934) Sahih Muslim (226)"
 				}
 			],
 			"reference": {
@@ -3004,7 +3000,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (185) Sahih Muslim (235)"
 				}
 			],
 			"reference": {
@@ -3031,7 +3027,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (191) Sahih Muslim (235)"
 				}
 			],
 			"reference": {
@@ -3054,7 +3050,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (236)"
 				}
 			],
 			"reference": {
@@ -3516,7 +3512,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari"
+					"grade": "Sahih Bukhari (157)"
 				}
 			],
 			"reference": {
@@ -3543,7 +3539,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -3570,7 +3566,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (162) Sahih Muslim (141)"
 				}
 			],
 			"reference": {
@@ -3616,7 +3612,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -3793,7 +3789,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (274 After  421)"
 				}
 			],
 			"reference": {
@@ -3816,7 +3812,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (274)"
 				}
 			],
 			"reference": {
@@ -3843,7 +3839,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (206) Sahih Muslim (274)"
 				}
 			],
 			"reference": {
@@ -3993,7 +3989,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -4043,7 +4039,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -4148,10 +4144,6 @@
 				{
 					"name": "Shuaib Al Arnaut",
 					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -4162,7 +4154,7 @@
 		{
 			"hadithnumber": 164,
 			"arabicnumber": 164,
-			"text": "Muhammed b. el-'Ala,Hafs b. Ğıyas vasıtasıyla A'meş'ten aynı senetle bu hadisi rivayet etmiştir. (Hz. Ali (r.a.) şöyle) demiştir: \"Eğer din akılla olsaydı ayağın altına meshetmek üstüne meshetmekten daha uygun olurdu. Halbuki Nebi (sallallahu aleyhi ve sellem) ayakkabılarının üstüne meshetti.\" Yine aynı hadisi Veki (b. el-Cerrah) A'meş'ten aynı senetle rivayet etmiştir. (Bu rivayette de Hz. Ali); \"Ben Rasulullah (sallallahu aleyhi ve sellem)'in ayaklarının üstüne meshettiğini görünceye kadar ayakların altını meshetmenin üstünü meshetmekten daha uygun olacağını zannederdim\" demiştir. Veki’ dedi ki (ayaklarda Hz. Ali'nin), kasdettiği, mestlerdir.\" Ve yine aynı hadisi İsa b. Yunus, Veki'nin (A'meş'ten) rivayet ettiği gibi rivayet etmiştir. Ebu's-Sevda'nın İbn Abd-i Hayr vasıtasıyla babası (Abd-i Hayr)dan rivayet ettiği aynı hadiste, (Abd-i Hayr); \"Ben Ali'yi abdest alıp ayaklarının üstünü meshten sonra, eğer ben Rasulullah (s.a.v.)'in şunu yaptığını görmeseydim...\" derken gördüm demiş ve bu hadisin asıl metnini zikretmiştir.[106]",
+			"text": "Muhammed b. el-'Ala,Hafs b. Ğıyas vasıtasıyla A'meş'ten aynı senetle bu hadisi rivayet etmiştir. (Hz. Ali (r.a.) şöyle) demiştir: \"Eğer din akılla olsaydı ayağın altına meshetmek üstüne meshetmekten daha uygun olurdu. Halbuki Nebi (sallallahu aleyhi ve sellem) ayakkabılarının üstüne meshetti.\" Yine aynı hadisi Veki (b. el-Cerrah) A'meş'ten aynı senetle rivayet etmiştir. (Bu rivayette de Hz. Ali); \"Ben Rasulullah (sallallahu aleyhi ve sellem)'in ayaklarının üstüne meshettiğini görünceye kadar ayakların altını meshetmenin üstünü meshetmekten daha uygun olacağını zannederdim\" demiştir. Veki’ dedi ki (ayaklarda Hz. Ali'nin), kasdettiği, mestlerdir.\" Ve yine aynı hadisi İsa b. Yunus, Veki'nin (A'meş'ten) rivayet ettiği gibi rivayet etmiştir. Ebu's-Sevda'nın İbn Abd-i Hayr vasıtasıyla babası (Abd-i Hayr)dan rivayet ettiği aynı hadiste, (Abd-i Hayr); \"Ben Ali'yi abdest alıp ayaklarının üstünü meshten sonra, eğer ben Rasulullah (s.a.v.)'in şunu yaptığını görmeseydim...\" derken gördüm demiş ve bu hadisin asıl metnini zikretmiştir",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -4297,7 +4289,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (234)"
 				}
 			],
 			"reference": {
@@ -4351,7 +4343,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari"
+					"grade": "Sahih Bukhari (214)"
 				}
 			],
 			"reference": {
@@ -4378,7 +4370,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (277)"
 				}
 			],
 			"reference": {
@@ -4474,7 +4466,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (137) Sahih Muslim (361)"
 				}
 			],
 			"reference": {
@@ -4501,7 +4493,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (362)"
 				}
 			],
 			"reference": {
@@ -4601,7 +4593,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -4678,7 +4670,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -4728,7 +4720,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (2957)"
 				}
 			],
 			"reference": {
@@ -4747,7 +4739,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (207) Sahih Muslim (354)"
 				}
 			],
 			"reference": {
@@ -4793,7 +4785,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -4982,7 +4974,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (211) Sahih Muslim (358)"
 				}
 			],
 			"reference": {
@@ -5059,7 +5051,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (570) Sahih Muslim (639)"
 				}
 			],
 			"reference": {
@@ -5082,7 +5074,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (376)"
 				}
 			],
 			"reference": {
@@ -5109,7 +5101,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (376)"
 				}
 			],
 			"reference": {
@@ -5502,7 +5494,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (291) Sahih Muslim (248)"
 				}
 			],
 			"reference": {
@@ -5529,7 +5521,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (343)"
 				}
 			],
 			"reference": {
@@ -5556,7 +5548,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -5567,7 +5559,7 @@
 		{
 			"hadithnumber": 219,
 			"arabicnumber": 219,
-			"text": "Ebu Rafi (r.a)'den, demiştir ki; Resulullah (sallallahu aleyhi ve sellem) bir gün her birinin yanında (ayrı ayrı) yıkanmak suretiyle, (bütün) hanımları dolaştı. Ebu Rafi şöyle dedi; \"Ya Resulullah, hepsi için bir kerre gusül etsen olmaz mıydı?\" dedim. \"Bu, (sevap yönünden) daha iyi (kalbin tatmini için) daha güzel, (beden için) daha temizdir\" buyurdu. Ebu Davud: \"Enes'in (Önceki) Hadisi bundan daha sahihtir\" demiştir. Diğer tahric: İbn Mace, Tahare 102; Ahmed b. Hanbel, VI, 8, 10, 39",
+			"text": "Ebu Rafi (r.a)'den, demiştir ki; Resulullah (sallallahu aleyhi ve sellem) bir gün her birinin yanında (ayrı ayrı) yıkanmak suretiyle, (bütün) hanımları dolaştı. Ebu Rafi şöyle dedi; \"Ya Resulullah, hepsi için bir kerre gusül etsen olmaz mıydı?\" dedim. \"Bu, (sevap yönünden) daha iyi (kalbin tatmini için) daha güzel, (beden için) daha temizdir\" buyurdu. Ebu Davud: \"Enes'in (Önceki) Hadisi bundan daha sahihtir\" demiştir. Diğer tahric: İbn Mace, Tahare 102; Ahmed b. Hanbel, VI",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -5606,7 +5598,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (308)"
 				}
 			],
 			"reference": {
@@ -5633,7 +5625,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (290) Sahih Muslim (306)"
 				}
 			],
 			"reference": {
@@ -5660,7 +5652,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (305)"
 				}
 			],
 			"reference": {
@@ -5706,7 +5698,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (305)"
 				}
 			],
 			"reference": {
@@ -5833,7 +5825,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -5860,7 +5852,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (372)"
 				}
 			],
 			"reference": {
@@ -5887,7 +5879,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (283) Sahih Muslim (371)"
 				}
 			],
 			"reference": {
@@ -5991,7 +5983,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (639، 640) Sahih Muslim (605)"
 				}
 			],
 			"reference": {
@@ -6041,7 +6033,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (314)"
 				}
 			],
 			"reference": {
@@ -6068,7 +6060,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Bukhari (250) Sahih Muslim (319)"
 				}
 			],
 			"reference": {
@@ -6091,7 +6083,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (254) Sahih Muslim (327)"
 				}
 			],
 			"reference": {
@@ -6118,7 +6110,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (258) Sahih Muslim (318)"
 				}
 			],
 			"reference": {
@@ -6172,7 +6164,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (248) Sahih Muslim (316)"
 				}
 			],
 			"reference": {
@@ -6237,7 +6229,7 @@
 		{
 			"hadithnumber": 245,
 			"arabicnumber": 245,
-			"text": "İbn Abbas, teyzesi Meymune’nin şöyle dediğini haber vermiştir: \"Resulullah (sallallahu aleyhi ve sellem) için cünuplükten dolayı yıkanacağı suyu hazırladım. Kabı sağ elinin üzerine eğdi, iki veya üç defa yıkadı. (şek A'meştendir) Sonra avret yerine su döktü ve orayı sol eliyle yıkadı. Daha sonra da (sol) elini yere sürttü ve yıkadı.Bilahere ağzına ve burnuna su aldı, yüzünü ve ellerini yıkadı, başına ve vücuduna su döktü, kenara çekilerek ayaklarını yıkadı.Ona havluyu verdim almadı, suyu bedeninden (silip silkeleyerek) atmaya başladı. (el-A'meş der ki) Bunu (Resulullah (s.a.v.)'m havluyu almayıp, üzerinden su serptiğini) İbrahim (en-Nehai'y)e söyledim. İbrahim; \"onlar havlu kullanmakta bir beis görmezlerdi, fakat onu adet edinmeyi kerih addederlerdi\" dedi. Ebu Davud, Müsedded'in şu sözünü nakleder: \"Abdullah İbn Davud'a, \"Onlar havluyu adet edinmeyi kerih görürlerdi\" şeklinde bir şey biliyor musun? dedim o; evet öyledir (Meymune'nin rivayetinde, onlar bunun adet olmasını kerih görürlerdi ibaresi yoktu) fakat ben kitabımda bu ibareyi mevcut olarak buldum, dedi.\" Diğer tahric: Buhari, gusl 8, 11, 18, 21; Nesai, Gusl 22; Ahmed b. Hanbel, VI, 335",
+			"text": "İbn Abbas, teyzesi Meymune’nin şöyle dediğini haber vermiştir: \"Resulullah (sallallahu aleyhi ve sellem) için cünuplükten dolayı yıkanacağı suyu hazırladım. Kabı sağ elinin üzerine eğdi, iki veya üç defa yıkadı. (şek A'meştendir) Sonra avret yerine su döktü ve orayı sol eliyle yıkadı. Daha sonra da (sol) elini yere sürttü ve yıkadı.Bilahere ağzına ve burnuna su aldı, yüzünü ve ellerini yıkadı, başına ve vücuduna su döktü, kenara çekilerek ayaklarını yıkadı.Ona havluyu verdim almadı, suyu bedeninden (silip silkeleyerek) atmaya başladı. (el-A'meş der ki) Bunu (Resulullah (s.a.v.)'m havluyu almayıp, üzerinden su serptiğini) İbrahim (en-Nehai'y)e söyledim. İbrahim; \"onlar havlu kullanmakta bir beis görmezlerdi, fakat onu adet edinmeyi kerih addederlerdi\" dedi. Ebu Davud, Müsedded'in şu sözünü nakleder: \"Abdullah İbn Davud'a, \"Onlar havluyu adet edinmeyi kerih görürlerdi\" şeklinde bir şey biliyor musun? dedim o; evet öyledir (Meymune'nin rivayetinde, onlar bunun adet olmasını kerih görürlerdi ibaresi yoktu) fakat ben kitabımda bu ibareyi mevcut olarak buldum, dedi.\" Diğer tahric: Buhari, gusl 8, 11, 18, 21; Nesai, Gusl 22; Ahmed b. Hanbel, VI",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -6249,7 +6241,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (249) Sahih Muslim (317)"
 				}
 			],
 			"reference": {
@@ -6391,7 +6383,7 @@
 		{
 			"hadithnumber": 251,
 			"arabicnumber": 251,
-			"text": "Ebu Davud'un Zuheyr b. Harb ve ibnu's-Serh'ten Rivayet ettiği hadiste Ümmü Seleme (r.anha) şöyle demiştir; \"Müslümanlardan bir kadın -Züheyr, dedi ki; Ümmü Seleme kendisi- Resulullah (sallallahu aleyhi ve sellem)'e: \"Ya Resullah, ben saçımı bağlayan bir kadınım. Cünuplükten dolayı (yıkanacağımda) onu çözeyim mi?\" dedi. Resullah (sallallahu aleyhi ve sellem): \"Başına sadece üç avuç su dökmen sana kafidir\" cevabını verdi.\" Züheyr bu kısmı, \"Rasulullah (sallallahu aleyhi ve sellem) \"Başa üç avuç su dökmen kafidir. Sonra da (suyu) bedeninin geri kalan kısmına dökersin işte o zaman sen temizlendin demektir\" buyurdu\" şeklinde rivayet etti.\" Diğer tahric: Tirmizi, tahare 77; Nesai, tahare 149; lbn Mace, tahare 108",
+			"text": "Ebu Davud'un Zuheyr b. Harb ve ibnu's-Serh'ten Rivayet ettiği hadiste Ümmü Seleme (r.anha) şöyle demiştir; \"Müslümanlardan bir kadın -Züheyr, dedi ki; Ümmü Seleme kendisi- Resulullah (sallallahu aleyhi ve sellem)'e: \"Ya Resullah, ben saçımı bağlayan bir kadınım. Cünuplükten dolayı (yıkanacağımda) onu çözeyim mi?\" dedi. Resullah (sallallahu aleyhi ve sellem): \"Başına sadece üç avuç su dökmen sana kafidir\" cevabını verdi.\" Züheyr bu kısmı, \"Rasulullah (sallallahu aleyhi ve sellem) \"Başa üç avuç su dökmen kafidir. Sonra da (suyu) bedeninin geri kalan kısmına dökersin işte o zaman sen temizlendin demektir\" buyurdu\" şeklinde rivayet etti.\" Diğer tahric: Tirmizi, tahare 77; Nesai, tahare 149; lbn Mace, tahare",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -6407,7 +6399,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (330)"
 				}
 			],
 			"reference": {
@@ -6457,7 +6449,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari"
+					"grade": "Sahih Bukhari (277)"
 				}
 			],
 			"reference": {
@@ -6468,7 +6460,7 @@
 		{
 			"hadithnumber": 254,
 			"arabicnumber": 254,
-			"text": "Aişe (r. anha)'dan, demiştir ki; \"Bizler ihramlı ve ihramsız olarak Rasulullah (sallallahu aleyhi ve sellem) ile beraber iken ve başımızda (saç örgülerimiz de) olduğu halde (onları çözmeden) yıkanırdık.\" Ayrıca bak, Ahmed b. Hanbel, VE, 79, 138",
+			"text": "Aişe (r. anha)'dan, demiştir ki; \"Bizler ihramlı ve ihramsız olarak Rasulullah (sallallahu aleyhi ve sellem) ile beraber iken ve başımızda (saç örgülerimiz de) olduğu halde (onları çözmeden) yıkanırdık.\" Ayrıca bak, Ahmed b. Hanbel, VE",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -6522,7 +6514,7 @@
 		{
 			"hadithnumber": 256,
 			"arabicnumber": 256,
-			"text": "Hz. Aişe (radiyallahu anha)'dan rivayet edildiğine göre; \"Resulullah (sallallahu aleyhi ve sellem) cünup olduğu halde başını hıtmi (karıştırılmış su) ile yıkar, bununla yetinir ve başına (ayrıca) su dökmezdi.\" Diğer tahric: Bu hadisi bu lafızlarla sadece Ebu Davud rivayet etrtıiştir. Benzer bir rivayet için bk. Ahmed b. Hanbel, VI, 78",
+			"text": "Hz. Aişe (radiyallahu anha)'dan rivayet edildiğine göre; \"Resulullah (sallallahu aleyhi ve sellem) cünup olduğu halde başını hıtmi (karıştırılmış su) ile yıkar, bununla yetinir ve başına (ayrıca) su dökmezdi.\" Diğer tahric: Bu hadisi bu lafızlarla sadece Ebu Davud rivayet etrtıiştir. Benzer bir rivayet için bk. Ahmed b. Hanbel, VI",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -6572,7 +6564,7 @@
 		{
 			"hadithnumber": 258,
 			"arabicnumber": 258,
-			"text": "Enes b. Malik (r.a.) demiştir ki; Yahudiler, bir kadın hayız olduğunda, onu evden çıkarırlar, onunla beraber yemezler, içmezler ve aynı evde birlikte bulunmazlardı. Bu durum Resulullah (sallallahu aleyhi ve sellem)'e soruldu. Bunun üzerine Allah Teala: \"Sana kadınların ay halini de sorarlar. De ki, O bir eziyettir. Onun için hayız zamanında kadınlardan ayrı kalın...(ila ahir)\"[Bakara 222] mealindeki ayet-i kerimeyi indirdi; Resulullah (sallallahu aleyhi ve sekken) de: \"Onlarla birlikte evlerde oturunuz ve cinsi temastan başka her şeyi yapınız” buyurdu. Bunun üzerine Yahudiler: \"Bu adam, bizim (dinimizin) işinden hiç bir şey bırakmadan hepsine muhalefet etmek istiyor\" dediler. (Bunu duyan) Useyd b. Hudayr ve Abbad b.Bişr Nebi (sallallahu aleyhi ve sellem)'e geldiler ve: \"Ya Resullah, Yahudiler şöyle şöyle diyorlar (onlara muhalefet olsun diye) hayızlı kadınlarla (cinsi) temasta da bulunsak mı?\" dediler. Resulullah (sallallahu aleyhi ve sellem)'in (mübarek) yüzünün (rengi) değişti, hatta biz onlara kızdığını zannettik. Bu iki zat (Resulullah'ın huzurundan) çıkmışlardı ki, Resulullah'a hediye olarak süt getiren biri ile karşılaştılar. Resulullah (sallallahu aleyhi ve sellem) peşlerinden gönderip kendilerine (bu sütten) içirdi. Böylece biz de Resullah'ın onlara kızmadığını anladık.\" Diğer tahric: Ebu Davud, nikah; Tirmizî, tefsiru’s-sure; Nesai, hayz; Darimi, vudu; Ahmed b. Hanbel I, 419, 421, 452, VI, 150",
+			"text": "Enes b. Malik (r.a.) demiştir ki; Yahudiler, bir kadın hayız olduğunda, onu evden çıkarırlar, onunla beraber yemezler, içmezler ve aynı evde birlikte bulunmazlardı. Bu durum Resulullah (sallallahu aleyhi ve sellem)'e soruldu. Bunun üzerine Allah Teala: \"Sana kadınların ay halini de sorarlar. De ki, O bir eziyettir. Onun için hayız zamanında kadınlardan ayrı kalın...(ila ahir)\"[Bakara 222] mealindeki ayet-i kerimeyi indirdi; Resulullah (sallallahu aleyhi ve sekken) de: \"Onlarla birlikte evlerde oturunuz ve cinsi temastan başka her şeyi yapınız” buyurdu. Bunun üzerine Yahudiler: \"Bu adam, bizim (dinimizin) işinden hiç bir şey bırakmadan hepsine muhalefet etmek istiyor\" dediler. (Bunu duyan) Useyd b. Hudayr ve Abbad b.Bişr Nebi (sallallahu aleyhi ve sellem)'e geldiler ve: \"Ya Resullah, Yahudiler şöyle şöyle diyorlar (onlara muhalefet olsun diye) hayızlı kadınlarla (cinsi) temasta da bulunsak mı?\" dediler. Resulullah (sallallahu aleyhi ve sellem)'in (mübarek) yüzünün (rengi) değişti, hatta biz onlara kızdığını zannettik. Bu iki zat (Resulullah'ın huzurundan) çıkmışlardı ki, Resulullah'a hediye olarak süt getiren biri ile karşılaştılar. Resulullah (sallallahu aleyhi ve sellem) peşlerinden gönderip kendilerine (bu sütten) içirdi. Böylece biz de Resullah'ın onlara kızmadığını anladık.\" Diğer tahric: Ebu Davud, nikah; Tirmizî, tefsiru’s-sure; Nesai, hayz; Darimi, vudu; Ahmed b. Hanbel I, 419, 421, 452, VI",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -6588,7 +6580,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (302)"
 				}
 			],
 			"reference": {
@@ -6599,7 +6591,7 @@
 		{
 			"hadithnumber": 259,
 			"arabicnumber": 259,
-			"text": "Aişe (r.anha)'dan şöyle demiştir; \"Ben hayızlı iken kemiğin üzerindeki eti ısırıp Nebi (sallallahu aleyhi ve sellem)'e verirdim; O da ağzını benim (ağzımı) koyduğum yere koyar (ısırır)dı. Bir şey içerken de Resulullah (sallellahu aleyhi ve sellem)'e verirdim. O da (içerken) ağzını, benim (ağzımı koyup) içtiğim yere koyardı.\" Diğer tahric: Müslim, hayz; Nesai, tahare; miyah; İbn Mace, tahare; Ahmed b. Hanbel, VI. 127, 210",
+			"text": "Aişe (r.anha)'dan şöyle demiştir; \"Ben hayızlı iken kemiğin üzerindeki eti ısırıp Nebi (sallallahu aleyhi ve sellem)'e verirdim; O da ağzını benim (ağzımı) koyduğum yere koyar (ısırır)dı. Bir şey içerken de Resulullah (sallellahu aleyhi ve sellem)'e verirdim. O da (içerken) ağzını, benim (ağzımı koyup) içtiğim yere koyardı.\" Diğer tahric: Müslim, hayz; Nesai, tahare; miyah; İbn Mace, tahare; Ahmed b. Hanbel, VI",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -6615,7 +6607,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (300)"
 				}
 			],
 			"reference": {
@@ -6626,7 +6618,7 @@
 		{
 			"hadithnumber": 260,
 			"arabicnumber": 260,
-			"text": "Aişe (radiyallahu anha)'dan şöyle demiştir; “Ben hayızlı iken Rasulullah (sallallahu aleyhi ve sellem) başını kucağıma koyar (Kur'an) okurdu.\" Diğer tahric: Buhari, hayz; Müslim, hayz; Nesai, tahare, hayz; ibn Mace, tahare; Ahmed b. Hanbel, VI. 69, 331, 334",
+			"text": "Aişe (radiyallahu anha)'dan şöyle demiştir; “Ben hayızlı iken Rasulullah (sallallahu aleyhi ve sellem) başını kucağıma koyar (Kur'an) okurdu.\" Diğer tahric: Buhari, hayz; Müslim, hayz; Nesai, tahare, hayz; ibn Mace, tahare; Ahmed b. Hanbel, VI",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -6642,7 +6634,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (297، 7549) Sahih Muslim (301)"
 				}
 			],
 			"reference": {
@@ -6653,7 +6645,7 @@
 		{
 			"hadithnumber": 261,
 			"arabicnumber": 261,
-			"text": "Aişe (radiyallahu anha)'dan demiştir ki: \"Resulullah (sallallahu aleyhi ve sellem) bana, \"Mescitten seccadeyi alıver.\" dedi. \"Ben hayzlıyım\" dedim. Bunun üzerine: \"Senin hayzın elinde değildir\" buyurdu. Diğer tahric: Müslim, hayz; Tırmizî, tahare; Nesai, tahare, hayz; Darimî, vudu’; Ahmed b. Hanbel, II, 70",
+			"text": "Aişe (radiyallahu anha)'dan demiştir ki: \"Resulullah (sallallahu aleyhi ve sellem) bana, \"Mescitten seccadeyi alıver.\" dedi. \"Ben hayzlıyım\" dedim. Bunun üzerine: \"Senin hayzın elinde değildir\" buyurdu. Diğer tahric: Müslim, hayz; Tırmizî, tahare; Nesai, tahare, hayz; Darimî, vudu’; Ahmed b. Hanbel, II",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -6669,7 +6661,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (298)"
 				}
 			],
 			"reference": {
@@ -6680,7 +6672,7 @@
 		{
 			"hadithnumber": 262,
 			"arabicnumber": 262,
-			"text": "Muaze (radiyallahu anha) demiştir ki; Bir kadın Aişe (r.anha)'ya; \"Hayızlı kadın (namazını) kaza eder mi?\" diye sordu. Hz. Aişe: \"Yoksa sen Haruri'misin? Bilesin ki, biz Resulullah (sallallahu aleyhi ve sellem) yanında (zamanında) hayız olur, (hayız günlerindeki namazları) kaza etmez ve kaza etmekle de emrolunmazdık\" karşılığını verdi. Diğer tahric: Buhari, hayz; Müslim, Hayz; Nesai, hayz, siyam; İbn Mace, Tahare ;Darimî, vudu'; Ahmed b. Hanbel, VI, 32, 94, 97, 120, 143, 185, 231",
+			"text": "Muaze (radiyallahu anha) demiştir ki; Bir kadın Aişe (r.anha)'ya; \"Hayızlı kadın (namazını) kaza eder mi?\" diye sordu. Hz. Aişe: \"Yoksa sen Haruri'misin? Bilesin ki, biz Resulullah (sallallahu aleyhi ve sellem) yanında (zamanında) hayız olur, (hayız günlerindeki namazları) kaza etmez ve kaza etmekle de emrolunmazdık\" karşılığını verdi. Diğer tahric: Buhari, hayz; Müslim, Hayz; Nesai, hayz, siyam; İbn Mace, Tahare ;Darimî, vudu'; Ahmed b. Hanbel, VI, 32, 94, 97, 120",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -6696,7 +6688,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Muslim (335)"
 				}
 			],
 			"reference": {
@@ -6746,7 +6738,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -6769,7 +6761,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -6792,7 +6784,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -6846,7 +6838,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (300، 2030) Sahih Muslim (293)"
 				}
 			],
 			"reference": {
@@ -6977,7 +6969,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (302) Sahih Muslim (293)"
 				}
 			],
 			"reference": {
@@ -7139,7 +7131,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (334)"
 				}
 			],
 			"reference": {
@@ -7189,7 +7181,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -7216,7 +7208,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (306) Sahih Muslim (333)"
 				}
 			],
 			"reference": {
@@ -7243,7 +7235,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari"
+					"grade": "Sahih Bukhari (306)"
 				}
 			],
 			"reference": {
@@ -7297,7 +7289,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (327) Sahih Muslim (334)"
 				}
 			],
 			"reference": {
@@ -7327,7 +7319,7 @@
 		{
 			"hadithnumber": 287,
 			"arabicnumber": 287,
-			"text": "Hamne bint Cahş (r. anha) şöyle demiştir: \"(Normal gününden)fazla ve sıkıntılı hayız görürdüm. Durumu haber verip fetva almak üzere Rasulullah (Sallallahu aleyhi ve Sellem)'e geldim. O'nu kız kardeşim Zeyneb bint Cahş'in evinde buldum ve dedim ki: Ya Rasulullah ben (gününden) fazla ve sıkıntılı hayz gören bir kadınım. Bu duruma ne buyurursun (ne yapayım)? Bu beni namazdan oruçtan alıkoydu. Rasulullah (Sallallahu aleyhi ve Sellem): \"Sana pamuğu tavsiye ederim. Çünkü o kan'ı giderir\" buyurdu. O kan bundan (pamuğun mani olacağından) daha çoktur dedim. Bez kullan buyurdu. Kan bundan da fazla devamlı geliyor, dedim. Bunun üzerine Rasulullah (Sallallahu aleyhi ve Sellem): İki hüküm söyleyeyim. Hangisini yaparsan sana yeter, ikisine de gücün yeterse, orasını sen bilirsin: Onlardan kuvvetli olanını seç şunu bil ki bu, (kanın gelmesi) ancak şeytanın darbelerinden biridir. Altı veya yedi gün, Allah'ın sana (kadınların adetlerinden) bildirdiği şeylerde kendini hayızlı say sonra da yıkan. Temizlendiğine ve paklandığına kanaat getirdiğinde yirmi üç veya yirmidört gün namaz kıl ve oruç tut. Çünkü bu (takdir edilen müddet) sana yeter. (Sıhhatli) kadınlar nasıl hayz vaktinde hayz oluyorlar, temizlik günlerinde de temizleniyorlarsa sen de her ay öylece yap. Eğer öğleyi (son vaktine kadar) geciktirip ikindiyi (ilk vaktinde) öne almaya ve yıkanıp bu iki namazı bir arada kılmaya, akşamı geciktirip yatsıyı öne almaya, sonra da yıkanıp iki namazı birleştirmeye gücün yeterse öyle yap. Sabah namazında yıkanabilirsen yıkan, (namaz kıl) ve gücün yeterse oruç tut.\" Rasulullah (Sallallahu aleyhi ve Sellem): \"Bu (iki namazı birleştirerek ikisi için bir gusul etmek) bana iki işin daha sevimli olanıdır\" buyurdu. Ebu Davud dedi ki: Bu hadisi Amr b. Sabit İbn Akil'den rivayet etmiştir. İbn Akil Hamne'nin;\"Dedim ki bu bana iki işin daha sevimli olanıdır\"dediğini söylemiş, bu sözü Rasulullahh (Sallallahu aleyhi ve Sellem)'i sözü değil, Hamne'nin sözü ka­bul etmiştir. Ebu Davud, Yahya b. Main'den naklen Amr b. Sabit'in Rafızi olduğunu söylemiştir. Yine Ebu Davud, Ahmed b. Hambel'in \"İbn Akil'in hadisi hakkında içimde bir şüphe var\" derken işittim demiştir. Diğer tahric: Tirmizi, tahare; Darimî, vudu'; Muvatta, hacc; Ahmed b. Hanbel, VI, 439, 464",
+			"text": "Hamne bint Cahş (r. anha) şöyle demiştir: \"(Normal gününden)fazla ve sıkıntılı hayız görürdüm. Durumu haber verip fetva almak üzere Rasulullah (Sallallahu aleyhi ve Sellem)'e geldim. O'nu kız kardeşim Zeyneb bint Cahş'in evinde buldum ve dedim ki: Ya Rasulullah ben (gününden) fazla ve sıkıntılı hayz gören bir kadınım. Bu duruma ne buyurursun (ne yapayım)? Bu beni namazdan oruçtan alıkoydu. Rasulullah (Sallallahu aleyhi ve Sellem): \"Sana pamuğu tavsiye ederim. Çünkü o kan'ı giderir\" buyurdu. O kan bundan (pamuğun mani olacağından) daha çoktur dedim. Bez kullan buyurdu. Kan bundan da fazla devamlı geliyor, dedim. Bunun üzerine Rasulullah (Sallallahu aleyhi ve Sellem): İki hüküm söyleyeyim. Hangisini yaparsan sana yeter, ikisine de gücün yeterse, orasını sen bilirsin: Onlardan kuvvetli olanını seç şunu bil ki bu, (kanın gelmesi) ancak şeytanın darbelerinden biridir. Altı veya yedi gün, Allah'ın sana (kadınların adetlerinden) bildirdiği şeylerde kendini hayızlı say sonra da yıkan. Temizlendiğine ve paklandığına kanaat getirdiğinde yirmi üç veya yirmidört gün namaz kıl ve oruç tut. Çünkü bu (takdir edilen müddet) sana yeter. (Sıhhatli) kadınlar nasıl hayz vaktinde hayz oluyorlar, temizlik günlerinde de temizleniyorlarsa sen de her ay öylece yap. Eğer öğleyi (son vaktine kadar) geciktirip ikindiyi (ilk vaktinde) öne almaya ve yıkanıp bu iki namazı bir arada kılmaya, akşamı geciktirip yatsıyı öne almaya, sonra da yıkanıp iki namazı birleştirmeye gücün yeterse öyle yap. Sabah namazında yıkanabilirsen yıkan, (namaz kıl) ve gücün yeterse oruç tut.\" Rasulullah (Sallallahu aleyhi ve Sellem): \"Bu (iki namazı birleştirerek ikisi için bir gusul etmek) bana iki işin daha sevimli olanıdır\" buyurdu. Ebu Davud dedi ki: Bu hadisi Amr b. Sabit İbn Akil'den rivayet etmiştir. İbn Akil Hamne'nin;\"Dedim ki bu bana iki işin daha sevimli olanıdır\"dediğini söylemiş, bu sözü Rasulullahh (Sallallahu aleyhi ve Sellem)'i sözü değil, Hamne'nin sözü ka­bul etmiştir. Ebu Davud, Yahya b. Main'den naklen Amr b. Sabit'in Rafızi olduğunu söylemiştir. Yine Ebu Davud, Ahmed b. Hambel'in \"İbn Akil'in hadisi hakkında içimde bir şüphe var\" derken işittim demiştir. Diğer tahric: Tirmizi, tahare; Darimî, vudu'; Muvatta, hacc; Ahmed b. Hanbel, VI",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -7420,7 +7412,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (334)"
 				}
 			],
 			"reference": {
@@ -7431,7 +7423,7 @@
 		{
 			"hadithnumber": 291,
 			"arabicnumber": 291,
-			"text": "Aişe (r.anha)'dan, demiştir ki; \"Ümmü Habibe yedi sene istihaza oldu. Rasulullah (Sallallahu aleyhi ve Sellem) kendisine yıkanmasını emretti. Bunun üzerine Ümmü Habibe her namaz için yıkanırdı.\" Diğer tahric. Buhari.hayz; Müslim, hayz; Nesai,taharel; İbni Mace, tahare; Darimi, vudu; Ahmed b. Hanbel, VI, 83, 119",
+			"text": "Aişe (r.anha)'dan, demiştir ki; \"Ümmü Habibe yedi sene istihaza oldu. Rasulullah (Sallallahu aleyhi ve Sellem) kendisine yıkanmasını emretti. Bunun üzerine Ümmü Habibe her namaz için yıkanırdı.\" Diğer tahric. Buhari.hayz; Müslim, hayz; Nesai,taharel; İbni Mace, tahare; Darimi, vudu; Ahmed b. Hanbel, VI",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -7439,7 +7431,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (327) Sahih Muslim (334)"
 				}
 			],
 			"reference": {
@@ -7504,7 +7496,7 @@
 		{
 			"hadithnumber": 294,
 			"arabicnumber": 294,
-			"text": "Aişe (r.anha) şöyle demiştir: \"ResuluIIah (Sallallahu aleyhi ve Sellem) devrinde bir kadın istihaza oldu. İkindiyi öne (ilk vaktine) alıp, öğleyi te'hir ederek ikisi için bir defa; akşamı te'hir edip, yatsıyı öne alarak ikisi için bir defa gusletmekle ve sabah için de bir defa gusletmekle emrolundu.\" (Şu'be der ki): Abdurrahman'a, Resulullah (Sallallahu aleyhi ve Sellem)'den mı (haber veriyorsun)? dedim. \"Sana Resulullahtan başka kimseden bir şey haber veremem\" dedi. BENZERİ İÇİN BAKIN: Tirmizî tahare; Nesai, tahare; hayz; mevakit; İbn Mace, tahare; Darimi, vudu; Ahmed b. Hanbel, VI,;172, 382",
+			"text": "Aişe (r.anha) şöyle demiştir: \"ResuluIIah (Sallallahu aleyhi ve Sellem) devrinde bir kadın istihaza oldu. İkindiyi öne (ilk vaktine) alıp, öğleyi te'hir ederek ikisi için bir defa; akşamı te'hir edip, yatsıyı öne alarak ikisi için bir defa gusletmekle ve sabah için de bir defa gusletmekle emrolundu.\" (Şu'be der ki): Abdurrahman'a, Resulullah (Sallallahu aleyhi ve Sellem)'den mı (haber veriyorsun)? dedim. \"Sana Resulullahtan başka kimseden bir şey haber veremem\" dedi. BENZERİ İÇİN BAKIN: Tirmizî tahare; Nesai, tahare; hayz; mevakit; İbn Mace, tahare; Darimi, vudu; Ahmed b. Hanbel, VI,;",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -7527,7 +7519,7 @@
 		{
 			"hadithnumber": 295,
 			"arabicnumber": 295,
-			"text": "Aişe (r.anha)'dan, demiştir ki; Sehle binti Süheyl istihaza oldu ve Resulullah (Sallallahu aleyhi ve Sellem)'e istihazanın hükmünü sormaya geldi. Resulullah (Sallallahu aleyhi ve Sellem) de ona her namazda gusletmesini, bu kendisine ağır gelince öğleyle ikindiyi bir gusülle, akşamla yatsıyı da bir gusülle birleştirmesini ve sabah için de ayrıca gusletmesini emretti. Ebu Davud dedi ki; \"Bu hadisi İbn Uyeyne Abdurrahman bin Kasım'dan; o da, babasından, \"bir kadın istihaza oldu ve Resalullah (Sallallahu aleyhi ve Sellem)'e sordu. Resulullah (Sallallahu aleyhi ve Sellem) de ona emretti... (yukarıdaki hadisin manasını naklen)\" şeklinde rivayet etti. Diğer tahric: Darimi, vudu'; Ahmed b. Hanbel VI, 119",
+			"text": "Aişe (r.anha)'dan, demiştir ki; Sehle binti Süheyl istihaza oldu ve Resulullah (Sallallahu aleyhi ve Sellem)'e istihazanın hükmünü sormaya geldi. Resulullah (Sallallahu aleyhi ve Sellem) de ona her namazda gusletmesini, bu kendisine ağır gelince öğleyle ikindiyi bir gusülle, akşamla yatsıyı da bir gusülle birleştirmesini ve sabah için de ayrıca gusletmesini emretti. Ebu Davud dedi ki; \"Bu hadisi İbn Uyeyne Abdurrahman bin Kasım'dan; o da, babasından, \"bir kadın istihaza oldu ve Resalullah (Sallallahu aleyhi ve Sellem)'e sordu. Resulullah (Sallallahu aleyhi ve Sellem) de ona emretti... (yukarıdaki hadisin manasını naklen)\" şeklinde rivayet etti. Diğer tahric: Darimi, vudu'; Ahmed b. Hanbel VI",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -7600,7 +7592,7 @@
 		{
 			"hadithnumber": 298,
 			"arabicnumber": 298,
-			"text": "Aişe (r. anha)'dan, şöyle demiştir: Fatima binti Ebi Hubeyş Resulullah (Sallallahu aleyhi ve Sellem)'e geldi (Burada Urve) yukarıda geçen (297.) Fatima ile ilgili haberi nekletti. Resulullah (Sallallahu aleyhi ve Sellem): \"Sonra ğuslet ve her namaz (vakti) için abdest ahp namazını kıl\" buyurdu. Diğer tahric: Tirmizi, tahare; İbn Mace, tahare; Ahmed b. Hanbel, VI, 42, 204",
+			"text": "Aişe (r. anha)'dan, şöyle demiştir: Fatima binti Ebi Hubeyş Resulullah (Sallallahu aleyhi ve Sellem)'e geldi (Burada Urve) yukarıda geçen (297.) Fatima ile ilgili haberi nekletti. Resulullah (Sallallahu aleyhi ve Sellem): \"Sonra ğuslet ve her namaz (vakti) için abdest ahp namazını kıl\" buyurdu. Diğer tahric: Tirmizi, tahare; İbn Mace, tahare; Ahmed b. Hanbel, VI",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -7858,7 +7850,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari"
+					"grade": "Sahih Bukhari (326)"
 				}
 			],
 			"reference": {
@@ -7919,7 +7911,7 @@
 		{
 			"hadithnumber": 311,
 			"arabicnumber": 311,
-			"text": "Ümmü Seleme (r.anha) şöyle demiştir: \"Resulullah (Sallallahu aleyhi ve Sellem) zamanında lohusa olan bir kadın doğumdan sonra kırk gün veya kırk gece oturur (namazı, orucu terk eder) di.\" Biz (yüzdeki çiğit'ten dolayı) yüzlerimize vers sürerdik. Diğer tahric. Tirmizi, tahare; İbn Mace, tahare; Ahmed b. Hanbel VI, 300, 303, 304",
+			"text": "Ümmü Seleme (r.anha) şöyle demiştir: \"Resulullah (Sallallahu aleyhi ve Sellem) zamanında lohusa olan bir kadın doğumdan sonra kırk gün veya kırk gece oturur (namazı, orucu terk eder) di.\" Biz (yüzdeki çiğit'ten dolayı) yüzlerimize vers sürerdik. Diğer tahric. Tirmizi, tahare; İbn Mace, tahare; Ahmed b. Hanbel VI",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -7935,7 +7927,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -7959,10 +7951,6 @@
 				{
 					"name": "Shuaib Al Arnaut",
 					"grade": "Hasan Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -7973,7 +7961,7 @@
 		{
 			"hadithnumber": 313,
 			"arabicnumber": 313,
-			"text": "Süleyman bin Sühaym; Ümeyye binti Ebi Sait'in ismini kendisine açıkladığı Beni Gifar'dan bir kadının şöyle dediğini rivayet etmiştir: \"Resulullah (Sallallahu aleyhi ve Sellem) beni terkisine bindirdi. Vallahi Resulullah (Sallallahu aleyhi ve Sellem) sabah namazı için indi(ği yere kadar yola devam etti.) (Sabah olunca) hayvanını çöktürdü. Ben de hayvanının semerinden indim. Bir de ne göreyim, semerin arkasına benden kan bulaşmış. Bu benim ilk hayz görüşümdü. Utanarak devenin yanma çekildim, Resulullah (Sallallahu aleyhi ve Sellem) benim halimi ve kanı görünce. Sana ne oluyor? Her halde sen hayz oldun, buyurdu. Ben de: Evet, dedim. Resulullah (Sallallahu aleyhi ve Sellem): Kendine (kanın akmasına mani olacak) uygun bir şey bul, sonra bir su kabı al ve içine tuz at ve semere bulaşan kanı yıka sonra da bineğine dön buyurdu.\" (Ğifarlı kadın devamla) dedi ki: \"Resulullah (Sallallahu aleyhi ve Sellem) Hayberi fethedince ganimetten bize de bir miktar verdi.\" (Ümeyye) dedi ki: Bu Gifarlı kadın bundan sonra, suyuna tuz katmadan hiç hayz'dan temizlenmezdi. Öldüğü zaman yıkanacağı suya da tuz karıştırılmasını vasiyet etti. Diğer tahric: Ahmed b. Hanbel, VI, 380",
+			"text": "Süleyman bin Sühaym; Ümeyye binti Ebi Sait'in ismini kendisine açıkladığı Beni Gifar'dan bir kadının şöyle dediğini rivayet etmiştir: \"Resulullah (Sallallahu aleyhi ve Sellem) beni terkisine bindirdi. Vallahi Resulullah (Sallallahu aleyhi ve Sellem) sabah namazı için indi(ği yere kadar yola devam etti.) (Sabah olunca) hayvanını çöktürdü. Ben de hayvanının semerinden indim. Bir de ne göreyim, semerin arkasına benden kan bulaşmış. Bu benim ilk hayz görüşümdü. Utanarak devenin yanma çekildim, Resulullah (Sallallahu aleyhi ve Sellem) benim halimi ve kanı görünce. Sana ne oluyor? Her halde sen hayz oldun, buyurdu. Ben de: Evet, dedim. Resulullah (Sallallahu aleyhi ve Sellem): Kendine (kanın akmasına mani olacak) uygun bir şey bul, sonra bir su kabı al ve içine tuz at ve semere bulaşan kanı yıka sonra da bineğine dön buyurdu.\" (Ğifarlı kadın devamla) dedi ki: \"Resulullah (Sallallahu aleyhi ve Sellem) Hayberi fethedince ganimetten bize de bir miktar verdi.\" (Ümeyye) dedi ki: Bu Gifarlı kadın bundan sonra, suyuna tuz katmadan hiç hayz'dan temizlenmezdi. Öldüğü zaman yıkanacağı suya da tuz karıştırılmasını vasiyet etti. Diğer tahric: Ahmed b. Hanbel, VI",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -8012,7 +8000,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Isnaad Sahih Sahih Muslim (332)"
 				}
 			],
 			"reference": {
@@ -8050,7 +8038,7 @@
 		{
 			"hadithnumber": 316,
 			"arabicnumber": 316,
-			"text": "Aişe (r.anha)'dan rivayet edildi ki; Esma, önceki hadiste zikredilen şeyleri Resulullah (Sallallahu aleyhi ve Sellem)'e sordu. (Resulullah, cevabının sonunda) \"misk sürülmüş bir bez alır\" buyurdu. Esma: Onunla nasıl temizleneyim? dedi, Resulullah (Sallallahu aleyhi ve Sellem) bir elbise ile gizlenerek; Sübhanellah... Onunla temizlen buyurdu. (Şube rivayetinde şunları) ilave etti: Esma, Resulullah (Sallallahu aleyhi ve Sellem)'e cünüplükten dolayı nasıl yıkanacağını sordu, Resulullah (Sallallahu aleyhi ve Sellem) de şu karşılığı verdi: Suyunu alır güzelce temizlenir (abdest alır) sın. Sonra başına su döker, saçlarının dibine (su) ulaşıncaya kadar iyice ovalarsın. Daha sonra da bedenine dökersin. (Şube) dedi ki: Aişe (r.anha); \"Ensarın kadınları ne iyi kadınlardır. Haya onları dinlerini (n hükümlerini) sorup anlamaktan alıkoymadı\" demiştir. Diğer tahric: İbni Mace, tahare; Müslim, hayz; Ahmed b.Hanbel, V, 72; VI, 148",
+			"text": "Aişe (r.anha)'dan rivayet edildi ki; Esma, önceki hadiste zikredilen şeyleri Resulullah (Sallallahu aleyhi ve Sellem)'e sordu. (Resulullah, cevabının sonunda) \"misk sürülmüş bir bez alır\" buyurdu. Esma: Onunla nasıl temizleneyim? dedi, Resulullah (Sallallahu aleyhi ve Sellem) bir elbise ile gizlenerek; Sübhanellah... Onunla temizlen buyurdu. (Şube rivayetinde şunları) ilave etti: Esma, Resulullah (Sallallahu aleyhi ve Sellem)'e cünüplükten dolayı nasıl yıkanacağını sordu, Resulullah (Sallallahu aleyhi ve Sellem) de şu karşılığı verdi: Suyunu alır güzelce temizlenir (abdest alır) sın. Sonra başına su döker, saçlarının dibine (su) ulaşıncaya kadar iyice ovalarsın. Daha sonra da bedenine dökersin. (Şube) dedi ki: Aişe (r.anha); \"Ensarın kadınları ne iyi kadınlardır. Haya onları dinlerini (n hükümlerini) sorup anlamaktan alıkoymadı\" demiştir. Diğer tahric: İbni Mace, tahare; Müslim, hayz; Ahmed b.Hanbel, V, 72; VI",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -8073,7 +8061,7 @@
 		{
 			"hadithnumber": 317,
 			"arabicnumber": 317,
-			"text": "Aişe (r.anha)'dan; demiştir ki; \"Resulullah (Sallallahu aleyhi ve Sellem) Useyd bin Hüdayr ile birlikte bazı kişileri Aişe'nin kaybettiği bir gerdanlığı aramak üzere gönderdi. (Gerdanlığı ararlarken) namaz vakti geldi, onlar da namazı abdestsiz olarak kılıp Resulullah (Sallallahu aleyhi ve Sellem)'e geldiler ve yaptıklarını haber verdiler. Bunun üzerine teyemmüm ayeti (Maide 6) nazil oldu.\" İbn Nufeyl şunu da ilave etti: \"Useyd bin Hudayr Aişe'ye dedi ki; Allah'ın rahmeti üzerine olsun, senin başına, hoşlanmadığın ne gelmişse Allah sana ve müslümanlara ondan bir kurtuluş ihsan etmiştir.\" Diğer tahric: Buharî, teyemmüm; Tefsiru's-Sure; nikah; Müslim, tahare; İbni Mace, tahare; Nesai, tahare; Muvattâ, tahare; Ahmed b. Hanbel, I, 238' VI 57, 171",
+			"text": "Aişe (r.anha)'dan; demiştir ki; \"Resulullah (Sallallahu aleyhi ve Sellem) Useyd bin Hüdayr ile birlikte bazı kişileri Aişe'nin kaybettiği bir gerdanlığı aramak üzere gönderdi. (Gerdanlığı ararlarken) namaz vakti geldi, onlar da namazı abdestsiz olarak kılıp Resulullah (Sallallahu aleyhi ve Sellem)'e geldiler ve yaptıklarını haber verdiler. Bunun üzerine teyemmüm ayeti (Maide 6) nazil oldu.\" İbn Nufeyl şunu da ilave etti: \"Useyd bin Hudayr Aişe'ye dedi ki; Allah'ın rahmeti üzerine olsun, senin başına, hoşlanmadığın ne gelmişse Allah sana ve müslümanlara ondan bir kurtuluş ihsan etmiştir.\" Diğer tahric: Buharî, teyemmüm; Tefsiru's-Sure; nikah; Müslim, tahare; İbni Mace, tahare; Nesai, tahare; Muvattâ, tahare; Ahmed b. Hanbel, I, 238' VI",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -8089,7 +8077,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (336) Sahih Muslim (367)"
 				}
 			],
 			"reference": {
@@ -8100,7 +8088,7 @@
 		{
 			"hadithnumber": 318,
 			"arabicnumber": 318,
-			"text": "Ammar bin Yasir (r.a) şöyle haber vermiştir: \"Sahabiler, Resulullah (Sallallahu aleyhi ve Sellem) ile beraber oldukları halde, sabah namazı için yeryüzü (toprak) cinsinden bir şeyle teyemmüm ettiler. Şöyleki: Ellerini yere vurdular sonra yüzlerini bir kere meshettiler. Bilahere ellerini tekrar yere vurdular ve her iki ellerini omuzlarına ve koltuk altlarına kadar avuçlarının içiyle meshettiler.\" Diğer tahric. İbni Mace, tahare; Ahmed b. Hanbel, IV, 321",
+			"text": "Ammar bin Yasir (r.a) şöyle haber vermiştir: \"Sahabiler, Resulullah (Sallallahu aleyhi ve Sellem) ile beraber oldukları halde, sabah namazı için yeryüzü (toprak) cinsinden bir şeyle teyemmüm ettiler. Şöyleki: Ellerini yere vurdular sonra yüzlerini bir kere meshettiler. Bilahere ellerini tekrar yere vurdular ve her iki ellerini omuzlarına ve koltuk altlarına kadar avuçlarının içiyle meshettiler.\" Diğer tahric. İbni Mace, tahare; Ahmed b. Hanbel, IV",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -8146,7 +8134,7 @@
 		{
 			"hadithnumber": 320,
 			"arabicnumber": 320,
-			"text": "Ammar bin Yasir'den rivayet edilmiştir ki; Resulullah (Sallallahu aleyhi ve Sellem) yanında Aişe (radiyallahu anha) olduğu halde gece yarısından sonra Ulatu'l-Ceyş (denilen yer) de konakladı. (Burada) Aişe'nin Zafar boncuğundan olan gerdanlığı kayboldu. Ordu tanyeri ağarıncaya kadar bu gerdanlığı aramakla meşgul oldu. Halbuki yanlarında su yoktu. Bundan dolayı Ebu Bekir, Aişe'ye kızdı ve, \"insanları (yola devam etmekten) alıkoydun. Halbuki onların yanında su yok\" dedi. Bunun üzerine Allah Celle Celalühü, Resulullah (Sallallahu aleyhi ve Sellem)'e temiz olan yer yüzü cinsinden bir şeyle temizlenme ruhsatını (teyemmüm ayetini) indirdi. Hemen müslümanlar Resulullah (Sallallahu aleyhi ve Sellem)'Ie birlikte kalktılar ve ellerini yere vurdular, sonra da topraktan bir şey avuçlamadan kaldırıp yüzlerini ve ellerini üstten omuzlarına, avuçlarının içinden de koltuk altlarına kadar meshettiler. İbni Yahya rivayetinde, İbni Şihab'ın; \"insanlar buna (omuzlara ve koltuk altlarına kadar meshetmeye) itibar etmiyorlar\" dediğini ilave etti. Ebu Davud dedi ki: Bu Hadisi, ibni ishak da böylece (Salih bin Keysan'ın rivayet ettiği gibi) rivayet etti ve rivayetinde (Ubeydullah bin Abdillah ile Ammar bin Yasir'in arasına) ibni Abbas'ı soktu. (ibni ishak ayrıca) Yunus'un dediği gibi, \"iki defa vurdular\" dedi. (Musannifin bu sözü, Salih bin Keysan'ın \"bir defa vurdular”şeklinde rivayet ettiğine delalet ediyor.) Bunu Ma'mer de Zühri'den \"iki vuruş\" şeklinde rivayet etti. Malik, Zühri'den, Zühri, Ubeydullah bin Abdillah'dan o da babası tarikiyle Ammar'dan rivayet etti. Ebu Uveys de aynı şekilde (Malik'in dediği gibi Abdullah'ın ilavesiyle) Zühri'den rivayet etti. İbni Uyeyne, Ubeydullah'ın babası(nın zikredilip ve zikredilmediği)nde şüphe etti. Bir seferinde \"Ubeydullah'dan o da babasından, veya Ubeydullah'tan, o da İbni Abbas'tan\" şeklinde, başka bir seferinde: 'babasından “bir seferinde de' 'ibn Abbas 'tan” şeklinde rivayet etti. Yine ibni Uyeyne, o hadisi Zühri'den duyup duymadığında da tereddüt etti. Onlardan (Ammar hadisini Zühri'den rivayet edenlerden) ismini verdiğim (Yunus, ibn ishak ve Ma'mer)den başka hiçbiri bu hadiste \"iki vuruştu zikretmedi. Diğer tahric: Buhari, teyemmüm, şehadat; meğazi; Müslim, hayz; tevbe; Nesai, tahare; Ahmed b. Hanbel, IV, 264, VI, 195, 197",
+			"text": "Ammar bin Yasir'den rivayet edilmiştir ki; Resulullah (Sallallahu aleyhi ve Sellem) yanında Aişe (radiyallahu anha) olduğu halde gece yarısından sonra Ulatu'l-Ceyş (denilen yer) de konakladı. (Burada) Aişe'nin Zafar boncuğundan olan gerdanlığı kayboldu. Ordu tanyeri ağarıncaya kadar bu gerdanlığı aramakla meşgul oldu. Halbuki yanlarında su yoktu. Bundan dolayı Ebu Bekir, Aişe'ye kızdı ve, \"insanları (yola devam etmekten) alıkoydun. Halbuki onların yanında su yok\" dedi. Bunun üzerine Allah Celle Celalühü, Resulullah (Sallallahu aleyhi ve Sellem)'e temiz olan yer yüzü cinsinden bir şeyle temizlenme ruhsatını (teyemmüm ayetini) indirdi. Hemen müslümanlar Resulullah (Sallallahu aleyhi ve Sellem)'Ie birlikte kalktılar ve ellerini yere vurdular, sonra da topraktan bir şey avuçlamadan kaldırıp yüzlerini ve ellerini üstten omuzlarına, avuçlarının içinden de koltuk altlarına kadar meshettiler. İbni Yahya rivayetinde, İbni Şihab'ın; \"insanlar buna (omuzlara ve koltuk altlarına kadar meshetmeye) itibar etmiyorlar\" dediğini ilave etti. Ebu Davud dedi ki: Bu Hadisi, ibni ishak da böylece (Salih bin Keysan'ın rivayet ettiği gibi) rivayet etti ve rivayetinde (Ubeydullah bin Abdillah ile Ammar bin Yasir'in arasına) ibni Abbas'ı soktu. (ibni ishak ayrıca) Yunus'un dediği gibi, \"iki defa vurdular\" dedi. (Musannifin bu sözü, Salih bin Keysan'ın \"bir defa vurdular”şeklinde rivayet ettiğine delalet ediyor.) Bunu Ma'mer de Zühri'den \"iki vuruş\" şeklinde rivayet etti. Malik, Zühri'den, Zühri, Ubeydullah bin Abdillah'dan o da babası tarikiyle Ammar'dan rivayet etti. Ebu Uveys de aynı şekilde (Malik'in dediği gibi Abdullah'ın ilavesiyle) Zühri'den rivayet etti. İbni Uyeyne, Ubeydullah'ın babası(nın zikredilip ve zikredilmediği)nde şüphe etti. Bir seferinde \"Ubeydullah'dan o da babasından, veya Ubeydullah'tan, o da İbni Abbas'tan\" şeklinde, başka bir seferinde: 'babasından “bir seferinde de' 'ibn Abbas 'tan” şeklinde rivayet etti. Yine ibni Uyeyne, o hadisi Zühri'den duyup duymadığında da tereddüt etti. Onlardan (Ammar hadisini Zühri'den rivayet edenlerden) ismini verdiğim (Yunus, ibn ishak ve Ma'mer)den başka hiçbiri bu hadiste \"iki vuruştu zikretmedi. Diğer tahric: Buhari, teyemmüm, şehadat; meğazi; Müslim, hayz; tevbe; Nesai, tahare; Ahmed b. Hanbel, IV, 264, VI",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -8173,7 +8161,7 @@
 		{
 			"hadithnumber": 321,
 			"arabicnumber": 321,
-			"text": "Şakik (r.a.)'den; şöyle demiştir: Ben, Abdullah (bin Mes'ud) ile Ebu Musa el-Eşari'nin yanında oturmakta idim. Ebu Musa; Ya Ebu Abdirrahman bir adam cünup olsa ve bir ay su bulamazsa teyemmüm yapamaz mı? Ne dersin? dedi. Abdullah; Hayır, bir ay da su bulamasa teyemmüm yapamaz, karşılığını verdi. Bunun üzerine Ebu Musa: Peki, Maide Suresindeki \"Su bulamazsanız temiz yer yüzü ile teyemmüm ediniz\" ayetini ne yapacaksın? dedi, Abdullah; İnsanlara ruhsat verilseydi, suları soğuk gördükleri zaman hemen toprakla teyemmüme yönelirlerdi. Ebu Musa: Demek bunu (cünüplükten dolayı teyemmümü) bunun için kerih gördünüz, öyle mi? Abdullah: Evet, dedi. Ebu Musa; Ammar'ın, Hz. Ömer'e (söylediği) şu sözü duymadın mı? \"Resulullah (Sallallahu aleyhi ve Sellem) beni bir ihtiyaç için göndermişti, Cünup oldum, fakat su bulamadım. Bunun üzerine hayvanın yerde yuvarlandığı gibi yuvarlandım, sonra da Resulullah (Sallallahu aleyhi ve Sellem)'e gelip bu durumu haber verdim. Resulullah (Sallallahu aleyhi ve Sellem); \"Şöyle yapman kafi idi\" dedi ve elini yere vurup, silkeledi, sonra sol eliyle sağ elinin üstünü, sağ eliyle de sol elinin üstünü daha sonra da yüzünü mesnetti\" Abdullah (b.Mesud, Ebu Musa'ya cevaben); Sen de Ömer (bin el-Hattab)'ın, Ammar'ın sözü ile ikna olmadığını bilmiyor musun? dedi.\" Diğer tahric: Buhari, teyemmüm; Müslim, hayz; Nesai, tahare; Ahmed b. Hanbel, IV, 264, 265",
+			"text": "Şakik (r.a.)'den; şöyle demiştir: Ben, Abdullah (bin Mes'ud) ile Ebu Musa el-Eşari'nin yanında oturmakta idim. Ebu Musa; Ya Ebu Abdirrahman bir adam cünup olsa ve bir ay su bulamazsa teyemmüm yapamaz mı? Ne dersin? dedi. Abdullah; Hayır, bir ay da su bulamasa teyemmüm yapamaz, karşılığını verdi. Bunun üzerine Ebu Musa: Peki, Maide Suresindeki \"Su bulamazsanız temiz yer yüzü ile teyemmüm ediniz\" ayetini ne yapacaksın? dedi, Abdullah; İnsanlara ruhsat verilseydi, suları soğuk gördükleri zaman hemen toprakla teyemmüme yönelirlerdi. Ebu Musa: Demek bunu (cünüplükten dolayı teyemmümü) bunun için kerih gördünüz, öyle mi? Abdullah: Evet, dedi. Ebu Musa; Ammar'ın, Hz. Ömer'e (söylediği) şu sözü duymadın mı? \"Resulullah (Sallallahu aleyhi ve Sellem) beni bir ihtiyaç için göndermişti, Cünup oldum, fakat su bulamadım. Bunun üzerine hayvanın yerde yuvarlandığı gibi yuvarlandım, sonra da Resulullah (Sallallahu aleyhi ve Sellem)'e gelip bu durumu haber verdim. Resulullah (Sallallahu aleyhi ve Sellem); \"Şöyle yapman kafi idi\" dedi ve elini yere vurup, silkeledi, sonra sol eliyle sağ elinin üstünü, sağ eliyle de sol elinin üstünü daha sonra da yüzünü mesnetti\" Abdullah (b.Mesud, Ebu Musa'ya cevaben); Sen de Ömer (bin el-Hattab)'ın, Ammar'ın sözü ile ikna olmadığını bilmiyor musun? dedi.\" Diğer tahric: Buhari, teyemmüm; Müslim, hayz; Nesai, tahare; Ahmed b. Hanbel, IV",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -8189,7 +8177,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (345، 346) Sahih Muslim (368)"
 				}
 			],
 			"reference": {
@@ -8200,7 +8188,7 @@
 		{
 			"hadithnumber": 322,
 			"arabicnumber": 322,
-			"text": "Abdurrahman bin Ebza (r.a.)'den şöyle demiştir: Ben Ömer bin el-Hattab (r.a)'ın yanında idim. Bir adam geldi ve; (Ya emire'l-mu'minin) biz bir iki ay bir yerde kalıyoruz. (Cünub oluyor su bulamıyoruz, ne yapalım?) dedi. Hz. Ömer; Ben olsam su buluncaya kadar yıkanmam, cevabını verdi. (Orada bulunan) Ammar şöyle dedi: Ya Emir'el-mu'minin, hatırlıyor musun? Hani seninle deve (gütmek) de idik de ikimiz de cünup olmuştuk. Bunun üzerine ben yerde yuvarlandım.Resulullah (Sallallahu aleyhi ve Sellem)'e gelip durumu söyledim. Resulullah (Sallallahu aleyhi ve Sellem); \"Şöyle yapman sana yeterdi\" buyurdu ve ellerini yere vurdu, sonra onlara üfledi. Sonra da elleriyle yüzünü ve kolunun yansına kadar ellerini meshetti. Hz. Ömer: Ey Ammar Allah'tan kork! dedi. Ammar da: Ya Emirel-mu'minin, eğer sen istersen vallahi bunu ebediyyen (bir daha) söylemem, dedi. Bunun üzerine Hz. Ömer: Hayır, vallahi bundan (teyemmüm hadisesinden) üzerine aldığın sorumluluğu sana bırakıyorum, dedi. Diğer tahric: Buhari, teyemmüm; Müslim, hayz; Nesai, tahare; İbni Mace, tahare; Ahmed b. Hanbel IV, 263, 265, 320",
+			"text": "Abdurrahman bin Ebza (r.a.)'den şöyle demiştir: Ben Ömer bin el-Hattab (r.a)'ın yanında idim. Bir adam geldi ve; (Ya emire'l-mu'minin) biz bir iki ay bir yerde kalıyoruz. (Cünub oluyor su bulamıyoruz, ne yapalım?) dedi. Hz. Ömer; Ben olsam su buluncaya kadar yıkanmam, cevabını verdi. (Orada bulunan) Ammar şöyle dedi: Ya Emir'el-mu'minin, hatırlıyor musun? Hani seninle deve (gütmek) de idik de ikimiz de cünup olmuştuk. Bunun üzerine ben yerde yuvarlandım.Resulullah (Sallallahu aleyhi ve Sellem)'e gelip durumu söyledim. Resulullah (Sallallahu aleyhi ve Sellem); \"Şöyle yapman sana yeterdi\" buyurdu ve ellerini yere vurdu, sonra onlara üfledi. Sonra da elleriyle yüzünü ve kolunun yansına kadar ellerini meshetti. Hz. Ömer: Ey Ammar Allah'tan kork! dedi. Ammar da: Ya Emirel-mu'minin, eğer sen istersen vallahi bunu ebediyyen (bir daha) söylemem, dedi. Bunun üzerine Hz. Ömer: Hayır, vallahi bundan (teyemmüm hadisesinden) üzerine aldığın sorumluluğu sana bırakıyorum, dedi. Diğer tahric: Buhari, teyemmüm; Müslim, hayz; Nesai, tahare; İbni Mace, tahare; Ahmed b. Hanbel IV",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -8227,7 +8215,7 @@
 		{
 			"hadithnumber": 323,
 			"arabicnumber": 323,
-			"text": "Abdurrahman bin Ebza; Ammar bin Yasir'den bu Hadisi (şu şekilde) rivayet etti: \"Resulullah (Sallallahu aleyhi ve Sellem): \"Ya Ammar, şöyle yapman sana yeterdi” buyurdu Ve ellerini bir kere yere, sonra da birini diğerine vurdu. Sonra yüzünü ve dirsekleri aşmadan kollarını, yarısına kadar meshetti.\" Ebu Davud dedi ki; Bu hadisi Veki’ A'meş-Seleme bin Kuheyl- Abdurrahman bin Ebza senediyle; Cerir de A'meş-Seleme bin Küheyl-Said bin Abdirrahman bin Ebza ve babası (Abdurrahman bin Ebza) senediyle rivayet etti. Diğer tahric: Buhari, teyemmüm; Müslim, hayz; Nesai, tahare; İbni Mace, tahare; Ahmed b. Hanbel IV, 263, 265, 320",
+			"text": "Abdurrahman bin Ebza; Ammar bin Yasir'den bu Hadisi (şu şekilde) rivayet etti: \"Resulullah (Sallallahu aleyhi ve Sellem): \"Ya Ammar, şöyle yapman sana yeterdi” buyurdu Ve ellerini bir kere yere, sonra da birini diğerine vurdu. Sonra yüzünü ve dirsekleri aşmadan kollarını, yarısına kadar meshetti.\" Ebu Davud dedi ki; Bu hadisi Veki’ A'meş-Seleme bin Kuheyl- Abdurrahman bin Ebza senediyle; Cerir de A'meş-Seleme bin Küheyl-Said bin Abdirrahman bin Ebza ve babası (Abdurrahman bin Ebza) senediyle rivayet etti. Diğer tahric: Buhari, teyemmüm; Müslim, hayz; Nesai, tahare; İbni Mace, tahare; Ahmed b. Hanbel IV",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -8254,7 +8242,7 @@
 		{
 			"hadithnumber": 324,
 			"arabicnumber": 324,
-			"text": "Abdurrahman bin Ebza'nın oğlu, babası vasıtasıyla Ammar (r.a.)'dan bu (önceki hadislerde geçen) kıssayı rivayet etti. Bu rivayete göre) Resulullah (Sallallahu aleyhi ve Sellem): \"Sana sadece (şu) yeterdi\" buyurdu ve elini yere vurup ona üfledi sonra da yüzü ve ellerini meshetti. (Şube dedi ki); Seleme şüphe etti ve “Bu hadiste, dirseklere kadar mı, yoksa bileklere kadar (manasına gelen bir şey) mi (dediğini) bilmiyorum\" dedi. Diğer tahric: Buhari, teyemmüm; Müslim, hayz; Nesai, tahare; İbni Mace, tahare; Ahmed b. Hanbel IV, 263, 265, 320",
+			"text": "Abdurrahman bin Ebza'nın oğlu, babası vasıtasıyla Ammar (r.a.)'dan bu (önceki hadislerde geçen) kıssayı rivayet etti. Bu rivayete göre) Resulullah (Sallallahu aleyhi ve Sellem): \"Sana sadece (şu) yeterdi\" buyurdu ve elini yere vurup ona üfledi sonra da yüzü ve ellerini meshetti. (Şube dedi ki); Seleme şüphe etti ve “Bu hadiste, dirseklere kadar mı, yoksa bileklere kadar (manasına gelen bir şey) mi (dediğini) bilmiyorum\" dedi. Diğer tahric: Buhari, teyemmüm; Müslim, hayz; Nesai, tahare; İbni Mace, tahare; Ahmed b. Hanbel IV",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -8266,7 +8254,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (338) Sahih Muslim (368)"
 				}
 			],
 			"reference": {
@@ -8277,7 +8265,7 @@
 		{
 			"hadithnumber": 325,
 			"arabicnumber": 325,
-			"text": "Şu'be bu (önceki) hadisi ayrı isnatla rivayet etti ve şöyle dedi: (Ammar) dedi ki; \"Resulullah (Sallallahu aleyhi ve Sellem) sonra eline üfleyip, onunla (elleriyle) yüzünü ve dirseklere -veya kollara- kadar ellerini mesnetti.\" Şu'be dedi ki; \"Seleme, (Resulullah) ellerini, yüzünü ve kollarını (mesnetti)\" derdi. Bir gün Mansur kendisine \"söylediğine dikkat et çünkü kolları (Zerr bin Abdullah'ın talebelerinden) senden başka hiç biri söylemedi\" dedi. Diğer tahric: Buhari, teyemmüm; Müslim, hayz; Nesai, tahare; İbni Mace, tahare; Ahmed b. Hanbel IV, 263, 265, 320",
+			"text": "Şu'be bu (önceki) hadisi ayrı isnatla rivayet etti ve şöyle dedi: (Ammar) dedi ki; \"Resulullah (Sallallahu aleyhi ve Sellem) sonra eline üfleyip, onunla (elleriyle) yüzünü ve dirseklere -veya kollara- kadar ellerini mesnetti.\" Şu'be dedi ki; \"Seleme, (Resulullah) ellerini, yüzünü ve kollarını (mesnetti)\" derdi. Bir gün Mansur kendisine \"söylediğine dikkat et çünkü kolları (Zerr bin Abdullah'ın talebelerinden) senden başka hiç biri söylemedi\" dedi. Diğer tahric: Buhari, teyemmüm; Müslim, hayz; Nesai, tahare; İbni Mace, tahare; Ahmed b. Hanbel IV",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -8327,7 +8315,7 @@
 		{
 			"hadithnumber": 327,
 			"arabicnumber": 327,
-			"text": "Ammar bin Yasir'in şöyle dediği rivayet edilmiştir: \"Resulullah (Sallallahu aleyhi ve Sellem)'e teyemmümü sordum. Bana hem yüz, hem de eller için bir defa vurmamı emretti.\" Diğer tahric: Ahmed b. Hanbel, IV, 263, 265",
+			"text": "Ammar bin Yasir'in şöyle dediği rivayet edilmiştir: \"Resulullah (Sallallahu aleyhi ve Sellem)'e teyemmümü sordum. Bana hem yüz, hem de eller için bir defa vurmamı emretti.\" Diğer tahric: Ahmed b. Hanbel, IV",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -8354,11 +8342,11 @@
 			"grades": [
 				{
 					"name": "Al-Albani",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Shuaib Al Arnaut",
@@ -8377,7 +8365,7 @@
 		{
 			"hadithnumber": 329,
 			"arabicnumber": 329,
-			"text": "İbn Abbas (r.a)'ın azatlısı Umeyr şöyle demiştir: \"Resulullah (Sallallahu aleyhi ve Sellem)'in zevcesi Meymune (r.anha)'nın azatlısı Abdurrahman bin Yesar'la birlikte geldik ve Ebu Cuheym bin Haris bin Simme el-Ensari'nin yanına girdik. Ebu Cuheym şunları söyledi: Resulullah (Sallallahu aleyhi ve Sellem) Bi'ri Cemel tarafından geliyordu. Kendisine bir adam rastlayıp selam verdi. Fakat Resulullah (Sallallahu aleyhi ve Sellem) selamını almadı. Bir duvara gelip yüzünü ve ellerini meshetti sonra da adam'ın selamını aldı.\" Diğer tahric: Buhari, teyemmüm; Müslim, hayz; Nesai, tahare; Ahmed b. Hanbel, IV, 169",
+			"text": "İbn Abbas (r.a)'ın azatlısı Umeyr şöyle demiştir: \"Resulullah (Sallallahu aleyhi ve Sellem)'in zevcesi Meymune (r.anha)'nın azatlısı Abdurrahman bin Yesar'la birlikte geldik ve Ebu Cuheym bin Haris bin Simme el-Ensari'nin yanına girdik. Ebu Cuheym şunları söyledi: Resulullah (Sallallahu aleyhi ve Sellem) Bi'ri Cemel tarafından geliyordu. Kendisine bir adam rastlayıp selam verdi. Fakat Resulullah (Sallallahu aleyhi ve Sellem) selamını almadı. Bir duvara gelip yüzünü ve ellerini meshetti sonra da adam'ın selamını aldı.\" Diğer tahric: Buhari, teyemmüm; Müslim, hayz; Nesai, tahare; Ahmed b. Hanbel, IV",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -8393,7 +8381,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (337) Sahih Muslim (369)"
 				}
 			],
 			"reference": {
@@ -8431,7 +8419,7 @@
 		{
 			"hadithnumber": 331,
 			"arabicnumber": 331,
-			"text": "Nafi' İbn Ömer (r.a.)'ın şöyle dediğini rivayet etmiştir: Resulullah (Sallallahu aleyhi ve Sellem) def-i hacetten gelmişti ki, Bi’r-i Cemel'in yanında bir adam (Ebu Cuheym) kendisi ile karşılaşıp selam verdi. Resulullah (Sallallahu aleyhi ve Sellem) hemen selamını almadı. Ancak duvara yönelip de, elini üzerine koyup yüzünü ve ellerini meshettikten sonra o zatın selamını aldı. Diğer tahric: Buhari, teyemmüm; Müslim, hayz; Nesai, tahare; Ahmed b. Hanbel IV, 169",
+			"text": "Nafi' İbn Ömer (r.a.)'ın şöyle dediğini rivayet etmiştir: Resulullah (Sallallahu aleyhi ve Sellem) def-i hacetten gelmişti ki, Bi’r-i Cemel'in yanında bir adam (Ebu Cuheym) kendisi ile karşılaşıp selam verdi. Resulullah (Sallallahu aleyhi ve Sellem) hemen selamını almadı. Ancak duvara yönelip de, elini üzerine koyup yüzünü ve ellerini meshettikten sonra o zatın selamını aldı. Diğer tahric: Buhari, teyemmüm; Müslim, hayz; Nesai, tahare; Ahmed b. Hanbel IV",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -8458,7 +8446,7 @@
 		{
 			"hadithnumber": 332,
 			"arabicnumber": 332,
-			"text": "Ebu Zerr (r.a.)'den demiştir ki; \"Resulullah (Sallallahu aleyhi ve Sellem)'in yanında (gelen zekatlardan) küçük bir koyun sürüsü birikti. Resulullah (Sallallahu aleyhi ve Sellem): \"Ya Eba Zer, bu sürüyü (gütmek üzere) kıra götür”, buyurdular. Ben de Rebeze köyüne sürdüm. Ben cünup oluyor ve (su olmadığı için yıkanamadan) beş altı (gece) kalıyordum. Nihayet Resulullah (Sallallahu aleyhi ve Sellem)'e geldim: \"Sen ha Ebu Zer\" (bu halin ne!)? buyurdular. Ben (cevap vermeden) sustum. Efendimiz; \"Ya Eba Zer, Anan acını görmesin yazık anana\" buyurdu ve benim için siyah bir cariye kız çocuğu çağırdı. Cariye, içerisinde su dolu bir kova getirdi, beni (bir taraftan) bir örtü ile gizledi. Ben de (öte yandan bir) devenin arkasına geçerek gizlendim ve yıkandım. Üstümden bir dağı atmış gibi oldum. Bilahere Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: On seneye kadar bile olsa temiz toprak müslümanın abdest suyudur. Ancak suyu bulduğun zaman onu bedenine dök, (guslet). Çünkü bu daha hayırlıdır.\" Müsedded, \"Sürünün zekatlardan biriktiğini\" söylemiştir. (Tercemede de bu gözönünde bulundurulmuştur.) Ebu Davud, Amr (bin Avn)'ın rivayeti daha tamdır, dedi. Diğer tahric: Nesai, tahare; Tirmizî, tahare; Ahmed b. Hanbel, V, 146, 147, 155, 180",
+			"text": "Ebu Zerr (r.a.)'den demiştir ki; \"Resulullah (Sallallahu aleyhi ve Sellem)'in yanında (gelen zekatlardan) küçük bir koyun sürüsü birikti. Resulullah (Sallallahu aleyhi ve Sellem): \"Ya Eba Zer, bu sürüyü (gütmek üzere) kıra götür”, buyurdular. Ben de Rebeze köyüne sürdüm. Ben cünup oluyor ve (su olmadığı için yıkanamadan) beş altı (gece) kalıyordum. Nihayet Resulullah (Sallallahu aleyhi ve Sellem)'e geldim: \"Sen ha Ebu Zer\" (bu halin ne!)? buyurdular. Ben (cevap vermeden) sustum. Efendimiz; \"Ya Eba Zer, Anan acını görmesin yazık anana\" buyurdu ve benim için siyah bir cariye kız çocuğu çağırdı. Cariye, içerisinde su dolu bir kova getirdi, beni (bir taraftan) bir örtü ile gizledi. Ben de (öte yandan bir) devenin arkasına geçerek gizlendim ve yıkandım. Üstümden bir dağı atmış gibi oldum. Bilahere Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: On seneye kadar bile olsa temiz toprak müslümanın abdest suyudur. Ancak suyu bulduğun zaman onu bedenine dök, (guslet). Çünkü bu daha hayırlıdır.\" Müsedded, \"Sürünün zekatlardan biriktiğini\" söylemiştir. (Tercemede de bu gözönünde bulundurulmuştur.) Ebu Davud, Amr (bin Avn)'ın rivayeti daha tamdır, dedi. Diğer tahric: Nesai, tahare; Tirmizî, tahare; Ahmed b. Hanbel, V, 146",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -8485,7 +8473,7 @@
 		{
 			"hadithnumber": 333,
 			"arabicnumber": 333,
-			"text": "Ben-i Amir'den bir zatın,şöyle dediği rivayet edilmiştir: \"İslama (yeni) girmiştim. Dinim beni gayrete getirdi. (Dini konulara sarıldım). Ebu Zerr'e geldim. Ebu Zerr şöyle dedi: Medine'nin havası bana dokundu. Resulullah (Sallallahu aleyhi ve Sellem) bir zevd (üç yaş ile dokuz yaş arasındaki deve) ile bir koyun (almamı) emretti ve \"Sütlerinden iç \" buyurdu. Hammad dedi ki: \"(Şeyhimin) idrarından da iç (deyip demediğinde) şüphe ediyorum. \" Ebu Zerr devamla şöyle dedi: Ben sudan uzakta idim, ve hanımım da benimle beraberdi. Bu yüzden cünup oluyor ve abdestsiz namaz kılıyordum. (Bir gün) öğle vakti Resulullah (Sallallahu aleyhi ve Sellem)'e geldim. Efendimiz ashabından bir cemaat içinde mescidin gölgesinde idi. (Beni görünce): (Ne bu halin) Ebu Zerr? buyurdu. Evet, ya Resulullah helak oldum, dedim. Resulullah (Sallallahu aleyhi ve Sellem): \"Seni helak eden nedir? \"diye buyurdu. Ben sudan uzakta idim ve ailem benim yanımda idi. Bu yüzden cünup oluyor ve abdestsiz namaz kılıyordum, dedim. Resulullah (Sallallahu aleyhi ve Sellem) benim için su getirilmesini emretti ve siyah bir cariye içinde su çalkalanan bir kap getirdi. Tam dolu olmayan o su kabını alıp devemin arkasına gizlenip yıkandım ve geldim. Resulullah (Sallallahu aleyhi ve Sellem) şöye buyurdu: Ey Eba Zerr, on seneye kadar bile su bulamazsan muhakkak temiz toprak temizleyicidir suyu bulduğun zaman suyla yıkan (guslet). Ebu Davud şunları ilave etti: Bunu Hammad bin Zeyd, Eyyub'dan \"idrarlarını\" zikretmeden rivayet etti. (Bu hadiste) \"idrarlarını\" sözü sahih değildir. \"İdrarlar\" (lafzı) hakkında Enes hadisinden başkası yoktur. Onu da sadece Basralılar rivayet etmiştir. Diğer tahric: Nesai, tahare; Ahmed b. Hanbel, V, 146",
+			"text": "Ben-i Amir'den bir zatın,şöyle dediği rivayet edilmiştir: \"İslama (yeni) girmiştim. Dinim beni gayrete getirdi. (Dini konulara sarıldım). Ebu Zerr'e geldim. Ebu Zerr şöyle dedi: Medine'nin havası bana dokundu. Resulullah (Sallallahu aleyhi ve Sellem) bir zevd (üç yaş ile dokuz yaş arasındaki deve) ile bir koyun (almamı) emretti ve \"Sütlerinden iç \" buyurdu. Hammad dedi ki: \"(Şeyhimin) idrarından da iç (deyip demediğinde) şüphe ediyorum. \" Ebu Zerr devamla şöyle dedi: Ben sudan uzakta idim, ve hanımım da benimle beraberdi. Bu yüzden cünup oluyor ve abdestsiz namaz kılıyordum. (Bir gün) öğle vakti Resulullah (Sallallahu aleyhi ve Sellem)'e geldim. Efendimiz ashabından bir cemaat içinde mescidin gölgesinde idi. (Beni görünce): (Ne bu halin) Ebu Zerr? buyurdu. Evet, ya Resulullah helak oldum, dedim. Resulullah (Sallallahu aleyhi ve Sellem): \"Seni helak eden nedir? \"diye buyurdu. Ben sudan uzakta idim ve ailem benim yanımda idi. Bu yüzden cünup oluyor ve abdestsiz namaz kılıyordum, dedim. Resulullah (Sallallahu aleyhi ve Sellem) benim için su getirilmesini emretti ve siyah bir cariye içinde su çalkalanan bir kap getirdi. Tam dolu olmayan o su kabını alıp devemin arkasına gizlenip yıkandım ve geldim. Resulullah (Sallallahu aleyhi ve Sellem) şöye buyurdu: Ey Eba Zerr, on seneye kadar bile su bulamazsan muhakkak temiz toprak temizleyicidir suyu bulduğun zaman suyla yıkan (guslet). Ebu Davud şunları ilave etti: Bunu Hammad bin Zeyd, Eyyub'dan \"idrarlarını\" zikretmeden rivayet etti. (Bu hadiste) \"idrarlarını\" sözü sahih değildir. \"İdrarlar\" (lafzı) hakkında Enes hadisinden başkası yoktur. Onu da sadece Basralılar rivayet etmiştir. Diğer tahric: Nesai, tahare; Ahmed b. Hanbel, V",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -8501,7 +8489,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -8528,7 +8516,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -8593,7 +8581,7 @@
 		{
 			"hadithnumber": 337,
 			"arabicnumber": 337,
-			"text": "Abdullah bin Abbas (r.a.)'dan; demiştir ki; Resulullah (Sallallahu aleyhi ve Sellem) zamanında bir adam yaralandı sonra da ihtilam oldu. Yıkanmasını emrettiler o da yıkandı. Bunun üzerine adam öldü. Hadise Peygamber (Sallallahu aleyhi ve Sellem)'e aktarıldı. Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: Onu öldürdüler, Allah da onları öldürsün, cehaletin şifası sormak değil miydi? Diğer tahric: İbn Mace, tahare; Ahmed b. Hanbel,!, 370",
+			"text": "Abdullah bin Abbas (r.a.)'dan; demiştir ki; Resulullah (Sallallahu aleyhi ve Sellem) zamanında bir adam yaralandı sonra da ihtilam oldu. Yıkanmasını emrettiler o da yıkandı. Bunun üzerine adam öldü. Hadise Peygamber (Sallallahu aleyhi ve Sellem)'e aktarıldı. Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: Onu öldürdüler, Allah da onları öldürsün, cehaletin şifası sormak değil miydi? Diğer tahric: İbn Mace, tahare; Ahmed b. Hanbel",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -8662,7 +8650,7 @@
 		{
 			"hadithnumber": 340,
 			"arabicnumber": 340,
-			"text": "Ebu Hureyre (r.a.) şöyle haber vermiştir: \"Ömer bin el-Hattab (r.a.) bir cuma günü hutbe okurken, bir zat (mescide) giriverdi. Hz. Ömer: Niçin namaza (vaktinde) gelmiyorsunuz? dedi. Adam: Ezanı duyup abdest aldım (ancak geldim), dedi. Bunun üzerine Hz. Ömer şu karşılığı verdi: Hem de sadece abdest (öyle mi)? Resulullah (Sallallahu aleyhi ve Sellem)'ın, \"Sizden biri cumaya geldiği zaman gusletsin\" buyurduğunu işitmediniz mi? Tahric: bk. Buhari, cuma; MüsIim, cuma; Tirmizi, cuma; Nesai, Cuma; Muvatta, cuma; Darimi, salat; Ahmed b. Hanbel, I,15, 46",
+			"text": "Ebu Hureyre (r.a.) şöyle haber vermiştir: \"Ömer bin el-Hattab (r.a.) bir cuma günü hutbe okurken, bir zat (mescide) giriverdi. Hz. Ömer: Niçin namaza (vaktinde) gelmiyorsunuz? dedi. Adam: Ezanı duyup abdest aldım (ancak geldim), dedi. Bunun üzerine Hz. Ömer şu karşılığı verdi: Hem de sadece abdest (öyle mi)? Resulullah (Sallallahu aleyhi ve Sellem)'ın, \"Sizden biri cumaya geldiği zaman gusletsin\" buyurduğunu işitmediniz mi? Tahric: bk. Buhari, cuma; MüsIim, cuma; Tirmizi, cuma; Nesai, Cuma; Muvatta, cuma; Darimi, salat; Ahmed b. Hanbel, I",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -8678,7 +8666,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (882) Sahih Muslim (845)"
 				}
 			],
 			"reference": {
@@ -8689,7 +8677,7 @@
 		{
 			"hadithnumber": 341,
 			"arabicnumber": 341,
-			"text": "Ebu Said el-Hudri (r.a.)'dan rivayet edildiğine göre Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur; \"Cuma günü gusletmek, ihtilam (baliğ) olan herkese vaciptir.” Diğer tahric: Buhari ezan; cuma, şehadat; Müslim, cuma; Darimi, salat; İbn Mace, ikame; Muvatta cuma; Ahmed b. Hanbel, III, 6, 30, 60",
+			"text": "Ebu Said el-Hudri (r.a.)'dan rivayet edildiğine göre Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur; \"Cuma günü gusletmek, ihtilam (baliğ) olan herkese vaciptir.” Diğer tahric: Buhari ezan; cuma, şehadat; Müslim, cuma; Darimi, salat; İbn Mace, ikame; Muvatta cuma; Ahmed b. Hanbel, III",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -8701,7 +8689,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (895) Sahih Muslim (846)"
 				}
 			],
 			"reference": {
@@ -8766,7 +8754,7 @@
 		{
 			"hadithnumber": 344,
 			"arabicnumber": 344,
-			"text": "Ebu Said el-Hudri (r.a.) Peygamber (Sallallahu aleyhi ve Sellem)'ın şöyle buyurduğunu rivayet etmiştir: \"Cuma günü gusül etmek ve dişleri misvaklamak ihtilam (baliğ) olan herkese sabittir.[252] (Baliğ kimse o gün) kendisi için takdir edilen kokudan (da) sürer.\" (Ravilerden) Bukeyr, Abdurrahman'ı zikretmemiş, koku hakkında da \"kadınların kokusundan bile olsa\" demiştir. Diğer tahric: Müslim, cuma; Nesai, cuma; Ahmed b. Hanbel, III, 30, 69; IV, 34",
+			"text": "Ebu Said el-Hudri (r.a.) Peygamber (Sallallahu aleyhi ve Sellem)'ın şöyle buyurduğunu rivayet etmiştir: \"Cuma günü gusül etmek ve dişleri misvaklamak ihtilam (baliğ) olan herkese sabittir.[252] (Baliğ kimse o gün) kendisi için takdir edilen kokudan (da) sürer.\" (Ravilerden) Bukeyr, Abdurrahman'ı zikretmemiş, koku hakkında da \"kadınların kokusundan bile olsa\" demiştir. Diğer tahric: Müslim, cuma; Nesai, cuma; Ahmed b. Hanbel, III, 30, 69; IV",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -8778,7 +8766,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (846)"
 				}
 			],
 			"reference": {
@@ -8789,7 +8777,7 @@
 		{
 			"hadithnumber": 345,
 			"arabicnumber": 345,
-			"text": "Evs bin Evs es-Sekafi, Resulullah (Sallallahu aleyhi ve Sellem)'i şöyle buyururken işittim demiştir: \"Her kim cuma günü (başını ve vücudunun geri kalan kısmını) yıkar ve gusleder erkenden yola çıkıp (hutbenin evveline) yetişir (bir şeye) binmeyip yürür, imamın yakınına oturarak abesle iştigal etmeyip (konuşmadan) hutbeyi dinlerse onun için attığı her adıma bir senelik oruç ve namazının ecri vardır.\" Diğer tahric: Nesai, cuma; İbn Mace, ikame; Tirmizi, cuma; Ahmed b. Hanbel, III, 209; IV, 8, 9, 10",
+			"text": "Evs bin Evs es-Sekafi, Resulullah (Sallallahu aleyhi ve Sellem)'i şöyle buyururken işittim demiştir: \"Her kim cuma günü (başını ve vücudunun geri kalan kısmını) yıkar ve gusleder erkenden yola çıkıp (hutbenin evveline) yetişir (bir şeye) binmeyip yürür, imamın yakınına oturarak abesle iştigal etmeyip (konuşmadan) hutbeyi dinlerse onun için attığı her adıma bir senelik oruç ve namazının ecri vardır.\" Diğer tahric: Nesai, cuma; İbn Mace, ikame; Tirmizi, cuma; Ahmed b. Hanbel, III, 209; IV",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -8816,7 +8804,7 @@
 		{
 			"hadithnumber": 346,
 			"arabicnumber": 346,
-			"text": "Evs es- Sekafi (r.a.) Resulullah (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu rivayet etmiştir: \"Her kim cuma günü başını yıkar ve gusleder...\" Daha sonra (Ubade) önceki hadisin lafızları ile devam etti. Diğer tahric: Nesai, cuma; İbn Mace, ikame; Tirmizi, cuma; Ahmed b. Hanbel, III, 209; IV, 8, 9, 10",
+			"text": "Evs es- Sekafi (r.a.) Resulullah (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu rivayet etmiştir: \"Her kim cuma günü başını yıkar ve gusleder...\" Daha sonra (Ubade) önceki hadisin lafızları ile devam etti. Diğer tahric: Nesai, cuma; İbn Mace, ikame; Tirmizi, cuma; Ahmed b. Hanbel, III, 209; IV",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -8843,7 +8831,7 @@
 		{
 			"hadithnumber": 347,
 			"arabicnumber": 347,
-			"text": "Abdullah bin Amr bin el-As (r.a.), Resulullah (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu haber vermiştir: \"Her kim cuma günü gusleder, -varsa- hanımının kokusundan sürünür, en güzel (temiz) elbisesini giyer, insanların omuzları üzerinden aşmaz ve hutbe esnasında konuşmazsa (bunlar) iki cuma arasındaki (günahlara) keffaret olur. Konuşan ve insanların omuzlarına basan kimseye ise (cuma namazı) Öğlen namazı (gibi) olur, (Ancak öğlen namazının sevabını alır.\" Diğer tahric: Nesai, cum'a'; İbn Mace, ikame; Ahmed b. Hanbel, I, 93;IV, 9, 10, 104)",
+			"text": "Abdullah bin Amr bin el-As (r.a.), Resulullah (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu haber vermiştir: \"Her kim cuma günü gusleder, -varsa- hanımının kokusundan sürünür, en güzel (temiz) elbisesini giyer, insanların omuzları üzerinden aşmaz ve hutbe esnasında konuşmazsa (bunlar) iki cuma arasındaki (günahlara) keffaret olur. Konuşan ve insanların omuzlarına basan kimseye ise (cuma namazı) Öğlen namazı (gibi) olur, (Ancak öğlen namazının sevabını alır.\" Diğer tahric: Nesai, cum'a'; İbn Mace, ikame; Ahmed b. Hanbel, I, 93;IV)",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -8866,7 +8854,7 @@
 		{
 			"hadithnumber": 348,
 			"arabicnumber": 348,
-			"text": "Abdullah bin Zübeyr, (r.a.)'ın kendisine şöyle dediğini rivayet eder: \"Peygamber (Sallallahu aleyhi ve Sellem) (şu) dört şeyden dolayı guslederdi: Cenabet, cuma günü, kan aldırmak ve cenaze yıkamak.\" Diğer tahric: Ebu Davud, cenaiz no: 3160",
+			"text": "Abdullah bin Zübeyr, (r.a.)'ın kendisine şöyle dediğini rivayet eder: \"Peygamber (Sallallahu aleyhi ve Sellem) (şu) dört şeyden dolayı guslederdi: Cenabet, cuma günü, kan aldırmak ve cenaze yıkamak.\" Diğer tahric: Ebu Davud, cenaiz no:",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -8935,7 +8923,7 @@
 		{
 			"hadithnumber": 351,
 			"arabicnumber": 351,
-			"text": "Ebu Hureyre (r.a.) Resulullah (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu haber vermiştir: \"Bir kimse cuma günü cünüplükten dolayı yıkandığı gibi yıkanır, sonra da erkenden (mescide) giderse, bir deve tasadduk etmiş gibi olur. ikinci saatte giden bir sığır, üçüncü saatte giden boynuzlu bir koç, dördüncü saatte giden bir tavuk, beşinci saatte giden de bir yumurta tasadduk etmiş sayılır. İmam (minbere) çıktığı zaman melekler (minberin yanında) hutbeyi dinlemeye gelirler.\" Diğer tahric: Buhari, cuma; Müslim, cuma; Nesai, cuma; Tirmizi, cuma; Muvatta, cuma; Ahmed b. Hanbel, II, 460",
+			"text": "Ebu Hureyre (r.a.) Resulullah (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu haber vermiştir: \"Bir kimse cuma günü cünüplükten dolayı yıkandığı gibi yıkanır, sonra da erkenden (mescide) giderse, bir deve tasadduk etmiş gibi olur. ikinci saatte giden bir sığır, üçüncü saatte giden boynuzlu bir koç, dördüncü saatte giden bir tavuk, beşinci saatte giden de bir yumurta tasadduk etmiş sayılır. İmam (minbere) çıktığı zaman melekler (minberin yanında) hutbeyi dinlemeye gelirler.\" Diğer tahric: Buhari, cuma; Müslim, cuma; Nesai, cuma; Tirmizi, cuma; Muvatta, cuma; Ahmed b. Hanbel, II",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -8951,7 +8939,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (881) Sahih Muslim (850)"
 				}
 			],
 			"reference": {
@@ -8974,7 +8962,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (903) Sahih Muslim (847)"
 				}
 			],
 			"reference": {
@@ -9012,7 +9000,7 @@
 		{
 			"hadithnumber": 354,
 			"arabicnumber": 354,
-			"text": "Semure bin Cündüb (r.a.)'den demiştir ki; Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Kim cuma günü abdest alırsa gerekeni yapmıştır ve güzeldir. Ama kim guslederse o daha faziletlidir.\" Diğer tahric: Nesai, cuma; Tirmİzî, cuma; salat; Ahmed b. Hanbel; 8,11,15, 16, 22",
+			"text": "Semure bin Cündüb (r.a.)'den demiştir ki; Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Kim cuma günü abdest alırsa gerekeni yapmıştır ve güzeldir. Ama kim guslederse o daha faziletlidir.\" Diğer tahric: Nesai, cuma; Tirmİzî, cuma; salat; Ahmed b. Hanbel;",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -9039,7 +9027,7 @@
 		{
 			"hadithnumber": 355,
 			"arabicnumber": 355,
-			"text": "Kays bin Asim (r.a.)'den şöyle demiştir: \"Müslüman olmak gayesiyle ResuluIIah (Sallallahu aleyhi ve Sellem)'e geldim, Sidr karışmış su ile gusletmemi emretti.\" Diğer tahric: Nesai, tahare Tirmizî, cuma; Ahmed b. Hanbel.V, 61",
+			"text": "Kays bin Asim (r.a.)'den şöyle demiştir: \"Müslüman olmak gayesiyle ResuluIIah (Sallallahu aleyhi ve Sellem)'e geldim, Sidr karışmış su ile gusletmemi emretti.\" Diğer tahric: Nesai, tahare Tirmizî, cuma; Ahmed b. Hanbel.V",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -9101,7 +9089,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -9185,7 +9173,7 @@
 		{
 			"hadithnumber": 361,
 			"arabicnumber": 361,
-			"text": "Esma binti Ebi Bekr (r.ahha)'dan, demiştir ki; \"Bir kadını Resulullah (Sallallahu aleyhi ve Sellem)'a şöyle sorarken duydum: Ya Resulullah, bizden birinin elbisesine hayız kanı bulaşırsa, ne yapsın? Nebi (Sallallahu aleyhi ve Sellem) şu cevabı verdi: \" Sizden birinize hayz kanı bulaşırsa onu (pamukla) ovalasın sonra su ile yıkasın ve namazını kılsın.\" Diğer tahric: Buhari, hayz, vudu; Müslim tahare; Tirmizî, tahare, İbn Mace, tahare; Nesai, hayz; muvatta tahare; Ahmed b. Hanbel, VI, 246, 253",
+			"text": "Esma binti Ebi Bekr (r.ahha)'dan, demiştir ki; \"Bir kadını Resulullah (Sallallahu aleyhi ve Sellem)'a şöyle sorarken duydum: Ya Resulullah, bizden birinin elbisesine hayız kanı bulaşırsa, ne yapsın? Nebi (Sallallahu aleyhi ve Sellem) şu cevabı verdi: \" Sizden birinize hayz kanı bulaşırsa onu (pamukla) ovalasın sonra su ile yıkasın ve namazını kılsın.\" Diğer tahric: Buhari, hayz, vudu; Müslim tahare; Tirmizî, tahare, İbn Mace, tahare; Nesai, hayz; muvatta tahare; Ahmed b. Hanbel, VI",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -9201,7 +9189,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (307) Sahih Muslim (291)"
 				}
 			],
 			"reference": {
@@ -9239,7 +9227,7 @@
 		{
 			"hadithnumber": 363,
 			"arabicnumber": 363,
-			"text": "Ümmu Kays binti Mihsan şöyle demiştir: \"Resulullah (Sallallahu aleyhi ve Sellem)'e elbisede olan hayz kanını(n hükmünü) sordum. \"Onu bir çubuk ile kazı, su ve sidr ile yıka','buyurdu. Diğer tahric: Nesai, tahare; hayz; İbn Mace, tahare; Darimî, vudu; Ahmed b. Hanbel, VI, 355, 356",
+			"text": "Ümmu Kays binti Mihsan şöyle demiştir: \"Resulullah (Sallallahu aleyhi ve Sellem)'e elbisede olan hayz kanını(n hükmünü) sordum. \"Onu bir çubuk ile kazı, su ve sidr ile yıka','buyurdu. Diğer tahric: Nesai, tahare; hayz; İbn Mace, tahare; Darimî, vudu; Ahmed b. Hanbel, VI",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -9293,7 +9281,7 @@
 		{
 			"hadithnumber": 365,
 			"arabicnumber": 365,
-			"text": "Ebu Hureyre (r.a.)'den rivayet edilmiştir; \"Havle binti Yesar, Resulullah (Sallallahu aleyhi ve Sellem)'e gelip: Ya Resulullah! Benim sadece bir tane elbisem var, ben o (elbisem) üzerimde iken hayız oluyorum, ne yapayım? dedi. Nebi (Sallallahu aleyhi ve Sellem) şu cevabı verdi: Temizlendiğin zaman onu yıka ve onda (onu giyerek) namazını kıl.\" Havle dedi ki: Kan çıkmazsa (ne yapayım)? Nebi (Sallallahu aleyhi ve Sellem); '\"Kam yıkamak sana yeter, izi zarar vermez\" buyurdular. Diğer tahric: Ahmed b. Hanbel, II, 380",
+			"text": "Ebu Hureyre (r.a.)'den rivayet edilmiştir; \"Havle binti Yesar, Resulullah (Sallallahu aleyhi ve Sellem)'e gelip: Ya Resulullah! Benim sadece bir tane elbisem var, ben o (elbisem) üzerimde iken hayız oluyorum, ne yapayım? dedi. Nebi (Sallallahu aleyhi ve Sellem) şu cevabı verdi: Temizlendiğin zaman onu yıka ve onda (onu giyerek) namazını kıl.\" Havle dedi ki: Kan çıkmazsa (ne yapayım)? Nebi (Sallallahu aleyhi ve Sellem); '\"Kam yıkamak sana yeter, izi zarar vermez\" buyurdular. Diğer tahric: Ahmed b. Hanbel, II",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -9343,7 +9331,7 @@
 		{
 			"hadithnumber": 367,
 			"arabicnumber": 367,
-			"text": "Aişe (r.a.)'dan demiştir ki: Rasulullah (Sallallahu aleyhi ve Sellem) bizim çamaşırlarımız da veya çarşaflarımızda namaz kılmazdı. Ubeydullah: \"Babam (çamaşır mı, yoksa çarşaf mı olduğunu) şüphe etti\" demiştir. Diğer tahric: Ebu Davud, salat; Nesai, ziynet Tirmîzî, cuma; Ahmed b. Hanbel, VI, 101",
+			"text": "Aişe (r.a.)'dan demiştir ki: Rasulullah (Sallallahu aleyhi ve Sellem) bizim çamaşırlarımız da veya çarşaflarımızda namaz kılmazdı. Ubeydullah: \"Babam (çamaşır mı, yoksa çarşaf mı olduğunu) şüphe etti\" demiştir. Diğer tahric: Ebu Davud, salat; Nesai, ziynet Tirmîzî, cuma; Ahmed b. Hanbel, VI",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -9397,7 +9385,7 @@
 		{
 			"hadithnumber": 369,
 			"arabicnumber": 369,
-			"text": "Meymune (r.anha)'dan; \"Resulullah (Sallallahu aleyhi ve Sellem)'ın bir bölümü kendi üzerinde, diğer bölümü hayız halindeki bir hanımının üstünde olan bir elbise ile namaz kıldığı\" rivayet edilmiştir. Diğer tahric: Müslim, salat; İbn Mace, tahare; Ahmed b. Hanbel, VI, 67, 99, 129, 137",
+			"text": "Meymune (r.anha)'dan; \"Resulullah (Sallallahu aleyhi ve Sellem)'ın bir bölümü kendi üzerinde, diğer bölümü hayız halindeki bir hanımının üstünde olan bir elbise ile namaz kıldığı\" rivayet edilmiştir. Diğer tahric: Müslim, salat; İbn Mace, tahare; Ahmed b. Hanbel, VI, 6",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -9436,7 +9424,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (514)"
 				}
 			],
 			"reference": {
@@ -9447,7 +9435,7 @@
 		{
 			"hadithnumber": 371,
 			"arabicnumber": 371,
-			"text": "Hemmam bin Haris'ten rivayet edilmiştir: \"(Bir gün) Hemmam Hz. Aişe'nin yanında (misafir) iken ihtilam olmuştu. Elbisesini veya elbisesindeki cenabet eserini (meniyi) yıkarken Hz. Aişe'nin cariyesi onu gördü ve Hz. Aişe'ye haber verdi. Bunun üzerine Aişe (r.anha) şöyle dedi: (Şu anda) Resulullah (Sallallahu aleyhi ve Sellem)'in elbisesinden onu ovaladığımı görür (gibiyim). Ebu Davad: \"Bunu, Hakem rivayet ettiği gibi, A'meş de rivayet etmiştir\" dedi. Diğer tahric: Müslim, tahare; Nesai, tahare; İbn Mace, tahare (mana olarak); Tirmizî, tahare, (mana olarak); Ahmed b. Hanbel, VI, 35 97, 135",
+			"text": "Hemmam bin Haris'ten rivayet edilmiştir: \"(Bir gün) Hemmam Hz. Aişe'nin yanında (misafir) iken ihtilam olmuştu. Elbisesini veya elbisesindeki cenabet eserini (meniyi) yıkarken Hz. Aişe'nin cariyesi onu gördü ve Hz. Aişe'ye haber verdi. Bunun üzerine Aişe (r.anha) şöyle dedi: (Şu anda) Resulullah (Sallallahu aleyhi ve Sellem)'in elbisesinden onu ovaladığımı görür (gibiyim). Ebu Davad: \"Bunu, Hakem rivayet ettiği gibi, A'meş de rivayet etmiştir\" dedi. Diğer tahric: Müslim, tahare; Nesai, tahare; İbn Mace, tahare (mana olarak); Tirmizî, tahare, (mana olarak); Ahmed b. Hanbel, VI",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -9463,7 +9451,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (288)"
 				}
 			],
 			"reference": {
@@ -9490,7 +9478,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih Muslim ( 288 from Hadith Ibrahim  By)"
 				}
 			],
 			"reference": {
@@ -9501,7 +9489,7 @@
 		{
 			"hadithnumber": 373,
 			"arabicnumber": 373,
-			"text": "Süleyman bin Yesar Aişe (r.anha)'yı şöyle söylerken dinlemiştir: \"Ben Resulullah (Sallallahu aleyhi ve Sellem)'in elbisesinden meniyi yıkardım daha sonra elbisedeki temizleme izlerini görürdüm.\" Diğer tahric: Buhari, vudu'; Müslim, tahare (benzeri); Tirmizî, tahare (benzeri);Nesai tahare; İbn Mace, tahare (benzeri); Ahmed b. Hanbel, VI, 142, 235",
+			"text": "Süleyman bin Yesar Aişe (r.anha)'yı şöyle söylerken dinlemiştir: \"Ben Resulullah (Sallallahu aleyhi ve Sellem)'in elbisesinden meniyi yıkardım daha sonra elbisedeki temizleme izlerini görürdüm.\" Diğer tahric: Buhari, vudu'; Müslim, tahare (benzeri); Tirmizî, tahare (benzeri);Nesai tahare; İbn Mace, tahare (benzeri); Ahmed b. Hanbel, VI",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -9517,7 +9505,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (229) Sahih Muslim (289)"
 				}
 			],
 			"reference": {
@@ -9528,7 +9516,7 @@
 		{
 			"hadithnumber": 374,
 			"arabicnumber": 374,
-			"text": "Ümmü Kays binti Mihsan'dan rivayet edilmiştir ki: \"O, (bir gün) henüz yemek yemeyen küçük oğlunu Resulullah (Sallallahu aleyhi ve Sellem)'e getirdi Ffendimiz de çocuğu kucağına oturttu. Çocuk Resulullah (Sallallahu aleyhi ve Sellem)'in elbisesine bevletti. Efendimiz su isteyerek (sidiğin) üzerine döktü, onu yıkamadı.\" Diğer tahric: Buhari, vudu; Muslim.tahare; Nesai, tahare; Tirmizî, tahare (benze­ri) ibn Mace, tahare; Darimi, vudu'; Muvatta', tahare; Ahmed b. Hanbel, VI, 356, 464",
+			"text": "Ümmü Kays binti Mihsan'dan rivayet edilmiştir ki: \"O, (bir gün) henüz yemek yemeyen küçük oğlunu Resulullah (Sallallahu aleyhi ve Sellem)'e getirdi Ffendimiz de çocuğu kucağına oturttu. Çocuk Resulullah (Sallallahu aleyhi ve Sellem)'in elbisesine bevletti. Efendimiz su isteyerek (sidiğin) üzerine döktü, onu yıkamadı.\" Diğer tahric: Buhari, vudu; Muslim.tahare; Nesai, tahare; Tirmizî, tahare (benze­ri) ibn Mace, tahare; Darimi, vudu'; Muvatta', tahare; Ahmed b. Hanbel, VI",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -9540,7 +9528,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (223) Sahih Muslim (287)"
 				}
 			],
 			"reference": {
@@ -9551,7 +9539,7 @@
 		{
 			"hadithnumber": 375,
 			"arabicnumber": 375,
-			"text": "Lubabe binti el-Haris (r.anha)'dan; demiştir ki; \"Ali (r.a.)'ın oğlu Hüseyin, Resulullah (Sallallahu aleyhi ve Sellem)'in kucağında idi. Efendimizin üzerine bevletti. Bir elbise giy, izarını da bana ver yıkayayım, dedim. Resulullah (Sallallahu aleyhi ve Sellem); \"Ancak kızın idrarından dolayı yıkanır oğlanın idrarından ise (üzerine) su dökülür,\" buyurdu. Diğer tahric: Buhari, vudu; İbn Mace, tahare; Ahmed b. Hanbel, VI, 239, 240, 255, 256",
+			"text": "Lubabe binti el-Haris (r.anha)'dan; demiştir ki; \"Ali (r.a.)'ın oğlu Hüseyin, Resulullah (Sallallahu aleyhi ve Sellem)'in kucağında idi. Efendimizin üzerine bevletti. Bir elbise giy, izarını da bana ver yıkayayım, dedim. Resulullah (Sallallahu aleyhi ve Sellem); \"Ancak kızın idrarından dolayı yıkanır oğlanın idrarından ise (üzerine) su dökülür,\" buyurdu. Diğer tahric: Buhari, vudu; İbn Mace, tahare; Ahmed b. Hanbel, VI, 239",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -9613,7 +9601,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -9636,7 +9624,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -9663,7 +9651,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -9674,7 +9662,7 @@
 		{
 			"hadithnumber": 380,
 			"arabicnumber": 380,
-			"text": "Ebu Hureyre (r.a.)'dan rivayet edilmiştir ki; Resulullah (Sallallahu aleyhi ve Sellem) Mescidde otururken bir bedevi Mescide girip namaz kıldı.(İbn Abd bu namazın iki rekat olduğunu söyler). Sonra da: Allah'ım, bana ve Muhammed (Sallallahu aleyhi ve Sellem)'e rahmet eyle, bizimle beraber bir başkasına acıma, dedi. Bunun üzerine Peygamber (Sallallahu aleyhi ve Sellem): Geniş olan şeyi men ettin, buyurdu. Aradan fazla bir zaman geçmeden bedevi Mescidin içinde (bir kenara) bevletti. Bunu gören sahabiler bedeviye doğru koştular, fakat Resulullah (Sallallahu aleyhi ve Sellem) onlara mani oldu ve: Siz ancak kolaylaştırıcı olarak gönderildiniz, zorlaştırıcı olarak değil. O (bedevinin) bevli üzerine büyük bir kova dolusu veya doluya yakın su dökünüz\" buyurdu. Diğer tahric: Buhari, vudu, edeb; Müslim, tahare; Tirmızî, tahare; Nesai, tahare; mjyah, İbn Mace, tahare; Darimîi vudu; Muvatta', tahare, Ahmed b. Hanbel, ÎI, 282",
+			"text": "Ebu Hureyre (r.a.)'dan rivayet edilmiştir ki; Resulullah (Sallallahu aleyhi ve Sellem) Mescidde otururken bir bedevi Mescide girip namaz kıldı.(İbn Abd bu namazın iki rekat olduğunu söyler). Sonra da: Allah'ım, bana ve Muhammed (Sallallahu aleyhi ve Sellem)'e rahmet eyle, bizimle beraber bir başkasına acıma, dedi. Bunun üzerine Peygamber (Sallallahu aleyhi ve Sellem): Geniş olan şeyi men ettin, buyurdu. Aradan fazla bir zaman geçmeden bedevi Mescidin içinde (bir kenara) bevletti. Bunu gören sahabiler bedeviye doğru koştular, fakat Resulullah (Sallallahu aleyhi ve Sellem) onlara mani oldu ve: Siz ancak kolaylaştırıcı olarak gönderildiniz, zorlaştırıcı olarak değil. O (bedevinin) bevli üzerine büyük bir kova dolusu veya doluya yakın su dökünüz\" buyurdu. Diğer tahric: Buhari, vudu, edeb; Müslim, tahare; Tirmızî, tahare; Nesai, tahare; mjyah, İbn Mace, tahare; Darimîi vudu; Muvatta', tahare, Ahmed b. Hanbel, ÎI",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -9697,7 +9685,7 @@
 		{
 			"hadithnumber": 381,
 			"arabicnumber": 381,
-			"text": "Ma'kil bin Mukarrin'den; şöyle demiştir: \"Bir bedevi, Resulullah (Sallallahu aleyhi ve Sellem) ile birlikte namaz kıldı...\" (Ma'kil bundan sonra) Önceki hadisteki hadiseyi (anlattı) ve şunları ilave etti: Resulullah (Sallallahu aleyhi ve Sellem); \"Üzerine bevlettiği toprağı alın ve (Mescidin dışına) atın, yerine de su dökün\" buyurdu. Ebu Davud; \"Bu hadis mürseldir. Çünkü İbn Ma'kil, Resulullah (Sallallahu aleyhi ve Sellem)'i görmemiştir” dedi. Diğer tahric: Buhari, vudu, edeb; Müslim, tahare; Tirmizi, tahare; Nesai, tahare; mjyah, İbn Mace, tahare; Darimîi vudu; Muvatta', tahare, Ahmed b. Hanbel, ÎI, 282",
+			"text": "Ma'kil bin Mukarrin'den; şöyle demiştir: \"Bir bedevi, Resulullah (Sallallahu aleyhi ve Sellem) ile birlikte namaz kıldı...\" (Ma'kil bundan sonra) Önceki hadisteki hadiseyi (anlattı) ve şunları ilave etti: Resulullah (Sallallahu aleyhi ve Sellem); \"Üzerine bevlettiği toprağı alın ve (Mescidin dışına) atın, yerine de su dökün\" buyurdu. Ebu Davud; \"Bu hadis mürseldir. Çünkü İbn Ma'kil, Resulullah (Sallallahu aleyhi ve Sellem)'i görmemiştir” dedi. Diğer tahric: Buhari, vudu, edeb; Müslim, tahare; Tirmizi, tahare; Nesai, tahare; mjyah, İbn Mace, tahare; Darimîi vudu; Muvatta', tahare, Ahmed b. Hanbel, ÎI",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -9740,7 +9728,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari"
+					"grade": "Sahih Bukhari (174)"
 				}
 			],
 			"reference": {
@@ -9909,7 +9897,7 @@
 		{
 			"hadithnumber": 389,
 			"arabicnumber": 389,
-			"text": "Ebu Nadra'dan, demiştir ki; \"Resulullah (Sallallahu aleyhi ve Sellem) elbisesine tükürdü ve orayı biri biri üstüne (katlayıp) sürttü.\" Diğer tahric: Nesai, tahare; İbn Mace, ikame; Ahmed b.Hanbel, III, 42",
+			"text": "Ebu Nadra'dan, demiştir ki; \"Resulullah (Sallallahu aleyhi ve Sellem) elbisesine tükürdü ve orayı biri biri üstüne (katlayıp) sürttü.\" Diğer tahric: Nesai, tahare; İbn Mace, ikame; Ahmed b.Hanbel, III",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -9952,7 +9940,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari"
+					"grade": "Sahih Bukhari (241)"
 				}
 			],
 			"reference": {

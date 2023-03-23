@@ -109,7 +109,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari"
+					"grade": "Sahih Bukhari (5823)"
 				}
 			],
 			"reference": {
@@ -213,7 +213,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (2599) Sahih Muslim (1058)"
 				}
 			],
 			"reference": {
@@ -371,7 +371,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -425,7 +425,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (2080)"
 				}
 			],
 			"reference": {
@@ -498,7 +498,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Sahih"
+					"grade": "Isnaad Sahih Sahih Bukhari (5590)"
 				}
 			],
 			"reference": {
@@ -525,7 +525,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (2612) Sahih Muslim (2068)"
 				}
 			],
 			"reference": {
@@ -552,7 +552,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (2054) Sahih Muslim (2068)"
 				}
 			],
 			"reference": {
@@ -579,7 +579,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (5829) Sahih Muslim (2069)"
 				}
 			],
 			"reference": {
@@ -606,7 +606,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (2071)"
 				}
 			],
 			"reference": {
@@ -629,7 +629,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (2078)"
 				}
 			],
 			"reference": {
@@ -710,7 +710,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -737,7 +737,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -837,7 +837,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (5817) Sahih Muslim (556)"
 				}
 			],
 			"reference": {
@@ -860,7 +860,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih Bukhari (752) Sahih Muslim (556)"
 				}
 			],
 			"reference": {
@@ -906,7 +906,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -929,7 +929,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (2919) Sahih Muslim (2076)"
 				}
 			],
 			"reference": {
@@ -1025,7 +1025,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (5812) Sahih Muslim (2079)"
 				}
 			],
 			"reference": {
@@ -1045,10 +1045,6 @@
 				{
 					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
 					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -1248,7 +1244,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -1325,7 +1321,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (3551) Sahih Muslim (2337)"
 				}
 			],
 			"reference": {
@@ -1452,7 +1448,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (1359)"
 				}
 			],
 			"reference": {
@@ -1479,7 +1475,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -1556,7 +1552,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (2099)"
 				}
 			],
 			"reference": {
@@ -1656,7 +1652,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih Bukhari (5784)"
 				}
 			],
 			"reference": {
@@ -1710,7 +1706,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (106)"
 				}
 			],
 			"reference": {
@@ -1733,7 +1729,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (106)"
 				}
 			],
 			"reference": {
@@ -1802,7 +1798,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (91)"
 				}
 			],
 			"reference": {
@@ -1948,7 +1944,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari"
+					"grade": "Sahih Bukhari (5885)"
 				}
 			],
 			"reference": {
@@ -2132,7 +2128,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (2206)"
 				}
 			],
 			"reference": {
@@ -2182,7 +2178,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (2181)"
 				}
 			],
 			"reference": {
@@ -2205,7 +2201,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (2181)"
 				}
 			],
 			"reference": {
@@ -2501,7 +2497,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (1492) Sahih Muslim (363)"
 				}
 			],
 			"reference": {
@@ -2528,7 +2524,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (1492) Sahih Muslim (363)"
 				}
 			],
 			"reference": {
@@ -2551,7 +2547,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -2574,7 +2570,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (366)"
 				}
 			],
 			"reference": {
@@ -2601,7 +2597,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -2628,7 +2624,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -2774,7 +2770,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -2824,7 +2820,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih Muslim (2096)"
 				}
 			],
 			"reference": {
@@ -2851,7 +2847,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari"
+					"grade": "Sahih Bukhari (5857)"
 				}
 			],
 			"reference": {
@@ -2901,7 +2897,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (5855) Sahih Muslim (2097)"
 				}
 			],
 			"reference": {
@@ -2928,7 +2924,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (2099)"
 				}
 			],
 			"reference": {
@@ -2982,7 +2978,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (5856) Sahih Muslim (2097)"
 				}
 			],
 			"reference": {
@@ -3009,7 +3005,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (168) Sahih Muslim (268)"
 				}
 			],
 			"reference": {
@@ -3036,7 +3032,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -3063,7 +3059,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (2084)"
 				}
 			],
 			"reference": {
@@ -3132,7 +3128,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (5161) Sahih Muslim (2083)"
 				}
 			],
 			"reference": {
@@ -3155,7 +3151,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (2082)"
 				}
 			],
 			"reference": {
@@ -3178,7 +3174,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih Muslim (2082)"
 				}
 			],
 			"reference": {
@@ -3228,7 +3224,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (2613)"
 				}
 			],
 			"reference": {
@@ -3255,7 +3251,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari"
+					"grade": "Sahih Bukhari (2613)"
 				}
 			],
 			"reference": {
@@ -3282,7 +3278,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari"
+					"grade": "Sahih Bukhari (5952)"
 				}
 			],
 			"reference": {
@@ -3332,7 +3328,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (2106)"
 				}
 			],
 			"reference": {
@@ -3382,7 +3378,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (5958) Sahih Muslim (2106)"
 				}
 			],
 			"reference": {
@@ -3436,7 +3432,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (2105)"
 				}
 			],
 			"reference": {

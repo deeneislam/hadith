@@ -33,12 +33,7 @@
 			"hadithnumber": 3722.2,
 			"arabicnumber": 3722.2,
 			"text": "اخبرنا محمد بن المثنى، عن سفيان، عن عمرو، عن طاوس، عن حجر المدري، عن زيد بن ثابت، ان النبي صلى الله عليه وسلم قضى بالعمرى للوارث",
-			"grades": [
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
-				}
-			],
+			"grades": [],
 			"reference": {
 				"book": 34,
 				"hadith": 4

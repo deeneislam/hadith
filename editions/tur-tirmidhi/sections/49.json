@@ -201,7 +201,7 @@
 		{
 			"hadithnumber": 3613,
 			"arabicnumber": 3613,
-			"text": "Übey b. Ka’b (radıyallahü anh)’den rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: “Peygamberler içinde benim örneğim bir ev inşa edip onu en iyi şekilde yapıp bir tuğla yeri eksik bırakan kimsenin durumu gibidir. İnsanlar bu binanın çevresinde dolaşırlar ve ona hayran olurlar ve o tuğlanın yeri de yapılmış olsaydı derler. İşte Peygamberler içinde benim yerim o tuğlanın yeri gibidir.” (Müsned: 20392)",
+			"text": "Übey b. Ka’b (radıyallahü anh)’den rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: “Peygamberler içinde benim örneğim bir ev inşa edip onu en iyi şekilde yapıp bir tuğla yeri eksik bırakan kimsenin durumu gibidir. İnsanlar bu binanın çevresinde dolaşırlar ve ona hayran olurlar ve o tuğlanın yeri de yapılmış olsaydı derler. İşte Peygamberler içinde benim yerim o tuğlanın yeri gibidir.” (Müsned:)",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -213,7 +213,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -378,11 +378,11 @@
 			"grades": [
 				{
 					"name": "Ahmad Muhammad Shakir",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Al-Albani",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Zubair Ali Zai",
@@ -436,7 +436,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Shadh"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -463,7 +463,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -636,7 +636,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -663,7 +663,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -690,7 +690,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -744,7 +744,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -771,7 +771,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -825,7 +825,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -979,7 +979,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -1006,7 +1006,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -1202,7 +1202,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -1283,7 +1283,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih - Bukhari And Muslim"
 				}
 			],
 			"reference": {
@@ -1360,7 +1360,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Daif"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -1410,7 +1410,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -1444,7 +1444,7 @@
 		{
 			"hadithnumber": 3662,
 			"arabicnumber": 3662,
-			"text": "Huzeyfe (radıyallahü anh)’den rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: “Benden sonra Ebû Bekir ve Ömer’e uyunuz.” (İbn Mâce, Mukaddime: 27)",
+			"text": "Huzeyfe (radıyallahü anh)’den rivâyete göre, Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: “Benden sonra Ebû Bekir ve Ömer’e uyunuz.” (İbn Mâce, Mukaddime:)",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -1694,7 +1694,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -1744,7 +1744,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -1798,7 +1798,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -1825,7 +1825,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -1994,7 +1994,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Mawdu"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -2229,7 +2229,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih - Bukhari And Muslim"
 				}
 			],
 			"reference": {
@@ -2637,7 +2637,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Mawdu"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -2664,7 +2664,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -2791,7 +2791,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -2833,10 +2833,6 @@
 				},
 				{
 					"name": "Bashar Awad Maarouf",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
 					"grade": "Hasan"
 				}
 			],
@@ -2956,10 +2952,6 @@
 				},
 				{
 					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
 					"grade": "Daif"
 				}
 			],
@@ -3344,7 +3336,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -3444,7 +3436,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -3498,7 +3490,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -3521,7 +3513,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -3532,7 +3524,7 @@
 		{
 			"hadithnumber": 3747,
 			"arabicnumber": 3747,
-			"text": "Abdurrahman b. Avf (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: “Ebû Bekir Cennet’tedir, Ömer Cennettedir, Osman Cennettedir, Ali Cennettedir, Talha Cennettedir, Zübeyr Cennet’tedir, Abdurrahman b. Avf Cennet’tedir, Sa’d Cennet’tedir, Saîd Cennet’tedir, Ebû Ubeyde b. Cerrâh Cennet’tedir.” (Müsned: 1585)",
+			"text": "Abdurrahman b. Avf (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: “Ebû Bekir Cennet’tedir, Ömer Cennettedir, Osman Cennettedir, Ali Cennettedir, Talha Cennettedir, Zübeyr Cennet’tedir, Abdurrahman b. Avf Cennet’tedir, Sa’d Cennet’tedir, Saîd Cennet’tedir, Ebû Ubeyde b. Cerrâh Cennet’tedir.” (Müsned:)",
 			"grades": [
 				{
 					"name": "Ahmad Muhammad Shakir",
@@ -3682,15 +3674,15 @@
 			"grades": [
 				{
 					"name": "Ahmad Muhammad Shakir",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Al-Albani",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Daif"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -3717,7 +3709,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -3744,7 +3736,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -3771,7 +3763,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -3798,7 +3790,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Daif"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -3818,10 +3810,6 @@
 				{
 					"name": "Al-Albani",
 					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -3840,10 +3828,6 @@
 				},
 				{
 					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
 					"grade": "Daif"
 				}
 			],
@@ -3878,7 +3862,7 @@
 		{
 			"hadithnumber": 3761,
 			"arabicnumber": 3761,
-			"text": "Ebû Hureyre (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.)’in şöyle söylediği aktarılmıştır: Abbâs, Rasûlullah (s.a.v.)’in amcasıdır. Kişinin amcası babası yerindedir veya babasının bir eşidir. Diğer tahric: Müsned: Zekat; Ebû Dâvûd, Zekat Tirmizî: Bu hadis hasen sahih garibtir. Ebû’z Zinad’ın rivâyeti olarak bu şekliyle bilmekteyiz. BENZER HADİSLER: 3758 – 3760",
+			"text": "Ebû Hureyre (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.)’in şöyle söylediği aktarılmıştır: Abbâs, Rasûlullah (s.a.v.)’in amcasıdır. Kişinin amcası babası yerindedir veya babasının bir eşidir. Diğer tahric: Müsned: Zekat; Ebû Dâvûd, Zekat Tirmizî: Bu hadis hasen sahih garibtir. Ebû’z Zinad’ın rivâyeti olarak bu şekliyle bilmekteyiz. BENZER HADİSLER: 3758 –",
 			"grades": [
 				{
 					"name": "Ahmad Muhammad Shakir",
@@ -4132,7 +4116,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -4159,7 +4143,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -4294,7 +4278,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -4348,7 +4332,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -4375,7 +4359,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -4452,7 +4436,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -4479,7 +4463,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -4502,7 +4486,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -4529,7 +4513,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -4671,7 +4655,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -4717,7 +4701,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -4767,7 +4751,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -4794,7 +4778,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -4841,10 +4825,6 @@
 				{
 					"name": "Al-Albani",
 					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -4925,7 +4905,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -5021,7 +5001,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -5121,7 +5101,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -5225,7 +5205,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -5279,7 +5259,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -5387,7 +5367,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -5414,7 +5394,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -5491,7 +5471,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -5518,7 +5498,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -5626,7 +5606,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -5764,7 +5744,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih - Bukhari And Muslim"
 				}
 			],
 			"reference": {
@@ -6064,7 +6044,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -6168,7 +6148,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -6218,7 +6198,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -6272,7 +6252,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -6299,7 +6279,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih - Bukhari And Muslim"
 				}
 			],
 			"reference": {
@@ -6326,7 +6306,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -6380,7 +6360,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -6434,7 +6414,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -6457,7 +6437,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -6580,7 +6560,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -6595,11 +6575,11 @@
 			"grades": [
 				{
 					"name": "Ahmad Muhammad Shakir",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Al-Albani",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Zubair Ali Zai",
@@ -6741,11 +6721,11 @@
 			"grades": [
 				{
 					"name": "Ahmad Muhammad Shakir",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Al-Albani",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Zubair Ali Zai",
@@ -6773,10 +6753,6 @@
 				{
 					"name": "Bashar Awad Maarouf",
 					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -6830,7 +6806,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -6880,7 +6856,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -6930,7 +6906,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -7011,7 +6987,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -7038,7 +7014,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -7084,7 +7060,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -7368,7 +7344,7 @@
 		{
 			"hadithnumber": 3899,
 			"arabicnumber": 3899,
-			"text": "Ubey b. Ka’b (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Hicret olmasaydı Ensâr’dan biri olmak isterdim.” Diğer tahric: Müsned: 20294",
+			"text": "Ubey b. Ka’b (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurdu: “Hicret olmasaydı Ensâr’dan biri olmak isterdim.” Diğer tahric: Müsned:",
 			"grades": [
 				{
 					"name": "Ahmad Muhammad Shakir",
@@ -7399,7 +7375,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -7426,7 +7402,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -7480,7 +7456,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -7495,7 +7471,7 @@
 			"grades": [
 				{
 					"name": "Ahmad Muhammad Shakir",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Al-Albani",
@@ -7584,7 +7560,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -7661,7 +7637,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -7688,7 +7664,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -7865,7 +7841,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih - Bukhari And Muslim"
 				}
 			],
 			"reference": {
@@ -7915,7 +7891,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -7942,7 +7918,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -7969,7 +7945,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -8434,7 +8410,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -8484,7 +8460,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -8623,10 +8599,6 @@
 				{
 					"name": "Bashar Awad Maarouf",
 					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -8707,7 +8679,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -8812,10 +8784,6 @@
 				{
 					"name": "Bashar Awad Maarouf",
 					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {

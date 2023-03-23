@@ -9,7 +9,7 @@
 		{
 			"hadithnumber": 3018,
 			"arabicnumber": 3018,
-			"text": "It was narrated that ‘Aishah said:“The Quraish said: ‘We are the neighbors of the House and we do not leave the sanctuary.’ Allah said: ‘Then depart from the place whence all the people depart.’” [2:199]",
+			"text": "It was narrated that ‘Aishah said:“The Quraish said: ‘We are the neighbors of the House and we do not leave the sanctuary.’ Allah said: ‘Then depart from the place whence all the people depart.’” [2:]",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -25,7 +25,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {

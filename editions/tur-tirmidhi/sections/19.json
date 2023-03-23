@@ -25,7 +25,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -52,7 +52,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -105,7 +105,7 @@
 		{
 			"hadithnumber": 1497,
 			"arabicnumber": 1497,
-			"text": "Berâ b. Âzib (radıyallahü anh)’den merfu olarak rivâyet ettiği hadisinde şöyle diyor: “Topal hayvan, tek gözlü hayvan, hastalığı belli olan hayvan zayıf, ve cılız hayvanlar kurban edilmez.” (Ebû Dâvûd, Dahaya: 5; İbn Mâce, Edahî: 8)",
+			"text": "Berâ b. Âzib (radıyallahü anh)’den merfu olarak rivâyet ettiği hadisinde şöyle diyor: “Topal hayvan, tek gözlü hayvan, hastalığı belli olan hayvan zayıf, ve cılız hayvanlar kurban edilmez.” (Ebû Dâvûd, Dahaya: 5; İbn Mâce, Edahî:)",
 			"grades": [
 				{
 					"name": "Ahmad Muhammad Shakir",
@@ -118,10 +118,6 @@
 				{
 					"name": "Bashar Awad Maarouf",
 					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -140,10 +136,6 @@
 				},
 				{
 					"name": "Al-Albani",
-					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
 					"grade": "Daif"
 				}
 			],
@@ -191,10 +183,6 @@
 				{
 					"name": "Bashar Awad Maarouf",
 					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -402,7 +390,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -429,7 +417,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih - Bukhari And Muslim"
 				}
 			],
 			"reference": {
@@ -456,7 +444,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih - Bukhari And Muslim"
 				}
 			],
 			"reference": {
@@ -483,7 +471,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih - Bukhari And Muslim"
 				}
 			],
 			"reference": {
@@ -510,7 +498,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -564,7 +552,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -584,10 +572,6 @@
 				{
 					"name": "Al-Albani",
 					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -765,10 +749,6 @@
 				{
 					"name": "Bashar Awad Maarouf",
 					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
 				}
 			],
 			"reference": {

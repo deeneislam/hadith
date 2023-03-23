@@ -18,6 +18,10 @@
 				{
 					"name": "Al-Albani",
 					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -40,7 +44,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -60,6 +64,10 @@
 				{
 					"name": "Al-Albani",
 					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -82,7 +90,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -128,14 +136,6 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
-				},
-				{
-					"name": "Zubair Ali Zai",
 					"grade": "Sahih Bukhari"
 				}
 			],
@@ -159,7 +159,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -205,7 +205,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -228,7 +228,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -251,7 +251,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -343,7 +343,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -366,7 +366,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -412,7 +412,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -435,7 +435,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -458,7 +458,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -481,7 +481,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -504,7 +504,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -527,7 +527,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -550,7 +550,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -573,7 +573,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -596,7 +596,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -619,7 +619,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -642,7 +642,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -665,7 +665,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -711,7 +711,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -734,7 +734,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -757,7 +757,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -803,7 +803,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -849,7 +849,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -895,7 +895,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -918,7 +918,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -941,7 +941,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -964,7 +964,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -987,7 +987,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -1010,7 +1010,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -1033,7 +1033,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -1052,6 +1052,10 @@
 				},
 				{
 					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
 					"grade": "Sahih"
 				}
 			],
@@ -1075,7 +1079,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -1098,7 +1102,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -1121,7 +1125,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -1144,7 +1148,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -1167,7 +1171,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -1190,7 +1194,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -1213,7 +1217,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -1236,7 +1240,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -1259,7 +1263,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -1282,7 +1286,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -1305,7 +1309,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -1328,7 +1332,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -1351,7 +1355,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -1374,7 +1378,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -1397,7 +1401,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -1420,7 +1424,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -1443,7 +1447,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -1466,7 +1470,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -1485,7 +1489,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -1508,7 +1512,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -1531,7 +1535,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -1554,7 +1558,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -1577,7 +1581,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -1600,7 +1604,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -1623,7 +1627,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -1646,7 +1650,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -1669,7 +1673,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -1692,7 +1696,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -1715,7 +1719,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -1738,7 +1742,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -1761,7 +1765,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -1784,7 +1788,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -1807,7 +1811,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -1830,7 +1834,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -1853,7 +1857,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -1876,7 +1880,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -1899,7 +1903,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -1922,7 +1926,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -1945,7 +1949,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -1968,7 +1972,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -1991,7 +1995,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -2014,7 +2018,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -2037,7 +2041,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -2060,7 +2064,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -2083,7 +2087,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -2106,7 +2110,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -2129,7 +2133,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -2152,7 +2156,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -2175,7 +2179,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -2198,7 +2202,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -2221,7 +2225,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -2244,7 +2248,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -2267,7 +2271,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Shadh"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -2290,7 +2294,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -2313,7 +2317,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -2336,7 +2340,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -2359,7 +2363,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -2382,7 +2386,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -2401,7 +2405,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -2424,7 +2428,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -2447,7 +2451,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -2470,7 +2474,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -2516,7 +2520,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -2539,7 +2543,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -2562,7 +2566,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -2585,7 +2589,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -2596,7 +2600,7 @@
 		{
 			"hadithnumber": 114,
 			"arabicnumber": 114,
-			"text": "It was narrated from 'Asim bin Laqit that his father said:The Messenger of Allah (ﷺ) said: \"When you perform Wudu', do so properly, and wash in between the fingers (Al-Asabi').\"[2] [1] Al-Asabi' is plural meaning fingers as well as toes, and the author mentioned only one narration on the topic whereas some of them clarify \"of the hands and feet.\" So he mentioned the general wording amids chapters how to wash the feet. [2] Part of this narration preceded under No. 87",
+			"text": "It was narrated from 'Asim bin Laqit that his father said:The Messenger of Allah (ﷺ) said: \"When you perform Wudu', do so properly, and wash in between the fingers (Al-Asabi').\"[2] [1] Al-Asabi' is plural meaning fingers as well as toes, and the author mentioned only one narration on the topic whereas some of them clarify \"of the hands and feet.\" So he mentioned the general wording amids chapters how to wash the feet. [2] Part of this narration preceded under No",
 			"grades": [
 				{
 					"name": "Abu Ghuddah",
@@ -2608,7 +2612,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -2631,7 +2635,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -2654,7 +2658,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -2677,7 +2681,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -2700,7 +2704,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -2723,7 +2727,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -2746,7 +2750,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -2769,7 +2773,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -2792,7 +2796,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -2815,7 +2819,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -2838,7 +2842,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -2858,10 +2862,6 @@
 				{
 					"name": "Al-Albani",
 					"grade": "Sahih Isnaad"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
 				}
 			],
 			"reference": {
@@ -2884,7 +2884,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -2907,7 +2907,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -2930,7 +2930,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -2953,7 +2953,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -2976,7 +2976,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -2999,7 +2999,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -3022,7 +3022,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -3045,7 +3045,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -3068,7 +3068,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -3091,7 +3091,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -3114,7 +3114,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -3137,7 +3137,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -3160,7 +3160,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -3183,7 +3183,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -3206,7 +3206,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -3229,7 +3229,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -3252,7 +3252,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -3275,7 +3275,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -3298,7 +3298,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -3321,7 +3321,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -3344,7 +3344,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -3367,7 +3367,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -3390,7 +3390,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -3413,7 +3413,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -3436,7 +3436,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -3459,7 +3459,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -3482,7 +3482,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -3520,15 +3520,15 @@
 			"grades": [
 				{
 					"name": "Abu Ghuddah",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Al-Albani",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -3543,15 +3543,15 @@
 			"grades": [
 				{
 					"name": "Abu Ghuddah",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Al-Albani",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -3597,7 +3597,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -3620,7 +3620,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -3643,7 +3643,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -3666,7 +3666,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -3689,7 +3689,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -3712,7 +3712,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -3735,7 +3735,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -3758,7 +3758,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -3781,7 +3781,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -3804,7 +3804,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -3827,7 +3827,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -3850,7 +3850,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -3873,7 +3873,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -3919,7 +3919,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -3942,7 +3942,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -3965,7 +3965,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -3988,7 +3988,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -4011,7 +4011,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -4034,7 +4034,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -4057,7 +4057,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -4080,7 +4080,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -4103,7 +4103,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -4126,7 +4126,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -4149,7 +4149,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -4172,7 +4172,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -4195,7 +4195,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -4218,7 +4218,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -4241,7 +4241,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -4264,7 +4264,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -4287,7 +4287,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -4310,7 +4310,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -4333,7 +4333,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -4356,7 +4356,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -4379,7 +4379,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -4402,7 +4402,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -4425,7 +4425,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -4448,7 +4448,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -4471,7 +4471,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -4494,7 +4494,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -4517,7 +4517,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -4540,7 +4540,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -4563,7 +4563,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -4586,7 +4586,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -4609,7 +4609,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -4632,7 +4632,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -4655,7 +4655,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -4678,7 +4678,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -4701,7 +4701,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -4724,7 +4724,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -4747,7 +4747,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -4793,7 +4793,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -4816,7 +4816,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -4862,7 +4862,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -4885,7 +4885,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -4905,10 +4905,6 @@
 				{
 					"name": "Al-Albani",
 					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
 				}
 			],
 			"reference": {
@@ -4977,7 +4973,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -5000,7 +4996,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -5023,7 +5019,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -5046,7 +5042,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -5069,7 +5065,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -5092,7 +5088,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -5115,7 +5111,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -5138,7 +5134,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -5161,7 +5157,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -5184,7 +5180,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -5207,7 +5203,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -5230,7 +5226,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -5253,7 +5249,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -5276,7 +5272,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -5299,7 +5295,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -5322,7 +5318,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -5345,7 +5341,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -5368,7 +5364,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -5391,7 +5387,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -5414,7 +5410,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -5437,7 +5433,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -5460,7 +5456,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -5483,7 +5479,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -5529,7 +5525,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -5552,7 +5548,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -5575,7 +5571,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -5598,7 +5594,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -5621,7 +5617,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -5644,7 +5640,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -5667,7 +5663,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -5690,7 +5686,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -5713,7 +5709,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -5736,7 +5732,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -5759,7 +5755,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -5805,7 +5801,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -5828,7 +5824,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -5851,7 +5847,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -5874,7 +5870,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -5897,7 +5893,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -5920,7 +5916,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -5943,7 +5939,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -5966,7 +5962,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -5989,7 +5985,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -6012,7 +6008,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -6035,7 +6031,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -6058,7 +6054,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -6081,7 +6077,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -6104,7 +6100,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -6127,7 +6123,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -6150,7 +6146,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -6173,7 +6169,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -6196,7 +6192,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -6219,7 +6215,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -6238,7 +6234,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -6284,7 +6280,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -6307,7 +6303,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -6330,7 +6326,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -6353,7 +6349,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -6369,10 +6365,6 @@
 				{
 					"name": "Al-Albani",
 					"grade": "Daif"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
 				}
 			],
 			"reference": {
@@ -6395,7 +6387,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -6418,7 +6410,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -6441,7 +6433,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -6464,7 +6456,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -6487,7 +6479,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -6510,7 +6502,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -6530,10 +6522,6 @@
 				{
 					"name": "Al-Albani",
 					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
 				}
 			],
 			"reference": {
@@ -6553,10 +6541,6 @@
 				{
 					"name": "Al-Albani",
 					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
 				}
 			],
 			"reference": {
@@ -6590,7 +6574,7 @@
 		{
 			"hadithnumber": 288,
 			"arabicnumber": 288,
-			"text": "It was narrated that Anas said:\"When one of their womenfolk menstruated, the Jews would not eat or drink with them, nor mix with them in their houses. They asked the Prophet of Allah (ﷺ) about that, and Allah the Mighty and Sublime revealed: The ask you concerning menstruation. Say: 'That is an Adha (a harmful thing).'[2] So the Messenger of Allah (ﷺ) commanded them to eat and drink with them (menstruating women) and to mix with them in their houses, and to do everything with them except intercourse. The Jews said: 'The Messenger of Allah (ﷺ) does not leave anything against it.' Usaid bin Hudair and 'Abbad bin Bishr went and told the Messenger of Allah (ﷺ) and they said: 'Should we have intercourse with them when they are menstruating?' The expression of the Messenger of Allah (ﷺ) changed greatly until we thought that he was angry with them, and they left. Then the Messenger of Allah (ﷺ) received a gift of milk, so he sent someone to bring them back and he gave them some to drink, so they knew that he was not angry with them.\" [1] Al-Baqarah 2:222. [2] Al-Baqarah 2:222",
+			"text": "It was narrated that Anas said:\"When one of their womenfolk menstruated, the Jews would not eat or drink with them, nor mix with them in their houses. They asked the Prophet of Allah (ﷺ) about that, and Allah the Mighty and Sublime revealed: The ask you concerning menstruation. Say: 'That is an Adha (a harmful thing).'[2] So the Messenger of Allah (ﷺ) commanded them to eat and drink with them (menstruating women) and to mix with them in their houses, and to do everything with them except intercourse. The Jews said: 'The Messenger of Allah (ﷺ) does not leave anything against it.' Usaid bin Hudair and 'Abbad bin Bishr went and told the Messenger of Allah (ﷺ) and they said: 'Should we have intercourse with them when they are menstruating?' The expression of the Messenger of Allah (ﷺ) changed greatly until we thought that he was angry with them, and they left. Then the Messenger of Allah (ﷺ) received a gift of milk, so he sent someone to bring them back and he gave them some to drink, so they knew that he was not angry with them.\" [1] Al-Baqarah 2:222. [2] Al-Baqarah 2:",
 			"grades": [
 				{
 					"name": "Abu Ghuddah",
@@ -6599,10 +6583,6 @@
 				{
 					"name": "Al-Albani",
 					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
 				}
 			],
 			"reference": {
@@ -6636,7 +6616,7 @@
 		{
 			"hadithnumber": 290,
 			"arabicnumber": 290,
-			"text": "It was narrated that 'Aishah said:\"We went out with the Messenger of Allah (ﷺ) with no intention other than Hajj. When he was in Sarif [1] I began menstruating. The Messenger of Allah (ﷺ) entered upon me and I was weeping. He said: 'What is the matter with you? Has your Nifas begun?' [2] I said: 'Yes.' He said: 'This is something that Allah the Mighty and Sublime has decreed for the daughter of Adam. Do what the pilgrims do, but do not perform tawaf around the House.' And the Messenger of Allah (ﷺ) sacrificed a cow on behalf of his wives.\" [1] Sarif is a place between Al-Madinah and Makkah, near Makkah. [2] Here, it means menstruation. See the chapter clarifying that where it appears again, No. 349",
+			"text": "It was narrated that 'Aishah said:\"We went out with the Messenger of Allah (ﷺ) with no intention other than Hajj. When he was in Sarif [1] I began menstruating. The Messenger of Allah (ﷺ) entered upon me and I was weeping. He said: 'What is the matter with you? Has your Nifas begun?' [2] I said: 'Yes.' He said: 'This is something that Allah the Mighty and Sublime has decreed for the daughter of Adam. Do what the pilgrims do, but do not perform tawaf around the House.' And the Messenger of Allah (ﷺ) sacrificed a cow on behalf of his wives.\" [1] Sarif is a place between Al-Madinah and Makkah, near Makkah. [2] Here, it means menstruation. See the chapter clarifying that where it appears again, No",
 			"grades": [
 				{
 					"name": "Abu Ghuddah",
@@ -6648,7 +6628,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -6671,7 +6651,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -6694,7 +6674,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -6717,7 +6697,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -6740,7 +6720,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -6763,7 +6743,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -6786,7 +6766,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -6809,7 +6789,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -6832,7 +6812,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -6855,7 +6835,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -6878,7 +6858,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -6901,7 +6881,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -6924,7 +6904,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -6947,7 +6927,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -6970,7 +6950,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -6993,7 +6973,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -7016,7 +6996,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -7039,7 +7019,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -7062,7 +7042,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -7085,7 +7065,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -7108,7 +7088,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -7131,7 +7111,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -7154,7 +7134,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -7177,7 +7157,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -7200,7 +7180,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -7223,7 +7203,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -7246,7 +7226,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -7269,7 +7249,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -7288,7 +7268,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -7311,7 +7291,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -7334,7 +7314,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -7357,7 +7337,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -7380,7 +7360,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -7403,7 +7383,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -7426,7 +7406,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {

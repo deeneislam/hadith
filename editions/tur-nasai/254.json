@@ -9,7 +9,7 @@
 		{
 			"hadithnumber": 254,
 			"arabicnumber": 254,
-			"text": "İbn Abbâs (radıyallahü anh)’den rivâyete göre: Rasûlüllah (sallallahü aleyhi ve sellem) gusletti, kendisine bir havlu getirildi ona dokunmadı ve (Bu şekilde ıslak kalsın) buyurdu. (Müslim, Hayz: 9)",
+			"text": "İbn Abbâs (radıyallahü anh)’den rivâyete göre: Rasûlüllah (sallallahü aleyhi ve sellem) gusletti, kendisine bir havlu getirildi ona dokunmadı ve (Bu şekilde ıslak kalsın) buyurdu. (Müslim, Hayz:)",
 			"grades": [
 				{
 					"name": "Abu Ghuddah",
@@ -21,7 +21,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {

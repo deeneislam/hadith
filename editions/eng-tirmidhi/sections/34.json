@@ -25,7 +25,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -52,7 +52,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -95,6 +95,10 @@
 				{
 					"name": "Al-Albani",
 					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -114,6 +118,10 @@
 				{
 					"name": "Al-Albani",
 					"grade": "Daif"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -133,6 +141,10 @@
 				{
 					"name": "Al-Albani",
 					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -156,6 +168,10 @@
 				{
 					"name": "Bashar Awad Maarouf",
 					"grade": "Hasan Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -182,7 +198,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -351,7 +367,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -385,11 +401,11 @@
 		{
 			"hadithnumber": 2286,
 			"arabicnumber": 2286,
-			"text": "Abu Umamah bin Sahl bin Hunaif narrated from Abu Sa'eed al-Khudri that the Prophet (s.a.w) said:similar in meaning (to no. 2285)",
+			"text": "Abu Umamah bin Sahl bin Hunaif narrated from Abu Sa'eed al-Khudri that the Prophet (s.a.w) said:similar in meaning (to no)",
 			"grades": [
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -462,7 +478,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -539,7 +555,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -566,7 +582,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -593,7 +609,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {

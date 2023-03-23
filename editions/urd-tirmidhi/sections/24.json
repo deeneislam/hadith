@@ -79,7 +79,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -133,7 +133,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -183,7 +183,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -287,7 +287,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -368,7 +368,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -526,7 +526,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -634,7 +634,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -830,7 +830,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih - Bukhari And Muslim"
 				}
 			],
 			"reference": {
@@ -911,7 +911,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih - Bukhari And Muslim"
 				}
 			],
 			"reference": {
@@ -962,10 +962,6 @@
 				{
 					"name": "Bashar Awad Maarouf",
 					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -985,10 +981,6 @@
 				{
 					"name": "Al-Albani",
 					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -1042,7 +1034,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -1069,7 +1061,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -1096,7 +1088,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -1188,7 +1180,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -1235,10 +1227,6 @@
 				{
 					"name": "Bashar Awad Maarouf",
 					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -1288,7 +1276,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -1311,10 +1299,6 @@
 				},
 				{
 					"name": "Bashar Awad Maarouf",
-					"grade": "Hasan"
-				},
-				{
-					"name": "Zubair Ali Zai",
 					"grade": "Hasan"
 				}
 			],
@@ -1415,7 +1399,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -1476,11 +1460,11 @@
 			"grades": [
 				{
 					"name": "Ahmad Muhammad Shakir",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Al-Albani",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Zubair Ali Zai",
@@ -1534,7 +1518,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -1545,7 +1529,7 @@
 		{
 			"hadithnumber": 1780,
 			"arabicnumber": 1780,
-			"text": "ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے مجھ سے فرمایا: ”اگر تم ( آخرت میں ) مجھ سے ملنا چاہتی ہو تو دنیا سے مسافر کے سامان سفر کے برابر حاصل کرنے پر اکتفا کرو، مالداروں کی صحبت سے بچو اور کسی کپڑے کو اس وقت تک پرانا نہ سمجھ یہاں تک کہ اس میں پیوند لگا لو“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث غریب ہے، ۲- ہم اسے صرف صالح بن حسان کی روایت سے جانتے ہیں، ۳- میں نے محمد بن اسماعیل بخاری کو کہتے سنا: صالح بن حسان منکر حدیث ہیں اور صالح بن ابی حسان جن سے ابن ابی ذئب نے روایت کی ہے وہ ثقہ ہیں، ۴",
+			"text": "ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے مجھ سے فرمایا: ”اگر تم ( آخرت میں ) مجھ سے ملنا چاہتی ہو تو دنیا سے مسافر کے سامان سفر کے برابر حاصل کرنے پر اکتفا کرو، مالداروں کی صحبت سے بچو اور کسی کپڑے کو اس وقت تک پرانا نہ سمجھ یہاں تک کہ اس میں پیوند لگا لو“۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث غریب ہے، ۲- ہم اسے صرف صالح بن حسان کی روایت سے جانتے ہیں، ۳- میں نے محمد بن اسماعیل بخاری کو کہتے سنا: صالح بن حسان منکر حدیث ہیں اور صالح بن ابی حسان جن سے ابن ابی ذئب نے روایت کی ہے وہ ثقہ ہیں،",
 			"grades": [
 				{
 					"name": "Ahmad Muhammad Shakir",
@@ -1577,10 +1561,6 @@
 				{
 					"name": "Al-Albani",
 					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -1734,7 +1714,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {

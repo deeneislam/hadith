@@ -9,15 +9,15 @@
 		{
 			"hadithnumber": 992,
 			"arabicnumber": 992,
-			"text": "îbn Ömer (r.a.)'den; demiştir ki: ResûluIIah (s.a.v.) -Ahmed b. Hanbel'in rivayetine göre- insanın namazda eli üzerine dayanarak oturmasından; -İbn Şebbûye'nin dediğine göre- Namazda eli üzerine dayanmasından, -İbn Râfi'in dediğine göre ki, o bunu secdeden (başı) kaldırma konusunda zikretmiştir-, adamın eli üzerine dayanarak namaz kılmasından -İbn Abdilmelik'in rivayetine göre ise,- Kişi'nin namazda ayağa kalktığı zaman eli üzerine dayanmasından nehyetti. Diğer tahric: Hâkim, el-Miistedrek, I, 230",
+			"text": "îbn Ömer (r.a.)'den; demiştir ki: ResûluIIah (s.a.v.) -Ahmed b. Hanbel'in rivayetine göre- insanın namazda eli üzerine dayanarak oturmasından; -İbn Şebbûye'nin dediğine göre- Namazda eli üzerine dayanmasından, -İbn Râfi'in dediğine göre ki, o bunu secdeden (başı) kaldırma konusunda zikretmiştir-, adamın eli üzerine dayanarak namaz kılmasından -İbn Abdilmelik'in rivayetine göre ise,- Kişi'nin namazda ayağa kalktığı zaman eli üzerine dayanmasından nehyetti. Diğer tahric: Hâkim, el-Miistedrek, I",
 			"grades": [
 				{
 					"name": "Al-Albani",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Shuaib Al Arnaut",
@@ -25,7 +25,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {

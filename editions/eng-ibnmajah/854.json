@@ -9,7 +9,7 @@
 		{
 			"hadithnumber": 854,
 			"arabicnumber": 854,
-			"text": "It was narrated that ‘Ali said:“I heard the Messenger of Allah (ﷺ) saying ‘Amin’ after he said, ‘nor of those who went astray.’[1:7]",
+			"text": "It was narrated that ‘Ali said:“I heard the Messenger of Allah (ﷺ) saying ‘Amin’ after he said, ‘nor of those who went astray.’[1:]",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -21,7 +21,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {

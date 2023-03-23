@@ -9,7 +9,7 @@
 		{
 			"hadithnumber": 971,
 			"arabicnumber": 971,
-			"text": "Anas bin Malik narrated that:The Prophet said that (a Hadith similar to no. 970)",
+			"text": "Anas bin Malik narrated that:The Prophet said that (a Hadith similar to no)",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -18,10 +18,6 @@
 				{
 					"name": "Bashar Awad Maarouf",
 					"grade": "Hasan Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
 				}
 			],
 			"reference": {

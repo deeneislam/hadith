@@ -25,7 +25,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -52,7 +52,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -79,7 +79,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -106,7 +106,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -133,7 +133,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -156,7 +156,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -183,7 +183,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -210,7 +210,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -271,7 +271,7 @@
 		{
 			"hadithnumber": 11,
 			"arabicnumber": 11,
-			"text": "Cabir b.Abdillah r.a.’den şöyle söylediği rivayet edilmiştir; “Biz Nebi s.a.v.’in yanında idik. Bir çizgi çizdi. O’nun sağına ve soluna da ikişer çizgi çizdikten sonra mübarek elini ortadaki çizginin üzerine bırakıp, “Bu, Allah’ın yoludur” buyurdu. Sonra bu ayeti okudu; “Gerçekten bu benim dostoğru yolumdur. Artık O’na uyunuz. Başka yolları takip etmeyiniz. Sonra bunlar sizi Allah Teala’nın yanından ayırır…” (En’am 153)",
+			"text": "Cabir b.Abdillah r.a.’den şöyle söylediği rivayet edilmiştir; “Biz Nebi s.a.v.’in yanında idik. Bir çizgi çizdi. O’nun sağına ve soluna da ikişer çizgi çizdikten sonra mübarek elini ortadaki çizginin üzerine bırakıp, “Bu, Allah’ın yoludur” buyurdu. Sonra bu ayeti okudu; “Gerçekten bu benim dostoğru yolumdur. Artık O’na uyunuz. Başka yolları takip etmeyiniz. Sonra bunlar sizi Allah Teala’nın yanından ayırır…” (En’am)",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -310,7 +310,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -337,7 +337,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -364,7 +364,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih - Bukhari And Muslim"
 				}
 			],
 			"reference": {
@@ -375,7 +375,7 @@
 		{
 			"hadithnumber": 15,
 			"arabicnumber": 15,
-			"text": "Abdullah b. Zübeyr r.a.’den; şöyle söylediği rivayet edilmiştir; “Ensar’dan bir adam Harre denilen mevkideki hurmalıkları suladıkları su arklarından ve su nöbetinden dolayı Nebi s.a.v.’e Zübeyr b. Avam aleyhinde şikayette bulundu. (Bu arklardan geçen su önce Zübeyr’in hurma bahçesine varıyordu. Sonra da şikayetçi Ensari’nin tarlasına uğruyordu. Bir defa Zübeyr hurmalığını sulamak üzere suyu tuttuğu sırada) müşteki ona: Su'yu serbest bırak ki biz'e gelsin, diye talepte bulundu. Fakat Zübeyr, kendi tarlasını sulamadan suyu bırakmak ve nöbetini ona vermekten imtina edince iki taraf Resulullah s.a.v.’e meselelerini intikal ettirdiler. Resulullah s.a.v.’in huzurunda isteklerini karşılıklı olarak arz ettiler. - Resulullah s.a.v. ; “Ey Zübeyr! Tarlanı sula sonra suyu komşuna salıver” buyurdu. Davacı: hiddetlenerek; “Zübeyr, halan oğlu olduğu için mi?” demek suretiyle Resulullah s.a.v.’i taraf tutmakla itham etmek istemişti. Bu söz'den üzülen Resulullah s.a.v.’in mübarek yüzü değişti. Resulullah s.a.v.; “Ey Zübeyr, tarlanı sula sonra suyu hapset, ta ki, su hurma ağaçlarının köklerine erişsin,” buyurdu. Ravi demişti ki; Zübeyr şöyle dedi; “Vallahi öyle sanıyorum ki şu ayet bu olay hakkında indi.” {فلا وربك لا يؤمنون حتى يحكموك فيما شجر بينهم ثم لا يجدون في أنفسهم حرجا مما قضيت ويسلموا تسليما} Hayır (resulum), Rabbine yemin olsun onlar (mü’miniz diyenler) aralarında çıkan anlaşmazlıkta seni hakem yapıp sonra verdiğin karardan -hükümden- nefislerinde hiç bir güçlük duymayarak tam bir teslimiyetle teslim olmadıkça iman etmiş olmazlar.(Nisa suresi,65)",
+			"text": "Abdullah b. Zübeyr r.a.’den; şöyle söylediği rivayet edilmiştir; “Ensar’dan bir adam Harre denilen mevkideki hurmalıkları suladıkları su arklarından ve su nöbetinden dolayı Nebi s.a.v.’e Zübeyr b. Avam aleyhinde şikayette bulundu. (Bu arklardan geçen su önce Zübeyr’in hurma bahçesine varıyordu. Sonra da şikayetçi Ensari’nin tarlasına uğruyordu. Bir defa Zübeyr hurmalığını sulamak üzere suyu tuttuğu sırada) müşteki ona: Su'yu serbest bırak ki biz'e gelsin, diye talepte bulundu. Fakat Zübeyr, kendi tarlasını sulamadan suyu bırakmak ve nöbetini ona vermekten imtina edince iki taraf Resulullah s.a.v.’e meselelerini intikal ettirdiler. Resulullah s.a.v.’in huzurunda isteklerini karşılıklı olarak arz ettiler. - Resulullah s.a.v. ; “Ey Zübeyr! Tarlanı sula sonra suyu komşuna salıver” buyurdu. Davacı: hiddetlenerek; “Zübeyr, halan oğlu olduğu için mi?” demek suretiyle Resulullah s.a.v.’i taraf tutmakla itham etmek istemişti. Bu söz'den üzülen Resulullah s.a.v.’in mübarek yüzü değişti. Resulullah s.a.v.; “Ey Zübeyr, tarlanı sula sonra suyu hapset, ta ki, su hurma ağaçlarının köklerine erişsin,” buyurdu. Ravi demişti ki; Zübeyr şöyle dedi; “Vallahi öyle sanıyorum ki şu ayet bu olay hakkında indi.” {فلا وربك لا يؤمنون حتى يحكموك فيما شجر بينهم ثم لا يجدون في أنفسهم حرجا مما قضيت ويسلموا تسليما} Hayır (resulum), Rabbine yemin olsun onlar (mü’miniz diyenler) aralarında çıkan anlaşmazlıkta seni hakem yapıp sonra verdiğin karardan -hükümden- nefislerinde hiç bir güçlük duymayarak tam bir teslimiyetle teslim olmadıkça iman etmiş olmazlar.(Nisa suresi)",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -391,7 +391,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih - Agreed Upon"
 				}
 			],
 			"reference": {
@@ -418,7 +418,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -468,7 +468,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -518,7 +518,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -537,7 +537,7 @@
 				},
 				{
 					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Shuaib Al Arnaut",
@@ -572,7 +572,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -599,7 +599,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -626,7 +626,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -653,7 +653,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -680,7 +680,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -707,7 +707,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -730,7 +730,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -757,7 +757,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -784,7 +784,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -807,7 +807,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -834,7 +834,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -861,7 +861,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -888,7 +888,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -915,7 +915,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -942,7 +942,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -969,7 +969,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -996,7 +996,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -1023,7 +1023,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -1050,7 +1050,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -1077,7 +1077,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -1104,7 +1104,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -1131,7 +1131,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -1158,7 +1158,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -1185,7 +1185,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -1208,7 +1208,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -1235,7 +1235,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -1258,7 +1258,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -1285,7 +1285,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Mawdu"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -1335,7 +1335,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Batil"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -1362,7 +1362,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Bukhari And Muslim"
 				}
 			],
 			"reference": {
@@ -1389,7 +1389,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -1443,7 +1443,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Mawdu"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -1497,7 +1497,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Bukhari And Muslim"
 				}
 			],
 			"reference": {
@@ -1524,7 +1524,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -1551,7 +1551,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -1562,7 +1562,7 @@
 		{
 			"hadithnumber": 60,
 			"arabicnumber": 60,
-			"text": "Ebu Said-i Hudri r.a.’den yapılan rivayete göre kendisi Resulullah Sallallahu Aleyhi ve Sellem’in şöyle buyurduğunu söylemiştir; “Allah Teala, kıyamet günü mu'minleri cehennem ateşinden kurtarınca ve onlar güvenç içine girince birinizin, dünyada iken hakkını almak uğrunda arkadaşı ile yaptığı çekişmeden daha şiddetli bir tarzda mu'minler ateşe atılmış olan (din) kardeşleri için Rableri ile mücadeleye girişirler. Resulullah s.a.v. buyurdu ki ; mu'minler diyecekler ki: “Ey Rabbimiz! Kardeşlerimiz bizlerle namaz kılarlar, beraberimizde oruç tutarlar ve bizimle beraber hac ederlerdi. Sonra sen onları ateşe ithal ettin.” Allah buyuracak ki; “Gidin onlardan tanıdıklarınızı (Cehennemden) çıkarınız” mu'minler, bunun üzerine onlara varacaklar ve yüzlerinden onları tanıyacaklar. Çünkü ateş onların yüzlerini (yaptıkları secde sayesinde) yakmıyacaktır. Onların bir kısmı aşık kemiklerine, bir kısmı da bacaklarına kadar ateş içinde tutuşmuş vaziyettedir. Bunları çıkaracaklar sonra “Ey Rabbimiz! Bize emrettiğiniz adamları (tanıyabildiklerimizi) çıkardık.” Diyecekler. Sonra Allah (Teala) buyuracak ki: “Kalbinde bir dinar ağırlığınca iman olanları çıkarınız. Sonra kalbinde yarım dinar ağırlığınca, onları müteakib de kalblerinde hardal tanesi ağırlığında iman olanları çıkarınız.” Ebu Saidi Hudri dedi ki; Kim bunu doğrulamazsa bu ayeti okusun; ‘‘Şüphe yok ki Allah (Teala) zerre miktarı zulum etmez. Eğer zerre kadar bir iyilik olursa onun ecrini kat kat artırır ve kendi katından da büyük mükafat ihsan eder.’’ (Nisa ,40)",
+			"text": "Ebu Said-i Hudri r.a.’den yapılan rivayete göre kendisi Resulullah Sallallahu Aleyhi ve Sellem’in şöyle buyurduğunu söylemiştir; “Allah Teala, kıyamet günü mu'minleri cehennem ateşinden kurtarınca ve onlar güvenç içine girince birinizin, dünyada iken hakkını almak uğrunda arkadaşı ile yaptığı çekişmeden daha şiddetli bir tarzda mu'minler ateşe atılmış olan (din) kardeşleri için Rableri ile mücadeleye girişirler. Resulullah s.a.v. buyurdu ki ; mu'minler diyecekler ki: “Ey Rabbimiz! Kardeşlerimiz bizlerle namaz kılarlar, beraberimizde oruç tutarlar ve bizimle beraber hac ederlerdi. Sonra sen onları ateşe ithal ettin.” Allah buyuracak ki; “Gidin onlardan tanıdıklarınızı (Cehennemden) çıkarınız” mu'minler, bunun üzerine onlara varacaklar ve yüzlerinden onları tanıyacaklar. Çünkü ateş onların yüzlerini (yaptıkları secde sayesinde) yakmıyacaktır. Onların bir kısmı aşık kemiklerine, bir kısmı da bacaklarına kadar ateş içinde tutuşmuş vaziyettedir. Bunları çıkaracaklar sonra “Ey Rabbimiz! Bize emrettiğiniz adamları (tanıyabildiklerimizi) çıkardık.” Diyecekler. Sonra Allah (Teala) buyuracak ki: “Kalbinde bir dinar ağırlığınca iman olanları çıkarınız. Sonra kalbinde yarım dinar ağırlığınca, onları müteakib de kalblerinde hardal tanesi ağırlığında iman olanları çıkarınız.” Ebu Saidi Hudri dedi ki; Kim bunu doğrulamazsa bu ayeti okusun; ‘‘Şüphe yok ki Allah (Teala) zerre miktarı zulum etmez. Eğer zerre kadar bir iyilik olursa onun ecrini kat kat artırır ve kendi katından da büyük mükafat ihsan eder.’’ (Nisa)",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -1578,7 +1578,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -1605,7 +1605,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -1659,7 +1659,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -1686,7 +1686,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -1713,7 +1713,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Mawdu"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -1740,7 +1740,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -1767,7 +1767,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -1794,7 +1794,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -1821,7 +1821,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -1848,7 +1848,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -1871,7 +1871,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -1894,7 +1894,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -1921,7 +1921,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -1944,7 +1944,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -1994,7 +1994,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Bukhari And Muslim"
 				}
 			],
 			"reference": {
@@ -2005,7 +2005,7 @@
 		{
 			"hadithnumber": 77,
 			"arabicnumber": 77,
-			"text": "İbni’d-Deylemi r.a.’den gelen rivayete göre kendisi şöyle demiştir: Kader konusunda bir şey (şüphe) benim içime girdi. Ben bunun, dinimi ve durumumu bozmasından korktum. Bunun üzerine Ubey bin Kab r.a.’e vardım ve ‘’Ey Ebe'l-Münzir! Bu Kader meselesi hakkında gerçekten bir şey (şüphe) kalbime girdi. Ben de dinim ve halimden korktum. Kader meselesi ile ilgili aydınlatıcı bir şeyler bana söyle. Senin sözlerinden istifade ettirmesini Allah’tan umarım.’’ dedim. Ubey r.a.: ‘’ Eğer Allah, sahip olduğu göklerin halkını ve yer'in halkına azab etseydi onlara zulüm etmiş olmadan azab vermiş olurdu. Eğer onlara merhamet etseydi Allah’ın rahmeti, onlar için kendilerinin işledikleri amellerinin karşılığından daha hayırlı olurdu ve eğer senin uhud dağı kadar altının veya Uhud dağı kadar (malın) olup hepsini Allah yolunda harcasaydın sen kadere inanmadıkça ve senin başına gelmiş olan şeylerin gelmemesinin imkansızlığını ve başına gelmemiş olan bir şeyin gelmesinin imkansız olduğunu bilmedikçe, harcadığın hayratın kabul edilmiş olmazdı. Şayet bu itikaddan başka bir inanç üzerinde ölürsen muhakkak Cehennem'e gireceğini bilmedikçe bu hayratı yapmış olsaydın bile kabul edilmezdi. Kardeşim Abdullah İbni Mes'ud’a varıp ona (da Kader meselesini sormanda senin için mahzur yok’’, dedi (İbnu'd-Deylemi diyor ki): Bunun üzerine ben Abdullah İbni Mes'ud r.a.’a vardım. Ona sordum. O da Ubeyy bin Kab’ın söylediklerinin benzerini anlattı ve ‘’Huzeyfe r.a.’e gitmen fena olmaz> dedi. Bundan sonra Huzeyfe r.a.‘in yanına gidip (bu meseleyi) ona sordum. Kendisi de Ubeyy ve İbni Mes'ud r.a.’in sözlerine benzer sözler söyledi ve: <Zeyd bin Sabit’e git o'na sor.’’ dedi. Bunun üzerine Zeyd r.a.’e vardım. O'na da sordum. Zeyd r.a.: Ben Resulullah s.a.v.’den işittim. Şöyle buyurdu: ‘’Eğer Allah, sahip olduğu göklerin halkını ve yer'in halkını ta'zib etseydi onlara zulüm etmiş olmadan azab vermiş olurdu. Eğer onlara merhamet etseydi Allah’ın rahmeti onlar için kendilerinin işledikleri amellerinin karşılığından daha hayırlı olurdu ve eğer senin Uhud kadar altın veya Uhud dağı kadar altının olup hepsini Allah yolunda harcasaydın, sen Kader’in hepsine inanmadıkça ve senin başına gelmiş olan şeylerin gelmemesinin imkansızlığını ve başına gelmemiş olan şeylerin gelmesinin imkansız olduğunu bilmedikçe; keza anlatılan bu itikaddan başka bir akide üzerinde ölürsen şüphesiz cehennem'e gireceğini kesinlikle kabullenerek bilmedikçe (yaptığın harcama) senden kabul edilmezdi.’’ Diğer tahric: Ebu Davud, sunne; Ahmed b. Hanbel, V,317. VI,442",
+			"text": "İbni’d-Deylemi r.a.’den gelen rivayete göre kendisi şöyle demiştir: Kader konusunda bir şey (şüphe) benim içime girdi. Ben bunun, dinimi ve durumumu bozmasından korktum. Bunun üzerine Ubey bin Kab r.a.’e vardım ve ‘’Ey Ebe'l-Münzir! Bu Kader meselesi hakkında gerçekten bir şey (şüphe) kalbime girdi. Ben de dinim ve halimden korktum. Kader meselesi ile ilgili aydınlatıcı bir şeyler bana söyle. Senin sözlerinden istifade ettirmesini Allah’tan umarım.’’ dedim. Ubey r.a.: ‘’ Eğer Allah, sahip olduğu göklerin halkını ve yer'in halkına azab etseydi onlara zulüm etmiş olmadan azab vermiş olurdu. Eğer onlara merhamet etseydi Allah’ın rahmeti, onlar için kendilerinin işledikleri amellerinin karşılığından daha hayırlı olurdu ve eğer senin uhud dağı kadar altının veya Uhud dağı kadar (malın) olup hepsini Allah yolunda harcasaydın sen kadere inanmadıkça ve senin başına gelmiş olan şeylerin gelmemesinin imkansızlığını ve başına gelmemiş olan bir şeyin gelmesinin imkansız olduğunu bilmedikçe, harcadığın hayratın kabul edilmiş olmazdı. Şayet bu itikaddan başka bir inanç üzerinde ölürsen muhakkak Cehennem'e gireceğini bilmedikçe bu hayratı yapmış olsaydın bile kabul edilmezdi. Kardeşim Abdullah İbni Mes'ud’a varıp ona (da Kader meselesini sormanda senin için mahzur yok’’, dedi (İbnu'd-Deylemi diyor ki): Bunun üzerine ben Abdullah İbni Mes'ud r.a.’a vardım. Ona sordum. O da Ubeyy bin Kab’ın söylediklerinin benzerini anlattı ve ‘’Huzeyfe r.a.’e gitmen fena olmaz> dedi. Bundan sonra Huzeyfe r.a.‘in yanına gidip (bu meseleyi) ona sordum. Kendisi de Ubeyy ve İbni Mes'ud r.a.’in sözlerine benzer sözler söyledi ve: <Zeyd bin Sabit’e git o'na sor.’’ dedi. Bunun üzerine Zeyd r.a.’e vardım. O'na da sordum. Zeyd r.a.: Ben Resulullah s.a.v.’den işittim. Şöyle buyurdu: ‘’Eğer Allah, sahip olduğu göklerin halkını ve yer'in halkını ta'zib etseydi onlara zulüm etmiş olmadan azab vermiş olurdu. Eğer onlara merhamet etseydi Allah’ın rahmeti onlar için kendilerinin işledikleri amellerinin karşılığından daha hayırlı olurdu ve eğer senin Uhud kadar altın veya Uhud dağı kadar altının olup hepsini Allah yolunda harcasaydın, sen Kader’in hepsine inanmadıkça ve senin başına gelmiş olan şeylerin gelmemesinin imkansızlığını ve başına gelmemiş olan şeylerin gelmesinin imkansız olduğunu bilmedikçe; keza anlatılan bu itikaddan başka bir akide üzerinde ölürsen şüphesiz cehennem'e gireceğini kesinlikle kabullenerek bilmedikçe (yaptığın harcama) senden kabul edilmezdi.’’ Diğer tahric: Ebu Davud, sunne; Ahmed b. Hanbel, V,317. VI",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -2017,7 +2017,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -2028,7 +2028,7 @@
 		{
 			"hadithnumber": 78,
 			"arabicnumber": 78,
-			"text": "Ali r.a.’den: Şöyle söylediği rivayet edilmiştir: Biz (bir defa Baki'u'l-Garkad kabristanında bir cenaze dolayısı ile) Resulullah s.a.v.’in yanında oturuyorduk. O’nun elinde bir asa –dal parçası- vardı. Asası ile yere vurdu. Sonra başını kaldırdı ve buyurdu ki: - ‘’Siz'den hiçbir kimse yoktur ki, onun Cennetteki veya Cehennemdeki yeri takdir ve tesbit edilmemiş olsun! (Şaki veya Said olduğunu belirtmemiş olsun!)’’ Bunun üzerine O’na (bir sahabi tarafından) denildi ki: - Ya Resulallah! Öyle ise amel ve ibadetleri bırakıp Cenab-ı Hakk’ın takdirine dayanmıyalım mı? Resulullah s.a.v. cevaben: - ‘’Hayır.Çalışınız ve (amelleri bırakıp) kadere dayanmayınız. Çünkü herkes ne için yaratıldı ise o iş için kendisine kolaylık sağlanmış oluyor. (Kişi said ise ona, saadet ehline ait amellerin ifası kolaylaştırılır. Şaki ise şakavet ehlinin işleri kolaylaştırılır)’’ buyurdu ve şu (mealdeki) ayetleri okudu: ''Ama kim (Allah yolunda malını) verir. Allah’tan korkar,o güzel kelimeyi (La ilahe illallah sözünü) tasdik eder ise muhakkak biz onu (Allah’ın rızasına uygun) en kolay yola muvafık kılarız.Fakat kim cimrilik eder (=Allah hakkını ödemez), Allah’ın yardımına ihtiyaç duymaz (kendisini müstağni sayar) ve en güzel sözü (Tevhid kelimesini) inkar eder ise biz de onu en şiddetli (Cehenneme götürücü) yola hazırlarız.’’ (Leyl 5-10)",
+			"text": "Ali r.a.’den: Şöyle söylediği rivayet edilmiştir: Biz (bir defa Baki'u'l-Garkad kabristanında bir cenaze dolayısı ile) Resulullah s.a.v.’in yanında oturuyorduk. O’nun elinde bir asa –dal parçası- vardı. Asası ile yere vurdu. Sonra başını kaldırdı ve buyurdu ki: - ‘’Siz'den hiçbir kimse yoktur ki, onun Cennetteki veya Cehennemdeki yeri takdir ve tesbit edilmemiş olsun! (Şaki veya Said olduğunu belirtmemiş olsun!)’’ Bunun üzerine O’na (bir sahabi tarafından) denildi ki: - Ya Resulallah! Öyle ise amel ve ibadetleri bırakıp Cenab-ı Hakk’ın takdirine dayanmıyalım mı? Resulullah s.a.v. cevaben: - ‘’Hayır.Çalışınız ve (amelleri bırakıp) kadere dayanmayınız. Çünkü herkes ne için yaratıldı ise o iş için kendisine kolaylık sağlanmış oluyor. (Kişi said ise ona, saadet ehline ait amellerin ifası kolaylaştırılır. Şaki ise şakavet ehlinin işleri kolaylaştırılır)’’ buyurdu ve şu (mealdeki) ayetleri okudu: ''Ama kim (Allah yolunda malını) verir. Allah’tan korkar,o güzel kelimeyi (La ilahe illallah sözünü) tasdik eder ise muhakkak biz onu (Allah’ın rızasına uygun) en kolay yola muvafık kılarız.Fakat kim cimrilik eder (=Allah hakkını ödemez), Allah’ın yardımına ihtiyaç duymaz (kendisini müstağni sayar) ve en güzel sözü (Tevhid kelimesini) inkar eder ise biz de onu en şiddetli (Cehenneme götürücü) yola hazırlarız.’’ (Leyl)",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -2040,7 +2040,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -2067,7 +2067,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -2090,7 +2090,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Bukhari And Muslim"
 				}
 			],
 			"reference": {
@@ -2144,7 +2144,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -2167,7 +2167,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -2221,7 +2221,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -2248,7 +2248,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -2302,7 +2302,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -2329,7 +2329,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -2379,7 +2379,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -2433,7 +2433,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -2479,7 +2479,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -2506,7 +2506,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Daif"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -2529,7 +2529,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -2556,7 +2556,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Bukhari And Muslim"
 				}
 			],
 			"reference": {
@@ -2610,7 +2610,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -2637,7 +2637,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -2664,7 +2664,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -2710,7 +2710,7 @@
 				},
 				{
 					"name": "Muhammad Fouad Abd al-Baqi",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Zubair Ali Zai",
@@ -2764,7 +2764,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -2791,7 +2791,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -2818,7 +2818,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -2899,7 +2899,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -2922,7 +2922,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -2949,7 +2949,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -2976,7 +2976,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -3003,7 +3003,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Bukhari And Muslim"
 				}
 			],
 			"reference": {
@@ -3030,7 +3030,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -3076,7 +3076,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -3099,7 +3099,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -3180,7 +3180,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Bukhari And Muslim"
 				}
 			],
 			"reference": {
@@ -3207,7 +3207,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Bukhari And Muslim"
 				}
 			],
 			"reference": {
@@ -3234,7 +3234,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -3284,7 +3284,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -3307,7 +3307,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -3334,7 +3334,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -3361,7 +3361,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Bukhari And Muslim"
 				}
 			],
 			"reference": {
@@ -3388,7 +3388,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -3415,7 +3415,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Bukhari And Muslim"
 				}
 			],
 			"reference": {
@@ -3442,7 +3442,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -3469,7 +3469,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -3496,7 +3496,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -3523,7 +3523,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Bukhari And Muslim"
 				}
 			],
 			"reference": {
@@ -3550,7 +3550,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -3604,7 +3604,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -3631,7 +3631,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -3685,7 +3685,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Mawdu"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -3712,7 +3712,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Bukhari And Muslim"
 				}
 			],
 			"reference": {
@@ -3739,7 +3739,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -3766,7 +3766,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -3793,7 +3793,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -3820,7 +3820,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -3893,7 +3893,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -3920,7 +3920,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -3947,7 +3947,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -3974,7 +3974,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -4001,7 +4001,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -4028,7 +4028,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -4051,7 +4051,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -4078,7 +4078,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -4105,7 +4105,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -4132,7 +4132,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Bukhari And Muslim"
 				}
 			],
 			"reference": {
@@ -4159,7 +4159,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Bukhari And Muslim"
 				}
 			],
 			"reference": {
@@ -4186,7 +4186,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -4213,7 +4213,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Bukhari And Muslim"
 				}
 			],
 			"reference": {
@@ -4236,7 +4236,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -4263,7 +4263,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Bukhari And Muslim"
 				}
 			],
 			"reference": {
@@ -4286,7 +4286,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -4336,7 +4336,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -4363,7 +4363,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -4390,7 +4390,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -4417,7 +4417,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -4444,7 +4444,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -4471,7 +4471,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -4498,7 +4498,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -4525,7 +4525,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -4548,7 +4548,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -4602,7 +4602,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -4613,7 +4613,7 @@
 		{
 			"hadithnumber": 177,
 			"arabicnumber": 177,
-			"text": "Cerir bin Abdillah (el-Beceli) r.a.’den rivayet edildiğine göre şöyle demiştir: Biz Resulullah Sallallahu Aleyhi ve Sellem’in yanında oturuyorduk.Kendisi ay'ın on dördüncü gecesi ay’a bakıp : «Şu ay’ı nasıl hepiniz izdihamsız olarak ve sıkışıp üst üste yığılmanıza ihtiyaç kalmadan görüyorsanız şüphesiz Rabbiniz de (kıyamet günü) öylece göreceksiniz.Artık güneşin doğuşundan ve batışından önceki namazların bir birisinden alıkonmamaya gücünüz yeterse (onu) işleyiniz.» buyurdu.Sonra şu (mealdeki) ayeti okudu: «… Ve güneşin doğuşundan önce de gurubundan önce de Rabbine hamd ile tesbih et.» (Kaf, 39)",
+			"text": "Cerir bin Abdillah (el-Beceli) r.a.’den rivayet edildiğine göre şöyle demiştir: Biz Resulullah Sallallahu Aleyhi ve Sellem’in yanında oturuyorduk.Kendisi ay'ın on dördüncü gecesi ay’a bakıp : «Şu ay’ı nasıl hepiniz izdihamsız olarak ve sıkışıp üst üste yığılmanıza ihtiyaç kalmadan görüyorsanız şüphesiz Rabbiniz de (kıyamet günü) öylece göreceksiniz.Artık güneşin doğuşundan ve batışından önceki namazların bir birisinden alıkonmamaya gücünüz yeterse (onu) işleyiniz.» buyurdu.Sonra şu (mealdeki) ayeti okudu: «… Ve güneşin doğuşundan önce de gurubundan önce de Rabbine hamd ile tesbih et.» (Kaf)",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -4629,7 +4629,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Bukhari And Muslim"
 				}
 			],
 			"reference": {
@@ -4652,7 +4652,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -4679,7 +4679,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -4702,7 +4702,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -4729,7 +4729,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -4756,7 +4756,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -4783,7 +4783,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -4810,7 +4810,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -4837,7 +4837,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Bukhari And Muslim"
 				}
 			],
 			"reference": {
@@ -4864,7 +4864,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Bukhari And Muslim"
 				}
 			],
 			"reference": {
@@ -4891,7 +4891,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -4918,7 +4918,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -4941,7 +4941,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -4968,7 +4968,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -4995,7 +4995,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -5022,7 +5022,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih - Bukhari And Muslim"
 				}
 			],
 			"reference": {
@@ -5072,7 +5072,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -5099,7 +5099,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -5110,7 +5110,7 @@
 		{
 			"hadithnumber": 196,
 			"arabicnumber": 196,
-			"text": "Ebu Musa (el-Eşari) r.a.’den rivayet edildiğine göre kendisi, Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu, demiştir : '' Şüphesiz Allah uyumaz. Zaten uyku O’nun şanına layık değildir. O, kıstı, aşağı indirir, yukarı kaldırır. O’nun hicabı nurdur. Eğer Allah o hicabı açsaydı, celal ve cemali, O’nun gördüğü her şeyi yakardı. '' Sonra (Ebu Musa’dan hadisi rivayet eden) Ebu Ubeyde şu ayeti okudu '' …. Ateş yerinde olan (Musa’ya) ve ateş etrafında bulunan meleklere bereket verildi. Alemlerin Rabbi olan Allah (her türlü eksikliklerden ve ihtiyaçtan) münezzehtir. '' (Neml 8)",
+			"text": "Ebu Musa (el-Eşari) r.a.’den rivayet edildiğine göre kendisi, Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu, demiştir : '' Şüphesiz Allah uyumaz. Zaten uyku O’nun şanına layık değildir. O, kıstı, aşağı indirir, yukarı kaldırır. O’nun hicabı nurdur. Eğer Allah o hicabı açsaydı, celal ve cemali, O’nun gördüğü her şeyi yakardı. '' Sonra (Ebu Musa’dan hadisi rivayet eden) Ebu Ubeyde şu ayeti okudu '' …. Ateş yerinde olan (Musa’ya) ve ateş etrafında bulunan meleklere bereket verildi. Alemlerin Rabbi olan Allah (her türlü eksikliklerden ve ihtiyaçtan) münezzehtir. '' (Neml)",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -5126,7 +5126,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -5153,7 +5153,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -5180,7 +5180,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -5191,7 +5191,7 @@
 		{
 			"hadithnumber": 199,
 			"arabicnumber": 199,
-			"text": "En-Nevvas bin Sem'an El-Kilabi r.a.’den rivayet edildiğine göre kendisi: Ben Resulullah Sallallahu Aleyhi ve Sellem’den şöyle buyururken işittim, demiştir: '' Her kalp ancak Rahman’ın parmaklarından iki parmak arasındadır. Eğer dilerse (hak üzerinde) durdurur ve şayet dilerse saptırır. '' (Ravi en-Nevvas devamla:) ve Resulullah Sallallahu Aleyhi ve Sellem şöyle dua ederdi. (demiştir): '' Ey kalpleri (dilediği üzerinde) sabit kılan Allah! Kalblerimizi dinin (olan İslamiyet) üzerinde sabit kıl. '' (Ravi bundan sonra da) Resulullah şöyle buyurdu, demiştir: '' Terazi Rahman’ın elindedir. Kıyamet gününe kadar bazı kavimleri yükseltir, bir kısım kavimleri de alçaltır. '' Not: Zevaid, bu hadisin isnadının sahih olduğunu belirtmiştir. Nevvas: Sahabi'dir. 17 hadisi vardır. Müslim 3 hadisini rivayet etmiştir. Ravileri: Ebu İdris el-Havlani 've Cübeyr bin Nefir'dir. (Hulasa, sah. 406)",
+			"text": "En-Nevvas bin Sem'an El-Kilabi r.a.’den rivayet edildiğine göre kendisi: Ben Resulullah Sallallahu Aleyhi ve Sellem’den şöyle buyururken işittim, demiştir: '' Her kalp ancak Rahman’ın parmaklarından iki parmak arasındadır. Eğer dilerse (hak üzerinde) durdurur ve şayet dilerse saptırır. '' (Ravi en-Nevvas devamla:) ve Resulullah Sallallahu Aleyhi ve Sellem şöyle dua ederdi. (demiştir): '' Ey kalpleri (dilediği üzerinde) sabit kılan Allah! Kalblerimizi dinin (olan İslamiyet) üzerinde sabit kıl. '' (Ravi bundan sonra da) Resulullah şöyle buyurdu, demiştir: '' Terazi Rahman’ın elindedir. Kıyamet gününe kadar bazı kavimleri yükseltir, bir kısım kavimleri de alçaltır. '' Not: Zevaid, bu hadisin isnadının sahih olduğunu belirtmiştir. Nevvas: Sahabi'dir. 17 hadisi vardır. Müslim 3 hadisini rivayet etmiştir. Ravileri: Ebu İdris el-Havlani 've Cübeyr bin Nefir'dir. (Hulasa, sah)",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -5207,7 +5207,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -5261,7 +5261,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -5284,7 +5284,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -5295,7 +5295,7 @@
 		{
 			"hadithnumber": 203,
 			"arabicnumber": 203,
-			"text": "Cerir (bin Abdillah) r.a.’den rivayet edildiğine göre Resulullah s.a.v. şöyle buyurdu, demiştir: '' Kim iyi bir çığır açar da o çığıra gidilirse ona, açtığı çığırın sevabı verileceği gibi o yolda gidenlerin sevabının bir misli de verilecek ve bu (adam), onların sevaplarından bir şey eksiltmeyecektir. Kim kötü bir çığır açarsa ona da, açtığı çığırın günahı yükletileceği gibi o yolda gidenlerin günahlarının bir katı da yükletilecek ve bu (adam), onların günahlarını eksiltmeyecektir. '' İsnad farklı olmakla beraber anlamca aynı BUHARİ’nin şu hadislerini ve izahatları mutlaka okuyun: 1997-2 – 2387",
+			"text": "Cerir (bin Abdillah) r.a.’den rivayet edildiğine göre Resulullah s.a.v. şöyle buyurdu, demiştir: '' Kim iyi bir çığır açar da o çığıra gidilirse ona, açtığı çığırın sevabı verileceği gibi o yolda gidenlerin sevabının bir misli de verilecek ve bu (adam), onların sevaplarından bir şey eksiltmeyecektir. Kim kötü bir çığır açarsa ona da, açtığı çığırın günahı yükletileceği gibi o yolda gidenlerin günahlarının bir katı da yükletilecek ve bu (adam), onların günahlarını eksiltmeyecektir. '' İsnad farklı olmakla beraber anlamca aynı BUHARİ’nin şu hadislerini ve izahatları mutlaka okuyun: 1997-2 –",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -5311,7 +5311,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -5322,7 +5322,7 @@
 		{
 			"hadithnumber": 204,
 			"arabicnumber": 204,
-			"text": "Ebu Hureyre r.a.’den rivayet edildiğine göre şöyle söylemiştir: Bir (fakir) adam Resulullah Sallallahu Aleyhi ve Sellem’in yanına geldi. Resulullah da ona yardım etmek üzere (sahabileri) teşfik etti. Bunun üzerine bir sahabi : - Benim yanımda şöyle şöyle mal vardır, dedi (ve o malları getirip adama verdi.) Ravi (Ebu Hureyre) dedi ki: Bunun üzerine mecliste bulunan herkes az çok bir şeyler sadaka olarak adama verdi. Bundan hemen sonra Resulullah s.a.v.: '' Kim hayırlı bir iş yaparak (örnek olur) ve halk tarafından o hayırlı iş yapılırsa, ona yaptığı işin sevabı tam olarak verileceği gibi o hayırlı işi yapan insanların sevaplarından de verilecek ve bu (adam), onların sevaplarından bir şey eksiltmeyecektir. Kim fena bir çığır açar da o çığırda gidilirse ona da açtığı çığırın günahı tam olarak yükletileceği gibi o yolda gidenlerin günahlarından da yükletilecek ve bu (adam), onların günahlarından bir şey eksiltmeyecektir. '' Not: Zevaid de: ‘’Bu hadis’in isnadı sahihtir.’’ Deniyor. İsnad farklı olmakla beraber anlamca aynı BUHARİ’nin şu hadislerini ve izahatları mutlaka okuyun: 1997-2 – 2387",
+			"text": "Ebu Hureyre r.a.’den rivayet edildiğine göre şöyle söylemiştir: Bir (fakir) adam Resulullah Sallallahu Aleyhi ve Sellem’in yanına geldi. Resulullah da ona yardım etmek üzere (sahabileri) teşfik etti. Bunun üzerine bir sahabi : - Benim yanımda şöyle şöyle mal vardır, dedi (ve o malları getirip adama verdi.) Ravi (Ebu Hureyre) dedi ki: Bunun üzerine mecliste bulunan herkes az çok bir şeyler sadaka olarak adama verdi. Bundan hemen sonra Resulullah s.a.v.: '' Kim hayırlı bir iş yaparak (örnek olur) ve halk tarafından o hayırlı iş yapılırsa, ona yaptığı işin sevabı tam olarak verileceği gibi o hayırlı işi yapan insanların sevaplarından de verilecek ve bu (adam), onların sevaplarından bir şey eksiltmeyecektir. Kim fena bir çığır açar da o çığırda gidilirse ona da açtığı çığırın günahı tam olarak yükletileceği gibi o yolda gidenlerin günahlarından da yükletilecek ve bu (adam), onların günahlarından bir şey eksiltmeyecektir. '' Not: Zevaid de: ‘’Bu hadis’in isnadı sahihtir.’’ Deniyor. İsnad farklı olmakla beraber anlamca aynı BUHARİ’nin şu hadislerini ve izahatları mutlaka okuyun: 1997-2 –",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -5338,7 +5338,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -5349,7 +5349,7 @@
 		{
 			"hadithnumber": 205,
 			"arabicnumber": 205,
-			"text": "Enes bin Malik r.a.’den rivayet edildiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: '' Her hangi bir davetçi (insanları) dalalete çağırır da ona uyulursa şüphesiz, davetine icabetle ona uyanların günahlarının bir misli kendisine verilecektir. Ve bu (adam), uyan insanların günahlarından bir şey eksiltmiyecektir. Her hangi bir davetçi (insanları) hidayete çağırır da ona uyulursa, uyan insanların sevaplarının bir misli şüphesiz ona verilecek ve bu (adam), uyanların sevaplarından bir şey eksiltmiyecektir. '' Not: Zevaid de: ‘’Bu hadis’in isnadı zayıftır.’’ Deniyor. İsnad farklı olmakla beraber anlamca aynı BUHARİ’nin şu hadislerini ve izahatları mutlaka okuyun: 1997-2 – 2387",
+			"text": "Enes bin Malik r.a.’den rivayet edildiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: '' Her hangi bir davetçi (insanları) dalalete çağırır da ona uyulursa şüphesiz, davetine icabetle ona uyanların günahlarının bir misli kendisine verilecektir. Ve bu (adam), uyan insanların günahlarından bir şey eksiltmiyecektir. Her hangi bir davetçi (insanları) hidayete çağırır da ona uyulursa, uyan insanların sevaplarının bir misli şüphesiz ona verilecek ve bu (adam), uyanların sevaplarından bir şey eksiltmiyecektir. '' Not: Zevaid de: ‘’Bu hadis’in isnadı zayıftır.’’ Deniyor. İsnad farklı olmakla beraber anlamca aynı BUHARİ’nin şu hadislerini ve izahatları mutlaka okuyun: 1997-2 –",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -5365,7 +5365,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -5376,7 +5376,7 @@
 		{
 			"hadithnumber": 206,
 			"arabicnumber": 206,
-			"text": "Ebu Hureyre r.a.’den Resulullah Sallallahu Aleyhi ve Sellem’in şöyle buyurduğu rivayet edilmiştir: '' Kim, hidayete çağrıda bulunursa, kendisine uyanların sevaplarının bir katı ona verilecek ve bu (adam), uyanların sevaplarından bir şey eksiltmiyecektir. Kim de dalalete davet ederse, kendisine tabi olanların günahlarının bir misli ona verilecek ve bu (adam), tabi olanların günahlarından bir şey eksiltmeyecektir. '' İsnad farklı olmakla beraber anlamca aynı BUHARİ’nin şu hadislerini ve izahatları mutlaka okuyun: 1997-2 – 2387",
+			"text": "Ebu Hureyre r.a.’den Resulullah Sallallahu Aleyhi ve Sellem’in şöyle buyurduğu rivayet edilmiştir: '' Kim, hidayete çağrıda bulunursa, kendisine uyanların sevaplarının bir katı ona verilecek ve bu (adam), uyanların sevaplarından bir şey eksiltmiyecektir. Kim de dalalete davet ederse, kendisine tabi olanların günahlarının bir misli ona verilecek ve bu (adam), tabi olanların günahlarından bir şey eksiltmeyecektir. '' İsnad farklı olmakla beraber anlamca aynı BUHARİ’nin şu hadislerini ve izahatları mutlaka okuyun: 1997-2 –",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -5392,7 +5392,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -5403,7 +5403,7 @@
 		{
 			"hadithnumber": 207,
 			"arabicnumber": 207,
-			"text": "Ebu Cuhayfe r.a.’den rivayet edildiğine göre, Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu, demiştir: '' Kim iyi bir çığır açar ve kendisinden sonra o çığırda gidilirse ona, kendisinin sevabı verileceği gibi, açtığı çığırda giden insanların sevaplarından hiçbir şey eksiltmeden o sevapların bir katı da verilecektir. Kim de kötü bir çığır açar ve kendisinden sonra o çığırda gidilirse,ona kendisinin günahı yükletileceği gibi, açtığı yolda gidenlerin günahlarından hiçbir şey eksiltmeden o günahların bir misli de yükletilecektir. '' Not: Zevaid de: ‘’Bu isnad zayıftır.’’ Deniyor. İsnad farklı olmakla beraber anlamca aynı BUHARİ’nin şu hadislerini ve izahatları mutlaka okuyun: 1997-2 – 2387 Ebu Cuhayfe hal tercemesi: Ebu Cuhayfe Veheb bin Abdillah Es-Suvai el-Kufi, Sahabidir. Resulullah s.a.v. vefat ettiğinde henüz erginlik çağına varmamış idi. 45 hadisi var. Buhari ve Müslim iki hadisini müttefikan, yalnız Buhari iki ve yalnız Müslim 3 hadisini almışlardır. Ravileri: Oğlu Avn ve Şa'bi ile Ebu İshak ve başkalarıdır. Hicri 74 yılında vefat etmiştir. Kendisi Hz. Ali'nin seçkin arkadaşlarından idi. Hulasa Sah. 418",
+			"text": "Ebu Cuhayfe r.a.’den rivayet edildiğine göre, Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu, demiştir: '' Kim iyi bir çığır açar ve kendisinden sonra o çığırda gidilirse ona, kendisinin sevabı verileceği gibi, açtığı çığırda giden insanların sevaplarından hiçbir şey eksiltmeden o sevapların bir katı da verilecektir. Kim de kötü bir çığır açar ve kendisinden sonra o çığırda gidilirse,ona kendisinin günahı yükletileceği gibi, açtığı yolda gidenlerin günahlarından hiçbir şey eksiltmeden o günahların bir misli de yükletilecektir. '' Not: Zevaid de: ‘’Bu isnad zayıftır.’’ Deniyor. İsnad farklı olmakla beraber anlamca aynı BUHARİ’nin şu hadislerini ve izahatları mutlaka okuyun: 1997-2 – 2387 Ebu Cuhayfe hal tercemesi: Ebu Cuhayfe Veheb bin Abdillah Es-Suvai el-Kufi, Sahabidir. Resulullah s.a.v. vefat ettiğinde henüz erginlik çağına varmamış idi. 45 hadisi var. Buhari ve Müslim iki hadisini müttefikan, yalnız Buhari iki ve yalnız Müslim 3 hadisini almışlardır. Ravileri: Oğlu Avn ve Şa'bi ile Ebu İshak ve başkalarıdır. Hicri 74 yılında vefat etmiştir. Kendisi Hz. Ali'nin seçkin arkadaşlarından idi. Hulasa Sah",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -5415,7 +5415,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -5442,7 +5442,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -5523,7 +5523,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -5550,7 +5550,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -5588,7 +5588,7 @@
 		{
 			"hadithnumber": 214,
 			"arabicnumber": 214,
-			"text": "Ebu Musa el-Eşari r.a.’den rivayet edildiğine göre Resulullah s.a.v. şöyle buyurmuştur: '' Kur'an okumayı itiyad eden mu'minin durumu turunç (meyvesi) durumu gibidir. Tadı güzel, kokusu güzeldir. Kur'an okumayı itiyad etmeyen mu’ninin hali de hurmanın haline benzer. Tadı güzel, fakat kokusu yoktur. Kur'an okuyan münafığın vaziyeti de reyhane’nin vaziyeti gibidir. Kokusu güzel fakat tadı acıdır. Kur'an okumayan münafığın hali de Ebu Cehil karpuzunun haline benzer, tadı acı, kokusu da yoktur. '' Diğer tahric: Buhari, et'ime, Fedailü'l-Kur'an, tevhid; Müslim, müsafirin; Ebu Davud, edeb; Tirmizî, emsal, Nesaî, iman; Darimî, Fedailü'l-Kur'an; Ahmed b. Han bel, IV, 397, 404, 408",
+			"text": "Ebu Musa el-Eşari r.a.’den rivayet edildiğine göre Resulullah s.a.v. şöyle buyurmuştur: '' Kur'an okumayı itiyad eden mu'minin durumu turunç (meyvesi) durumu gibidir. Tadı güzel, kokusu güzeldir. Kur'an okumayı itiyad etmeyen mu’ninin hali de hurmanın haline benzer. Tadı güzel, fakat kokusu yoktur. Kur'an okuyan münafığın vaziyeti de reyhane’nin vaziyeti gibidir. Kokusu güzel fakat tadı acıdır. Kur'an okumayan münafığın hali de Ebu Cehil karpuzunun haline benzer, tadı acı, kokusu da yoktur. '' Diğer tahric: Buhari, et'ime, Fedailü'l-Kur'an, tevhid; Müslim, müsafirin; Ebu Davud, edeb; Tirmizî, emsal, Nesaî, iman; Darimî, Fedailü'l-Kur'an; Ahmed b. Han bel, IV",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -5604,7 +5604,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -5631,7 +5631,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -5685,7 +5685,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -5712,7 +5712,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -5766,7 +5766,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -5793,7 +5793,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -5831,7 +5831,7 @@
 		{
 			"hadithnumber": 223,
 			"arabicnumber": 223,
-			"text": "Kesir bin Kays r.a.’den rivayet edildiğine göre şöyle söylemiştir: Ben Dımışk (Şam)’ın camiinde Ebu'd-Derda r.a.’ın yanında oturuyordum. Bu esnada bir adam onun yanına gelerek: Ey Ebu'd-Derda! Nebi Sallallahu Aleyhi ve Sellem’den rivayet ettiğini haber aldığım bir hadisi (senden dinlemek) için ben Resulullah Sallallahu Aleyhi ve Sellem’in şehri olan Medine(i Münevvere)den sana geldim, dedi Ebud Derda ona : Senin (Şam’a) gelişin ticaret için değil mi? diye sordu. Adam: Hayır! (Hadisi dinlemekten başka bir iş için değil) dedi. Ebud Derda: Ben Resulullah Sallallahu Aleyhi ve Sellem’den şüphesiz şöyle buyururken işittim: '' Kim bir yola ilim aramak üzere giderse Allah onun için Cennete giden bir yolu kolaylaştırır ve şüphesiz melekler ilim öğrencisinin rızasını istedikleri (veya) ondan razı oldukları için kanadlarını indirirler. Yine şüphesiz göktekiler ve yerdekiler, hatta sudaki balıklar bile ilim talibi için istiğfar ederler. Keza gerçekte alim adam'ın abid kişiden üstünlüğü gök ay'ının diğer yıldızlardan üstünlüğü gibidir. Muhakkak, alimler Nebilerin mirasçılarıdır. Şüphesiz Nebiler ve altın ne de gümüşü miras bırakırlar. Nebiler miras olarak ancak ilim bırakırlar. Bu itibarla kim, Nebilerin mirası olan ilmi elde ederse tam bir hisse almış olur. '' Hal tercemesi: Kesir bin Kays: Bu zat Ebu'd-Derda'nın ravisidir. Onun ravisi de Davud bin Cemil'dir. İbn-i Hibban onu sika saymıştır. Hulasa, salı. 320",
+			"text": "Kesir bin Kays r.a.’den rivayet edildiğine göre şöyle söylemiştir: Ben Dımışk (Şam)’ın camiinde Ebu'd-Derda r.a.’ın yanında oturuyordum. Bu esnada bir adam onun yanına gelerek: Ey Ebu'd-Derda! Nebi Sallallahu Aleyhi ve Sellem’den rivayet ettiğini haber aldığım bir hadisi (senden dinlemek) için ben Resulullah Sallallahu Aleyhi ve Sellem’in şehri olan Medine(i Münevvere)den sana geldim, dedi Ebud Derda ona : Senin (Şam’a) gelişin ticaret için değil mi? diye sordu. Adam: Hayır! (Hadisi dinlemekten başka bir iş için değil) dedi. Ebud Derda: Ben Resulullah Sallallahu Aleyhi ve Sellem’den şüphesiz şöyle buyururken işittim: '' Kim bir yola ilim aramak üzere giderse Allah onun için Cennete giden bir yolu kolaylaştırır ve şüphesiz melekler ilim öğrencisinin rızasını istedikleri (veya) ondan razı oldukları için kanadlarını indirirler. Yine şüphesiz göktekiler ve yerdekiler, hatta sudaki balıklar bile ilim talibi için istiğfar ederler. Keza gerçekte alim adam'ın abid kişiden üstünlüğü gök ay'ının diğer yıldızlardan üstünlüğü gibidir. Muhakkak, alimler Nebilerin mirasçılarıdır. Şüphesiz Nebiler ve altın ne de gümüşü miras bırakırlar. Nebiler miras olarak ancak ilim bırakırlar. Bu itibarla kim, Nebilerin mirası olan ilmi elde ederse tam bir hisse almış olur. '' Hal tercemesi: Kesir bin Kays: Bu zat Ebu'd-Derda'nın ravisidir. Onun ravisi de Davud bin Cemil'dir. İbn-i Hibban onu sika saymıştır. Hulasa, salı",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -5901,7 +5901,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {
@@ -5928,7 +5928,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -5951,7 +5951,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -6016,7 +6016,7 @@
 		{
 			"hadithnumber": 230,
 			"arabicnumber": 230,
-			"text": "Zeyd bin Sabit r.a.’den rivayet edildiğine göre Resulullah Sallallahu Aleyhi ve Selem şöyle buyurmuştur: '' Benim sözümü işitip de (başkasına) tebliğ eden adamın yüzünü Allah ağartsın. Çünkü fıkıh (kaynağı olan hadisleri) ezberleyen nice adamlar fıkıhçı değillerdir. Ve fıkıhçı olan nice (hadis) hafızları kendilerinden daha kuvvetli fıkıhçılara (hadisleri) iletebilirler. '' (Senedeki ravilerden) Ali bin Muhammed, hadisin metninde şu fıkranın da bulunduğunu rivayet etmiştir. '' Bir müslüman kişinin kalbi, (şu) üç meziyete sahib olduğu müddetçe hiyanet, kin ve husumet beslemez. Bu meziyetler: Ameli, tam bir ihlas ile Allah için yapmak, müslümanların başındaki insanlar için hayır dilemek ve müslümanların cemaatından ayrılmamaktır. '' Diğer tahric: Tirmizi, ilim. 2656",
+			"text": "Zeyd bin Sabit r.a.’den rivayet edildiğine göre Resulullah Sallallahu Aleyhi ve Selem şöyle buyurmuştur: '' Benim sözümü işitip de (başkasına) tebliğ eden adamın yüzünü Allah ağartsın. Çünkü fıkıh (kaynağı olan hadisleri) ezberleyen nice adamlar fıkıhçı değillerdir. Ve fıkıhçı olan nice (hadis) hafızları kendilerinden daha kuvvetli fıkıhçılara (hadisleri) iletebilirler. '' (Senedeki ravilerden) Ali bin Muhammed, hadisin metninde şu fıkranın da bulunduğunu rivayet etmiştir. '' Bir müslüman kişinin kalbi, (şu) üç meziyete sahib olduğu müddetçe hiyanet, kin ve husumet beslemez. Bu meziyetler: Ameli, tam bir ihlas ile Allah için yapmak, müslümanların başındaki insanlar için hayır dilemek ve müslümanların cemaatından ayrılmamaktır. '' Diğer tahric: Tirmizi, ilim",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -6028,7 +6028,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -6055,7 +6055,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -6082,7 +6082,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -6109,7 +6109,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Sahih"
 				}
 			],
 			"reference": {
@@ -6136,7 +6136,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -6186,7 +6186,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -6274,7 +6274,7 @@
 		{
 			"hadithnumber": 240,
 			"arabicnumber": 240,
-			"text": "Muaz bin Enes r.a.’den şöyle dediği rivayet olunmuştur: Şüphesiz Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: '' Bir ilim öğreten kimseye, öğrettiği ilimle amel edenlerin kazandıkları sevaptan bir şey eksilmeden bir misli verilir. '' Not: Hadis metni ma'na itibari ile sabittir. Fakat senedinin zayıf olduğu söylenmiştir. Zevaid'de beyan edildiğine göre İbn-! Muin, hadisin ravilerinden olan Sehl bin Muaz'ı zayıf göstermiş, el İcli ise onu sika saymış, İbn-i Hıbban da onu hem sikalar hem de zayıflar arasmda zikretmiştir. Hadisi Sehl'den rivayet eden Yahya bin Eyyub'un da Sehl'e ulaşmadığı söylenmiştir ki; bu duruma göre senedde bir inkıta' olmuş olur . Muaz bin Enes: Kendisi, Sahabi'dir. Mısır'da yerleşmiştir. 30 hadisi vardır. Ravisi yalnız oğlu Sehldir. Terğıb ve Fazilet'e ait hadisleri hasen'dir. Hulasa salı. 379",
+			"text": "Muaz bin Enes r.a.’den şöyle dediği rivayet olunmuştur: Şüphesiz Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: '' Bir ilim öğreten kimseye, öğrettiği ilimle amel edenlerin kazandıkları sevaptan bir şey eksilmeden bir misli verilir. '' Not: Hadis metni ma'na itibari ile sabittir. Fakat senedinin zayıf olduğu söylenmiştir. Zevaid'de beyan edildiğine göre İbn-! Muin, hadisin ravilerinden olan Sehl bin Muaz'ı zayıf göstermiş, el İcli ise onu sika saymış, İbn-i Hıbban da onu hem sikalar hem de zayıflar arasmda zikretmiştir. Hadisi Sehl'den rivayet eden Yahya bin Eyyub'un da Sehl'e ulaşmadığı söylenmiştir ki; bu duruma göre senedde bir inkıta' olmuş olur . Muaz bin Enes: Kendisi, Sahabi'dir. Mısır'da yerleşmiştir. 30 hadisi vardır. Ravisi yalnız oğlu Sehldir. Terğıb ve Fazilet'e ait hadisleri hasen'dir. Hulasa salı",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -6313,7 +6313,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -6336,7 +6336,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -6363,7 +6363,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -6390,7 +6390,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -6444,7 +6444,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -6498,7 +6498,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Mawdu"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -6552,7 +6552,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -6606,7 +6606,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -6737,7 +6737,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -6837,7 +6837,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -6848,7 +6848,7 @@
 		{
 			"hadithnumber": 262,
 			"arabicnumber": 262,
-			"text": "Abdurrahman bin Hürmüz El-A'rac r.a.’den rivayet edildiğine göre kendisi Ebu Hureyre r.a.’den şöyle söylediğini işitmiştir: Vallahi Allah Teala’nın kitabındaki iki ayet olmamış olsaydı ben O’ndan (yani Nebi Sallallahu Aleyhi ve Sellem’den hayatımda hiçbir şeyi rivayet etmezdim. Allah’ın şu kavli olmasaydı; '' Şüphesiz o kimseler ki, Allah’ın kitaptan indirmiş olduğu ayetleri gizlerler ve bunun karşılığında az bir bedel alırlar. İşte onlar karınlarında ateşten başka bir şey yemezler. Allah kıyamet günü onlarla konuşmaz, onları temize çıkarmaz ve onlar için elim bir azap vardır. Onlar öyle kimselerdir ki, hidayet mukabilinde dalaleti, mağfiret mukabilinde azabı satın almışlardır. Onları ateşe karşı bu kadar sabırlı kılan nedir? '' (Bakara, 174-175) HAL TERCEMESİ: Abdurrahman bin Hürmüz El-A'rac r.a.: Ebuı Hureyre, Muaviye ve Ebu Sald'in ravisidir. Kendisinden rivayette bulunanların başında Zührl, Ebü'z-Ziibeyr ve Ebu'z-Zinad gelir. Bir cemaat onu sika saymıştır. Ebu Ubeyd'in dediğine göre hicrl 117. yılı İskenderiye / Mısır'da vefat etmiştir. Hulasa SM. 236",
+			"text": "Abdurrahman bin Hürmüz El-A'rac r.a.’den rivayet edildiğine göre kendisi Ebu Hureyre r.a.’den şöyle söylediğini işitmiştir: Vallahi Allah Teala’nın kitabındaki iki ayet olmamış olsaydı ben O’ndan (yani Nebi Sallallahu Aleyhi ve Sellem’den hayatımda hiçbir şeyi rivayet etmezdim. Allah’ın şu kavli olmasaydı; '' Şüphesiz o kimseler ki, Allah’ın kitaptan indirmiş olduğu ayetleri gizlerler ve bunun karşılığında az bir bedel alırlar. İşte onlar karınlarında ateşten başka bir şey yemezler. Allah kıyamet günü onlarla konuşmaz, onları temize çıkarmaz ve onlar için elim bir azap vardır. Onlar öyle kimselerdir ki, hidayet mukabilinde dalaleti, mağfiret mukabilinde azabı satın almışlardır. Onları ateşe karşı bu kadar sabırlı kılan nedir? '' (Bakara, 174-175) HAL TERCEMESİ: Abdurrahman bin Hürmüz El-A'rac r.a.: Ebuı Hureyre, Muaviye ve Ebu Sald'in ravisidir. Kendisinden rivayette bulunanların başında Zührl, Ebü'z-Ziibeyr ve Ebu'z-Zinad gelir. Bir cemaat onu sika saymıştır. Ebu Ubeyd'in dediğine göre hicrl 117. yılı İskenderiye / Mısır'da vefat etmiştir. Hulasa SM",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -6864,7 +6864,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Bukhari"
 				}
 			],
 			"reference": {
@@ -6891,7 +6891,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Mawdu"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -6914,7 +6914,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {
@@ -6968,7 +6968,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {

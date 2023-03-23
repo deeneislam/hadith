@@ -9,7 +9,7 @@
 		{
 			"hadithnumber": 695,
 			"arabicnumber": 695,
-			"text": "Abdullah b. Zeyd (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: evimle minberimin arası; Cennet bahçelerinden bir bahçedir.) (Buhârî, Fadlı Salati Mescidi Mekke: 5; Müslim, Hac: 92)",
+			"text": "Abdullah b. Zeyd (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: evimle minberimin arası; Cennet bahçelerinden bir bahçedir.) (Buhârî, Fadlı Salati Mescidi Mekke: 5; Müslim, Hac:)",
 			"grades": [
 				{
 					"name": "Abu Ghuddah",
@@ -18,10 +18,6 @@
 				{
 					"name": "Al-Albani",
 					"grade": "Sahih"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
 				}
 			],
 			"reference": {

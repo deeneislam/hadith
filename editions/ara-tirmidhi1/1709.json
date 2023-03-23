@@ -10,12 +10,7 @@
 			"hadithnumber": 1709,
 			"arabicnumber": 1709,
 			"text": "",
-			"grades": [
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Daif"
-				}
-			],
+			"grades": [],
 			"reference": {
 				"book": 23,
 				"hadith": 41

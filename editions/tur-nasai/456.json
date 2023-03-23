@@ -9,7 +9,7 @@
 		{
 			"hadithnumber": 456,
 			"arabicnumber": 456,
-			"text": "İbn Abbâs (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Namaz, Rasûlüllah (sallallahü aleyhi ve sellem)’in dili üzere hazarda dört, seferde iki, savaşta ise bir rekat olarak farz kılındı. (Müslim, Salat-ül Müsafirin: 1; Ebû Dâvûd, Salat: 270)",
+			"text": "İbn Abbâs (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Namaz, Rasûlüllah (sallallahü aleyhi ve sellem)’in dili üzere hazarda dört, seferde iki, savaşta ise bir rekat olarak farz kılındı. (Müslim, Salat-ül Müsafirin: 1; Ebû Dâvûd, Salat:)",
 			"grades": [
 				{
 					"name": "Abu Ghuddah",
@@ -21,7 +21,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {

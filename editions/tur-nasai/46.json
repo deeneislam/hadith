@@ -9,7 +9,7 @@
 		{
 			"hadithnumber": 46,
 			"arabicnumber": 46,
-			"text": "Âişe (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: kadınlar kocalarınıza su ile temizlenmelerini bildiriniz. Ben Rasûlüllah (sallallahü aleyhi ve sellem)’in su ile taharetlendiğini kocalarınıza söylemekten utanıyorum.) (Tirmizî, Tahara: 15)",
+			"text": "Âişe (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: kadınlar kocalarınıza su ile temizlenmelerini bildiriniz. Ben Rasûlüllah (sallallahü aleyhi ve sellem)’in su ile taharetlendiğini kocalarınıza söylemekten utanıyorum.) (Tirmizî, Tahara:)",
 			"grades": [
 				{
 					"name": "Abu Ghuddah",
@@ -17,6 +17,10 @@
 				},
 				{
 					"name": "Al-Albani",
+					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
 					"grade": "Sahih"
 				}
 			],

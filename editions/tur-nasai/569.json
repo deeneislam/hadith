@@ -9,7 +9,7 @@
 		{
 			"hadithnumber": 569,
 			"arabicnumber": 569,
-			"text": "İbn Abbâs (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem), ikindi namazından sonra nafile namaz kılmayı yasakladı. (Müslim, Salat-ül Müsafirin: 53; Ebû Dâvûd, Cenaiz: 54)",
+			"text": "İbn Abbâs (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem), ikindi namazından sonra nafile namaz kılmayı yasakladı. (Müslim, Salat-ül Müsafirin: 53; Ebû Dâvûd, Cenaiz:)",
 			"grades": [
 				{
 					"name": "Abu Ghuddah",
@@ -21,7 +21,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {

@@ -25,7 +25,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (1575)"
 				}
 			],
 			"reference": {
@@ -48,7 +48,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -75,7 +75,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Sahih Muslim (1572)"
 				}
 			],
 			"reference": {
@@ -102,7 +102,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Bukhari (5477) Sahih Muslim (1929)"
 				}
 			],
 			"reference": {
@@ -129,7 +129,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (5484) Sahih Muslim (1929)"
 				}
 			],
 			"reference": {
@@ -152,7 +152,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (5484) Sahih Muslim (1929)"
 				}
 			],
 			"reference": {
@@ -175,7 +175,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (5484) Sahih Muslim (1929)"
 				}
 			],
 			"reference": {
@@ -194,7 +194,7 @@
 				},
 				{
 					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Zubair Ali Zai",
@@ -213,15 +213,15 @@
 			"grades": [
 				{
 					"name": "Al-Albani",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -271,7 +271,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (175) Sahih Muslim (1929)"
 				}
 			],
 			"reference": {
@@ -298,7 +298,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (5488) Sahih Muslim (1930)"
 				}
 			],
 			"reference": {
@@ -336,11 +336,11 @@
 			"grades": [
 				{
 					"name": "Al-Albani",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Zubair Ali Zai",
@@ -395,10 +395,6 @@
 				{
 					"name": "Shuaib Al Arnaut",
 					"grade": "Hasan Lighairihi"
-				},
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -448,7 +444,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (1931)"
 				}
 			],
 			"reference": {

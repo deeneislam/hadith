@@ -9,7 +9,7 @@
 		{
 			"hadithnumber": 142,
 			"arabicnumber": 142,
-			"text": "Abdullah b. Amr (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem), (abdesti tam ve noksansız şekilde alınız) buyurdular. (İbn Mâce, Tahara: 49; Buhârî, Vudu’’: 30)",
+			"text": "Abdullah b. Amr (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem), (abdesti tam ve noksansız şekilde alınız) buyurdular. (İbn Mâce, Tahara: 49; Buhârî, Vudu’’:)",
 			"grades": [
 				{
 					"name": "Abu Ghuddah",
@@ -21,7 +21,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Hasan"
 				}
 			],
 			"reference": {

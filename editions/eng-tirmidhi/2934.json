@@ -9,7 +9,7 @@
 		{
 			"hadithnumber": 2934,
 			"arabicnumber": 2934,
-			"text": "Narrated Ibn 'Abbas:from Ubay bin Ka'b that the Prophet (ﷺ) recited: \"Fi 'Ainin Hami'ah\" (18:86)",
+			"text": "Narrated Ibn 'Abbas:from Ubay bin Ka'b that the Prophet (ﷺ) recited: \"Fi 'Ainin Hami'ah\" (18:)",
 			"grades": [
 				{
 					"name": "Ahmad Muhammad Shakir",
@@ -22,6 +22,10 @@
 				{
 					"name": "Bashar Awad Maarouf",
 					"grade": "Sahih"
+				},
+				{
+					"name": "Zubair Ali Zai",
+					"grade": "Daif"
 				}
 			],
 			"reference": {

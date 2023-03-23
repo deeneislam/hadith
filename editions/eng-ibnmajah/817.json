@@ -9,7 +9,7 @@
 		{
 			"hadithnumber": 817,
 			"arabicnumber": 817,
-			"text": "It was narrated that ‘Amr bin Huraith said:“I performed prayer with the Prophet (ﷺ) when he was reciting in the Fajr, and it is as if I can hear him reciting: ‘So verily, I swear by the planets that recede. And by the planets that move swiftly and hide themselves.’”[81:15-16]",
+			"text": "It was narrated that ‘Amr bin Huraith said:“I performed prayer with the Prophet (ﷺ) when he was reciting in the Fajr, and it is as if I can hear him reciting: ‘So verily, I swear by the planets that recede. And by the planets that move swiftly and hide themselves.’”[81:]",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -21,7 +21,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {

@@ -9,7 +9,7 @@
 		{
 			"hadithnumber": 188,
 			"arabicnumber": 188,
-			"text": "Kays b. Asım (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Müslüman olduğum zaman Rasûlüllah (sallallahü aleyhi ve sellem) bana su ve sidr (sabun) ile gusletmemi emretti. (Ebû Dâvûd, Tahara: 131; Buhârî, Salat: 76)",
+			"text": "Kays b. Asım (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Müslüman olduğum zaman Rasûlüllah (sallallahü aleyhi ve sellem) bana su ve sidr (sabun) ile gusletmemi emretti. (Ebû Dâvûd, Tahara: 131; Buhârî, Salat:)",
 			"grades": [
 				{
 					"name": "Abu Ghuddah",
@@ -21,7 +21,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {

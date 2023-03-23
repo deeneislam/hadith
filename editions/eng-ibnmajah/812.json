@@ -9,7 +9,7 @@
 		{
 			"hadithnumber": 812,
 			"arabicnumber": 812,
-			"text": "It was narrated that ‘Aishah said:“The Messenger of Allah (ﷺ), Abu Bakr, ‘Umar and ‘Uthman used to start their recitation with “All praises and thanks are to Allah, the Lord of all that exists. (Al- hamdu Lillahi Rabbil-‘Alamin).’” [1:2]",
+			"text": "It was narrated that ‘Aishah said:“The Messenger of Allah (ﷺ), Abu Bakr, ‘Umar and ‘Uthman used to start their recitation with “All praises and thanks are to Allah, the Lord of all that exists. (Al- hamdu Lillahi Rabbil-‘Alamin).’” [1:]",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -25,7 +25,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {

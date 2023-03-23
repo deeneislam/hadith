@@ -9,7 +9,7 @@
 		{
 			"hadithnumber": 3969,
 			"arabicnumber": 3969,
-			"text": "Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili] telah menceritakan kepada kami [Hatim bin Isma'il]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Nashr bin 'Ashim] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ja'far bin Muhammad] dari [Ayahnya] dan [Jabir] radliallahu 'anhu, bahwa Nabi shallallahu 'alaihi wasallam membaca ayat: '(Dan jadikanlah sebahagian maqam Ibrahim tempat shalat) ' (Qs. Al Baqarah: 125)",
+			"text": "Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili] telah menceritakan kepada kami [Hatim bin Isma'il]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Nashr bin 'Ashim] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Ja'far bin Muhammad] dari [Ayahnya] dan [Jabir] radliallahu 'anhu, bahwa Nabi shallallahu 'alaihi wasallam membaca ayat: '(Dan jadikanlah sebahagian maqam Ibrahim tempat shalat) ' (Qs. Al Baqarah:)",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -94,7 +94,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (2823) Sahih Muslim (2706)"
 				}
 			],
 			"reference": {
@@ -117,7 +117,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {
@@ -144,7 +144,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (4591) Sahih Muslim (3025)"
 				}
 			],
 			"reference": {
@@ -178,7 +178,7 @@
 		{
 			"hadithnumber": 3976,
 			"arabicnumber": 3976,
-			"text": "Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Muhammad bin Al 'Ala] mereka berkata; telah menceritakan kepada kami [Abdullah bin Al Mubarak] telah menceritakan kepada kami [Yunus bin Yazid] dari [Abu Ali bin Yazid] dari [Az Zuhri] dari [Anas bin Malik] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam membaca ayat: '(... dan mata dengan mata) ' (Qs. Al Maidah: 45)",
+			"text": "Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Muhammad bin Al 'Ala] mereka berkata; telah menceritakan kepada kami [Abdullah bin Al Mubarak] telah menceritakan kepada kami [Yunus bin Yazid] dari [Abu Ali bin Yazid] dari [Az Zuhri] dari [Anas bin Malik] ia berkata, \"Rasulullah shallallahu 'alaihi wasallam membaca ayat: '(... dan mata dengan mata) ' (Qs. Al Maidah:)",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -332,7 +332,7 @@
 		{
 			"hadithnumber": 3982,
 			"arabicnumber": 3982,
-			"text": "Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] telah mengabarkan kepada kami [Tsabit] dari [Syahr bin Hausyab] dari [Asma` binti Yazid], bahwa ia pernah mendengar Nabi shallallahu 'alaihi wasallam membaca: 'INNAHUU 'AMILA GHAIRA SHAALIH (Sesungguhnya ia telah melakukan perbuatan yang tidak baik) '. (Qs. Huud: 46)",
+			"text": "Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] telah mengabarkan kepada kami [Tsabit] dari [Syahr bin Hausyab] dari [Asma` binti Yazid], bahwa ia pernah mendengar Nabi shallallahu 'alaihi wasallam membaca: 'INNAHUU 'AMILA GHAIRA SHAALIH (Sesungguhnya ia telah melakukan perbuatan yang tidak baik) '. (Qs. Huud:)",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -517,7 +517,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari"
+					"grade": "Sahih Bukhari (4800، 4701)"
 				}
 			],
 			"reference": {
@@ -594,7 +594,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (4819) Sahih Muslim (871)"
 				}
 			],
 			"reference": {
@@ -640,7 +640,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Daif"
 				}
 			],
 			"reference": {
@@ -824,7 +824,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (3199، 4802، 4803) Sahih Muslim (159)"
 				}
 			],
 			"reference": {
@@ -878,7 +878,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari"
+					"grade": "Sahih Bukhari (4692)"
 				}
 			],
 			"reference": {
@@ -928,7 +928,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
+					"grade": "Isnaad Hasan"
 				}
 			],
 			"reference": {

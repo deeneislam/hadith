@@ -25,7 +25,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari"
+					"grade": "Sahih Bukhari (5872)"
 				}
 			],
 			"reference": {
@@ -79,7 +79,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (5868) Sahih Muslim (2094)"
 				}
 			],
 			"reference": {
@@ -129,7 +129,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (5866) Sahih Muslim (2091)"
 				}
 			],
 			"reference": {
@@ -156,7 +156,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih Muslim (2091)"
 				}
 			],
 			"reference": {
@@ -210,7 +210,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Bukhari (2094) Sahih Muslim (5868)"
 				}
 			],
 			"reference": {
@@ -225,11 +225,11 @@
 			"grades": [
 				{
 					"name": "Al-Albani",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Muhammad Muhyi Al-Din Abdul Hamid",
-					"grade": "Munqar"
+					"grade": "Munkar"
 				},
 				{
 					"name": "Shuaib Al Arnaut",
@@ -310,7 +310,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Bukhari And Sahih Muslim"
+					"grade": "Sahih Muslim (2078 After 2095)"
 				}
 			],
 			"reference": {
@@ -360,7 +360,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Shadh"
+					"grade": "Daif"
 				}
 			],
 			"reference": {

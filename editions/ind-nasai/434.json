@@ -13,7 +13,7 @@
 			"grades": [
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -25,12 +25,7 @@
 			"hadithnumber": 434.2,
 			"arabicnumber": 434.2,
 			"text": "",
-			"grades": [
-				{
-					"name": "Zubair Ali Zai",
-					"grade": "Sahih"
-				}
-			],
+			"grades": [],
 			"reference": {
 				"book": 4,
 				"hadith": 40

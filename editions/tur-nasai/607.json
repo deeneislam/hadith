@@ -9,7 +9,7 @@
 		{
 			"hadithnumber": 607,
 			"arabicnumber": 607,
-			"text": "İbn Ömer (radıyallahü anh)’den rivâyete göre: (sallallahü aleyhi ve sellem), Müzdelife’de akşam ile yatsıyı birlikte kıldı.) (İbn Mâce, Menasik: 60; Buhârî, Hac: 93)",
+			"text": "İbn Ömer (radıyallahü anh)’den rivâyete göre: (sallallahü aleyhi ve sellem), Müzdelife’de akşam ile yatsıyı birlikte kıldı.) (İbn Mâce, Menasik: 60; Buhârî, Hac:)",
 			"grades": [
 				{
 					"name": "Abu Ghuddah",
@@ -21,7 +21,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Hasan Or Sahih"
+					"grade": "Sahih Muslim"
 				}
 			],
 			"reference": {

@@ -2,7 +2,7 @@
 	"metadata": {
 		"name": "Sahih al Bukhari",
 		"section": {
-			"0": ""
+			"5": "Bathing (Ghusl)"
 		}
 	},
 	"hadiths": [
@@ -12,8 +12,8 @@
 			"text": "",
 			"grades": [],
 			"reference": {
-				"book": 0,
-				"hadith": 0
+				"book": 5,
+				"hadith": 25
 			}
 		}
 	]
