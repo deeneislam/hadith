@@ -2823,3 +2823,11 @@ Generating Edition
  Generated edition urd-tirmidhi
 
 editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.8.1/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+editions.json and editions.min.json generated
