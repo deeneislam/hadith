@@ -3,6 +3,14 @@
 		"name": "Muwatta Malik",
 		"section": {
 			"6": "Prayer in Ramadan"
+		},
+		"section_detail": {
+			"6": {
+				"hadithnumber_first": 246,
+				"hadithnumber_last": 253,
+				"arabicnumber_first": 246,
+				"arabicnumber_last": 253
+			}
 		}
 	},
 	"hadiths": [

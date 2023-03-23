@@ -3,13 +3,21 @@
 		"name": "Sunan Abu Dawud",
 		"section": {
 			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
 		}
 	},
 	"hadiths": [
 		{
 			"hadithnumber": 262,
 			"arabicnumber": 262,
-			"text": "Muaze (radiyallahu anha) demiştir ki; Bir kadın Aişe (r.anha)'ya; \"Hayızlı kadın (namazını) kaza eder mi?\" diye sordu. Hz. Aişe: \"Yoksa sen Haruri'misin? Bilesin ki, biz Resulullah (sallallahu aleyhi ve sellem) yanında (zamanında) hayız olur, (hayız günlerindeki namazları) kaza etmez ve kaza etmekle de emrolunmazdık\" karşılığını verdi. Diğer tahric: Buhari, hayz; Müslim, Hayz; Nesai, hayz, siyam; İbn Mace, Tahare ;Darimî, vudu'; Ahmed b. Hanbel, VI, 32, 94, 97, 120",
+			"text": "Muaze (radiyallahu anha) demiştir ki; Bir kadın Aişe (r.anha)'ya; \"Hayızlı kadın (namazını) kaza eder mi?\" diye sordu. Hz. Aişe: \"Yoksa sen Haruri'misin? Bilesin ki, biz Resulullah (sallallahu aleyhi ve sellem) yanında (zamanında) hayız olur, (hayız günlerindeki namazları) kaza etmez ve kaza etmekle de emrolunmazdık\" karşılığını verdi. Diğer tahric: Buhari, hayz; Müslim, Hayz; Nesai, hayz, siyam; İbn Mace, Tahare ;Darimî, vudu'; Ahmed b. Hanbel, VI,",
 			"grades": [
 				{
 					"name": "Al-Albani",

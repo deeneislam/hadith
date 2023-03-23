@@ -3,6 +3,14 @@
 		"name": "Sahih al Bukhari",
 		"section": {
 			"8": "Prayers (Salat)"
+		},
+		"section_detail": {
+			"8": {
+				"hadithnumber_first": 349,
+				"hadithnumber_last": 520,
+				"arabicnumber_first": 349,
+				"arabicnumber_last": 520
+			}
 		}
 	},
 	"hadiths": [
@@ -189,7 +197,7 @@
 		{
 			"hadithnumber": 367,
 			"arabicnumber": 367,
-			"text": "Ebu Saîd el-Hudrî'den şöyle nakledilmiştir: \"Nebi (Sallallahu aleyhi ve Sellem) insan'ın sammâ türü örtünme ile, , büründüğü kumaşın bir parçasını avret mahalli üzerinde bulundurmaksızın bir tek elbise ile kaba etini yere koyup dizlerini kırarak oturmasını yasaklamıştır. Tekrar: 1991, 2144, 2147, 5",
+			"text": "Ebu Saîd el-Hudrî'den şöyle nakledilmiştir: \"Nebi (Sallallahu aleyhi ve Sellem) insan'ın sammâ türü örtünme ile, , büründüğü kumaşın bir parçasını avret mahalli üzerinde bulundurmaksızın bir tek elbise ile kaba etini yere koyup dizlerini kırarak oturmasını yasaklamıştır. Tekrar: 1991",
 			"grades": [],
 			"reference": {
 				"book": 8,
@@ -199,7 +207,7 @@
 		{
 			"hadithnumber": 368,
 			"arabicnumber": 368,
-			"text": "Ebu Hureyre'den şöyle nakledilmiştir: \"Nebi (Sallallahu aleyhi ve Sellem) limâs ve nibâz satışı ile sammâ şeklinde örtünmeyi ve insanların bir parça elbise içinde dizlerini kırarak kaba eti üzerine oturmasını yasakladı. Tekrar; 584, 588, 1992, 2145, 2",
+			"text": "Ebu Hureyre'den şöyle nakledilmiştir: \"Nebi (Sallallahu aleyhi ve Sellem) limâs ve nibâz satışı ile sammâ şeklinde örtünmeyi ve insanların bir parça elbise içinde dizlerini kırarak kaba eti üzerine oturmasını yasakladı. Tekrar; 584, 588",
 			"grades": [],
 			"reference": {
 				"book": 8,
@@ -209,7 +217,7 @@
 		{
 			"hadithnumber": 369,
 			"arabicnumber": 369,
-			"text": "Ebu Hureyre'den şöyle nakledilmiştir: \"Ebu Bekir, o yılki hacda Kurban Bayramı günü Mina'da insanlara: 'Bu yıl'dan sonra hiçbir müşrik hac edemeyecek, hiçbir çıplak da Kabe'yi tavaf edemeyecek' şeklinde duyuru yapan tellallar'la birlikte beni de gönderdi. Humeyd İbn Abdurrahman dedi ki: Daha sonra Allah Rasulü (Sallallahu aleyhi ve Sellem), Ali (r.a.)'i göndererek ona Tevbe suresini insanlara okumasını emretti. Ebu Hureyre (r.a.) olayı anlatmaya şu şekilde devam etti: Bizimle birlikte Ali, bayramın birinci günü Mina'da bulunanlara: 'Bu yıl'dan sonra hiçbir müşrik hac edemeyecek, hiçbir çıplak da Kabe'yi tavaf edemeyecek' şeklinde duyuru yaptı. Tekrar: 1622, 3177, 4363, 4",
+			"text": "Ebu Hureyre'den şöyle nakledilmiştir: \"Ebu Bekir, o yılki hacda Kurban Bayramı günü Mina'da insanlara: 'Bu yıl'dan sonra hiçbir müşrik hac edemeyecek, hiçbir çıplak da Kabe'yi tavaf edemeyecek' şeklinde duyuru yapan tellallar'la birlikte beni de gönderdi. Humeyd İbn Abdurrahman dedi ki: Daha sonra Allah Rasulü (Sallallahu aleyhi ve Sellem), Ali (r.a.)'i göndererek ona Tevbe suresini insanlara okumasını emretti. Ebu Hureyre (r.a.) olayı anlatmaya şu şekilde devam etti: Bizimle birlikte Ali, bayramın birinci günü Mina'da bulunanlara: 'Bu yıl'dan sonra hiçbir müşrik hac edemeyecek, hiçbir çıplak da Kabe'yi tavaf edemeyecek' şeklinde duyuru yaptı. Tekrar: 1622",
 			"grades": [],
 			"reference": {
 				"book": 8,
@@ -229,7 +237,7 @@
 		{
 			"hadithnumber": 371,
 			"arabicnumber": 371,
-			"text": "Enes b. Malik'ten şöyle nakledilmiştir: \"Nebi (Sallallahu aleyhi ve Sellem) Hayber'e sefer düzenledi. Orada gece karanlığının sonlarına doğru sabah namazını kıldık. Allah Resulü (Sallallahu aleyhi ve Sellem) bir bineğe bindi. Peşi sıra Ebu Talha bindi. Onun terkine de ben bindim. Allah Resulü bineğini Hayber sokağında gezdiriyordu. Bu esnada dizim onun uyluğuna değiyordu. Sonra Nebi (Sallallahu aleyhi ve Sellem) uyluğundan izarını kaldırdı. Uyluğunun beyazlığını görebiliyordum. Hayber'e girdiği zaman, üç defa: 'Allahu Ekber! Bir toplumun yurduna girdiğimiz zaman, işte o an uyarılanların sabahı ne kötüdür!' dedi.\" Enes olayı anlatmaya şöyle devam etti: \"İnsanlar işlerine yöneldi. Bu esnada Nebi (Sallallahu aleyhi ve Sellem)'i gören insanlar, 'Muhammed geldi' dediler. (Hadisin ravilerinden Abdülaziz hadisi şu şekilde ilaveli olarak nakletmiştir: Ashabımızdan bazıları \"Muhammed ve beşli ordusu\" geldi dediler.)\" Enes olayı anlatmaya şöyle devam etti: \"Hayber'i savaşarak aldık. Sonra esirler, bir araya toplandı. Bu esnada Dihye gelerek: 'Ey Allah'ın elçisi! Esirlerden bana bir cariye ver' dedi. Nebi (Sallallahu aleyhi ve Sellem) de, 'Git ve birini seç' buyurdu. Dihye Safiyye bintu Huyey'i aldı. Bunun üzerine biri Rasulullah (Sallallahu aleyhi ve Sellem)'e gelip 'Ey Allah'ın elçisi, Dihye'ye Kurayza ve Nadîr kabillerinin hanım efendisi Safiyye bintu Huyey'i verdin. Muhakkak ki, bu kadın ancaksana yakışır.' dedi. Nebi (Sallallahu aleyhi ve Sellem) 'kadınla birlikte Dihye'yi çağırın' buyurdu. Allah Resulü Safiyye'yi görünce Dihye'ye: 'Esirlerden bunun dışında bir cariye al' dedi. Enes olayı anlatmaya şöyle devam etti: \"Nebi s.a.v. Safiyye'yi azat edip onunla evlendi.\" Sabit Enes'e \"Ey ebu Hamza onun mehri ne oldu?\" diye sormuş. O da şöyle cevap vermiştir: \"Mehri kendisi oldu. Allah Resulü mehir olarak onu azat edip sonra da onunla evlendi. Yolda iken Ümmü Süleym onu Nebi s.a.v. için hazırladı ve geceleyin onun yanına yolladı, Böylece Allah Resulü güveyi oldu. Sabah olunca: 'Kimin yanında ne varsa, getirsin!' buyurdu ve deriden yapılma bir örtü açtı. Kimi hurma, kimi yağ, zannımca kimi de sevîk getirdi.\" Enes şöyle devam ederek: \"İnsanlar hurmayı, yağ ve kurutulmuş yoğurtla karıştırdılar. İşte bu, Rasûlullah'ın ziyafeti oldu, dedi. Tekrar: 610, 947, 2228, 2235, 2889, 2893, 2943, 2944, 2945, 2991, 3085, 3086, 3367, 3647, 4083, 4084, 4197, 4198, 4199, 4200, 4201, 4211, 4212, 4213. 5085, 5159, 5387, 5425, 5528, 5968, 6185, 6",
+			"text": "Enes b. Malik'ten şöyle nakledilmiştir: \"Nebi (Sallallahu aleyhi ve Sellem) Hayber'e sefer düzenledi. Orada gece karanlığının sonlarına doğru sabah namazını kıldık. Allah Resulü (Sallallahu aleyhi ve Sellem) bir bineğe bindi. Peşi sıra Ebu Talha bindi. Onun terkine de ben bindim. Allah Resulü bineğini Hayber sokağında gezdiriyordu. Bu esnada dizim onun uyluğuna değiyordu. Sonra Nebi (Sallallahu aleyhi ve Sellem) uyluğundan izarını kaldırdı. Uyluğunun beyazlığını görebiliyordum. Hayber'e girdiği zaman, üç defa: 'Allahu Ekber! Bir toplumun yurduna girdiğimiz zaman, işte o an uyarılanların sabahı ne kötüdür!' dedi.\" Enes olayı anlatmaya şöyle devam etti: \"İnsanlar işlerine yöneldi. Bu esnada Nebi (Sallallahu aleyhi ve Sellem)'i gören insanlar, 'Muhammed geldi' dediler. (Hadisin ravilerinden Abdülaziz hadisi şu şekilde ilaveli olarak nakletmiştir: Ashabımızdan bazıları \"Muhammed ve beşli ordusu\" geldi dediler.)\" Enes olayı anlatmaya şöyle devam etti: \"Hayber'i savaşarak aldık. Sonra esirler, bir araya toplandı. Bu esnada Dihye gelerek: 'Ey Allah'ın elçisi! Esirlerden bana bir cariye ver' dedi. Nebi (Sallallahu aleyhi ve Sellem) de, 'Git ve birini seç' buyurdu. Dihye Safiyye bintu Huyey'i aldı. Bunun üzerine biri Rasulullah (Sallallahu aleyhi ve Sellem)'e gelip 'Ey Allah'ın elçisi, Dihye'ye Kurayza ve Nadîr kabillerinin hanım efendisi Safiyye bintu Huyey'i verdin. Muhakkak ki, bu kadın ancaksana yakışır.' dedi. Nebi (Sallallahu aleyhi ve Sellem) 'kadınla birlikte Dihye'yi çağırın' buyurdu. Allah Resulü Safiyye'yi görünce Dihye'ye: 'Esirlerden bunun dışında bir cariye al' dedi. Enes olayı anlatmaya şöyle devam etti: \"Nebi s.a.v. Safiyye'yi azat edip onunla evlendi.\" Sabit Enes'e \"Ey ebu Hamza onun mehri ne oldu?\" diye sormuş. O da şöyle cevap vermiştir: \"Mehri kendisi oldu. Allah Resulü mehir olarak onu azat edip sonra da onunla evlendi. Yolda iken Ümmü Süleym onu Nebi s.a.v. için hazırladı ve geceleyin onun yanına yolladı, Böylece Allah Resulü güveyi oldu. Sabah olunca: 'Kimin yanında ne varsa, getirsin!' buyurdu ve deriden yapılma bir örtü açtı. Kimi hurma, kimi yağ, zannımca kimi de sevîk getirdi.\" Enes şöyle devam ederek: \"İnsanlar hurmayı, yağ ve kurutulmuş yoğurtla karıştırdılar. İşte bu, Rasûlullah'ın ziyafeti oldu, dedi. Tekrar: 610, 947, 2228, 2235, 2889, 2893, 2943, 2944, 2945, 2991, 3085, 3086, 3367, 3647, 4083, 4084, 4197, 4198, 4199, 4200, 4201, 4211, 4212, 4213. 5085, 5159, 5387, 5425, 5528",
 			"grades": [],
 			"reference": {
 				"book": 8,
@@ -299,7 +307,7 @@
 		{
 			"hadithnumber": 378,
 			"arabicnumber": 378,
-			"text": "Enes bin Malik'ten şöyle nakledilmiştir: \"Nebi (Sallallahu aleyhi ve Sellem) attan düştü. Bacağı veya omuzu yaralandı. Bir ay boyunca hanımlarına ila yaptı. Dallardan yapılmış basamakları olan yüksekçe bir yerde İkamet etti. Ashabı onu ziyarete geldiğinde kendisi oturduğu halde ayaktaki ashabına namaz kıldırırdi. Birgün selam verdikten sonra şöyle dedi: İmam uyulmak için vardır. O tekbir getirdiği zaman siz de tekbir getirin, o rükûa eğilince siz de eğilin, o secde edince siz de edin, o ayakta namaz kılınca siz de ayak­ta namaz kılın! Allah Resulu Sallallahu Aleyhi ve Sellem. yirmidokuzuncu gün yerinden indi. Ashabı Ey Allah'ın elçisi siz bir ay boyunca hanımlarınıza yaklaşmamak üzere ila yapmıştınız' dediler. Bunun üzerine Allah Resulü (Sallallahu aleyhi ve Sellem): 'Ay, yirmi dokuz çeker' buyurdu. Tekrar: 689, 732, 805, 1114, 1911, 2469, 5",
+			"text": "Enes bin Malik'ten şöyle nakledilmiştir: \"Nebi (Sallallahu aleyhi ve Sellem) attan düştü. Bacağı veya omuzu yaralandı. Bir ay boyunca hanımlarına ila yaptı. Dallardan yapılmış basamakları olan yüksekçe bir yerde İkamet etti. Ashabı onu ziyarete geldiğinde kendisi oturduğu halde ayaktaki ashabına namaz kıldırırdi. Birgün selam verdikten sonra şöyle dedi: İmam uyulmak için vardır. O tekbir getirdiği zaman siz de tekbir getirin, o rükûa eğilince siz de eğilin, o secde edince siz de edin, o ayakta namaz kılınca siz de ayak­ta namaz kılın! Allah Resulu Sallallahu Aleyhi ve Sellem. yirmidokuzuncu gün yerinden indi. Ashabı Ey Allah'ın elçisi siz bir ay boyunca hanımlarınıza yaklaşmamak üzere ila yapmıştınız' dediler. Bunun üzerine Allah Resulü (Sallallahu aleyhi ve Sellem): 'Ay, yirmi dokuz çeker' buyurdu. Tekrar: 689, 732, 805, 1114",
 			"grades": [],
 			"reference": {
 				"book": 8,
@@ -319,7 +327,7 @@
 		{
 			"hadithnumber": 380,
 			"arabicnumber": 380,
-			"text": "Enes İbn Mâlik'den şöyle nakledilmiştir: Enes bin Malik'in ninesi Müleyke Nebi (Sallallahu aleyhi ve Sellem)'i Onun için pişirdiği bir yemeğe davet etmişti. Allah Resulü Sallallahu Aleyhi ve Sellem yemeği yedikten sonra: 'kalkın size namaz kıldırayım' dedi.\" Enes olayı anlatmaya şu şekilde devam etti: \"Sıkça kullanılmaktan kararan bir hasırımız vardı, ona doğru yöneldim. Üzerine biraz su serptim. Nebi (Sallallahu aleyhi ve Sellem) kalkıp namaza başladı. Ben ve yetim bir çocuk arkasında saf tuttuk. İhtiyar ninem ise, bizim arkamızda namaza durdu. Allah Resulü Sallallahu Aleyhi ve Sellem bize iki rekat namaz kıldırdı. Sonra yanımızdan ayrıldı. Tekrar: 727, 860,",
+			"text": "Enes İbn Mâlik'den şöyle nakledilmiştir: Enes bin Malik'in ninesi Müleyke Nebi (Sallallahu aleyhi ve Sellem)'i Onun için pişirdiği bir yemeğe davet etmişti. Allah Resulü Sallallahu Aleyhi ve Sellem yemeği yedikten sonra: 'kalkın size namaz kıldırayım' dedi.\" Enes olayı anlatmaya şu şekilde devam etti: \"Sıkça kullanılmaktan kararan bir hasırımız vardı, ona doğru yöneldim. Üzerine biraz su serptim. Nebi (Sallallahu aleyhi ve Sellem) kalkıp namaza başladı. Ben ve yetim bir çocuk arkasında saf tuttuk. İhtiyar ninem ise, bizim arkamızda namaza durdu. Allah Resulü Sallallahu Aleyhi ve Sellem bize iki rekat namaz kıldırdı. Sonra yanımızdan ayrıldı. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 8,
@@ -339,7 +347,7 @@
 		{
 			"hadithnumber": 382,
 			"arabicnumber": 382,
-			"text": "Nebi Sallallahu Aleyhi ve Sellem'in eşi Aişe (r.anha)'den şöyle nakledilmiştir: \"Ayaklarımı Allah Resûlü Sallallahu Aleyhi ve Sellem'in secde edeceği yere uzatmış uyuyordum. Secdeye varınca eliyle beni dürttü. Ben de ayaklarımı topladım. Ayağa kalkınca tekrar uzattım. O dönemde evlerde henüz lamba yoktu. Tekrar: 383, 508, 511, 512, 513, 514, 515, 519,",
+			"text": "Nebi Sallallahu Aleyhi ve Sellem'in eşi Aişe (r.anha)'den şöyle nakledilmiştir: \"Ayaklarımı Allah Resûlü Sallallahu Aleyhi ve Sellem'in secde edeceği yere uzatmış uyuyordum. Secdeye varınca eliyle beni dürttü. Ben de ayaklarımı topladım. Ayağa kalkınca tekrar uzattım. O dönemde evlerde henüz lamba yoktu. Tekrar: 383, 508, 511, 512, 513,",
 			"grades": [],
 			"reference": {
 				"book": 8,
@@ -479,7 +487,7 @@
 		{
 			"hadithnumber": 397,
 			"arabicnumber": 397,
-			"text": "İbn Süleyman Mücahid'den şöyle işittiğini nakletmektedir: \"İbn Ömer'e gelip 'İşte Allah'ın Nebi'i Ka'be'ye girdi (ve tavaf namazını orada kıldı) dediler. O da şöyle karşılık verdi: 'Ben vardığım zaman, Allah Resulü Sallallahu Aleyhi ve Sellem Ka'be'den çıkmıştı. Kapı aralığında Bilal ile karşılaştım. Ona 'Nebi Sallallahu Aleyhi ve Sellem Ka'be'de namaz kıldı mı?' diye sordum. O da şöyle cevap verdi: Evet, içeri girerken sol tarafında bulunan iki sütunun arasında iki rek'at namaz kıldı. Sonra dışarı çıkıp Ka'be'ye yönelerek iki rekat namaz kıldı. Tekrar: 468, 504, 505, 506, 1167, 1598, 1599, 2",
+			"text": "İbn Süleyman Mücahid'den şöyle işittiğini nakletmektedir: \"İbn Ömer'e gelip 'İşte Allah'ın Nebi'i Ka'be'ye girdi (ve tavaf namazını orada kıldı) dediler. O da şöyle karşılık verdi: 'Ben vardığım zaman, Allah Resulü Sallallahu Aleyhi ve Sellem Ka'be'den çıkmıştı. Kapı aralığında Bilal ile karşılaştım. Ona 'Nebi Sallallahu Aleyhi ve Sellem Ka'be'de namaz kıldı mı?' diye sordum. O da şöyle cevap verdi: Evet, içeri girerken sol tarafında bulunan iki sütunun arasında iki rek'at namaz kıldı. Sonra dışarı çıkıp Ka'be'ye yönelerek iki rekat namaz kıldı. Tekrar: 468, 504, 505, 506, 1167",
 			"grades": [],
 			"reference": {
 				"book": 8,
@@ -489,7 +497,7 @@
 		{
 			"hadithnumber": 398,
 			"arabicnumber": 398,
-			"text": "Atâ, İbn Abbâs'ın şöyle dediğini nakletmiştir: \"Nebi Sallallahu Aleyhi ve Sellem Ka'be'ye girince her tarafında dua ederdi. Sonra namaz kılmadan oradan çıkardı. Çıktıktan sonra Ka'be'nin ön tarafında iki rek'at namaz kılardı. Bu, onun kıblesiydi. Tekrar: 1601, 3",
+			"text": "Atâ, İbn Abbâs'ın şöyle dediğini nakletmiştir: \"Nebi Sallallahu Aleyhi ve Sellem Ka'be'ye girince her tarafında dua ederdi. Sonra namaz kılmadan oradan çıkardı. Çıktıktan sonra Ka'be'nin ön tarafında iki rek'at namaz kılardı. Bu, onun kıblesiydi. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 8,
@@ -509,7 +517,7 @@
 		{
 			"hadithnumber": 400,
 			"arabicnumber": 400,
-			"text": "Câbir'den şöyle nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem bineği ne tarafa dönerse dönsün onun üzerinde namaz kılardı. Farz namazı kılacağı zaman ise, bineğinden inip kıbleye yönelirdi. Tekrar: 1",
+			"text": "Câbir'den şöyle nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem bineği ne tarafa dönerse dönsün onun üzerinde namaz kılardı. Farz namazı kılacağı zaman ise, bineğinden inip kıbleye yönelirdi. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 8,
@@ -519,7 +527,7 @@
 		{
 			"hadithnumber": 401,
 			"arabicnumber": 401,
-			"text": "Alkame'den şöyle nakledilmiştir: Abdullah İbn Mes'ûd Nebi Sallallahu Aleyhi ve Sellem'in kendilerine namaz kıldırdığını anlattı. (Alkame'nin rivayet ettiği ravi İbrahim, fazla mı yoksa eksik mi kıldırdığını hatırlamıyorum demiştir.) Allah Resulü (Sallallahu aleyhi ve Sellem) selam verince ona, \"Ey Allah'ın elçisi namazla ilgili yeni bir gelişme mi oldu?\" diye sordular. O da, \"Böyle bir şey olmadı\" diye cevap verdi. Ashab-ı kiram: \"Şöyle şöyle namaz kıldırdın\" deyince Nebi Sallallahu Aleyhi ve Sellem ayaklarını büküp kıbleye yöneldi ve iki kez secdeye gitti, sonra selâm verdi. Yüzünü bize çevirdikten sonra ise şöyle buyurdu: Eğer namazda bir değişiklik olsaydı elbette size haber verirdim. Ancak ben de sizin gibi bir insanım. Nasıl ki siz unutuyorsanız, ben de unuturum. O halde unuttuğum zaman bana hatırlatın. İçinizden kim namazı konusunda şüpheye düşerse doğru olanı esas alıp ona göre namazını tamamlasın. Sonra selâm verip iki kez secde etsin. Tekrar: 404, 1",
+			"text": "Alkame'den şöyle nakledilmiştir: Abdullah İbn Mes'ûd Nebi Sallallahu Aleyhi ve Sellem'in kendilerine namaz kıldırdığını anlattı. (Alkame'nin rivayet ettiği ravi İbrahim, fazla mı yoksa eksik mi kıldırdığını hatırlamıyorum demiştir.) Allah Resulü (Sallallahu aleyhi ve Sellem) selam verince ona, \"Ey Allah'ın elçisi namazla ilgili yeni bir gelişme mi oldu?\" diye sordular. O da, \"Böyle bir şey olmadı\" diye cevap verdi. Ashab-ı kiram: \"Şöyle şöyle namaz kıldırdın\" deyince Nebi Sallallahu Aleyhi ve Sellem ayaklarını büküp kıbleye yöneldi ve iki kez secdeye gitti, sonra selâm verdi. Yüzünü bize çevirdikten sonra ise şöyle buyurdu: Eğer namazda bir değişiklik olsaydı elbette size haber verirdim. Ancak ben de sizin gibi bir insanım. Nasıl ki siz unutuyorsanız, ben de unuturum. O halde unuttuğum zaman bana hatırlatın. İçinizden kim namazı konusunda şüpheye düşerse doğru olanı esas alıp ona göre namazını tamamlasın. Sonra selâm verip iki kez secde etsin. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 8,
@@ -529,7 +537,7 @@
 		{
 			"hadithnumber": 402,
 			"arabicnumber": 402,
-			"text": "Humeyd, Enes İbn Mâlikten şöyle nakletmiştir: \"Hz. Ömer şöyle dedi: Üç konuda Rabbim temennilerimi gerçekleştirdi; Nebi Sallallahu Aleyhi ve Sellem'e ibrahim makamında bir namaz yeri edinelim dedim, Allah Teâlâ: \"Siz de ibrahim'in makamında bir namaz yeri edinin! (orada namaz kılın) [Bakara 125] âyetini in dirdi. Hicab âyetinde de Rabbim benim temennim doğrultusunda emir buyurdu. Allah Resulü (Sallallahu aleyhi ve Sellem)'ne Ey Allah'ın elçisi hanımlarına söylesen de örtünseler, zira hem iyi hem de kötü insanlar onlarla konuşuyor' dedim. Bunun üzerine hicab âyeti nazil oldu. Rasulullah'ın hanımları kıskançlık konusunda ona karşı birleşmişlerdi. Onlara, 'Belki de onun Rabbi, sizi boşarsa sizden daha hayırlı eşleri ona nasip eder' dedim bunun üzerine bu âyet nazil oldu. Tekrar: 4",
+			"text": "Humeyd, Enes İbn Mâlikten şöyle nakletmiştir: \"Hz. Ömer şöyle dedi: Üç konuda Rabbim temennilerimi gerçekleştirdi; Nebi Sallallahu Aleyhi ve Sellem'e ibrahim makamında bir namaz yeri edinelim dedim, Allah Teâlâ: \"Siz de ibrahim'in makamında bir namaz yeri edinin! (orada namaz kılın) [Bakara 125] âyetini in dirdi. Hicab âyetinde de Rabbim benim temennim doğrultusunda emir buyurdu. Allah Resulü (Sallallahu aleyhi ve Sellem)'ne Ey Allah'ın elçisi hanımlarına söylesen de örtünseler, zira hem iyi hem de kötü insanlar onlarla konuşuyor' dedim. Bunun üzerine hicab âyeti nazil oldu. Rasulullah'ın hanımları kıskançlık konusunda ona karşı birleşmişlerdi. Onlara, 'Belki de onun Rabbi, sizi boşarsa sizden daha hayırlı eşleri ona nasip eder' dedim bunun üzerine bu âyet nazil oldu. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 8,
@@ -549,7 +557,7 @@
 		{
 			"hadithnumber": 403,
 			"arabicnumber": 403,
-			"text": "Abdullah İbn Ömer'den şöyle nakledilmiştir: \"Müslümanlar Kubâ mescidinde sabah namazını kılarlarken ashab'dan birisi çıkagelip, onlara: 'Bu gece inen âyetle Allah Resulü (Sallallahu aleyhi ve Sellem)'e Ka'be'ye yönelmesi emredildi, siz de o tarafa yönelin' deyince, yüzleri Şam'a dönük olan cemaat, hemen o anda Kabe'ye doğru döndü. Tekrar: 4488, 4490, 4491, 4",
+			"text": "Abdullah İbn Ömer'den şöyle nakledilmiştir: \"Müslümanlar Kubâ mescidinde sabah namazını kılarlarken ashab'dan birisi çıkagelip, onlara: 'Bu gece inen âyetle Allah Resulü (Sallallahu aleyhi ve Sellem)'e Ka'be'ye yönelmesi emredildi, siz de o tarafa yönelin' deyince, yüzleri Şam'a dönük olan cemaat, hemen o anda Kabe'ye doğru döndü. Tekrar: 4488",
 			"grades": [],
 			"reference": {
 				"book": 8,
@@ -699,7 +707,7 @@
 		{
 			"hadithnumber": 420,
 			"arabicnumber": 420,
-			"text": "Nafi Abdullah bin Ömer (r.a.)'den şöyle nakletmiştir: \"Nebi Sallallahu Aleyhi ve Sellem yarışa hazırlanmış atlar arasında Hafyâ'dan Veda' tepesine kadar yarış yapmıştır. Yarışa hazırlanmamış atlar arasında Seniyye'den Zuraykoğulları camisine kadar yarışmıştır. Abdullah İbn Ömer de yarışanlar arasında idi. Tekrar: 2868, 2",
+			"text": "Nafi Abdullah bin Ömer (r.a.)'den şöyle nakletmiştir: \"Nebi Sallallahu Aleyhi ve Sellem yarışa hazırlanmış atlar arasında Hafyâ'dan Veda' tepesine kadar yarış yapmıştır. Yarışa hazırlanmamış atlar arasında Seniyye'den Zuraykoğulları camisine kadar yarışmıştır. Abdullah İbn Ömer de yarışanlar arasında idi. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 8,
@@ -719,7 +727,7 @@
 		{
 			"hadithnumber": 422,
 			"arabicnumber": 422,
-			"text": "İshak İbn Abdullah Enes İbn Mâlik'ten şöyle işittiğini nakletmiştir: \"Nebi Sallallahu Aleyhi ve Sellem'i insanlarla birlikte camide otururken buldum. Bana: 'Seni Ebu Talha mı gönderdi?' diye sordu. Ben: 'Evet' deyince, Yemeğe davet etmen için mi?' diye sordu. Ben yine: 'Evet' dedim. Bunun üzerine beraberindekilere: 'Kalkın gidelim' dedi. Cemaat yürümeye başladı. Ben de önlerinde yürüdüm. Tekrar: 3528,",
+			"text": "İshak İbn Abdullah Enes İbn Mâlik'ten şöyle işittiğini nakletmiştir: \"Nebi Sallallahu Aleyhi ve Sellem'i insanlarla birlikte camide otururken buldum. Bana: 'Seni Ebu Talha mı gönderdi?' diye sordu. Ben: 'Evet' deyince, Yemeğe davet etmen için mi?' diye sordu. Ben yine: 'Evet' dedim. Bunun üzerine beraberindekilere: 'Kalkın gidelim' dedi. Cemaat yürümeye başladı. Ben de önlerinde yürüdüm. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 8,
@@ -739,7 +747,7 @@
 		{
 			"hadithnumber": 424,
 			"arabicnumber": 424,
-			"text": "İtban İbn Mâlik'ten yapılan rivayete göre: Nebi Sallallahu Aleyhi ve Sellem o'nun evine gelmiş. Ona: 'Evinin neresinde sana namaz kıldırmamı istersin?' diye sormuş. İtban olayı anlatmaya şu şekilde devam etti: \"Ona bir yer gösterdim. Rasulullah Sallallahu Aleyhi ve Sellem tekbir getirip namaz'a başladı. Biz de arkasında saf tuttuk. Bize, iki rek'at namaz kıldırdı. Tekrar: 425, 667, 686, 838, 840, 1186, 4009, 4010, 5",
+			"text": "İtban İbn Mâlik'ten yapılan rivayete göre: Nebi Sallallahu Aleyhi ve Sellem o'nun evine gelmiş. Ona: 'Evinin neresinde sana namaz kıldırmamı istersin?' diye sormuş. İtban olayı anlatmaya şu şekilde devam etti: \"Ona bir yer gösterdim. Rasulullah Sallallahu Aleyhi ve Sellem tekbir getirip namaz'a başladı. Biz de arkasında saf tuttuk. Bize, iki rek'at namaz kıldırdı. Tekrar: 425, 667, 686, 838, 840, 1186",
 			"grades": [],
 			"reference": {
 				"book": 8,
@@ -829,7 +837,7 @@
 		{
 			"hadithnumber": 433,
 			"arabicnumber": 433,
-			"text": "Abdullah İbn Ömer Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: Azaba uğramış kavimlerin yurdundan ancak ağlayarak geçiniz! Eğer ağlamıyorsanız oradan geçmeyin ki, onların başına gelenler sizin de başınıza gelmesin. Tekrar: 338, 3381, 4",
+			"text": "Abdullah İbn Ömer Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: Azaba uğramış kavimlerin yurdundan ancak ağlayarak geçiniz! Eğer ağlamıyorsanız oradan geçmeyin ki, onların başına gelenler sizin de başınıza gelmesin. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 8,
@@ -899,7 +907,7 @@
 		{
 			"hadithnumber": 441,
 			"arabicnumber": 441,
-			"text": "Sehl İbn Sa'd'dan şöyle nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem Hz. Fatıma'nın evine gitti. O esnada Hz. Ali'yi evde bulamadı. Fatıma'ya: 'Amca'nın oğlu nerede?' diye sordu. O da 'O-nunla aramda bir tartışma oldu, bunun üzerine bana kızdı ve evden çıkıp gitti. Yanımda kaylule yapmadı' dedi. Resulullah Sallallahu Aleyhi ve Sellem birine 'Bak bakalım Ali nereye gitmiş' diye talimat verdi. Bir müddet sonra adam çıkageldi ve: 'Ya Resulallah şu anda Ali mescidde uyuyor dedi. Nebi Sallallahu Aleyhi ve Sellem mescide geldi. Bu esnada Ali uyuyordu. Ridasının bir kısmı açılmıştı. Bu yüzden vücudunun bir bölümü toprağa bulaşmıştı. Rasûlullah Sallallahu Aleyhi ve Sellem bir yandan toprağı temizliyor bir yandan da: 'Kalk Ebu turâb! Kalk Ebu turâb! diyordu. Tekrar: 3",
+			"text": "Sehl İbn Sa'd'dan şöyle nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem Hz. Fatıma'nın evine gitti. O esnada Hz. Ali'yi evde bulamadı. Fatıma'ya: 'Amca'nın oğlu nerede?' diye sordu. O da 'O-nunla aramda bir tartışma oldu, bunun üzerine bana kızdı ve evden çıkıp gitti. Yanımda kaylule yapmadı' dedi. Resulullah Sallallahu Aleyhi ve Sellem birine 'Bak bakalım Ali nereye gitmiş' diye talimat verdi. Bir müddet sonra adam çıkageldi ve: 'Ya Resulallah şu anda Ali mescidde uyuyor dedi. Nebi Sallallahu Aleyhi ve Sellem mescide geldi. Bu esnada Ali uyuyordu. Ridasının bir kısmı açılmıştı. Bu yüzden vücudunun bir bölümü toprağa bulaşmıştı. Rasûlullah Sallallahu Aleyhi ve Sellem bir yandan toprağı temizliyor bir yandan da: 'Kalk Ebu turâb! Kalk Ebu turâb! diyordu. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 8,
@@ -919,7 +927,7 @@
 		{
 			"hadithnumber": 443,
 			"arabicnumber": 443,
-			"text": "(Hallâd İbn Yahya, Mis'ar ve Muharib İbn Disâr kanalıyla) Câbir İbn Abdillah'tan şöyle nakledilmiştir: Resulullah Sallallahu Aleyhi ve Sellem'in mescidde olduğu bir sırada onun yanına vardım. (Ravilerden Mis'ar, 'zannımca Muharib, Câbir'in kuşluk vakti geldiğini belirtti' demiştir.) Bana: 'iki rekat namaz kıl' diye emretti. Ondan alacağım vardı. Borcunu ödedi, bir miktar da fazla verdi. Tekrar: 1801, 2097, 2309, 2385. 2494, 2470, 2603, 2604, 2728. 2861, 2967, 3087, 3089, 3090, 3052, 5079, 5080, 5243, 5244, 5245, 5246, 5",
+			"text": "(Hallâd İbn Yahya, Mis'ar ve Muharib İbn Disâr kanalıyla) Câbir İbn Abdillah'tan şöyle nakledilmiştir: Resulullah Sallallahu Aleyhi ve Sellem'in mescidde olduğu bir sırada onun yanına vardım. (Ravilerden Mis'ar, 'zannımca Muharib, Câbir'in kuşluk vakti geldiğini belirtti' demiştir.) Bana: 'iki rekat namaz kıl' diye emretti. Ondan alacağım vardı. Borcunu ödedi, bir miktar da fazla verdi. Tekrar: 1801, 2097, 2309, 2385. 2494, 2470, 2603, 2604, 2728. 2861, 2967, 3087, 3089, 3090, 3052, 5079, 5080, 5243, 5244",
 			"grades": [],
 			"reference": {
 				"book": 8,
@@ -1039,7 +1047,7 @@
 		{
 			"hadithnumber": 456,
 			"arabicnumber": 456,
-			"text": "Berîre Hz. Aişe'ye gelip ondan mükatebesi hakkında yardım istedi. Hz. Aişe: \"Eğer dilersen efendine (geri kalan borcunu) öder senin vela'nı ben üstlenirim\" dedi. Berire'nin efendisi (Hz. Âişe'ye), \"Eğer dilersen ona geri kalan borçlarını ödemesi için gerekli bedeli verirsin\" dedi. Ravilerden Süfyân bir keresinde olayın bundan sonraki kısmını şöyle anlattı: \"Dilersen onu âzad edersin, ancak vela'sı bizim olur.\" Resulullah Sallallahu Aleyhi ve Sellem gelince, Hz. Aişe, ona bu olayı haber verdi. Bunun üzerine Allah Resulü Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Onu al ve âzad et! Velâ hakkı ise, azad edenindir.\" buyurdu: \"Bazı kimselere ne oluyor ki Allah'ın kitabında olmayan alış-veriş şartları ileri sürüyorlar. Allah'ın kitabında olmayan bir şartı ileri süren, bilsin ki o konuda böyle bir hakkı yoktur. Yüz kere şart koşsa da yine durum değişmez. Hadisin geçtiği diğer yerler: 1493, 2155, 2168, 2536, 2560, 2561, 2563, 2564, 2565, 2578, 2717, 2726, 2729, 7235, 5097, 5279, 5284, 5430, 6717, 6751, 6",
+			"text": "Berîre Hz. Aişe'ye gelip ondan mükatebesi hakkında yardım istedi. Hz. Aişe: \"Eğer dilersen efendine (geri kalan borcunu) öder senin vela'nı ben üstlenirim\" dedi. Berire'nin efendisi (Hz. Âişe'ye), \"Eğer dilersen ona geri kalan borçlarını ödemesi için gerekli bedeli verirsin\" dedi. Ravilerden Süfyân bir keresinde olayın bundan sonraki kısmını şöyle anlattı: \"Dilersen onu âzad edersin, ancak vela'sı bizim olur.\" Resulullah Sallallahu Aleyhi ve Sellem gelince, Hz. Aişe, ona bu olayı haber verdi. Bunun üzerine Allah Resulü Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Onu al ve âzad et! Velâ hakkı ise, azad edenindir.\" buyurdu: \"Bazı kimselere ne oluyor ki Allah'ın kitabında olmayan alış-veriş şartları ileri sürüyorlar. Allah'ın kitabında olmayan bir şartı ileri süren, bilsin ki o konuda böyle bir hakkı yoktur. Yüz kere şart koşsa da yine durum değişmez. Hadisin geçtiği diğer yerler: 1493, 2155, 2168, 2536, 2560, 2561, 2563, 2564, 2565, 2578, 2717, 2726, 2729, 7235, 5097, 5279, 5284, 5430",
 			"grades": [],
 			"reference": {
 				"book": 8,
@@ -1069,7 +1077,7 @@
 		{
 			"hadithnumber": 459,
 			"arabicnumber": 459,
-			"text": "Âişe (r.anha)'dan şöyle nakledilmiştir: \"Faiz konusunda el-Bakara süresin­deki âyetler nazil olduktan sonra Nebi Sallallahu Aleyhi ve Sellem Mescİd-İ Nebevî'ye çıkıp hemen bu ayetleri ashabına okudu. Sonra da şarap ticaretini haram kıldı. Tekrar: 2084, 2226, 4540, 4",
+			"text": "Âişe (r.anha)'dan şöyle nakledilmiştir: \"Faiz konusunda el-Bakara süresin­deki âyetler nazil olduktan sonra Nebi Sallallahu Aleyhi ve Sellem Mescİd-İ Nebevî'ye çıkıp hemen bu ayetleri ashabına okudu. Sonra da şarap ticaretini haram kıldı. Tekrar: 2084",
 			"grades": [],
 			"reference": {
 				"book": 8,
@@ -1089,7 +1097,7 @@
 		{
 			"hadithnumber": 461,
 			"arabicnumber": 461,
-			"text": "Ebu Hureyre (r.a.) Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: \"Dün gece cinlerden bir ifrit (veya buna benzer bir ifade kutlandı), namazımı bozmak için aniden bana saldırdı. Fakat Rabbim ona karşı beni galip getirdi. Sabahlayınca hepiniz onu göresiniz diye mescidin direklerinden birine bağlamak istedim. Sonra kardeşim Süleyman’ın: \"Rabbim! Beni bağışla, bana, benden başka hiç kimsenin ulaşamayacağı bir hükümranlık ver [Sâd, 35] dediğini hatırladım (ve onu tutup bağlamaktan vazgeçtim).\" Hadisin ravilerinden Ravh dedi ki: \"Sonra Nebi Sallallahu Aleyhi ve Sellem onu kovdu. Tekrar: 1210, 3",
+			"text": "Ebu Hureyre (r.a.) Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: \"Dün gece cinlerden bir ifrit (veya buna benzer bir ifade kutlandı), namazımı bozmak için aniden bana saldırdı. Fakat Rabbim ona karşı beni galip getirdi. Sabahlayınca hepiniz onu göresiniz diye mescidin direklerinden birine bağlamak istedim. Sonra kardeşim Süleyman’ın: \"Rabbim! Beni bağışla, bana, benden başka hiç kimsenin ulaşamayacağı bir hükümranlık ver [Sâd, 35] dediğini hatırladım (ve onu tutup bağlamaktan vazgeçtim).\" Hadisin ravilerinden Ravh dedi ki: \"Sonra Nebi Sallallahu Aleyhi ve Sellem onu kovdu. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 8,
@@ -1099,7 +1107,7 @@
 		{
 			"hadithnumber": 462,
 			"arabicnumber": 462,
-			"text": "Ebu Hureyre (r.a.)'den şöyle nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem Necd taraflarına bir süvari birliği gönderdi. Birlik, Beni Hanife’den olan, Sümâme bin Usal adında birini esir alarak döndü. Ashâb-ı kiram onu Mescid-i Nebevî'nin direklerinden birine bağladılar. Derken Allah Resulü Sallallahu Aleyhi ve Sellem mescid'e geldi ve: 'Sümâme'yi serbest bırakın dedi. Sümâme mescidin yakınlarındaki bir hurma ağacının yanına gidip gusül abdesti aldı. Daha sonra mescide geldi ve 'Allah'tan başka ilâh olmadığına ve Muhammed'in onun elçisi olduğuna şehadet ederim' dedi. Tekrar: 469, 2",
+			"text": "Ebu Hureyre (r.a.)'den şöyle nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem Necd taraflarına bir süvari birliği gönderdi. Birlik, Beni Hanife’den olan, Sümâme bin Usal adında birini esir alarak döndü. Ashâb-ı kiram onu Mescid-i Nebevî'nin direklerinden birine bağladılar. Derken Allah Resulü Sallallahu Aleyhi ve Sellem mescid'e geldi ve: 'Sümâme'yi serbest bırakın dedi. Sümâme mescidin yakınlarındaki bir hurma ağacının yanına gidip gusül abdesti aldı. Daha sonra mescide geldi ve 'Allah'tan başka ilâh olmadığına ve Muhammed'in onun elçisi olduğuna şehadet ederim' dedi. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 8,
@@ -1109,7 +1117,7 @@
 		{
 			"hadithnumber": 463,
 			"arabicnumber": 463,
-			"text": "Âişe (r.anha)'dan şöyle nakledilmiştir: \"Hendek savaşında Sa'd İbn Muâz, kolundaki atar damardan yaralanmıştı. Allah Resulü Sallallahu Aleyhi ve Sellem o'nu yakından ziyaret edebilmek için Mescid-i Nebevî'de o'na mahsus bir çadır kurdurdu. O esnada Mescid'de Ğıfar-oğulları'nın bir çadırı vardı. Kendilerine doğru akan kandan korkup yan tarafta olan çadıra doğru: 'Ey çadırdaki komşular! Sizin tarafınızdan bize doğru bir şeyler akıyor?' diye seslendiler. İşte o akan şey, Sa'dın yarasından sızan kandı. Bir müddet sonra da Sa'd bu yaradan dolayı vefat etti. Tekrar: 2813, 3",
+			"text": "Âişe (r.anha)'dan şöyle nakledilmiştir: \"Hendek savaşında Sa'd İbn Muâz, kolundaki atar damardan yaralanmıştı. Allah Resulü Sallallahu Aleyhi ve Sellem o'nu yakından ziyaret edebilmek için Mescid-i Nebevî'de o'na mahsus bir çadır kurdurdu. O esnada Mescid'de Ğıfar-oğulları'nın bir çadırı vardı. Kendilerine doğru akan kandan korkup yan tarafta olan çadıra doğru: 'Ey çadırdaki komşular! Sizin tarafınızdan bize doğru bir şeyler akıyor?' diye seslendiler. İşte o akan şey, Sa'dın yarasından sızan kandı. Bir müddet sonra da Sa'd bu yaradan dolayı vefat etti. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 8,
@@ -1149,7 +1157,7 @@
 		{
 			"hadithnumber": 467,
 			"arabicnumber": 467,
-			"text": "İbn Abbâs (r.a.)'den şöyle nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem vefatına kadar süren hastalık günlerinin birinde başına bir bez bağlayarak minber'e çıktı. Allah'a hamd-u senada bulunduktan sonra şöyle buyurdu: İnsanlar içinde Ebu Bekir İbn Ebî Kuhâfe kadar canı ve malıyla yanımda yer alan başka biri olmamıştır. Eğer insanlardan bir dost (halîl) edinecek olsaydım, elbette Ebu Bekir'i dost edinirdim. Ancak İslâm dostluğu ile sevgisi her şeyden üstündür. Ebu Bekir'in kapısı dışında, mescide açılan bütün kapılar kapansın! Tekrar: 3",
+			"text": "İbn Abbâs (r.a.)'den şöyle nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem vefatına kadar süren hastalık günlerinin birinde başına bir bez bağlayarak minber'e çıktı. Allah'a hamd-u senada bulunduktan sonra şöyle buyurdu: İnsanlar içinde Ebu Bekir İbn Ebî Kuhâfe kadar canı ve malıyla yanımda yer alan başka biri olmamıştır. Eğer insanlardan bir dost (halîl) edinecek olsaydım, elbette Ebu Bekir'i dost edinirdim. Ancak İslâm dostluğu ile sevgisi her şeyden üstündür. Ebu Bekir'in kapısı dışında, mescide açılan bütün kapılar kapansın! Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 8,
@@ -1239,7 +1247,7 @@
 		{
 			"hadithnumber": 476,
 			"arabicnumber": 476,
-			"text": "Urve İbn Zübeyr (r.a.)'den şöyle nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem'in eşi Aişe validemiz şöyle dedi: Aklım yetti yeteli anne ve babam müslümandır. Her Allah'ın günü Allah Resulü Sallallahu Aleyhi ve Sellem sabah akşam bize gelirdi. Derken Ebu Bekir'in aklına bir fikir geldi ve evinin avlusuna bir mescid İnşa etti. Orada namaz kılıp Kur'an okuyordu. Müşriklerin kadın ve çocukları başına toplanıp, hayran hayran ona bakıyorlardı. Çünkü Ebu Bekir hisli bir insandı. Kur'an okuduğu zaman göz yaşlarına hakim olamazdı. Onun bu hali, Kureyşli müşrikleri endişelendirmişti. Tekrar: 2138, 2263, 2264, 2297, 3905, 4",
+			"text": "Urve İbn Zübeyr (r.a.)'den şöyle nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem'in eşi Aişe validemiz şöyle dedi: Aklım yetti yeteli anne ve babam müslümandır. Her Allah'ın günü Allah Resulü Sallallahu Aleyhi ve Sellem sabah akşam bize gelirdi. Derken Ebu Bekir'in aklına bir fikir geldi ve evinin avlusuna bir mescid İnşa etti. Orada namaz kılıp Kur'an okuyordu. Müşriklerin kadın ve çocukları başına toplanıp, hayran hayran ona bakıyorlardı. Çünkü Ebu Bekir hisli bir insandı. Kur'an okuduğu zaman göz yaşlarına hakim olamazdı. Onun bu hali, Kureyşli müşrikleri endişelendirmişti. Tekrar: 2138, 2263, 2264",
 			"grades": [],
 			"reference": {
 				"book": 8,
@@ -1289,7 +1297,7 @@
 		{
 			"hadithnumber": 482,
 			"arabicnumber": 482,
-			"text": "Ebu Hureyre'den şöyle nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem bize öğle veya ikindi namazlarından birini kıldırdı. (İbn Sîrîn Ebu Hureyre'nin bunun hangi namaz olduğunu belirttiğini, ama kendisinin bunu unuttu­ğunu söylemiştir) İki rekattan sonra selam verdi. Sonra Mescid'in (ön tarafına) konmuş kütüğe yöneldi ve ona yaslandı. Kızgın gibi görünüyordu. Sağ elini sol elinin üstüne koydu sonra parmaklarını birleştirdi. Daha sonra sağ yanağını, sol elinin sırtına koydu. Bu esnada camiden çıkmak için acele davrananlar Mescİd-i Nebevî'nin kapılarından çıkarken 'Namaz kısaldı' deyip duruyordu. Cemaatin içinde Ebu Bekir ve Ömer de vardı. Ama onlar da Nebi Sallallahu Aleyhi ve Sellem ile konuşmaya cesaret edemiyorlardı. Cemaat arasında kollaro uzun olduğu için kendisine Zül-Yedeyn denen biri daha vardı. (Onlardan önce): 'Ey Allah'ın elçisi, namaz mı kısaldı, yoksa unuttun mu?' diye sordu. Allah Resulü (Sallallahu aleyhi ve Sellem): Ne namaz kısaldı, ne de unuttum' diye cevap verdi. Sonra 'Zül-yedeyn'in dediği gibi mi oldu?' diye sordu. Cemaat: 'Evet' deyince, biraz öne geçti ve namaz'ın geri kalan kısmını kıldırıp selam verdi. Daha sonra tekbir getirip önceki secdesi gibi belki de ondan daha uzun secde etti. Sonra başını kaldırıp tekrar tekbir getirdi. Sonra yeniden tekbir getirip önceki secdesi gibi belki de ondan daha uzun secde etti. Daha sonra başını kaldırıp tekbir getirdi. (Ravi der ki: Muhtemelen, bundan sonra ne yaptığını İbn Sîrîn'e sordular o da şöyle cevap verdi): En sonunda selam verdi. (Ravi der ki) Bana haber verildiğine göre, İmrân İbn Husayn 'En sonunda selam verdi' demiştir. Tekrar: 714, 715, 1227, 1228, 1",
+			"text": "Ebu Hureyre'den şöyle nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem bize öğle veya ikindi namazlarından birini kıldırdı. (İbn Sîrîn Ebu Hureyre'nin bunun hangi namaz olduğunu belirttiğini, ama kendisinin bunu unuttu­ğunu söylemiştir) İki rekattan sonra selam verdi. Sonra Mescid'in (ön tarafına) konmuş kütüğe yöneldi ve ona yaslandı. Kızgın gibi görünüyordu. Sağ elini sol elinin üstüne koydu sonra parmaklarını birleştirdi. Daha sonra sağ yanağını, sol elinin sırtına koydu. Bu esnada camiden çıkmak için acele davrananlar Mescİd-i Nebevî'nin kapılarından çıkarken 'Namaz kısaldı' deyip duruyordu. Cemaatin içinde Ebu Bekir ve Ömer de vardı. Ama onlar da Nebi Sallallahu Aleyhi ve Sellem ile konuşmaya cesaret edemiyorlardı. Cemaat arasında kollaro uzun olduğu için kendisine Zül-Yedeyn denen biri daha vardı. (Onlardan önce): 'Ey Allah'ın elçisi, namaz mı kısaldı, yoksa unuttun mu?' diye sordu. Allah Resulü (Sallallahu aleyhi ve Sellem): Ne namaz kısaldı, ne de unuttum' diye cevap verdi. Sonra 'Zül-yedeyn'in dediği gibi mi oldu?' diye sordu. Cemaat: 'Evet' deyince, biraz öne geçti ve namaz'ın geri kalan kısmını kıldırıp selam verdi. Daha sonra tekbir getirip önceki secdesi gibi belki de ondan daha uzun secde etti. Sonra başını kaldırıp tekrar tekbir getirdi. Sonra yeniden tekbir getirip önceki secdesi gibi belki de ondan daha uzun secde etti. Daha sonra başını kaldırıp tekbir getirdi. (Ravi der ki: Muhtemelen, bundan sonra ne yaptığını İbn Sîrîn'e sordular o da şöyle cevap verdi): En sonunda selam verdi. (Ravi der ki) Bana haber verildiğine göre, İmrân İbn Husayn 'En sonunda selam verdi' demiştir. Tekrar: 714, 715",
 			"grades": [],
 			"reference": {
 				"book": 8,
@@ -1309,7 +1317,7 @@
 		{
 			"hadithnumber": 484,
 			"arabicnumber": 484,
-			"text": "Nâfi'den şöyle nakledilmiştir: \"Abdullah'ın bana haber verdiğine göre Rasûlullah Sallallahu Aleyhi ve Sellem umre yapacağı zaman Zülhuleyfe'de konaklardı. Veda haccında da, burada konak­lamıştı. Bugün Zülhuleyfe'deki mescidin bulunduğu yerde Semura/Mugaylân/böğürtlen ağacının altında dururdu. Bu güzergahta bir gazveden veya hacdan ya da umreden dönerken vadinin (Vâdi'l-akîk) iç kısmında konaklardı. Vadiden çıkınca devesini vadinin doğu kesimindeki uç tarafında yer alan Bathâ'ya (kumlu alan) çökertirdi. Sabaha çıkıncaya kadar gecenin son kısmını burada geçirirdi, taş caminin bulunduğu yerde ya da üzerinde cami bulunan tepede değil. Abdullah'ın namaz kıldığı içinde kum birikintilerinin olduğu vadi girintisinde namaz kılardı, Nitekim Allah Resulü Sallallahu Aleyhi ve Sellem burada namaz kılardı. Sonraları sel, Bathâ'daki kumları sürükleyip buraya getirdi. Nihayet Abdullah'ın namaz kıldığı yeri belirsiz hale getirdi. Tekrar: 1",
+			"text": "Nâfi'den şöyle nakledilmiştir: \"Abdullah'ın bana haber verdiğine göre Rasûlullah Sallallahu Aleyhi ve Sellem umre yapacağı zaman Zülhuleyfe'de konaklardı. Veda haccında da, burada konak­lamıştı. Bugün Zülhuleyfe'deki mescidin bulunduğu yerde Semura/Mugaylân/böğürtlen ağacının altında dururdu. Bu güzergahta bir gazveden veya hacdan ya da umreden dönerken vadinin (Vâdi'l-akîk) iç kısmında konaklardı. Vadiden çıkınca devesini vadinin doğu kesimindeki uç tarafında yer alan Bathâ'ya (kumlu alan) çökertirdi. Sabaha çıkıncaya kadar gecenin son kısmını burada geçirirdi, taş caminin bulunduğu yerde ya da üzerinde cami bulunan tepede değil. Abdullah'ın namaz kıldığı içinde kum birikintilerinin olduğu vadi girintisinde namaz kılardı, Nitekim Allah Resulü Sallallahu Aleyhi ve Sellem burada namaz kılardı. Sonraları sel, Bathâ'daki kumları sürükleyip buraya getirdi. Nihayet Abdullah'ın namaz kıldığı yeri belirsiz hale getirdi. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 8,

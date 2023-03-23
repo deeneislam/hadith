@@ -3,6 +3,14 @@
 		"name": "Jami At Tirmidhi",
 		"section": {
 			"19": "The Book on Sacrifices"
+		},
+		"section_detail": {
+			"19": {
+				"hadithnumber_first": 1493,
+				"hadithnumber_last": 1523,
+				"arabicnumber_first": 1493,
+				"arabicnumber_last": 1523
+			}
 		}
 	},
 	"hadiths": [

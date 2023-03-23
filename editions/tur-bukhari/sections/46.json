@@ -3,6 +3,14 @@
 		"name": "Sahih al Bukhari",
 		"section": {
 			"46": "Oppressions"
+		},
+		"section_detail": {
+			"46": {
+				"hadithnumber_first": 2440,
+				"hadithnumber_last": 2482,
+				"arabicnumber_first": 2440,
+				"arabicnumber_last": 2482
+			}
 		}
 	},
 	"hadiths": [
@@ -109,7 +117,7 @@
 		{
 			"hadithnumber": 2450,
 			"arabicnumber": 2450,
-			"text": "Aişe r.anha'dan nakledilmiştir: Hz. Aişe, \"Eğer bir kadın kocasının geçimsizliğinden veya kendisinden yüz çevirmesinden endişe ederse aralarında bir sulh yapmalarında onlara bir günah yoktur\" (Nisa 128) ayetinin iniş sebebi hakkında şöyle demiştir: Evli bir erkek eşiyle aynı evde oturuyordu. Ancak onunla çokça cinsel ilişkiye girmiyor ve ondan ayrılmak istiyordu. Bunun üzerine eşi \"Sana kendimle ilgili bütün haklarımı helal ediyorum\" demişti. Bunun üzerine bu ayet indi. Tekrar: 2",
+			"text": "Aişe r.anha'dan nakledilmiştir: Hz. Aişe, \"Eğer bir kadın kocasının geçimsizliğinden veya kendisinden yüz çevirmesinden endişe ederse aralarında bir sulh yapmalarında onlara bir günah yoktur\" (Nisa 128) ayetinin iniş sebebi hakkında şöyle demiştir: Evli bir erkek eşiyle aynı evde oturuyordu. Ancak onunla çokça cinsel ilişkiye girmiyor ve ondan ayrılmak istiyordu. Bunun üzerine eşi \"Sana kendimle ilgili bütün haklarımı helal ediyorum\" demişti. Bunun üzerine bu ayet indi. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 46,
@@ -159,7 +167,7 @@
 		{
 			"hadithnumber": 2455,
 			"arabicnumber": 2455,
-			"text": "Cebele'den rivayet edilmiştir: Bazı Iraklılarla birlikte Medine'deydik. Kıtlık oldu. Abdullah İbn Zübeyr bize kuru hurma veriyordu. Abdullah İbn Ömer de yoldan geçerken bize uğruyor ve \"Allah Resulü, kişinin yanındakilerden izin istemeden, hurmaları ikişer ikişer yemeyi yasaklamıştır\" diyordu. Tekrar: 2",
+			"text": "Cebele'den rivayet edilmiştir: Bazı Iraklılarla birlikte Medine'deydik. Kıtlık oldu. Abdullah İbn Zübeyr bize kuru hurma veriyordu. Abdullah İbn Ömer de yoldan geçerken bize uğruyor ve \"Allah Resulü, kişinin yanındakilerden izin istemeden, hurmaları ikişer ikişer yemeyi yasaklamıştır\" diyordu. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 46,
@@ -229,7 +237,7 @@
 		{
 			"hadithnumber": 2462,
 			"arabicnumber": 2462,
-			"text": "Ubeydullah İbn Abdullah İbn Utbe'den rivayet edilmiştir: Abdullah İbn Abbas r.a. ona Ömer r.a. hakkında şunu anlatmıştır: Allah, Resulü Sallallahu Aleyhi ve Sellem'i vefat ettirince ensar Saide oğullarının gölgeliğinde toplandı. Ben Ebu Bekir'e: \"Haydi, biz de gidelim\" dedim ve biz de Saide oğullarının gölgeliğine, onların yanına geldik. Tekrar: 3445, 4021, 6",
+			"text": "Ubeydullah İbn Abdullah İbn Utbe'den rivayet edilmiştir: Abdullah İbn Abbas r.a. ona Ömer r.a. hakkında şunu anlatmıştır: Allah, Resulü Sallallahu Aleyhi ve Sellem'i vefat ettirince ensar Saide oğullarının gölgeliğinde toplandı. Ben Ebu Bekir'e: \"Haydi, biz de gidelim\" dedim ve biz de Saide oğullarının gölgeliğine, onların yanına geldik. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 46,
@@ -249,7 +257,7 @@
 		{
 			"hadithnumber": 2464,
 			"arabicnumber": 2464,
-			"text": "Enes r.a.'den rivayet edilmiştir: Ebu Talha'nın evinde sakilik yapıyordum. O gün onların şarabı, hurma koruğu şarabıydı. Allah Resulü'nün emri üzerine tellal: \"İyi biliniz ki şarap haram kılındı\" diye seslendi. Ebu Talha (bana): \"Çık ve bu şarabı dök\" dedi. Ben de çıkıp döktüm. O gün, Medine sokaklarında şarap selleri aktı. İçimizden bazı kimseler: \"İyi ama kimilerimiz karınlarında şarap dolu iken öldürüldü\" dediler. Bunun üzerine Allah: \"İman eden ve iyi iş yapanlara ... tattıklarından dolayı günah yoktur\"[Maide 93] ayetini indirdi. Tekrar: 4617,4620,5580,5572,5583,5584,",
+			"text": "Enes r.a.'den rivayet edilmiştir: Ebu Talha'nın evinde sakilik yapıyordum. O gün onların şarabı, hurma koruğu şarabıydı. Allah Resulü'nün emri üzerine tellal: \"İyi biliniz ki şarap haram kılındı\" diye seslendi. Ebu Talha (bana): \"Çık ve bu şarabı dök\" dedi. Ben de çıkıp döktüm. O gün, Medine sokaklarında şarap selleri aktı. İçimizden bazı kimseler: \"İyi ama kimilerimiz karınlarında şarap dolu iken öldürüldü\" dediler. Bunun üzerine Allah: \"İman eden ve iyi iş yapanlara ... tattıklarından dolayı günah yoktur\"[Maide 93] ayetini indirdi. Tekrar: 4617,4620,5580,",
 			"grades": [],
 			"reference": {
 				"book": 46,
@@ -359,7 +367,7 @@
 		{
 			"hadithnumber": 2475,
 			"arabicnumber": 2475,
-			"text": "Ebu Hureyre r.a.'den rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Kişi zina ettiği sırada mu'min olarak zina etmez; içki içtiği sırada mu'min olarak içmez; hırsızlık ettiği sırada mu'min olarak hırsızlık etmez; insanların kendisine baka baka yağma yaptığı sırada mu'min olarak yağma yapmaz.\" Said'den ve Ebu Seleme’den Ebu Hureyre r.a. kanalıyla Hz. Nebi'in aynen böyle buyurduğu nakledilmiştir. Ancak o rivayette \"yağma\" maddesi yoktur. Firebri şöyle demiştir: Ebu Cafer'in hattıyla şunu gördüm: Ebu Abdullah şöyle demiştir: \"Bunun tefsiri, kişi bunları yaptığı sırada imanının ondan çekilip alınmasıdır. \" Tekrar: 5",
+			"text": "Ebu Hureyre r.a.'den rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Kişi zina ettiği sırada mu'min olarak zina etmez; içki içtiği sırada mu'min olarak içmez; hırsızlık ettiği sırada mu'min olarak hırsızlık etmez; insanların kendisine baka baka yağma yaptığı sırada mu'min olarak yağma yapmaz.\" Said'den ve Ebu Seleme’den Ebu Hureyre r.a. kanalıyla Hz. Nebi'in aynen böyle buyurduğu nakledilmiştir. Ancak o rivayette \"yağma\" maddesi yoktur. Firebri şöyle demiştir: Ebu Cafer'in hattıyla şunu gördüm: Ebu Abdullah şöyle demiştir: \"Bunun tefsiri, kişi bunları yaptığı sırada imanının ondan çekilip alınmasıdır. \" Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 46,
@@ -379,7 +387,7 @@
 		{
 			"hadithnumber": 2477,
 			"arabicnumber": 2477,
-			"text": "Seleme İbn Ekva r.a.'dan rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem Hayber savaşında yakılmış ateşler gördü. \"Bu ateşlerde ne pişiriliyor\" buyurdu. \"Evcil eşekler pişiriliyor\" dediler. Nebi Sallallahu Aleyhi ve Sellem: \"Kapları kırın ve içindekini dökün\" buyurdu. \"İçindekini döküp kapları yıkasak olmaz mı?\" dediler. Nebi Sallallahu Aleyhi ve Sellem: \"Yıkayabilirsiniz\" buyurdu. Tekrar: 4196, 5497, 6",
+			"text": "Seleme İbn Ekva r.a.'dan rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem Hayber savaşında yakılmış ateşler gördü. \"Bu ateşlerde ne pişiriliyor\" buyurdu. \"Evcil eşekler pişiriliyor\" dediler. Nebi Sallallahu Aleyhi ve Sellem: \"Kapları kırın ve içindekini dökün\" buyurdu. \"İçindekini döküp kapları yıkasak olmaz mı?\" dediler. Nebi Sallallahu Aleyhi ve Sellem: \"Yıkayabilirsiniz\" buyurdu. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 46,
@@ -399,7 +407,7 @@
 		{
 			"hadithnumber": 2479,
 			"arabicnumber": 2479,
-			"text": "Aişe r.anha'dan rivayet edilmiştir: Aişe, odasındaki bir raf'a resimli bir perde takmıştı. Hz. Nebi onu yırttı. Bunun üzerine Aişe onun kumaşından iki minder yaptı. O minderler odada dururdu ve Hz. Nebi üzerinde otururdu. Tekrar: 5",
+			"text": "Aişe r.anha'dan rivayet edilmiştir: Aişe, odasındaki bir raf'a resimli bir perde takmıştı. Hz. Nebi onu yırttı. Bunun üzerine Aişe onun kumaşından iki minder yaptı. O minderler odada dururdu ve Hz. Nebi üzerinde otururdu. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 46,

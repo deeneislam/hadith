@@ -3,6 +3,14 @@
 		"name": "Muwatta Malik",
 		"section": {
 			"53": "Greetings"
+		},
+		"section_detail": {
+			"53": {
+				"hadithnumber_first": 1756,
+				"hadithnumber_last": 1762,
+				"arabicnumber_first": 1756,
+				"arabicnumber_last": 1762
+			}
 		}
 	},
 	"hadiths": [

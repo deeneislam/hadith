@@ -3,6 +3,14 @@
 		"name": "Sunan Abu Dawud",
 		"section": {
 			"1": "Purification (Kitab Al-Taharah)"
+		},
+		"section_detail": {
+			"1": {
+				"hadithnumber_first": 1,
+				"hadithnumber_last": 390,
+				"arabicnumber_first": 1,
+				"arabicnumber_last": 390
+			}
 		}
 	},
 	"hadiths": [
@@ -6672,7 +6680,7 @@
 		{
 			"hadithnumber": 262,
 			"arabicnumber": 262,
-			"text": "Muaze (radiyallahu anha) demiştir ki; Bir kadın Aişe (r.anha)'ya; \"Hayızlı kadın (namazını) kaza eder mi?\" diye sordu. Hz. Aişe: \"Yoksa sen Haruri'misin? Bilesin ki, biz Resulullah (sallallahu aleyhi ve sellem) yanında (zamanında) hayız olur, (hayız günlerindeki namazları) kaza etmez ve kaza etmekle de emrolunmazdık\" karşılığını verdi. Diğer tahric: Buhari, hayz; Müslim, Hayz; Nesai, hayz, siyam; İbn Mace, Tahare ;Darimî, vudu'; Ahmed b. Hanbel, VI, 32, 94, 97, 120",
+			"text": "Muaze (radiyallahu anha) demiştir ki; Bir kadın Aişe (r.anha)'ya; \"Hayızlı kadın (namazını) kaza eder mi?\" diye sordu. Hz. Aişe: \"Yoksa sen Haruri'misin? Bilesin ki, biz Resulullah (sallallahu aleyhi ve sellem) yanında (zamanında) hayız olur, (hayız günlerindeki namazları) kaza etmez ve kaza etmekle de emrolunmazdık\" karşılığını verdi. Diğer tahric: Buhari, hayz; Müslim, Hayz; Nesai, hayz, siyam; İbn Mace, Tahare ;Darimî, vudu'; Ahmed b. Hanbel, VI,",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -8446,7 +8454,7 @@
 		{
 			"hadithnumber": 332,
 			"arabicnumber": 332,
-			"text": "Ebu Zerr (r.a.)'den demiştir ki; \"Resulullah (Sallallahu aleyhi ve Sellem)'in yanında (gelen zekatlardan) küçük bir koyun sürüsü birikti. Resulullah (Sallallahu aleyhi ve Sellem): \"Ya Eba Zer, bu sürüyü (gütmek üzere) kıra götür”, buyurdular. Ben de Rebeze köyüne sürdüm. Ben cünup oluyor ve (su olmadığı için yıkanamadan) beş altı (gece) kalıyordum. Nihayet Resulullah (Sallallahu aleyhi ve Sellem)'e geldim: \"Sen ha Ebu Zer\" (bu halin ne!)? buyurdular. Ben (cevap vermeden) sustum. Efendimiz; \"Ya Eba Zer, Anan acını görmesin yazık anana\" buyurdu ve benim için siyah bir cariye kız çocuğu çağırdı. Cariye, içerisinde su dolu bir kova getirdi, beni (bir taraftan) bir örtü ile gizledi. Ben de (öte yandan bir) devenin arkasına geçerek gizlendim ve yıkandım. Üstümden bir dağı atmış gibi oldum. Bilahere Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: On seneye kadar bile olsa temiz toprak müslümanın abdest suyudur. Ancak suyu bulduğun zaman onu bedenine dök, (guslet). Çünkü bu daha hayırlıdır.\" Müsedded, \"Sürünün zekatlardan biriktiğini\" söylemiştir. (Tercemede de bu gözönünde bulundurulmuştur.) Ebu Davud, Amr (bin Avn)'ın rivayeti daha tamdır, dedi. Diğer tahric: Nesai, tahare; Tirmizî, tahare; Ahmed b. Hanbel, V, 146",
+			"text": "Ebu Zerr (r.a.)'den demiştir ki; \"Resulullah (Sallallahu aleyhi ve Sellem)'in yanında (gelen zekatlardan) küçük bir koyun sürüsü birikti. Resulullah (Sallallahu aleyhi ve Sellem): \"Ya Eba Zer, bu sürüyü (gütmek üzere) kıra götür”, buyurdular. Ben de Rebeze köyüne sürdüm. Ben cünup oluyor ve (su olmadığı için yıkanamadan) beş altı (gece) kalıyordum. Nihayet Resulullah (Sallallahu aleyhi ve Sellem)'e geldim: \"Sen ha Ebu Zer\" (bu halin ne!)? buyurdular. Ben (cevap vermeden) sustum. Efendimiz; \"Ya Eba Zer, Anan acını görmesin yazık anana\" buyurdu ve benim için siyah bir cariye kız çocuğu çağırdı. Cariye, içerisinde su dolu bir kova getirdi, beni (bir taraftan) bir örtü ile gizledi. Ben de (öte yandan bir) devenin arkasına geçerek gizlendim ve yıkandım. Üstümden bir dağı atmış gibi oldum. Bilahere Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: On seneye kadar bile olsa temiz toprak müslümanın abdest suyudur. Ancak suyu bulduğun zaman onu bedenine dök, (guslet). Çünkü bu daha hayırlıdır.\" Müsedded, \"Sürünün zekatlardan biriktiğini\" söylemiştir. (Tercemede de bu gözönünde bulundurulmuştur.) Ebu Davud, Amr (bin Avn)'ın rivayeti daha tamdır, dedi. Diğer tahric: Nesai, tahare; Tirmizî, tahare; Ahmed b. Hanbel, V",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -9385,7 +9393,7 @@
 		{
 			"hadithnumber": 369,
 			"arabicnumber": 369,
-			"text": "Meymune (r.anha)'dan; \"Resulullah (Sallallahu aleyhi ve Sellem)'ın bir bölümü kendi üzerinde, diğer bölümü hayız halindeki bir hanımının üstünde olan bir elbise ile namaz kıldığı\" rivayet edilmiştir. Diğer tahric: Müslim, salat; İbn Mace, tahare; Ahmed b. Hanbel, VI, 6",
+			"text": "Meymune (r.anha)'dan; \"Resulullah (Sallallahu aleyhi ve Sellem)'ın bir bölümü kendi üzerinde, diğer bölümü hayız halindeki bir hanımının üstünde olan bir elbise ile namaz kıldığı\" rivayet edilmiştir. Diğer tahric: Müslim, salat; İbn Mace, tahare; Ahmed b. Hanbel, VI",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -9539,7 +9547,7 @@
 		{
 			"hadithnumber": 375,
 			"arabicnumber": 375,
-			"text": "Lubabe binti el-Haris (r.anha)'dan; demiştir ki; \"Ali (r.a.)'ın oğlu Hüseyin, Resulullah (Sallallahu aleyhi ve Sellem)'in kucağında idi. Efendimizin üzerine bevletti. Bir elbise giy, izarını da bana ver yıkayayım, dedim. Resulullah (Sallallahu aleyhi ve Sellem); \"Ancak kızın idrarından dolayı yıkanır oğlanın idrarından ise (üzerine) su dökülür,\" buyurdu. Diğer tahric: Buhari, vudu; İbn Mace, tahare; Ahmed b. Hanbel, VI, 239",
+			"text": "Lubabe binti el-Haris (r.anha)'dan; demiştir ki; \"Ali (r.a.)'ın oğlu Hüseyin, Resulullah (Sallallahu aleyhi ve Sellem)'in kucağında idi. Efendimizin üzerine bevletti. Bir elbise giy, izarını da bana ver yıkayayım, dedim. Resulullah (Sallallahu aleyhi ve Sellem); \"Ancak kızın idrarından dolayı yıkanır oğlanın idrarından ise (üzerine) su dökülür,\" buyurdu. Diğer tahric: Buhari, vudu; İbn Mace, tahare; Ahmed b. Hanbel, VI",
 			"grades": [
 				{
 					"name": "Al-Albani",

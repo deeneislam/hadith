@@ -3,6 +3,14 @@
 		"name": "Sunan Ibn Majah",
 		"section": {
 			"12": "The Chapters on Business Transactions"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2137,
+				"hadithnumber_last": 2307,
+				"arabicnumber_first": 2137,
+				"arabicnumber_last": 2307
+			}
 		}
 	},
 	"hadiths": [

@@ -3,6 +3,14 @@
 		"name": "Sunan Abu Dawud",
 		"section": {
 			"8": "Prayer (Kitab Al-Salat): Detailed Injunctions about Witr"
+		},
+		"section_detail": {
+			"8": {
+				"hadithnumber_first": 1416,
+				"hadithnumber_last": 1555,
+				"arabicnumber_first": 1416,
+				"arabicnumber_last": 1555
+			}
 		}
 	},
 	"hadiths": [

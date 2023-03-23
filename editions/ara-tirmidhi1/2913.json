@@ -3,6 +3,14 @@
 		"name": "Jami At Tirmidhi",
 		"section": {
 			"45": "Chapters on The Virtues of the Qur'an"
+		},
+		"section_detail": {
+			"45": {
+				"hadithnumber_first": 2875,
+				"hadithnumber_last": 2926,
+				"arabicnumber_first": 2875,
+				"arabicnumber_last": 2926
+			}
 		}
 	},
 	"hadiths": [

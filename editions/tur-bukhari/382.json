@@ -3,13 +3,21 @@
 		"name": "Sahih al Bukhari",
 		"section": {
 			"8": "Prayers (Salat)"
+		},
+		"section_detail": {
+			"8": {
+				"hadithnumber_first": 349,
+				"hadithnumber_last": 520,
+				"arabicnumber_first": 349,
+				"arabicnumber_last": 520
+			}
 		}
 	},
 	"hadiths": [
 		{
 			"hadithnumber": 382,
 			"arabicnumber": 382,
-			"text": "Nebi Sallallahu Aleyhi ve Sellem'in eşi Aişe (r.anha)'den şöyle nakledilmiştir: \"Ayaklarımı Allah Resûlü Sallallahu Aleyhi ve Sellem'in secde edeceği yere uzatmış uyuyordum. Secdeye varınca eliyle beni dürttü. Ben de ayaklarımı topladım. Ayağa kalkınca tekrar uzattım. O dönemde evlerde henüz lamba yoktu. Tekrar: 383, 508, 511, 512, 513, 514, 515, 519,",
+			"text": "Nebi Sallallahu Aleyhi ve Sellem'in eşi Aişe (r.anha)'den şöyle nakledilmiştir: \"Ayaklarımı Allah Resûlü Sallallahu Aleyhi ve Sellem'in secde edeceği yere uzatmış uyuyordum. Secdeye varınca eliyle beni dürttü. Ben de ayaklarımı topladım. Ayağa kalkınca tekrar uzattım. O dönemde evlerde henüz lamba yoktu. Tekrar: 383, 508, 511, 512, 513,",
 			"grades": [],
 			"reference": {
 				"book": 8,

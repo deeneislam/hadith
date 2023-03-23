@@ -3,6 +3,14 @@
 		"name": "Sahih al Bukhari",
 		"section": {
 			"60": "Prophets"
+		},
+		"section_detail": {
+			"60": {
+				"hadithnumber_first": 3326,
+				"hadithnumber_last": 3488,
+				"arabicnumber_first": 3326,
+				"arabicnumber_last": 3488
+			}
 		}
 	},
 	"hadiths": [
@@ -189,7 +197,7 @@
 		{
 			"hadithnumber": 3344,
 			"arabicnumber": 3344,
-			"text": "Ebu Said r.a. dedi ki: Ali r.a. Nebi Sallallahu Aleyhi ve Sellem'e bir parçacık altın gönderdi. O da bunu şu dört kişi arasında paylaştırdı: el-Akra b. Habis el-Hanzali el-Mücaşi, Uyeyne b. Bedr el-Fezari, Nebhan oğullarından birisi olarak da sayılan Zeyd et-Tai ve Kilab oğullarından birisi olan Alkame b. Ulase el-Amiri. Kureyşlilerle, Ensar buna kızdılar ve: Necid'in ileri gelenlerine bir şeyler veriyor, buna karşılık bizi terk ediyor, dediler. Allah Resulü şöyle buyurdu: \"Ben sadece onların kalplerini ısındırmaya çalışıyorum. \" Gözleri içeri doğru çökmüş, yanakları kalkık, alnı çıkık, sakalı sık, (başını) traş etmiş birisi gelerek: Allah'tan kork ey Muhammed, dedi. Şöyle buyurdu: \"Ben ona karşı gelecek olursam Allah'a kim itaat eder ki? Allah yeryüzündekilere karşı bana güveniyor da, siz mi bana güvenmiyorsunuz?\" Bir adam -zannederim Halid b. el-Velid idi- bu adamı öldürmek için ondan izin istedi, fakat engelledi. Adam gidince, şöyle buyurdu: \"Bunun soyundan Kur'an'ı okudukları halde hançerelerinden aşağıya inmeyen, okun hedefi delip geçtiği gibi dinden çıkan, Müslümanları öldüren fakat putperestleri hallerine terk eden kimseler gelecektir. Andolsun onlara yetişecek olursam Ad kavminin öldürüldüğü gibi onları öldüreceğim. \" Tekrar: 3610, 4351, 4667, 5058, 6163, 6931, 6",
+			"text": "Ebu Said r.a. dedi ki: Ali r.a. Nebi Sallallahu Aleyhi ve Sellem'e bir parçacık altın gönderdi. O da bunu şu dört kişi arasında paylaştırdı: el-Akra b. Habis el-Hanzali el-Mücaşi, Uyeyne b. Bedr el-Fezari, Nebhan oğullarından birisi olarak da sayılan Zeyd et-Tai ve Kilab oğullarından birisi olan Alkame b. Ulase el-Amiri. Kureyşlilerle, Ensar buna kızdılar ve: Necid'in ileri gelenlerine bir şeyler veriyor, buna karşılık bizi terk ediyor, dediler. Allah Resulü şöyle buyurdu: \"Ben sadece onların kalplerini ısındırmaya çalışıyorum. \" Gözleri içeri doğru çökmüş, yanakları kalkık, alnı çıkık, sakalı sık, (başını) traş etmiş birisi gelerek: Allah'tan kork ey Muhammed, dedi. Şöyle buyurdu: \"Ben ona karşı gelecek olursam Allah'a kim itaat eder ki? Allah yeryüzündekilere karşı bana güveniyor da, siz mi bana güvenmiyorsunuz?\" Bir adam -zannederim Halid b. el-Velid idi- bu adamı öldürmek için ondan izin istedi, fakat engelledi. Adam gidince, şöyle buyurdu: \"Bunun soyundan Kur'an'ı okudukları halde hançerelerinden aşağıya inmeyen, okun hedefi delip geçtiği gibi dinden çıkan, Müslümanları öldüren fakat putperestleri hallerine terk eden kimseler gelecektir. Andolsun onlara yetişecek olursam Ad kavminin öldürüldüğü gibi onları öldüreceğim. \" Tekrar: 3610, 4351, 4667, 5058",
 			"grades": [],
 			"reference": {
 				"book": 60,
@@ -229,7 +237,7 @@
 		{
 			"hadithnumber": 3348,
 			"arabicnumber": 3348,
-			"text": "Ebu Said el-Hudri r.a.'dan rivayete göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Yüce Allah: Ey Adem diye buyuracak. Adem: Buyur Allah'ım, huzurundayım. Hayır yalnız senin elindedir, diyecek. Cehennem ateşi kafilesini çıkar diyecek. Adem: Cehennem kafilesi ne demek, diye soracak. Yüce Allah şöyle buyuracak: Her bin'den dokuz yüz doksandokuz kişi. İşte o vakit küçük olanın saçları ağaracak. \"Her hamile yükünü bırakacak. Sen insanları sarhoş göreceksin. Halbuki onlar sarhoş değildirler, fakat Allah'ın azabı pek şiddetlidir. \" [Hac, 2] Ashab: Ey Allah'ın Resulü, dediler. Bu (binde bir olan o) tek kişiler arasına hangimiz girebilir ki? Şöyle buyurdu: Müjdeler olsun! Sizden bir kişi, Ye'cuc ile Me'cuc'den bin kişi. Daha sonra şöyle buyurdu: Nefsim elinde olan'a yemin ederim ki, ben sizin cennetliklerin dörtte biri olacağınızı ümit ediyorum. Biz tekbir getirdik. Bu sefer: Ben sizin cennetliklerin üçte biri olacağınızı ümit ediyorum, diye buyurdu. Biz yine tekbir getirdik. Bu sefer: Ben sizin cennetliklerin yarısı olacağınızı ümit ediyorum, dedi. Biz yine tekbir getirdik. Şöyle buyurdu: Sizler (sayınız itibariyle) insanlar arasında ancak beyaz bir öküzün derisindeki siyah bir kıl'a yahut da siyah bir öküzün derisindeki beyaz bir kıl'a benzersiniz. \" Tekrar: 4",
+			"text": "Ebu Said el-Hudri r.a.'dan rivayete göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Yüce Allah: Ey Adem diye buyuracak. Adem: Buyur Allah'ım, huzurundayım. Hayır yalnız senin elindedir, diyecek. Cehennem ateşi kafilesini çıkar diyecek. Adem: Cehennem kafilesi ne demek, diye soracak. Yüce Allah şöyle buyuracak: Her bin'den dokuz yüz doksandokuz kişi. İşte o vakit küçük olanın saçları ağaracak. \"Her hamile yükünü bırakacak. Sen insanları sarhoş göreceksin. Halbuki onlar sarhoş değildirler, fakat Allah'ın azabı pek şiddetlidir. \" [Hac, 2] Ashab: Ey Allah'ın Resulü, dediler. Bu (binde bir olan o) tek kişiler arasına hangimiz girebilir ki? Şöyle buyurdu: Müjdeler olsun! Sizden bir kişi, Ye'cuc ile Me'cuc'den bin kişi. Daha sonra şöyle buyurdu: Nefsim elinde olan'a yemin ederim ki, ben sizin cennetliklerin dörtte biri olacağınızı ümit ediyorum. Biz tekbir getirdik. Bu sefer: Ben sizin cennetliklerin üçte biri olacağınızı ümit ediyorum, diye buyurdu. Biz yine tekbir getirdik. Bu sefer: Ben sizin cennetliklerin yarısı olacağınızı ümit ediyorum, dedi. Biz yine tekbir getirdik. Şöyle buyurdu: Sizler (sayınız itibariyle) insanlar arasında ancak beyaz bir öküzün derisindeki siyah bir kıl'a yahut da siyah bir öküzün derisindeki beyaz bir kıl'a benzersiniz. \" Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 60,
@@ -279,7 +287,7 @@
 		{
 			"hadithnumber": 3353,
 			"arabicnumber": 3353,
-			"text": "Ebu Hureyre r.a.'dan rivayete göre: \"Ey Allah'ın Resulü insanların en kerimi kimdir diye soruldu. O: En takvalılarıdır, diye buyurdu. Bizim sana sorduğumuz bu değil, dediler. O halde Allah'ın Halilinin oğlu, Allah'ın Nebisinin oğlu, Allah'ın Nebisi Yusuftur, dedi. Yine: Bizim sana sorduğumuz bu değildir, dediler. Bu sefer: Siz bana Arapların madenleri (neseblerinin asılları) hakkında (mı) soruyorsunuz? Onların cahiliye döneminde hayırlı olanları, fıkhetmeleri (dini iyi bilmeleri) şartıyla İslamda da hayırlılarıdır, diye buyurdu.\" Tekrar: 3274, 3",
+			"text": "Ebu Hureyre r.a.'dan rivayete göre: \"Ey Allah'ın Resulü insanların en kerimi kimdir diye soruldu. O: En takvalılarıdır, diye buyurdu. Bizim sana sorduğumuz bu değil, dediler. O halde Allah'ın Halilinin oğlu, Allah'ın Nebisinin oğlu, Allah'ın Nebisi Yusuftur, dedi. Yine: Bizim sana sorduğumuz bu değildir, dediler. Bu sefer: Siz bana Arapların madenleri (neseblerinin asılları) hakkında (mı) soruyorsunuz? Onların cahiliye döneminde hayırlı olanları, fıkhetmeleri (dini iyi bilmeleri) şartıyla İslamda da hayırlılarıdır, diye buyurdu.\" Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 60,
@@ -509,7 +517,7 @@
 		{
 			"hadithnumber": 3377,
 			"arabicnumber": 3377,
-			"text": "Abdullah b. Zem'a dedi ki: \"Nebi Sallallahu Aleyhi ve Sellem'i -(Salih kavminin) dişi devesinin kesilmesini sözkonusu ederken- şöyle buyurduğunu dinledim: O dişi deveyi kesmeye kavmi arasında güçlü ve kendisine zarar verilemeyen Ebu Zem'a'ya benzeyen birisi kalkıştı. \" Tekrar: 4",
+			"text": "Abdullah b. Zem'a dedi ki: \"Nebi Sallallahu Aleyhi ve Sellem'i -(Salih kavminin) dişi devesinin kesilmesini sözkonusu ederken- şöyle buyurduğunu dinledim: O dişi deveyi kesmeye kavmi arasında güçlü ve kendisine zarar verilemeyen Ebu Zem'a'ya benzeyen birisi kalkıştı. \" Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 60,
@@ -629,7 +637,7 @@
 		{
 			"hadithnumber": 3389,
 			"arabicnumber": 3389,
-			"text": "Urve'den rivayete göre o Nebi Sallallahu Aleyhi ve Sellem'in zevcesi Aişe r.anha'ya sordu: Yüce Allah'ın: \"Nihayet o Resuller ümitlerini kesip de kendilerinin yalanlandıklarını sandıklarında ... \" buyruğundaki (mealde: yalanlandıkları anlamı verilen) kuzzibu (yalanlandılar) şeklinde midir, yoksa: \"kuzibu: kendilerine yalan söylendi\" şeklinde midir? Aişe: Hayır, kavimleri kendilerini yalanladı. Ben: Allah'a yemin ederim ki onlar kavimlerinin kendilerini yalanladıklarından kesinlikle emin idiler. Bu bir zan değildi, deyince, dedi ki: Ey Urve'cik andolsun onlar bundan emin idiler. Bu sefer ben belki de bu \"yahut kendilerine yalan söylendi (anlamında kuzibu)\" diye olabilir mi, dedim. O şu cevabı verdi: Bundan Allah'a sığınırız. Resuller asla Rableri hakkında böyle bir şey zannetmezler. Bu ayete gelince ... (devamla) dedi ki: Kastedilenler Rablerine iman edip, tasdik eden ve çektikleri belalar uzun süre devam edip, ilahi yardıma mazhar oluşları geciken (mümin) lerdir. Nihayet (Resuller) kavimlerinden kendilerini yalanlayanlardan ümit kesip, artık kendilerine de tabi olanların da kendilerini yalanladıklarını zannedince o vakit Allah'ın yardımı geldi.\" Ebu Abdullah (Buhari) dedi ki: \"Ondan\" Yusuftan \"ümitlerini kesince ... \"[Yusuf, 80] \"Allah'ın rahmetinden ümit kesilmez. \"[Yusuf, 87] buyruğu ondan ümit etmekten geri kalmayın, demektir. Tekrar: 4",
+			"text": "Urve'den rivayete göre o Nebi Sallallahu Aleyhi ve Sellem'in zevcesi Aişe r.anha'ya sordu: Yüce Allah'ın: \"Nihayet o Resuller ümitlerini kesip de kendilerinin yalanlandıklarını sandıklarında ... \" buyruğundaki (mealde: yalanlandıkları anlamı verilen) kuzzibu (yalanlandılar) şeklinde midir, yoksa: \"kuzibu: kendilerine yalan söylendi\" şeklinde midir? Aişe: Hayır, kavimleri kendilerini yalanladı. Ben: Allah'a yemin ederim ki onlar kavimlerinin kendilerini yalanladıklarından kesinlikle emin idiler. Bu bir zan değildi, deyince, dedi ki: Ey Urve'cik andolsun onlar bundan emin idiler. Bu sefer ben belki de bu \"yahut kendilerine yalan söylendi (anlamında kuzibu)\" diye olabilir mi, dedim. O şu cevabı verdi: Bundan Allah'a sığınırız. Resuller asla Rableri hakkında böyle bir şey zannetmezler. Bu ayete gelince ... (devamla) dedi ki: Kastedilenler Rablerine iman edip, tasdik eden ve çektikleri belalar uzun süre devam edip, ilahi yardıma mazhar oluşları geciken (mümin) lerdir. Nihayet (Resuller) kavimlerinden kendilerini yalanlayanlardan ümit kesip, artık kendilerine de tabi olanların da kendilerini yalanladıklarını zannedince o vakit Allah'ın yardımı geldi.\" Ebu Abdullah (Buhari) dedi ki: \"Ondan\" Yusuftan \"ümitlerini kesince ... \"[Yusuf, 80] \"Allah'ın rahmetinden ümit kesilmez. \"[Yusuf, 87] buyruğu ondan ümit etmekten geri kalmayın, demektir. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 60,
@@ -679,7 +687,7 @@
 		{
 			"hadithnumber": 3394,
 			"arabicnumber": 3394,
-			"text": "Ebu Hureyre r.a.'dan dedi ki: \"Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: İsra'ya götürüldüğüm gece Musa'yı gördüm. Sanki Yemen'li Şenuelilerden bir adammış gibi (uzun boylu), balık etinde, saçlarını yağlamış olarak gördüm. İsa'yı da gördüm. O da orta boylu, kırmızıya yakın tenli, hamamdan çıkmış birisi gibi idi. Ben ise İbrahim aleyhisselam'ın soyundan gelenler arasında ona en çok benzeyen kişiyim. Daha sonra bana birisinde süt, diğerinde şarap bulunan iki kap getirildi. (Cibril bana:) İstediğin birisini iç, dedi. Ben de sütü alıp içtim. Fıtratı aldın, denildi ama eğer şarabı almış olsaydın, ümmetin azacaktı.\" Tekrar: 3437, 4",
+			"text": "Ebu Hureyre r.a.'dan dedi ki: \"Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: İsra'ya götürüldüğüm gece Musa'yı gördüm. Sanki Yemen'li Şenuelilerden bir adammış gibi (uzun boylu), balık etinde, saçlarını yağlamış olarak gördüm. İsa'yı da gördüm. O da orta boylu, kırmızıya yakın tenli, hamamdan çıkmış birisi gibi idi. Ben ise İbrahim aleyhisselam'ın soyundan gelenler arasında ona en çok benzeyen kişiyim. Daha sonra bana birisinde süt, diğerinde şarap bulunan iki kap getirildi. (Cibril bana:) İstediğin birisini iç, dedi. Ben de sütü alıp içtim. Fıtratı aldın, denildi ama eğer şarabı almış olsaydın, ümmetin azacaktı.\" Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 60,

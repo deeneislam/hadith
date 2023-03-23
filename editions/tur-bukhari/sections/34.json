@@ -3,6 +3,14 @@
 		"name": "Sahih al Bukhari",
 		"section": {
 			"34": "Sales and Trade"
+		},
+		"section_detail": {
+			"34": {
+				"hadithnumber_first": 2047,
+				"hadithnumber_last": 2238,
+				"arabicnumber_first": 2047,
+				"arabicnumber_last": 2238
+			}
 		}
 	},
 	"hadiths": [
@@ -29,7 +37,7 @@
 		{
 			"hadithnumber": 2049,
 			"arabicnumber": 2049,
-			"text": "Enes r.a. şöyle demiştir: Abdurrahman İbn Avf Medine'ye geldi. Nebi Sallallahu Aleyhi ve Sellem onunla ensardan Sa'd İbnü'r-Rebî'i kardeş kıldı. Sa'd, zengin bir kimse idi. Sa'd, Abdurrahman'a: \"Malımı seninle yarı yarıya paylaşayım ve seni ev­lendireyim\" dedi. Abdurrahman: \"Allah senin ailene ve malına bereket versin. Sen bana çar­şının yolunu göster\" dedi. Abdurrahman çarşıdan gelirken yanında keş ve yağ ile döndü. Bunu ev halkına getirdi. Çok geçmeden üzerinde sarı bir iz ile geldi. Nebi (Sallallahu aleyhi ve Sellem): \"Bu da nedir?\" diye sordu. Abdurrahman: \"Ey Allah'ın Resulü, ensardan bir hanımla evlendim\" dedi. Nebi (Sallallahu aleyhi ve Sellem): \"Ne kadar mehir verdin?\" diye sordu. Abdurrahman: \"Altından bir çekirdek\" dedi. Nebi (Sallallahu aleyhi ve Sellem): \"Bir koyunla da olsa bari bir velime (düğün yemeği) ver\" buyurdu. Tekrar: 2293, 2781, 2937, 5073, 5148, 5153, 5155, 5",
+			"text": "Enes r.a. şöyle demiştir: Abdurrahman İbn Avf Medine'ye geldi. Nebi Sallallahu Aleyhi ve Sellem onunla ensardan Sa'd İbnü'r-Rebî'i kardeş kıldı. Sa'd, zengin bir kimse idi. Sa'd, Abdurrahman'a: \"Malımı seninle yarı yarıya paylaşayım ve seni ev­lendireyim\" dedi. Abdurrahman: \"Allah senin ailene ve malına bereket versin. Sen bana çar­şının yolunu göster\" dedi. Abdurrahman çarşıdan gelirken yanında keş ve yağ ile döndü. Bunu ev halkına getirdi. Çok geçmeden üzerinde sarı bir iz ile geldi. Nebi (Sallallahu aleyhi ve Sellem): \"Bu da nedir?\" diye sordu. Abdurrahman: \"Ey Allah'ın Resulü, ensardan bir hanımla evlendim\" dedi. Nebi (Sallallahu aleyhi ve Sellem): \"Ne kadar mehir verdin?\" diye sordu. Abdurrahman: \"Altından bir çekirdek\" dedi. Nebi (Sallallahu aleyhi ve Sellem): \"Bir koyunla da olsa bari bir velime (düğün yemeği) ver\" buyurdu. Tekrar: 2293, 2781, 2937, 5073, 5148",
 			"grades": [],
 			"reference": {
 				"book": 34,
@@ -49,7 +57,7 @@
 		{
 			"hadithnumber": 2051,
 			"arabicnumber": 2051,
-			"text": "Nu'man İbn Beşîr r.a., Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu söylemiştir: \"Helal bellidir, haram da bellidir. Bu ikisi arasında şüpheli olan bazı şeyler vardır. Kim günah olup olmadığı şüpheli olan bir şeyi terk ederse, günah olduğu kesin olan bir şeyi daha çok terk eder. Kim günah olup olmadığı şüpheli olan bir şeye karşı cür'et ederse, günah olduğu kesin olan bir şeye düşebilir. Günahlar Allah'ın koruluğudur. Kim koruluğun etrafında koyun otlatırsa çok geçmeden koyunlar koruluğa dalabilir.\" Tekrar: 2218, 2421, 2533, 2745, 4303, 6749, 6",
+			"text": "Nu'man İbn Beşîr r.a., Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu söylemiştir: \"Helal bellidir, haram da bellidir. Bu ikisi arasında şüpheli olan bazı şeyler vardır. Kim günah olup olmadığı şüpheli olan bir şeyi terk ederse, günah olduğu kesin olan bir şeyi daha çok terk eder. Kim günah olup olmadığı şüpheli olan bir şeye karşı cür'et ederse, günah olduğu kesin olan bir şeye düşebilir. Günahlar Allah'ın koruluğudur. Kim koruluğun etrafında koyun otlatırsa çok geçmeden koyunlar koruluğa dalabilir.\" Tekrar: 2218, 2421, 2533, 2745",
 			"grades": [],
 			"reference": {
 				"book": 34,
@@ -189,7 +197,7 @@
 		{
 			"hadithnumber": 2066,
 			"arabicnumber": 2066,
-			"text": "Hemmam, Ebu Hureyre aracılığıyla NebiSallallahu Aleyhi ve Sellem'den şunu rivayet etmiştir: \"Kadın, kocasının kazancından (Allah yolunda) kocasının emri olmaksızın infak ederse, bunun ecrinin yarısını alır.” Tekrar: 5",
+			"text": "Hemmam, Ebu Hureyre aracılığıyla NebiSallallahu Aleyhi ve Sellem'den şunu rivayet etmiştir: \"Kadın, kocasının kazancından (Allah yolunda) kocasının emri olmaksızın infak ederse, bunun ecrinin yarısını alır.” Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 34,
@@ -209,7 +217,7 @@
 		{
 			"hadithnumber": 2068,
 			"arabicnumber": 2068,
-			"text": "Aişe r.anha'nın bildirdiğine göre Nebi Sallallahu Aleyhi ve Sellem bir Yahudi'den bedelini bir müddet sonra ödemek üzere yiyecek (buğday) satın aldı ve demirden yapılmış zırhını rehin olarak bıraktı. Tekrar: 2096, 2200, 2251, 2252, 2386, 2509, 2",
+			"text": "Aişe r.anha'nın bildirdiğine göre Nebi Sallallahu Aleyhi ve Sellem bir Yahudi'den bedelini bir müddet sonra ödemek üzere yiyecek (buğday) satın aldı ve demirden yapılmış zırhını rehin olarak bıraktı. Tekrar: 2096, 2200, 2251, 2252",
 			"grades": [],
 			"reference": {
 				"book": 34,
@@ -389,7 +397,7 @@
 		{
 			"hadithnumber": 2086,
 			"arabicnumber": 2086,
-			"text": "Avn İbn Ebî Cuhayfe şöyle demiştir: Babam, hacamat yapan bir köle satın aldı, onun hacamat yaptığı aletlerin kırılmasını emretti. Bu aletler kırıldı. Ben ona bunun sebebini sorduğumda bana şöyle dedi: Nebi Sallallahu Aleyhi ve Sellem, köpeğin parasını, kan almakdan elde edilen parayı yasakladı. Yine o, dövme yapan ve yaptıranı, faiz yiyeni, yedireni bu işleri yapmaktan alıkoydu. Resim yapan ile dövme yapan ve yaptıranları lanetledi. Tekrar: 2238, 5",
+			"text": "Avn İbn Ebî Cuhayfe şöyle demiştir: Babam, hacamat yapan bir köle satın aldı, onun hacamat yaptığı aletlerin kırılmasını emretti. Bu aletler kırıldı. Ben ona bunun sebebini sorduğumda bana şöyle dedi: Nebi Sallallahu Aleyhi ve Sellem, köpeğin parasını, kan almakdan elde edilen parayı yasakladı. Yine o, dövme yapan ve yaptıranı, faiz yiyeni, yedireni bu işleri yapmaktan alıkoydu. Resim yapan ile dövme yapan ve yaptıranları lanetledi. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 34,
@@ -419,7 +427,7 @@
 		{
 			"hadithnumber": 2089,
 			"arabicnumber": 2089,
-			"text": "Hüseyin İbn Alî, Ali'nin şöyle dediğini anlattı: \"Ganimetten payıma bir deve düşmüştü. Nebi Sallallahu Aleyhi ve Sellem de humustan (ganimetin kendisine düşen beşte birinden) bana bir deve verdi. Ben Resulullah'ın kızı Fatıma ile evlenmek istediğimde Benî Kaynuka kabilesinden birisi ile birlikte çıkıp izhir otu toplamak konusunda anlaştım. Ben bu otu kuyumculara satarak velime yemeği için para kazanmak istemiştim\". Tekrar: 2375, 3",
+			"text": "Hüseyin İbn Alî, Ali'nin şöyle dediğini anlattı: \"Ganimetten payıma bir deve düşmüştü. Nebi Sallallahu Aleyhi ve Sellem de humustan (ganimetin kendisine düşen beşte birinden) bana bir deve verdi. Ben Resulullah'ın kızı Fatıma ile evlenmek istediğimde Benî Kaynuka kabilesinden birisi ile birlikte çıkıp izhir otu toplamak konusunda anlaştım. Ben bu otu kuyumculara satarak velime yemeği için para kazanmak istemiştim\". Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 34,
@@ -439,7 +447,7 @@
 		{
 			"hadithnumber": 2091,
 			"arabicnumber": 2091,
-			"text": "Habbab r.a. şöyle demiştir: Ben cahiliye döneminde demirci idim. As Ibn Vail'de alacağım vardı. Ben alacağımı istemek için ona gittiğimde bana \"Muhammed'i inkar etmedikçe sana alacağını vermem\" dedi. Ben \"Allah seni öldürüp de diriltinceye kadar ben Muhammed'i inkar etmem\" dedim. O \"Ben ölüp de dirilinceye kadar beni bırak. Bana dirildikten sonra mal ve çocuk verilecek. Sana borcumu bundan öderim\" dedi. Bunun üzerine şu ayetler indirildi: (Resulüm!) ayetlerimizi inkar eden ve \"Muhakkak surette bana mal ve evlat verilecek\" diyen adamı gördün mü? O, ğaybı mı bildi, yoksa Allah'ın katından bir söz mü aldı?\"[Meryem 77,78] Tekrar: 2275, 2425, 4732, 4",
+			"text": "Habbab r.a. şöyle demiştir: Ben cahiliye döneminde demirci idim. As Ibn Vail'de alacağım vardı. Ben alacağımı istemek için ona gittiğimde bana \"Muhammed'i inkar etmedikçe sana alacağını vermem\" dedi. Ben \"Allah seni öldürüp de diriltinceye kadar ben Muhammed'i inkar etmem\" dedim. O \"Ben ölüp de dirilinceye kadar beni bırak. Bana dirildikten sonra mal ve çocuk verilecek. Sana borcumu bundan öderim\" dedi. Bunun üzerine şu ayetler indirildi: (Resulüm!) ayetlerimizi inkar eden ve \"Muhakkak surette bana mal ve evlat verilecek\" diyen adamı gördün mü? O, ğaybı mı bildi, yoksa Allah'ın katından bir söz mü aldı?\"[Meryem 77,78] Tekrar: 2275",
 			"grades": [],
 			"reference": {
 				"book": 34,
@@ -449,7 +457,7 @@
 		{
 			"hadithnumber": 2092,
 			"arabicnumber": 2092,
-			"text": "Enes İbn Malik r.a. şöyle demiştir: Bir demirci, yemek hazırlayarak Nebii Sallallahu Aleyhi ve Sellem'İ yemeğe davet etti. Ben de Resulullah Sallallahu Aleyhi ve Sellem ile birlikte bu yemeğe gittim. Hz. Nebi'in Sallallahu Aleyhi ve Sellem önüne ekmek, kabak çorbası ve kurutulmuş et konuldu. Ben, Hz. Nebi'in tabağın içinde kabakları araştırdığını gördüm. O günden beri kabağı severim. Tekrar: 5379, 5433, 5435, 5",
+			"text": "Enes İbn Malik r.a. şöyle demiştir: Bir demirci, yemek hazırlayarak Nebii Sallallahu Aleyhi ve Sellem'İ yemeğe davet etti. Ben de Resulullah Sallallahu Aleyhi ve Sellem ile birlikte bu yemeğe gittim. Hz. Nebi'in Sallallahu Aleyhi ve Sellem önüne ekmek, kabak çorbası ve kurutulmuş et konuldu. Ben, Hz. Nebi'in tabağın içinde kabakları araştırdığını gördüm. O günden beri kabağı severim. Tekrar: 5379",
 			"grades": [],
 			"reference": {
 				"book": 34,
@@ -519,7 +527,7 @@
 		{
 			"hadithnumber": 2099,
 			"arabicnumber": 2099,
-			"text": "Süfyan, Amr'dan şunu nakletmiştir: Burada (Mekke'de) Nevvas adında bir adam vardı. Onun suya kanmayan develeri vardı. ibn Ömer r.a. bu develeri onun ortağından satın aldı. Ortağı gelerek Nevvas'a \"O develeri sattık\" dedi. Nevvas \"Kim'e?\" diye sordu. Adam: \"Falanca kişiye\" dedi. Nevvas \"Yazıklar olsun. Vallahi bu İbn Ömer'dir\" dedi. Sonra İbn Ömer'e gelerek: \"Ortağım seni tanımadığından sana suya kanmayan develer satmış\" dedi. Ibn Ömer: \"Öyleyse onları geri al\" dedi. Nevvas onları götürürken İbn Ömer: \"Tamam develeri bırak. Biz Resulullah Sallallahu Aleyhi ve Sellem'in \"Hastalığın bulaşması yoktur\" şeklindeki hükmüne razı olduk\" dedi. Tekrar: 2858, 5093, 5",
+			"text": "Süfyan, Amr'dan şunu nakletmiştir: Burada (Mekke'de) Nevvas adında bir adam vardı. Onun suya kanmayan develeri vardı. ibn Ömer r.a. bu develeri onun ortağından satın aldı. Ortağı gelerek Nevvas'a \"O develeri sattık\" dedi. Nevvas \"Kim'e?\" diye sordu. Adam: \"Falanca kişiye\" dedi. Nevvas \"Yazıklar olsun. Vallahi bu İbn Ömer'dir\" dedi. Sonra İbn Ömer'e gelerek: \"Ortağım seni tanımadığından sana suya kanmayan develer satmış\" dedi. Ibn Ömer: \"Öyleyse onları geri al\" dedi. Nevvas onları götürürken İbn Ömer: \"Tamam develeri bırak. Biz Resulullah Sallallahu Aleyhi ve Sellem'in \"Hastalığın bulaşması yoktur\" şeklindeki hükmüne razı olduk\" dedi. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 34,
@@ -529,7 +537,7 @@
 		{
 			"hadithnumber": 2100,
 			"arabicnumber": 2100,
-			"text": "Ebu Katade r.a. şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem ile birlikte Huneyn savaşına çıktık. Ben zırhımı sattım, bununla Seleme oğulları diyarında bir bahçe satın aldım. Bu, Müslüman olduktan sonra elde ettiğim ilk mal idi. Tekrar: 3142, 4",
+			"text": "Ebu Katade r.a. şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem ile birlikte Huneyn savaşına çıktık. Ben zırhımı sattım, bununla Seleme oğulları diyarında bir bahçe satın aldım. Bu, Müslüman olduktan sonra elde ettiğim ilk mal idi. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 34,
@@ -549,7 +557,7 @@
 		{
 			"hadithnumber": 2102,
 			"arabicnumber": 2102,
-			"text": "Enes İbn Malik r.a. şöyle demiştir: Ebu Taybe (adındaki köle), Resulullah Sallallahu Aleyhi ve Sellem'in kan'ını aldı. Resulullah ona bir sa' hurma verilmesini emretti. Köle'nin sahiplerine de onun günlük haracını hafifletmelerini emretti. Tekrar: 2210, 2277, 2",
+			"text": "Enes İbn Malik r.a. şöyle demiştir: Ebu Taybe (adındaki köle), Resulullah Sallallahu Aleyhi ve Sellem'in kan'ını aldı. Resulullah ona bir sa' hurma verilmesini emretti. Köle'nin sahiplerine de onun günlük haracını hafifletmelerini emretti. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 34,
@@ -579,7 +587,7 @@
 		{
 			"hadithnumber": 2105,
 			"arabicnumber": 2105,
-			"text": "Rivayet edildiğine göre muminlerin annesi Aişe r.anha üzerinde resimler bulunan yastıklar satın aldı. Resulullah Sallallahu Aleyhi ve Sellem bunları görünce kapıda durdu, ev'e girmedi. Aişe, Nebi Sallallahu Aleyhi ve Sellem'in yüzünde hoşnutsuzluğu görünce şöyle dedi: - Allah'a ve Resulüne tevbe ederim. Hangi günahı işledim? Resulullah Sallallahu Aleyhi ve Sellem: \"Bu yastıklar da neyin nesi?\" diye sordu. Aişe: Oturman ve yaslanman için satın aldım, dedi. Resulullah Sallallahu Aleyhi ve Sellem: \"Bu resimleri yapanlara kıyamet gününde azap edilecek. Onlara: Yarattıklarınıza can verin, denilecek\" dedi. Daha sonra şöyle buyurdu: \"İçinde resimler bulunan ev'e melekler girmez.\" Tekrar: 3224, 5181, 5",
+			"text": "Rivayet edildiğine göre muminlerin annesi Aişe r.anha üzerinde resimler bulunan yastıklar satın aldı. Resulullah Sallallahu Aleyhi ve Sellem bunları görünce kapıda durdu, ev'e girmedi. Aişe, Nebi Sallallahu Aleyhi ve Sellem'in yüzünde hoşnutsuzluğu görünce şöyle dedi: - Allah'a ve Resulüne tevbe ederim. Hangi günahı işledim? Resulullah Sallallahu Aleyhi ve Sellem: \"Bu yastıklar da neyin nesi?\" diye sordu. Aişe: Oturman ve yaslanman için satın aldım, dedi. Resulullah Sallallahu Aleyhi ve Sellem: \"Bu resimleri yapanlara kıyamet gününde azap edilecek. Onlara: Yarattıklarınıza can verin, denilecek\" dedi. Daha sonra şöyle buyurdu: \"İçinde resimler bulunan ev'e melekler girmez.\" Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 34,
@@ -599,7 +607,7 @@
 		{
 			"hadithnumber": 2107,
 			"arabicnumber": 2107,
-			"text": "İbn Ömer r.a., Nebi Sallallahu Aleyhi ve Sellem'den şunu nakletmiştir: \"Alıcı ve satıcı birbirinden ayrılmadığı sürece yahut da satım akdini muhayyerlik esasına göre yapmadıkları sürece muhayyerdirler\". Nafi' şöyle dedi: İbn Ömer, bir mal satın aldığında ondan hoşlanırsa, satıcının yanından ayrılırdı. Tekrar: 2109, 2111, 2",
+			"text": "İbn Ömer r.a., Nebi Sallallahu Aleyhi ve Sellem'den şunu nakletmiştir: \"Alıcı ve satıcı birbirinden ayrılmadığı sürece yahut da satım akdini muhayyerlik esasına göre yapmadıkları sürece muhayyerdirler\". Nafi' şöyle dedi: İbn Ömer, bir mal satın aldığında ondan hoşlanırsa, satıcının yanından ayrılırdı. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 34,
@@ -699,7 +707,7 @@
 		{
 			"hadithnumber": 2117,
 			"arabicnumber": 2117,
-			"text": "Abdullah bin Ömer'den rivayet edildiğine göre bir adam Nebi Sallallahu Aleyhi ve Sellem'e yaptığı satım akitlerinde aldandığını söyledi. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem: Karşı tarafa: ''Aldatmaca yok!'' de, buyurdu. Tekrar: 2",
+			"text": "Abdullah bin Ömer'den rivayet edildiğine göre bir adam Nebi Sallallahu Aleyhi ve Sellem'e yaptığı satım akitlerinde aldandığını söyledi. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem: Karşı tarafa: ''Aldatmaca yok!'' de, buyurdu. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 34,
@@ -919,7 +927,7 @@
 		{
 			"hadithnumber": 2140,
 			"arabicnumber": 2140,
-			"text": "Ebu Hureyre r.a. şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem, şehirlinin köylü adına satış yapmasını yasakladı. Ayrıca şöyle buyurdu: 1. Neceş yapmayın. 2.Kişi (din) kardeşinin yaptığı satış üzerine satış yapamaz. 3.(Din) kardeşinin evlilik teklif ettiği kadına evlilik teklif edemez. 4. Kadın, kumasının kabındaki kendisine kalsın diye kocasından kuması boşamasını isteyemez.\" Tekrar 2148, 2150, 2151, 2160. 2162, 2723, 2727, 5",
+			"text": "Ebu Hureyre r.a. şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem, şehirlinin köylü adına satış yapmasını yasakladı. Ayrıca şöyle buyurdu: 1. Neceş yapmayın. 2.Kişi (din) kardeşinin yaptığı satış üzerine satış yapamaz. 3.(Din) kardeşinin evlilik teklif ettiği kadına evlilik teklif edemez. 4. Kadın, kumasının kabındaki kendisine kalsın diye kocasından kuması boşamasını isteyemez.\" Tekrar 2148, 2150, 2151, 2160. 2162",
 			"grades": [],
 			"reference": {
 				"book": 34,
@@ -929,7 +937,7 @@
 		{
 			"hadithnumber": 2141,
 			"arabicnumber": 2141,
-			"text": "Cabir İbn Abdullah r.a. şöyle demiştir: Bir adam, kendisinin ölümünden sonra kölesini hür kıldı. Daha muhtaç hale geldi. Hz.Nebi, onun kölesini alarak \"Bunu kim benden satın alır?\" buyurdu. Nuaym İbn Abdullah bunu belirli bir paraya satın aldı. Nebi Sallallahu Aleyhi ve Sellem de köleyi ona verdi. Tekrar: 2230, 2231, 2403, 2415, 2534, 6",
+			"text": "Cabir İbn Abdullah r.a. şöyle demiştir: Bir adam, kendisinin ölümünden sonra kölesini hür kıldı. Daha muhtaç hale geldi. Hz.Nebi, onun kölesini alarak \"Bunu kim benden satın alır?\" buyurdu. Nuaym İbn Abdullah bunu belirli bir paraya satın aldı. Nebi Sallallahu Aleyhi ve Sellem de köleyi ona verdi. Tekrar: 2230, 2231, 2403",
 			"grades": [],
 			"reference": {
 				"book": 34,
@@ -1219,7 +1227,7 @@
 		{
 			"hadithnumber": 2171,
 			"arabicnumber": 2171,
-			"text": "Abdullah İbn Ömer r.a. şöyle dedi: Resulullah Sallallahu Aleyhi ve Sellem müzabeneyi yasakladı. Müzabene, yaş hurma'nın kuru hurma karşılığında ölçekle, yaş üzümün kuru üzüm karşılığında ölçekle satılmasıdır. Tekrar: 2",
+			"text": "Abdullah İbn Ömer r.a. şöyle dedi: Resulullah Sallallahu Aleyhi ve Sellem müzabeneyi yasakladı. Müzabene, yaş hurma'nın kuru hurma karşılığında ölçekle, yaş üzümün kuru üzüm karşılığında ölçekle satılmasıdır. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 34,
@@ -1229,7 +1237,7 @@
 		{
 			"hadithnumber": 2173,
 			"arabicnumber": 2173,
-			"text": "Zeyd İbn Sabit (r.a.) şöyle dedi: Nebi Sallallahu Aleyhi ve Sellem, miktarının tahmin yoluyla belirlendiği araya satışına izin verdi. Tekrar: 2184, 2",
+			"text": "Zeyd İbn Sabit (r.a.) şöyle dedi: Nebi Sallallahu Aleyhi ve Sellem, miktarının tahmin yoluyla belirlendiği araya satışına izin verdi. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 34,
@@ -1489,7 +1497,7 @@
 		{
 			"hadithnumber": 2203,
 			"arabicnumber": 2203,
-			"text": "İbn Ömer'in r.a. azatlı kölesi Nafi' şöyle demiştir: \"Döllenmiş olan hurma ağacı satıldığı zaman, meyvenin de satıma dahil olduğu söylenmemiş ise meyveler, ağacın döllenmesini sağlayan kimseye ait olur. Malı bulunan kölenin ve ekini bulunan tarlanın satılması da böyledir.\" Nafi' İbn Cüreyc'e bu üç hususu belirtmiştir. Tekrar: 2204, 2",
+			"text": "İbn Ömer'in r.a. azatlı kölesi Nafi' şöyle demiştir: \"Döllenmiş olan hurma ağacı satıldığı zaman, meyvenin de satıma dahil olduğu söylenmemiş ise meyveler, ağacın döllenmesini sağlayan kimseye ait olur. Malı bulunan kölenin ve ekini bulunan tarlanın satılması da böyledir.\" Nafi' İbn Cüreyc'e bu üç hususu belirtmiştir. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 34,
@@ -1569,7 +1577,7 @@
 		{
 			"hadithnumber": 2211,
 			"arabicnumber": 2211,
-			"text": "Aişe r.anha şöyle anlatır: Muaviye'nin annesi Hind, Nebi Sallallahu Aleyhi ve Sellem'e: \"Kocam Ebu Süfyan cimri bir adamdır. O'nun malından gizlice alsam bana günah olur mu?\" diye sordu. Resulullah Sallallahu Aleyhi ve Sellem ona: \"Kendine ve çocuklarına örf'e göre yetecek kadar al\" buyurdu Tekrar. 2460, 3825, 5359, 5364, 5370, 6",
+			"text": "Aişe r.anha şöyle anlatır: Muaviye'nin annesi Hind, Nebi Sallallahu Aleyhi ve Sellem'e: \"Kocam Ebu Süfyan cimri bir adamdır. O'nun malından gizlice alsam bana günah olur mu?\" diye sordu. Resulullah Sallallahu Aleyhi ve Sellem ona: \"Kendine ve çocuklarına örf'e göre yetecek kadar al\" buyurdu Tekrar. 2460, 3825, 5359",
 			"grades": [],
 			"reference": {
 				"book": 34,
@@ -1589,7 +1597,7 @@
 		{
 			"hadithnumber": 2213,
 			"arabicnumber": 2213,
-			"text": "Cabir r.a. şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem taksim edilmemiş bütün mallarda şuf'a hakkı bulunduğuna hükmetmiştir. Sınırlar belirlenip yollar ayrılınca artık şüf'a hakkı yoktur Tekrar: 2214, 2257, 2",
+			"text": "Cabir r.a. şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem taksim edilmemiş bütün mallarda şuf'a hakkı bulunduğuna hükmetmiştir. Sınırlar belirlenip yollar ayrılınca artık şüf'a hakkı yoktur Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 34,
@@ -1619,7 +1627,7 @@
 		{
 			"hadithnumber": 2215,
 			"arabicnumber": 2215,
-			"text": "İbn Ömer r.a.'in naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Üç kişi sefere çıkmış yürüyorlardı. Derken yağmura tutuldular Bunun üzerine bir mağaraya sığındılar. Bir kaya gelip mağara'nın ağzını tıkadı. İçlerinden biri, \"Yaptığınız en faziletli amel ile Allah'a dua edin\" dedi. Birincisi, \"Ey Allah'ım' Benim yaşlı annem - babam vardı. Evden çıkar koyunlarımı güder gelir sağardım. Süt'ü, önce ana-babama sonra çocuklarıma,. aileme ve eşime götürür ikram ederdim. Bir gece biraz geç kalmıştım. Geldiğimde annem - babam uyumuşlardı. Onları uyandırmak istemedim. Çocuklar ayak ucumda ağlaşıp duruyordu. Bu durum, fecir doğana kadar devam etti. Allah'ım! Sen biliyorsun ki, bunu senin rızan için yaptım. Bize kapıyı biraz aç ki gökyüzünü görebilelim\" dedi. Kapı biraz açıldı. İkincisi, \"Allah'ım' Bildiğin gibi, ben amca kızlarımdan birine, delicesine aşıktım. Kız bana, \"Yüz dinar getirmedikçe emeline kavuşamazsın\" dedi. Ben de çalıştım çabaladım, yüz dinarı biriktirdim. Kızın yanına gidip emelimi yerine getirmeye kalkıştığım sırada kız, \"Allah'tan kork. Hak yoldan nikah olmadıkça kızlığımı bozma\" dedi. Ben de kalktım ve bırakıp gittim. Allah'ım' Sen biliyorsun ki, bunu senin rızan için yaptım. Bize kapıyı biraz daha aç\" dedi. Kapının üçte biri daha açıldı. Üçüncüsü, \"Allah'ım! Sen biliyorsun ki, ben üç sa' tahıl karşılığında bir işçi tutmuştum. İş sonunda ücretini verdim, fakat o almaktan kaçındı. Ben bunları ektim. MahsuIü ile bir sığır sürüsü ve çoban satın aldım. Daha sonra çıktı geldi ve \"Ey Allah'ın kulu' Hakkımı ver\" dedi. Ben de ona, \"Şu sığır sürüsüne git, çobanı ile birlikte senindir\" dedim. Bana, \"Benimle dalga mı geçiyorsun\" dedi. \"Hayır, onlar senindir\" dedim. Allah'ım' Sen biliyorsun ki ben bunu senin rızan için yapmıştım. Şu kapıyı aç\" diye dua etti. Kapı tamamen açıldı. \" Tekrar: 2272. 2",
+			"text": "İbn Ömer r.a.'in naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Üç kişi sefere çıkmış yürüyorlardı. Derken yağmura tutuldular Bunun üzerine bir mağaraya sığındılar. Bir kaya gelip mağara'nın ağzını tıkadı. İçlerinden biri, \"Yaptığınız en faziletli amel ile Allah'a dua edin\" dedi. Birincisi, \"Ey Allah'ım' Benim yaşlı annem - babam vardı. Evden çıkar koyunlarımı güder gelir sağardım. Süt'ü, önce ana-babama sonra çocuklarıma,. aileme ve eşime götürür ikram ederdim. Bir gece biraz geç kalmıştım. Geldiğimde annem - babam uyumuşlardı. Onları uyandırmak istemedim. Çocuklar ayak ucumda ağlaşıp duruyordu. Bu durum, fecir doğana kadar devam etti. Allah'ım! Sen biliyorsun ki, bunu senin rızan için yaptım. Bize kapıyı biraz aç ki gökyüzünü görebilelim\" dedi. Kapı biraz açıldı. İkincisi, \"Allah'ım' Bildiğin gibi, ben amca kızlarımdan birine, delicesine aşıktım. Kız bana, \"Yüz dinar getirmedikçe emeline kavuşamazsın\" dedi. Ben de çalıştım çabaladım, yüz dinarı biriktirdim. Kızın yanına gidip emelimi yerine getirmeye kalkıştığım sırada kız, \"Allah'tan kork. Hak yoldan nikah olmadıkça kızlığımı bozma\" dedi. Ben de kalktım ve bırakıp gittim. Allah'ım' Sen biliyorsun ki, bunu senin rızan için yaptım. Bize kapıyı biraz daha aç\" dedi. Kapının üçte biri daha açıldı. Üçüncüsü, \"Allah'ım! Sen biliyorsun ki, ben üç sa' tahıl karşılığında bir işçi tutmuştum. İş sonunda ücretini verdim, fakat o almaktan kaçındı. Ben bunları ektim. MahsuIü ile bir sığır sürüsü ve çoban satın aldım. Daha sonra çıktı geldi ve \"Ey Allah'ın kulu' Hakkımı ver\" dedi. Ben de ona, \"Şu sığır sürüsüne git, çobanı ile birlikte senindir\" dedim. Bana, \"Benimle dalga mı geçiyorsun\" dedi. \"Hayır, onlar senindir\" dedim. Allah'ım' Sen biliyorsun ki ben bunu senin rızan için yapmıştım. Şu kapıyı aç\" diye dua etti. Kapı tamamen açıldı. \" Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 34,
@@ -1639,7 +1647,7 @@
 		{
 			"hadithnumber": 2217,
 			"arabicnumber": 2217,
-			"text": "Ebu Hureyre r.a. şöyle anlatır: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"İbrahim (a.s.) Sare ile birlikte yolculuğa çıkmıştı. Bir hükümdarı bulunan bir beldeye girdiler. Hükümdara, \"İbrahim senin kadınlarından daha güzel bir kadınla şehre girdi\" dediler. Hükümdar bir elçi gönderip, \"Ey İbrahim' Yanındaki kadın kimdir?\" diye sordurdu. İbrahim de, \"Kız kardeşim\" diye cevap verdi. Daha sonra Sare'ye dönüp, \"Senin, benim kardeşim olduğunu söyledim Sakın beni yalancı çıkarma. Vallahi, yeryüzünde benim ve senin dışında hiçbir mu'min yok\" dedi. Daha sonra İbrahim Sare'yi hükümdar'a gönderdi. Hükümdar Sare'ye doğru ilerledi. Sare'de abdest alıp namaz kıldı ve: \"Allah'ım! Sana ve Resulüne iman ettim ve kocam dışında hiçbir kimseyi namusuma dokundurmadım Şu kafiri bana musallat etme\" diye dua etti. Bunun üzerine hükümdarın boğazı tıkanıp hırlamaya ve ayakları ile tepinmeye başladı. Ravi el-A'rec dedi ki: Abdurrahman'ın oğlu Ebu Seleme Ebu Hureyre'nin şöyle söylediğini nakletmiştir: Sare şöyle dedi: \"Ey AlIahım! Şimdi hükümdar ölürse, benim öldürdüğümü söylerler\" dedi. Daha sonra Allah onun eski haline gelmesine izin verdi. Kalktı yine Sare'ye yöneldi. Sare'de abdest alıp namaz kıldı ve: \"Allahımı Sana ve Resulüne iman ettim ve kocam dışında hiçbir kimseyi namusuma dokundurmadım. Şu kafiri bana musallat etme\" diye dua etti. Bunun üzerine hükümdarın boğazı tıkanıp hırlamaya ve ayakları ile tepinmeye başladı. Abdurrahman, Ebu Hureyre'nin şöyle dediğini nakletmiştir: Sare şöyle dedi: \"Ey Allah'ıml Şimdi hükümdar ölürse, benim öldürdüğümü söylerler\" dedi. Daha sonra Allah onun eski haline gelmesine izin verdi. Bu olay iki - üç kez tekrar etti. Daha sonra hükümdar, \"Vallahi, sizin bana gönderdiğiniz şeytandan başka bir şey değildir. Bunu götürün İbrahim'e geri verin, Sare'ye de Hacer adındaki cariyeyi verin\" dedi. Sare İbrahim'in yanına gelince, \"Gördün mü, Allah kafiri nasıl zelil etti, bir de bana hizmetçi olarak cariye verdi?\" dedi Tekrar: 2635, 3357, 3",
+			"text": "Ebu Hureyre r.a. şöyle anlatır: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"İbrahim (a.s.) Sare ile birlikte yolculuğa çıkmıştı. Bir hükümdarı bulunan bir beldeye girdiler. Hükümdara, \"İbrahim senin kadınlarından daha güzel bir kadınla şehre girdi\" dediler. Hükümdar bir elçi gönderip, \"Ey İbrahim' Yanındaki kadın kimdir?\" diye sordurdu. İbrahim de, \"Kız kardeşim\" diye cevap verdi. Daha sonra Sare'ye dönüp, \"Senin, benim kardeşim olduğunu söyledim Sakın beni yalancı çıkarma. Vallahi, yeryüzünde benim ve senin dışında hiçbir mu'min yok\" dedi. Daha sonra İbrahim Sare'yi hükümdar'a gönderdi. Hükümdar Sare'ye doğru ilerledi. Sare'de abdest alıp namaz kıldı ve: \"Allah'ım! Sana ve Resulüne iman ettim ve kocam dışında hiçbir kimseyi namusuma dokundurmadım Şu kafiri bana musallat etme\" diye dua etti. Bunun üzerine hükümdarın boğazı tıkanıp hırlamaya ve ayakları ile tepinmeye başladı. Ravi el-A'rec dedi ki: Abdurrahman'ın oğlu Ebu Seleme Ebu Hureyre'nin şöyle söylediğini nakletmiştir: Sare şöyle dedi: \"Ey AlIahım! Şimdi hükümdar ölürse, benim öldürdüğümü söylerler\" dedi. Daha sonra Allah onun eski haline gelmesine izin verdi. Kalktı yine Sare'ye yöneldi. Sare'de abdest alıp namaz kıldı ve: \"Allahımı Sana ve Resulüne iman ettim ve kocam dışında hiçbir kimseyi namusuma dokundurmadım. Şu kafiri bana musallat etme\" diye dua etti. Bunun üzerine hükümdarın boğazı tıkanıp hırlamaya ve ayakları ile tepinmeye başladı. Abdurrahman, Ebu Hureyre'nin şöyle dediğini nakletmiştir: Sare şöyle dedi: \"Ey Allah'ıml Şimdi hükümdar ölürse, benim öldürdüğümü söylerler\" dedi. Daha sonra Allah onun eski haline gelmesine izin verdi. Bu olay iki - üç kez tekrar etti. Daha sonra hükümdar, \"Vallahi, sizin bana gönderdiğiniz şeytandan başka bir şey değildir. Bunu götürün İbrahim'e geri verin, Sare'ye de Hacer adındaki cariyeyi verin\" dedi. Sare İbrahim'in yanına gelince, \"Gördün mü, Allah kafiri nasıl zelil etti, bir de bana hizmetçi olarak cariye verdi?\" dedi Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 34,
@@ -1759,7 +1767,7 @@
 		{
 			"hadithnumber": 2229,
 			"arabicnumber": 2229,
-			"text": "Ebu Said el-Hudri r.a. şöyle anlatır: \"Resulullah (Sallallahu aleyhi ve Sellem)'in yanında oturuyordum. \"Ey Allah'ın Resulü' Bize (savaş) esirleri verildi. Onları satıp paralarını almak istiyoruz. Onlarla (cima da) azil yapmamız konusunda ne buyurursunuz?\" diye sordum. Nebi Sallallahu Aleyhi ve Sellem, Böyle mi yapıyorsunuz! Böyle yapmanızda bir günah yok. Çünkü Allah'ın dünyaya gelmesini takdir ettiği her canlı mutlaka gelecektir\" buyurdu. Tekrar: 2542,4138",
+			"text": "Ebu Said el-Hudri r.a. şöyle anlatır: \"Resulullah (Sallallahu aleyhi ve Sellem)'in yanında oturuyordum. \"Ey Allah'ın Resulü' Bize (savaş) esirleri verildi. Onları satıp paralarını almak istiyoruz. Onlarla (cima da) azil yapmamız konusunda ne buyurursunuz?\" diye sordum. Nebi Sallallahu Aleyhi ve Sellem, Böyle mi yapıyorsunuz! Böyle yapmanızda bir günah yok. Çünkü Allah'ın dünyaya gelmesini takdir ettiği her canlı mutlaka gelecektir\" buyurdu. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 34,

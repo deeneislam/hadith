@@ -3,6 +3,14 @@
 		"name": "Sahih al Bukhari",
 		"section": {
 			"9": "Times of the Prayers"
+		},
+		"section_detail": {
+			"9": {
+				"hadithnumber_first": 522,
+				"hadithnumber_last": 602,
+				"arabicnumber_first": 522,
+				"arabicnumber_last": 602
+			}
 		}
 	},
 	"hadiths": [
@@ -39,7 +47,7 @@
 		{
 			"hadithnumber": 525,
 			"arabicnumber": 525,
-			"text": "A'meş, Şakîk kanalıyla Huzeyfe'nin şöyle dediğini nakletmiştir: \"Ömer (r.a.)'in yanında oturuyorduk. Bize: 'Hanginiz Rasulullah Sallallahu Aleyhi ve Sellem'in fitne hakkında söylediğini hafızasında tutuyor?' diye sordu. 'Ben. Hem de nasıl buyurmuşsa öylece aklımda tutuyorum' diye atıldım. Bu konuda çok cesursun' dedi. Fitne hakkındaki Kişi'nin ailesi, malı, çocuğu ve komşusu hakkında bulaşacağı fitneye (günaha) kıldığı namaz, tuttuğu oruç, verdiği zekat ve yaptığı emri bi'l-ma'ruf nehy ani'l-münker keffâret olur.' Hadisini söyledim. Ömer (r.a.): 'Bunu kasdetmemiştim. Denizin dalgalanması gibi kabaracak fitneyi kast etmiştim' dedi. Ben de: 'O fitne, sana zarar vermeyecek. Seninle onun arasında kapalı bir kapı var\" diye cevap verdim. Ömer (r.a.),: 'O kapı açılacak mı, yoksa kırılacak mı?' diye sordu. Ben de: 'Kırılacak' dedim. Bu defa: 'O zaman bir daha asla kapanmayacak' dedi. Biz, 'Ömer kapıyı biliyor muydu?' diye sorduk. Huzeyfe, 'Evet, tıpkı önceki gün, bu geceyi bildiği gibi biliyordu. O'na söylediklerimde hiç yalan yoktu' diye cevap verdi. Kapının kim olduğunu Huzeyfe'ye sormaktan çekindik. Bu yüzden Mesrûk'a gidip sormasını emrettik. O da sordu. Huzeyfe şöyle cevap verdi: Kapı Ömer'dir. Tekrar: 1435, 1",
+			"text": "A'meş, Şakîk kanalıyla Huzeyfe'nin şöyle dediğini nakletmiştir: \"Ömer (r.a.)'in yanında oturuyorduk. Bize: 'Hanginiz Rasulullah Sallallahu Aleyhi ve Sellem'in fitne hakkında söylediğini hafızasında tutuyor?' diye sordu. 'Ben. Hem de nasıl buyurmuşsa öylece aklımda tutuyorum' diye atıldım. Bu konuda çok cesursun' dedi. Fitne hakkındaki Kişi'nin ailesi, malı, çocuğu ve komşusu hakkında bulaşacağı fitneye (günaha) kıldığı namaz, tuttuğu oruç, verdiği zekat ve yaptığı emri bi'l-ma'ruf nehy ani'l-münker keffâret olur.' Hadisini söyledim. Ömer (r.a.): 'Bunu kasdetmemiştim. Denizin dalgalanması gibi kabaracak fitneyi kast etmiştim' dedi. Ben de: 'O fitne, sana zarar vermeyecek. Seninle onun arasında kapalı bir kapı var\" diye cevap verdim. Ömer (r.a.),: 'O kapı açılacak mı, yoksa kırılacak mı?' diye sordu. Ben de: 'Kırılacak' dedim. Bu defa: 'O zaman bir daha asla kapanmayacak' dedi. Biz, 'Ömer kapıyı biliyor muydu?' diye sorduk. Huzeyfe, 'Evet, tıpkı önceki gün, bu geceyi bildiği gibi biliyordu. O'na söylediklerimde hiç yalan yoktu' diye cevap verdi. Kapının kim olduğunu Huzeyfe'ye sormaktan çekindik. Bu yüzden Mesrûk'a gidip sormasını emrettik. O da sordu. Huzeyfe şöyle cevap verdi: Kapı Ömer'dir. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 9,
@@ -59,7 +67,7 @@
 		{
 			"hadithnumber": 527,
 			"arabicnumber": 527,
-			"text": "Abdullah'tan şöyle nakledilmiştir: Allah Resûlü Sallallahu Aleyhi ve Sellem'e, amellerin hangisinin Allah'a daha sevimli olduğunu sordum. O da, Vaktinde kılınan namaz' diye cevap verdi. 'Sonra hangisi?' diye sordum. Bu defa: 'Ana-baba'ya iyilik etmek' diye cevap verdi. 'Bundan sonra hangisi?' diye sordum. Bu kez, Allah yolunda cihad etmek' diye cevap verdi. Bana bunları anlattı. Eğer daha fazla soru sorsaydım, elbette cevabını verirdi. Tekrar: 2",
+			"text": "Abdullah'tan şöyle nakledilmiştir: Allah Resûlü Sallallahu Aleyhi ve Sellem'e, amellerin hangisinin Allah'a daha sevimli olduğunu sordum. O da, Vaktinde kılınan namaz' diye cevap verdi. 'Sonra hangisi?' diye sordum. Bu defa: 'Ana-baba'ya iyilik etmek' diye cevap verdi. 'Bundan sonra hangisi?' diye sordum. Bu kez, Allah yolunda cihad etmek' diye cevap verdi. Bana bunları anlattı. Eğer daha fazla soru sorsaydım, elbette cevabını verirdi. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 9,
@@ -179,7 +187,7 @@
 		{
 			"hadithnumber": 541,
 			"arabicnumber": 541,
-			"text": "Ebu Berze'den şöyle nakledilmiştir: Nebi Sallallahu Aleyhi ve Sellem Bizden biri yanı başındaki arkadaşını tanıdığı kadar aydınlık olunca sabah namazını kıldırırdı. Fatiha'dan sonra atmış ile yüz âyet arasında Kur'an okurdu. Öğle namazını ise, güneş en yüksek konuma geldikten sonra batmaya doğru meylettiği zaman kıldırırdı. İkindi namazını öyle bir zamanda kıldırırdı ki, namazdan sonra bizden biri 'Medine'nin en ücra köşesine gidip geldiği halde güneş hâlâ batmamış olurdu. Akşam namazı hakkında ne söylediğini unuttum deniştir. {Ebu Berze) 'Yatsı namazını İse, gecenin 2/3'üne kadar geciktirmekte bir sakınca görmezdi' demiştir. Bir başka seferinde ise 'Gece yarısına kadar te'hirde sakınca görmezdi' demiştir. Muaz, Şu'be'nin şöyle dediğini nakletmiştir: 'Bir defasında onunla karşılaştım, gecenin 1/3'üne kadar geciktirmekte sakınca görmezdi' demiştir. Tekrar: 547",
+			"text": "Ebu Berze'den şöyle nakledilmiştir: Nebi Sallallahu Aleyhi ve Sellem Bizden biri yanı başındaki arkadaşını tanıdığı kadar aydınlık olunca sabah namazını kıldırırdı. Fatiha'dan sonra atmış ile yüz âyet arasında Kur'an okurdu. Öğle namazını ise, güneş en yüksek konuma geldikten sonra batmaya doğru meylettiği zaman kıldırırdı. İkindi namazını öyle bir zamanda kıldırırdı ki, namazdan sonra bizden biri 'Medine'nin en ücra köşesine gidip geldiği halde güneş hâlâ batmamış olurdu. Akşam namazı hakkında ne söylediğini unuttum deniştir. {Ebu Berze) 'Yatsı namazını İse, gecenin 2/3'üne kadar geciktirmekte bir sakınca görmezdi' demiştir. Bir başka seferinde ise 'Gece yarısına kadar te'hirde sakınca görmezdi' demiştir. Muaz, Şu'be'nin şöyle dediğini nakletmiştir: 'Bir defasında onunla karşılaştım, gecenin 1/3'üne kadar geciktirmekte sakınca görmezdi' demiştir. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 9,
@@ -319,7 +327,7 @@
 		{
 			"hadithnumber": 555,
 			"arabicnumber": 555,
-			"text": "Ebu Hureyre (r.a.) Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: \"Bazı melekler gece, bazıları da gündüz nöbetleşe yanınıza gelir. Bunlar, sabah ve ikindi namazlarında bir araya gelirler. Daha sonra gece sizin yanınızda olanlar Hak Teâlâ'nın huzuruna çıkar. Allah Teâlâ kullarını en iyi kendisi bilmesine rağmen yine de onlara 'Kullarımı nasıl bıraktınız?' diye sorar. Onlar da: Yanlarından ayrılırken namaz kılıyorlardı. Yanlarına vardığımızda da namaz kılıyorlardı' diye cevap verirler. Tekrar: 3",
+			"text": "Ebu Hureyre (r.a.) Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: \"Bazı melekler gece, bazıları da gündüz nöbetleşe yanınıza gelir. Bunlar, sabah ve ikindi namazlarında bir araya gelirler. Daha sonra gece sizin yanınızda olanlar Hak Teâlâ'nın huzuruna çıkar. Allah Teâlâ kullarını en iyi kendisi bilmesine rağmen yine de onlara 'Kullarımı nasıl bıraktınız?' diye sorar. Onlar da: Yanlarından ayrılırken namaz kılıyorlardı. Yanlarına vardığımızda da namaz kılıyorlardı' diye cevap verirler. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 9,
@@ -609,7 +617,7 @@
 		{
 			"hadithnumber": 586,
 			"arabicnumber": 586,
-			"text": "Ebu Saîd el-Hudrî (r.a.) Nebi Sallallahu Aleyhi ve Sellem'in şöyle dediğini işittiğini nakletmiştir: \"Güneş yükselinceye kadar sabah namazından sonra namaz kılınmaz! Güneş batıncaya kadar da, ikindi namazından sonra namazı kılınmaz! Tekrar: 1188, 1197, 1",
+			"text": "Ebu Saîd el-Hudrî (r.a.) Nebi Sallallahu Aleyhi ve Sellem'in şöyle dediğini işittiğini nakletmiştir: \"Güneş yükselinceye kadar sabah namazından sonra namaz kılınmaz! Güneş batıncaya kadar da, ikindi namazından sonra namazı kılınmaz! Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 9,
@@ -709,7 +717,7 @@
 		{
 			"hadithnumber": 596,
 			"arabicnumber": 596,
-			"text": "Câbir bin Abdullah r.a.'dan şöyle nakledilmiştir: \"Ömer r.a. Hendek savaşında güneş batmak üzere iken Nebi Sallallahu Aleyhi ve Sellem'in yanına geldi ve Kureyşli kafirlere hakaret etmeye başladı: 'Ey Allah'ın elçisi güneş batmadan neredeyse ikindi namazını kılamayacaktım’ dedi. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem: Allah'a and olsun ki, ben bile kılmadım' buyurdu. Sonra kalkıp Buthan'a gittik. Rasûlullah Sallallahu Aleyhi ve Sellem namaz kılmak için abdest aldı, biz de abdest aldık. Güneş battıktan sonra ikindi namazını kıldırdı. Ondan sonra da, akşam namazını kıldırdı. Tekrar: 598,",
+			"text": "Câbir bin Abdullah r.a.'dan şöyle nakledilmiştir: \"Ömer r.a. Hendek savaşında güneş batmak üzere iken Nebi Sallallahu Aleyhi ve Sellem'in yanına geldi ve Kureyşli kafirlere hakaret etmeye başladı: 'Ey Allah'ın elçisi güneş batmadan neredeyse ikindi namazını kılamayacaktım’ dedi. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem: Allah'a and olsun ki, ben bile kılmadım' buyurdu. Sonra kalkıp Buthan'a gittik. Rasûlullah Sallallahu Aleyhi ve Sellem namaz kılmak için abdest aldı, biz de abdest aldık. Güneş battıktan sonra ikindi namazını kıldırdı. Ondan sonra da, akşam namazını kıldırdı. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 9,
@@ -769,7 +777,7 @@
 		{
 			"hadithnumber": 602,
 			"arabicnumber": 602,
-			"text": "Abdurrahman bin Ebî Bekir'den şöyle nakledilmiştir: \"Ashâb-i suffe, fakir kimselerden oluşuyordu. Nebi Sallallahu Aleyhi ve Sellem iki kişilik yemeği olan kimse, üçüncü olarak ashâb-ı suffeden birini götürsün, dört kişilik yemeği olan beşinci veya altıncı olarak ashab-ı suffeden birini götürsün' buyurdu. Ebu Bekir beraberinde üç kişiyi götürdü. Nebi Sallallahu Aleyhi ve Sellem ise on kişiyi aldı. Bizim aile, ben, babam ve annemden meydana geliyordu. (Ravi Ebu Osman, 'Abdurrahman'ın eşini sayıp saymadığını hatırlamıyorum' demiştir.) Bir de Ebu Bekir'in evi ile bizim ev arasında müşterek olarak kullandığımız hizmetçimiz vardı. Ebu Bekir Nebi (Sallallahu aleyhi ve Sellem)’in evinde akşam yemeği yedi. Yatsı namazını kılıncaya kadar evinde kaldı. Sonra Nebi Sallallahu Aleyhi ve Sellem'in yanına dönüp O (Sallallahu aleyhi ve Sellem) akşam yemeğini yeyinceye kadar orada kaldı. Gece'nin bir bölümü ilerledikten sonra evine döndü. Hanımı ona, 'Neden misafirlerinle veya misafirinle ilgilenmedin?' diye sordu. O da, 'Onlara akşam yemeği verdin mi?' diye sordu. Hanımı da şöyle cevap verdi: 'Onlar sen gelinceye kadar yemek yemeyi kabul etmediler. Onlar için sofra kuruldu ama yemek İstemediler. Abdurrahman şöyle dedi: Babamın kızmasından korktuğum için bir köşeye gidip saklandım. Ebu Bekir şöyle dedi: Ey korkak adam nerdesin! Kulağı kopasıca! Burnu düşesice! Dudağı büzülesice nerdesin! diyerek oğluna hakaretler yağdırdı. Ancak misafirlerin yemek yememelerinin oğlunun kusurundan değil de onların tercihinden ileri geldiğini anlayınca onlara şöyle dedi: 'Buyurun, yeyin! Afiyet olmasın!' Sonra Ebu Bekir şöyle dedi: 'Allah'a and olsun ki, ben asla yemeyeceğim! Allah'a yemin olsun ki, yemekten bir lokma aldığımız zaman yemek alttan alta çoğalıyordu. Abdurrahman şöyle dedi: Misafirler doydu. Yemek ise sofraya konduğundan daha fazla idi. Ebu Bekir sofraya baktı ve yemeğin konduğu gibi hatta daha fazla olduğunu fark etti. Bunun üzerine hanımına şöyle seslendi: Benû Firâs'ın bacısı bu da nedir? O da 'Gözümün nuruna yemin olsun ki, bu yemekler sofraya koyduğumdan daha fazla!' diye üç kez seslendi. Sonra Ebu Bekir yemekten yedi ve şöyle dedi: Bu benim ettiğim yemin şeytanın vesvesesinden ileri geldi. 'Sonra yemekten bir lokma aldı. Daha sonra yemeği Nebi Sallallahu Aleyhi ve Sellem'e götürdü, sabaha kadar orada kaldı. O kavimle bizim aramızda barış sözleşmesi vardı. Anlaşmanın süresi dolmuştu. Bu yüzden Medine'ye gelmişlerdi. Biz de onları on iki gruba ayırmıştık. Her grupta bayağı adam vardı. Tam sayılarını ancak Allah bilir. İşte bu adamlar hep beraber bu yemekten yemişlerdir. Tekrar: 3",
+			"text": "Abdurrahman bin Ebî Bekir'den şöyle nakledilmiştir: \"Ashâb-i suffe, fakir kimselerden oluşuyordu. Nebi Sallallahu Aleyhi ve Sellem iki kişilik yemeği olan kimse, üçüncü olarak ashâb-ı suffeden birini götürsün, dört kişilik yemeği olan beşinci veya altıncı olarak ashab-ı suffeden birini götürsün' buyurdu. Ebu Bekir beraberinde üç kişiyi götürdü. Nebi Sallallahu Aleyhi ve Sellem ise on kişiyi aldı. Bizim aile, ben, babam ve annemden meydana geliyordu. (Ravi Ebu Osman, 'Abdurrahman'ın eşini sayıp saymadığını hatırlamıyorum' demiştir.) Bir de Ebu Bekir'in evi ile bizim ev arasında müşterek olarak kullandığımız hizmetçimiz vardı. Ebu Bekir Nebi (Sallallahu aleyhi ve Sellem)’in evinde akşam yemeği yedi. Yatsı namazını kılıncaya kadar evinde kaldı. Sonra Nebi Sallallahu Aleyhi ve Sellem'in yanına dönüp O (Sallallahu aleyhi ve Sellem) akşam yemeğini yeyinceye kadar orada kaldı. Gece'nin bir bölümü ilerledikten sonra evine döndü. Hanımı ona, 'Neden misafirlerinle veya misafirinle ilgilenmedin?' diye sordu. O da, 'Onlara akşam yemeği verdin mi?' diye sordu. Hanımı da şöyle cevap verdi: 'Onlar sen gelinceye kadar yemek yemeyi kabul etmediler. Onlar için sofra kuruldu ama yemek İstemediler. Abdurrahman şöyle dedi: Babamın kızmasından korktuğum için bir köşeye gidip saklandım. Ebu Bekir şöyle dedi: Ey korkak adam nerdesin! Kulağı kopasıca! Burnu düşesice! Dudağı büzülesice nerdesin! diyerek oğluna hakaretler yağdırdı. Ancak misafirlerin yemek yememelerinin oğlunun kusurundan değil de onların tercihinden ileri geldiğini anlayınca onlara şöyle dedi: 'Buyurun, yeyin! Afiyet olmasın!' Sonra Ebu Bekir şöyle dedi: 'Allah'a and olsun ki, ben asla yemeyeceğim! Allah'a yemin olsun ki, yemekten bir lokma aldığımız zaman yemek alttan alta çoğalıyordu. Abdurrahman şöyle dedi: Misafirler doydu. Yemek ise sofraya konduğundan daha fazla idi. Ebu Bekir sofraya baktı ve yemeğin konduğu gibi hatta daha fazla olduğunu fark etti. Bunun üzerine hanımına şöyle seslendi: Benû Firâs'ın bacısı bu da nedir? O da 'Gözümün nuruna yemin olsun ki, bu yemekler sofraya koyduğumdan daha fazla!' diye üç kez seslendi. Sonra Ebu Bekir yemekten yedi ve şöyle dedi: Bu benim ettiğim yemin şeytanın vesvesesinden ileri geldi. 'Sonra yemekten bir lokma aldı. Daha sonra yemeği Nebi Sallallahu Aleyhi ve Sellem'e götürdü, sabaha kadar orada kaldı. O kavimle bizim aramızda barış sözleşmesi vardı. Anlaşmanın süresi dolmuştu. Bu yüzden Medine'ye gelmişlerdi. Biz de onları on iki gruba ayırmıştık. Her grupta bayağı adam vardı. Tam sayılarını ancak Allah bilir. İşte bu adamlar hep beraber bu yemekten yemişlerdir. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 9,

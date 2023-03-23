@@ -3,6 +3,14 @@
 		"name": "Sunan Ibn Majah",
 		"section": {
 			"5": "Establishing the Prayer and the Sunnah Regarding Them"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 803,
+				"hadithnumber_last": 1432,
+				"arabicnumber_first": 803,
+				"arabicnumber_last": 1432
+			}
 		}
 	},
 	"hadiths": [

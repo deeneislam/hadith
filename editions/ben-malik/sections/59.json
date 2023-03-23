@@ -3,6 +3,14 @@
 		"name": "Muwatta Malik",
 		"section": {
 			"59": "Knowledge"
+		},
+		"section_detail": {
+			"59": {
+				"hadithnumber_first": 1856,
+				"hadithnumber_last": 1856,
+				"arabicnumber_first": 1856,
+				"arabicnumber_last": 1856
+			}
 		}
 	},
 	"hadiths": [

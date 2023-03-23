@@ -3,6 +3,14 @@
 		"name": "Muwatta Malik",
 		"section": {
 			"48": "Dress"
+		},
+		"section_detail": {
+			"48": {
+				"hadithnumber_first": 1651,
+				"hadithnumber_last": 1670,
+				"arabicnumber_first": 1651,
+				"arabicnumber_last": 1670
+			}
 		}
 	},
 	"hadiths": [

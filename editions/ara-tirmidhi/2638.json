@@ -3,6 +3,14 @@
 		"name": "Jami At Tirmidhi",
 		"section": {
 			"40": "The Book on Faith"
+		},
+		"section_detail": {
+			"40": {
+				"hadithnumber_first": 2606,
+				"hadithnumber_last": 2644,
+				"arabicnumber_first": 2606,
+				"arabicnumber_last": 2644
+			}
 		}
 	},
 	"hadiths": [

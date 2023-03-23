@@ -3,6 +3,14 @@
 		"name": "Sunan Ibn Majah",
 		"section": {
 			"21": "The Chapters on Blood Money"
+		},
+		"section_detail": {
+			"21": {
+				"hadithnumber_first": 2615,
+				"hadithnumber_last": 2694,
+				"arabicnumber_first": 2615,
+				"arabicnumber_last": 2694
+			}
 		}
 	},
 	"hadiths": [

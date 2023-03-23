@@ -3,6 +3,14 @@
 		"name": "Sunan Ibn Majah",
 		"section": {
 			"2": "The Book of the Prayer"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 667,
+				"hadithnumber_last": 705,
+				"arabicnumber_first": 667,
+				"arabicnumber_last": 705
+			}
 		}
 	},
 	"hadiths": [

@@ -3,6 +3,14 @@
 		"name": "Jami At Tirmidhi",
 		"section": {
 			"10": "The Book on Jana''iz (Funerals)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 965,
+				"hadithnumber_last": 1079,
+				"arabicnumber_first": 965,
+				"arabicnumber_last": 1079
+			}
 		}
 	},
 	"hadiths": [

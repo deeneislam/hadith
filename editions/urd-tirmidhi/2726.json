@@ -3,6 +3,14 @@
 		"name": "Jami At Tirmidhi",
 		"section": {
 			"42": "Chapters on Seeking Permission"
+		},
+		"section_detail": {
+			"42": {
+				"hadithnumber_first": 2688,
+				"hadithnumber_last": 2734,
+				"arabicnumber_first": 2688,
+				"arabicnumber_last": 2734
+			}
 		}
 	},
 	"hadiths": [

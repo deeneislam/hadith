@@ -3,6 +3,14 @@
 		"name": "Muwatta Malik",
 		"section": {
 			"26": "The 'Aqiqa"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 1067,
+				"hadithnumber_last": 1073,
+				"arabicnumber_first": 1067,
+				"arabicnumber_last": 1073
+			}
 		}
 	},
 	"hadiths": [

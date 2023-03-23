@@ -3,6 +3,14 @@
 		"name": "Sunan an Nasai",
 		"section": {
 			"5": "The Book of Salah"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 448,
+				"hadithnumber_last": 493,
+				"arabicnumber_first": 448,
+				"arabicnumber_last": 493
+			}
 		}
 	},
 	"hadiths": [

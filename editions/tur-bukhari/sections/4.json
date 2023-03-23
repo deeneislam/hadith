@@ -3,6 +3,14 @@
 		"name": "Sahih al Bukhari",
 		"section": {
 			"4": "Ablutions (Wudu')"
+		},
+		"section_detail": {
+			"4": {
+				"hadithnumber_first": 135,
+				"hadithnumber_last": 247,
+				"arabicnumber_first": 135,
+				"arabicnumber_last": 247
+			}
 		}
 	},
 	"hadiths": [
@@ -49,7 +57,7 @@
 		{
 			"hadithnumber": 139,
 			"arabicnumber": 139,
-			"text": "Usâme İbn Zeyd r.a. şöyle demiştir: Resûlullah (Sallallahu aleyhi ve Sellem) Arafat'tan dönerken dağdaki yolda inip su döktü. Sonra hafif bir abdest aldı. Ben: \"Namaz (mı) ey Allah'ın Resulü?\" diye sordum. Nebi (Sallallahu aleyhi ve Sellem) Namaz ileride kılınacak\" dedi. Sonra tekrar bineğine bindi. Müzdelife'ye gelince bineğinden indi ve daha uzunca bir abdest aldı. Sonra namaz için kamet getirildi, akşam namazını kıl­dırdı. Sonra herkes devesini durduğu yere çökertti Sonra yatsı için kamet geti­rildi, Hz. Peygamber yatsıyı kıldırdı. Bu iki namaz arasında başka bir namaz kılmadı. Tekrar: 181, 1",
+			"text": "Usâme İbn Zeyd r.a. şöyle demiştir: Resûlullah (Sallallahu aleyhi ve Sellem) Arafat'tan dönerken dağdaki yolda inip su döktü. Sonra hafif bir abdest aldı. Ben: \"Namaz (mı) ey Allah'ın Resulü?\" diye sordum. Nebi (Sallallahu aleyhi ve Sellem) Namaz ileride kılınacak\" dedi. Sonra tekrar bineğine bindi. Müzdelife'ye gelince bineğinden indi ve daha uzunca bir abdest aldı. Sonra namaz için kamet getirildi, akşam namazını kıl­dırdı. Sonra herkes devesini durduğu yere çökertti Sonra yatsı için kamet geti­rildi, Hz. Peygamber yatsıyı kıldırdı. Bu iki namaz arasında başka bir namaz kılmadı. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 4,
@@ -69,7 +77,7 @@
 		{
 			"hadithnumber": 141,
 			"arabicnumber": 141,
-			"text": "İbn Abbas r.a., Nebi (Sallallahu aleyhi ve Sellem)'den şunu rivayet etmiştir: \"Sizden biri eşi ile cinsel ilişkide bulunacağı zaman: Bismillah, Allahümme cennibne'ş-şeytâne ve cennibi'ş-şeytâne mâ razaktenâ (Bismillah, Allah'ım bizi şeytandan uzak tut, şeytanı da bize rızık olarak vereceğin (çocuktan) uzak tut) derse ve o İlişki sebebiyle bir çocuklarının olması takdir edilirse şeytan ona zarar veremez. Tekrar: 3271, 3233.",
+			"text": "İbn Abbas r.a., Nebi (Sallallahu aleyhi ve Sellem)'den şunu rivayet etmiştir: \"Sizden biri eşi ile cinsel ilişkide bulunacağı zaman: Bismillah, Allahümme cennibne'ş-şeytâne ve cennibi'ş-şeytâne mâ razaktenâ (Bismillah, Allah'ım bizi şeytandan uzak tut, şeytanı da bize rızık olarak vereceğin (çocuktan) uzak tut) derse ve o İlişki sebebiyle bir çocuklarının olması takdir edilirse şeytan ona zarar veremez. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 4,
@@ -119,7 +127,7 @@
 		{
 			"hadithnumber": 146,
 			"arabicnumber": 146,
-			"text": "Aişe (radiyallahu anha validemiz)'den rivayet edilmiştir: Nebi (Sallallahu aleyhi ve Sellem)'in hanımları geceleyin tuvalet İhtiyaçlarını görmek üzere menâsı' denilen yere (ki burası geniş bir arazi idi) çıkardı. Ömer, Hz. Peygamber'e \"Hanımlarını ört\" diyordu. Resulullah (Sallallahu aleyhi ve Sellem) ise bunu yapmıyordu. Nihayet bir gece Hz. Peygamber'in hanımlarından Sevde binti Zem'a yatsı namazı vaktinde çıktı. Sevde uzun bir kadındı. Hz. Ömer örtü konusunda âyetin gelmesini şiddetle arzuladığı için ona \"Ey Sevde biz seni tanıdık\" dedi. Bunun üzerine Allah hicab (örtü) âyetini indirdi. Hicab ayeti: Ahzab suresi 53. ayettir. Tekrar: 147, 4",
+			"text": "Aişe (radiyallahu anha validemiz)'den rivayet edilmiştir: Nebi (Sallallahu aleyhi ve Sellem)'in hanımları geceleyin tuvalet İhtiyaçlarını görmek üzere menâsı' denilen yere (ki burası geniş bir arazi idi) çıkardı. Ömer, Hz. Peygamber'e \"Hanımlarını ört\" diyordu. Resulullah (Sallallahu aleyhi ve Sellem) ise bunu yapmıyordu. Nihayet bir gece Hz. Peygamber'in hanımlarından Sevde binti Zem'a yatsı namazı vaktinde çıktı. Sevde uzun bir kadındı. Hz. Ömer örtü konusunda âyetin gelmesini şiddetle arzuladığı için ona \"Ey Sevde biz seni tanıdık\" dedi. Bunun üzerine Allah hicab (örtü) âyetini indirdi. Hicab ayeti: Ahzab suresi 53. ayettir. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 4,
@@ -159,7 +167,7 @@
 		{
 			"hadithnumber": 150,
 			"arabicnumber": 150,
-			"text": "Enes İbn Mâlik r.a. şöyle demiştir: \"Nebi Sallallahu aleyhi ve sellem tuvalet ihtiyacını görmek üzere çıkınca ben ve benimle birlikte bir çocuk -tuvalet temizliği için- yanımızda bir su kırbası götürürdük. Tekrar: 151",
+			"text": "Enes İbn Mâlik r.a. şöyle demiştir: \"Nebi Sallallahu aleyhi ve sellem tuvalet ihtiyacını görmek üzere çıkınca ben ve benimle birlikte bir çocuk -tuvalet temizliği için- yanımızda bir su kırbası götürürdük. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 4,
@@ -249,7 +257,7 @@
 		{
 			"hadithnumber": 159,
 			"arabicnumber": 159,
-			"text": "İbn Şihab, Atâ İbn Yezidin kendisine Hz. Osman'ın azatlısı Humran'in şunu rivayet ettiğini söylemiştir: Humran Osman İbn Affan r.a.'ın bir kap getirilmesini istediğini gördü. Osman üç kere avuçlarına su boşaltarak onları yıkadı. Sonra sağ elini kab'a sokarak ağzını çalkaladı ve burnuna su çekti. Sonra yüzünü üç kere ve dirseklere kadar kollarını üç kere yıkadı. Sonra başını meshetti. Sonra ayaklarını topuklara kadar üçer kere yıkadı. Sonra şöyle dedi; Resulullah Sallallahu aleyhi ve Sellem şöyle buyurdu; 'Benim aldığım gibi bu şekilde abdest alarak, hatırına bir vesvese getirmeksizin nefsinin, sesine kulak vermeden iki rekat namaz kılan kişinin geçmiş günahları affolunur. Tekrar: 160,",
+			"text": "İbn Şihab, Atâ İbn Yezidin kendisine Hz. Osman'ın azatlısı Humran'in şunu rivayet ettiğini söylemiştir: Humran Osman İbn Affan r.a.'ın bir kap getirilmesini istediğini gördü. Osman üç kere avuçlarına su boşaltarak onları yıkadı. Sonra sağ elini kab'a sokarak ağzını çalkaladı ve burnuna su çekti. Sonra yüzünü üç kere ve dirseklere kadar kollarını üç kere yıkadı. Sonra başını meshetti. Sonra ayaklarını topuklara kadar üçer kere yıkadı. Sonra şöyle dedi; Resulullah Sallallahu aleyhi ve Sellem şöyle buyurdu; 'Benim aldığım gibi bu şekilde abdest alarak, hatırına bir vesvese getirmeksizin nefsinin, sesine kulak vermeden iki rekat namaz kılan kişinin geçmiş günahları affolunur. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 4,
@@ -319,7 +327,7 @@
 		{
 			"hadithnumber": 166,
 			"arabicnumber": 166,
-			"text": "Ubeyd ibn Cüreyc, Abdullah İbn Ömer'e şöyle dedi: \"Ey Ebu Abdurrahman! Arkadaşlarından hiç kimsenin yapmadığı dört şeyi senin yaptığını görüyorum\" dedi. Abdullah İbn Ömer: \"Bunlar nedir ey İbn Cüreyc?\" dedi. İbn Cüreyc: \"Ka'benin rükünlerinden yalnızca Yemanî rükünlerine el sürdüğünü, deri sandalet giydiğini ve sarı boya kullandığını görüyorum. Görüyorum ki sen Mekke'de iken insanlar hilali gördüğünde telbiye getirdikleri halde sen terviye gününe kadar telbiye getirrniyorsun\". Abdullah İbn Ömer şöyle dedi: \"Ben Nebi (Sallallahu aleyhi ve Sellem)'in Yemanî rükünlerinden başkasına dokunduğunu görmedim. Deri sandalet giymeme gelince; Ben Hz. Peygamber'in kılsız deriden sandalet giydiğini ve (ayakları) onların içindeyken abdest aldığını gördüm. Bu yüzden ben de onları giymeyi seviyorum. Sarı boyaya gelince; Ben Resulullah (Sallallahu aleyhi ve Sellem)'in sarı boya ile boyadığını gördüm. Ben de onunla boyamayı seviyorum. Telbiye getirmeye gelince; Ben Hz. Peygamber (Sallallahu aleyhi ve Sellem)’in bineği hareket için hazır olmadıkça telbiye getirdiğini görmedim. Tekrar: 1514, 1552, 1",
+			"text": "Ubeyd ibn Cüreyc, Abdullah İbn Ömer'e şöyle dedi: \"Ey Ebu Abdurrahman! Arkadaşlarından hiç kimsenin yapmadığı dört şeyi senin yaptığını görüyorum\" dedi. Abdullah İbn Ömer: \"Bunlar nedir ey İbn Cüreyc?\" dedi. İbn Cüreyc: \"Ka'benin rükünlerinden yalnızca Yemanî rükünlerine el sürdüğünü, deri sandalet giydiğini ve sarı boya kullandığını görüyorum. Görüyorum ki sen Mekke'de iken insanlar hilali gördüğünde telbiye getirdikleri halde sen terviye gününe kadar telbiye getirrniyorsun\". Abdullah İbn Ömer şöyle dedi: \"Ben Nebi (Sallallahu aleyhi ve Sellem)'in Yemanî rükünlerinden başkasına dokunduğunu görmedim. Deri sandalet giymeme gelince; Ben Hz. Peygamber'in kılsız deriden sandalet giydiğini ve (ayakları) onların içindeyken abdest aldığını gördüm. Bu yüzden ben de onları giymeyi seviyorum. Sarı boyaya gelince; Ben Resulullah (Sallallahu aleyhi ve Sellem)'in sarı boya ile boyadığını gördüm. Ben de onunla boyamayı seviyorum. Telbiye getirmeye gelince; Ben Hz. Peygamber (Sallallahu aleyhi ve Sellem)’in bineği hareket için hazır olmadıkça telbiye getirdiğini görmedim. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 4,
@@ -329,7 +337,7 @@
 		{
 			"hadithnumber": 167,
 			"arabicnumber": 167,
-			"text": "Ümmü Atıyye r.anha şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem) (vefat eden) kızının yıkanması sırasında kadınlara şöyle buyurdu: \"Sağ tarafından ve abdest azalarından başlayın. Tekrar: 1253, 1254, 1255, 1256, 1257, 1258, 1259, 1260, 1",
+			"text": "Ümmü Atıyye r.anha şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem) (vefat eden) kızının yıkanması sırasında kadınlara şöyle buyurdu: \"Sağ tarafından ve abdest azalarından başlayın. Tekrar: 1253, 1254, 1255, 1256, 1257, 1258",
 			"grades": [],
 			"reference": {
 				"book": 4,
@@ -339,7 +347,7 @@
 		{
 			"hadithnumber": 168,
 			"arabicnumber": 168,
-			"text": "Aişe (r.anha) şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem) ayakkabı giymede, saçını-sakalını taramada, abdest almada, (hasılı) bütün İşlerde sağdan başlamayı severdi. Tekrar: 426, 5",
+			"text": "Aişe (r.anha) şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem) ayakkabı giymede, saçını-sakalını taramada, abdest almada, (hasılı) bütün İşlerde sağdan başlamayı severdi. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 4,
@@ -409,7 +417,7 @@
 		{
 			"hadithnumber": 175,
 			"arabicnumber": 175,
-			"text": "Adiy İbn Hatim r.a. şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem)'e soru sordum o da bana şöyle cevap verdi: (Av için) eğitilmiş köpeğini ava gönderirsen ve köpek avı öldürürse o avı ye. Şayet köpek o avdan yerse sen yeme, çünkü (bu durumda) köpek, avı kendisi için tutmuştur\". Ben şöyle dedim: \"Ben köpeğimi gönderdiğimde yanında başka bir köpek daha bulursam (ne yapayım)?\" Nebi (Sallallahu aleyhi ve Sellem): O avı yeme. Çünkü sen yalnızca kendi köpeğin için (onu gönderirken) besmele çektin, başka bir köpek için besmele çekmedin. Tekrar: 2054, 5475, 5476, 5477, 5483, 5484, 5485, 5",
+			"text": "Adiy İbn Hatim r.a. şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem)'e soru sordum o da bana şöyle cevap verdi: (Av için) eğitilmiş köpeğini ava gönderirsen ve köpek avı öldürürse o avı ye. Şayet köpek o avdan yerse sen yeme, çünkü (bu durumda) köpek, avı kendisi için tutmuştur\". Ben şöyle dedim: \"Ben köpeğimi gönderdiğimde yanında başka bir köpek daha bulursam (ne yapayım)?\" Nebi (Sallallahu aleyhi ve Sellem): O avı yeme. Çünkü sen yalnızca kendi köpeğin için (onu gönderirken) besmele çektin, başka bir köpek için besmele çekmedin. Tekrar: 2054, 5475, 5476, 5477, 5483",
 			"grades": [],
 			"reference": {
 				"book": 4,
@@ -419,7 +427,7 @@
 		{
 			"hadithnumber": 176,
 			"arabicnumber": 176,
-			"text": "Ebu Hureyre (r.a.,) Nebi (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu söylemiştir: \"Kişi mescidde namazı beklediğinde, hades vaki olmadığı sürece namazdaymış gibi sevap alır. Yabancı bir adam: \"Hades nedir ey Ebu Hureyre?\" dîye sordu. Ebu Hureyre de rediyallahu anh: \"Sesli yellenmektir\" dedi. Tekrar: 445, 477, 647, 648, 659, 2",
+			"text": "Ebu Hureyre (r.a.,) Nebi (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu söylemiştir: \"Kişi mescidde namazı beklediğinde, hades vaki olmadığı sürece namazdaymış gibi sevap alır. Yabancı bir adam: \"Hades nedir ey Ebu Hureyre?\" dîye sordu. Ebu Hureyre de rediyallahu anh: \"Sesli yellenmektir\" dedi. Tekrar: 445, 477, 6",
 			"grades": [],
 			"reference": {
 				"book": 4,
@@ -479,7 +487,7 @@
 		{
 			"hadithnumber": 182,
 			"arabicnumber": 182,
-			"text": "Muğîre İbn Şu'be r.a.'den rivayet edildiğine göre o bir yolculukta Resulullah (Sallallahu aleyhi ve Sellem) ile birlikteydi. Nebi (Sallallahu aleyhi ve Sellem) tuvalet ihtiyacını görmek için gitti. Muğîre Resulullah sallallahu aleyhi ve sellem'in eline su döküyor, o da abdest alıyordu. Nebi s.a.v. yüzünü ve kollarını yıkadı, mestleri üzerine ise mesh etti. Tekrar: 203, 206, 363, 388, 2918, 4",
+			"text": "Muğîre İbn Şu'be r.a.'den rivayet edildiğine göre o bir yolculukta Resulullah (Sallallahu aleyhi ve Sellem) ile birlikteydi. Nebi (Sallallahu aleyhi ve Sellem) tuvalet ihtiyacını görmek için gitti. Muğîre Resulullah sallallahu aleyhi ve sellem'in eline su döküyor, o da abdest alıyordu. Nebi s.a.v. yüzünü ve kollarını yıkadı, mestleri üzerine ise mesh etti. Tekrar: 203, 206, 36",
 			"grades": [],
 			"reference": {
 				"book": 4,
@@ -509,7 +517,7 @@
 		{
 			"hadithnumber": 185,
 			"arabicnumber": 185,
-			"text": "Amr İbn Yahya el-Mazini'nin babasından rivayet ettiğine göre bir adam Abdullah İbn Zeyd'e -yani Amr İbn Yahya'nın dedesine- \"Bana Resulullah (Sallallahu aleyhi ve Sellem)'in nasıl abdest aldığını gösterebilir misin?\" diye sordu. Abdullah İbn Zeyd \"Evet\" dedi ve (abdest almak İçin) su istedi. Eline su dökerek iki kere yıkadı. Sonra üç kere ağzını çalkaladı ve burnuna su verdi. Sonra yüzünü üç kere yıkadı, sonra kollarını dirseklere kadar ikişer ikişer yıkadı. Sonra ba­şını iki eliyle meshetti. Ellerini bir öne bir arkaya götürdü. Şöyle ki: Başının ön kısmından başlayarak ensesine kadar götürdü, sonra başladığı yere getirdi. Sonra ayaklarını yıkadı. Tekrar: 186, 191",
+			"text": "Amr İbn Yahya el-Mazini'nin babasından rivayet ettiğine göre bir adam Abdullah İbn Zeyd'e -yani Amr İbn Yahya'nın dedesine- \"Bana Resulullah (Sallallahu aleyhi ve Sellem)'in nasıl abdest aldığını gösterebilir misin?\" diye sordu. Abdullah İbn Zeyd \"Evet\" dedi ve (abdest almak İçin) su istedi. Eline su dökerek iki kere yıkadı. Sonra üç kere ağzını çalkaladı ve burnuna su verdi. Sonra yüzünü üç kere yıkadı, sonra kollarını dirseklere kadar ikişer ikişer yıkadı. Sonra ba­şını iki eliyle meshetti. Ellerini bir öne bir arkaya götürdü. Şöyle ki: Başının ön kısmından başlayarak ensesine kadar götürdü, sonra başladığı yere getirdi. Sonra ayaklarını yıkadı. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 4,
@@ -529,7 +537,7 @@
 		{
 			"hadithnumber": 187,
 			"arabicnumber": 187,
-			"text": "Ebu Cuhayfe radiyallahu anh şöyle demiştir: Resulullah (Sallallahu aleyhi ve Sellem) öğlenin sıcak zamanında yanımıza çıkıp geldi. Kendisine abdest alması için su getirildi, o da abdest aldı. İnsanlar abdestinden artan suyu alıp, vücutlarına sürmeye başladılar. Nebi (Sallallahu aleyhi ve Sellem) öğleni de, ikindiyi de iki rekat kıldırdı. Onun önünde de (sütre olarak) bir harbe duruyordu. Tekrar: 376, 495, 499, 501, 633, 634, 3553, 3",
+			"text": "Ebu Cuhayfe radiyallahu anh şöyle demiştir: Resulullah (Sallallahu aleyhi ve Sellem) öğlenin sıcak zamanında yanımıza çıkıp geldi. Kendisine abdest alması için su getirildi, o da abdest aldı. İnsanlar abdestinden artan suyu alıp, vücutlarına sürmeye başladılar. Nebi (Sallallahu aleyhi ve Sellem) öğleni de, ikindiyi de iki rekat kıldırdı. Onun önünde de (sütre olarak) bir harbe duruyordu. Tekrar: 376, 495, 499, 501, 63",
 			"grades": [],
 			"reference": {
 				"book": 4,
@@ -639,7 +647,7 @@
 		{
 			"hadithnumber": 198,
 			"arabicnumber": 198,
-			"text": "Âişe r.anha şöyle demiştir: \"Nebi (Sallallahu aleyhi ve Sellem)'in hastalığı ağırlaşıp ağrısı şiddetlendiğinde benim evimde bakılması için diğer eşlerinden izin istedi, onlar da izin verdiler. Nebi (Sallallahu aleyhi ve Sellem) bir tarafında Abbas diğer tarafında da başka bir adam olduğu halde ayaklarını yerde sürüyerek çıktı. Hz. Âişe'nin belirttiğine göre Nebi (Sallallahu aleyhi ve Sellem) evine girip ağrısı şiddetlendikten sonra \"Üzerime bağları çözülmemiş yedi kırba su dökün. Belki biraz halka vasiyette bulunurum\" dedi. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) eşlerinden Hafsa'ya ait olan bir leğene oturtuldu. Üzerine kırbaların suyunu dökmeye başladık. Sonunda Tamam, yeter\" diye işaret etti. Daha sonra da ashabının karşısına çıktı. Tekrar: 664, 665, 679, 683, 687, 712, 713, 716, 2588, 3099, 3384, 4",
+			"text": "Âişe r.anha şöyle demiştir: \"Nebi (Sallallahu aleyhi ve Sellem)'in hastalığı ağırlaşıp ağrısı şiddetlendiğinde benim evimde bakılması için diğer eşlerinden izin istedi, onlar da izin verdiler. Nebi (Sallallahu aleyhi ve Sellem) bir tarafında Abbas diğer tarafında da başka bir adam olduğu halde ayaklarını yerde sürüyerek çıktı. Hz. Âişe'nin belirttiğine göre Nebi (Sallallahu aleyhi ve Sellem) evine girip ağrısı şiddetlendikten sonra \"Üzerime bağları çözülmemiş yedi kırba su dökün. Belki biraz halka vasiyette bulunurum\" dedi. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) eşlerinden Hafsa'ya ait olan bir leğene oturtuldu. Üzerine kırbaların suyunu dökmeye başladık. Sonunda Tamam, yeter\" diye işaret etti. Daha sonra da ashabının karşısına çıktı. Tekrar: 664, 665, 679, 683, 687, 712, 713, 716, 2588",
 			"grades": [],
 			"reference": {
 				"book": 4,
@@ -739,7 +747,7 @@
 		{
 			"hadithnumber": 208,
 			"arabicnumber": 208,
-			"text": "Cafer İbn Amr İbn Ümeyye babasından şunu rivayet etmiştir: Amr, Resulullah (Sallallahu aleyhi ve Sellem)'in koyun küreğinden et kesip yediğini görmüş, namaz için çağırıldığında bıçağı bırakıp namaz kıldığını, abdest almadığını söylemiştir. Tekrar: 675, 2923, 5",
+			"text": "Cafer İbn Amr İbn Ümeyye babasından şunu rivayet etmiştir: Amr, Resulullah (Sallallahu aleyhi ve Sellem)'in koyun küreğinden et kesip yediğini görmüş, namaz için çağırıldığında bıçağı bırakıp namaz kıldığını, abdest almadığını söylemiştir. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 4,
@@ -749,7 +757,7 @@
 		{
 			"hadithnumber": 209,
 			"arabicnumber": 209,
-			"text": "Benî Hârise'nin azatlısı Büşeyr İbn Yesâr, Süveyd İbnü'n-Nu'man'ın kendisine şunu haber verdiğini söylemiştir: Süveyd, Hayber yılında Resulullah (Sallallahu aleyhi ve Sellem) ile birlikte çıkmıştı, es-Sahbâ denilen Hayber'e yakın bir yere vardıklarında Nebi s.a.v. ikindiyi kıldı, sonra azıkların getirilmesini istedi. Kavuttan başka bir şey getirilmedi. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) emretti de kavut su ile ıslatıldı. Resulullah (Sallallahu aleyhi ve Sellem) bundan yedi, biz de yedik. Sonra akşam namazını kılmak için kalktı. O ağzını çalkaladı, biz de çalkaladık. Sonra yeniden abdest almadan namaz kıldı. Tekrar: 215, 2981, 4175, 4195, 5384, 5",
+			"text": "Benî Hârise'nin azatlısı Büşeyr İbn Yesâr, Süveyd İbnü'n-Nu'man'ın kendisine şunu haber verdiğini söylemiştir: Süveyd, Hayber yılında Resulullah (Sallallahu aleyhi ve Sellem) ile birlikte çıkmıştı, es-Sahbâ denilen Hayber'e yakın bir yere vardıklarında Nebi s.a.v. ikindiyi kıldı, sonra azıkların getirilmesini istedi. Kavuttan başka bir şey getirilmedi. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) emretti de kavut su ile ıslatıldı. Resulullah (Sallallahu aleyhi ve Sellem) bundan yedi, biz de yedik. Sonra akşam namazını kılmak için kalktı. O ağzını çalkaladı, biz de çalkaladık. Sonra yeniden abdest almadan namaz kıldı. Tekrar: 215, 2981, 4175",
 			"grades": [],
 			"reference": {
 				"book": 4,
@@ -879,7 +887,7 @@
 		{
 			"hadithnumber": 222,
 			"arabicnumber": 222,
-			"text": "Mu'minlerin annesi Âişe r.anha'nın şöyle dediği rivayet edilmiştir: Resulullah (Sallallahu aleyhi ve Sellem)'e bir erkek çocuk getirildi. Çocuk, onun (Sallallahu aleyhi ve Sellem) üzerine idrarını yaptı. Bunun üzerine Hz. Nebi su istedi, çocuğun idrarını yaptığı yere döktü. Tekrar: 5",
+			"text": "Mu'minlerin annesi Âişe r.anha'nın şöyle dediği rivayet edilmiştir: Resulullah (Sallallahu aleyhi ve Sellem)'e bir erkek çocuk getirildi. Çocuk, onun (Sallallahu aleyhi ve Sellem) üzerine idrarını yaptı. Bunun üzerine Hz. Nebi su istedi, çocuğun idrarını yaptığı yere döktü. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 4,
@@ -999,7 +1007,7 @@
 		{
 			"hadithnumber": 234,
 			"arabicnumber": 234,
-			"text": "Enes r.a. şöyle demiştir: Mescid inşa edilmeden önce Nebi (Sallallahu aleyhi ve Sellem) koyun ağıllarında namaz kılardı. Tekrar: 428, 429, 1868, 2106, 2771, 2",
+			"text": "Enes r.a. şöyle demiştir: Mescid inşa edilmeden önce Nebi (Sallallahu aleyhi ve Sellem) koyun ağıllarında namaz kılardı. Tekrar: 428, 429, 1868",
 			"grades": [],
 			"reference": {
 				"book": 4,
@@ -1009,7 +1017,7 @@
 		{
 			"hadithnumber": 235,
 			"arabicnumber": 235,
-			"text": "Meymune'nin rivayet ettiğine göre, Resulullah (Sallallahu aleyhi ve Sellem)'e katı yağ içine fare'nin düşmesi soruldu. Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Fareyi ve etrafındaki yağı atın. (Geriye kalan) yağınızı yiyin. Tekrar: 236, 5",
+			"text": "Meymune'nin rivayet ettiğine göre, Resulullah (Sallallahu aleyhi ve Sellem)'e katı yağ içine fare'nin düşmesi soruldu. Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Fareyi ve etrafındaki yağı atın. (Geriye kalan) yağınızı yiyin. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 4,
@@ -1039,7 +1047,7 @@
 		{
 			"hadithnumber": 238,
 			"arabicnumber": 238,
-			"text": "Rivayet edildiğine göre Ebu Hureyre Nebi (Sallallahu aleyhi ve Sellem)'in şu sözünü duymuştur: \"Biz (bu dünyada) son, (âhirette ise) öncüleriz. Tekrar: 876, 896, 6926, 3486, 6634, 6",
+			"text": "Rivayet edildiğine göre Ebu Hureyre Nebi (Sallallahu aleyhi ve Sellem)'in şu sözünü duymuştur: \"Biz (bu dünyada) son, (âhirette ise) öncüleriz. Tekrar: 876, 896, 6926",
 			"grades": [],
 			"reference": {
 				"book": 4,
@@ -1059,7 +1067,7 @@
 		{
 			"hadithnumber": 240,
 			"arabicnumber": 240,
-			"text": "Amr İbn Meymûn, Abdullah İbn Me'sud'un kendisine şunu anlattığını söylemiştir: Nebi (Sallallahu Aleyhi ve Sellem) Kabe'de namaz kılıyordu. Ebu Cehil ve arkadaşları Kabe'nin yakınında oturuyorlardı. Kendi aralarında \"Hanginiz falan oğullarının deve kestikleri yerden bir işkembe getirip secdeye vardığı zaman Muhammed'in sırtına koyacak?\" dediler. Bu konuşma üzerine içlerinden en şaki (kötü) olan birisi (Ukbe İbn Ebî Muayt) kalkarak işkembeyi getirdi. Nebi (Sallallahu aleyhi ve Sellem) secdeye yattığında o işkembeyi sırtına, iki kürek kemiği arasına koydu. (İbn Mes'ud dedi ki): \"Ben bunu gördüğüm halde bir şey yapamıyordum. Ah ne olurdu o zaman bunu önleyecek gücüm olsaydı!\" Onlar (katıla katıla) gülmeye başladılar, gülmekten birbirlerinin üzerine yıkılıyorlardı. Resulullah (Sallallahu aleyhi ve Sellem) secde ediyoı, başını kaldırmıyordu. Nihayet Fâtıma Resulullah (Sallallahu aleyhi ve Sellem)'in yanına geldi ve işkembeyi onun sırtından attı. Nebi (Sallallahu aleyhi ve Sellem) başını kaldırdıktan sonra üç kere \"Allah'ım Kureyşl sana havale ediyorum\" dedi. Nebi s.a.v.'in beddua etmesi onlara ağır geldi. Çünkü onlar, bu beldede yapılan duanın kabul edileceğine inanırlardı. Daha sonra Nebi s.a.v. birer birer isim sayarak şöyle dedi: \"Allah'ım! Ebu Cehil'i sana havale ediyorum. Utbe ibn Rebîayı sa­na havale ediyorum. Şeybe İbn Rebîa'yı sana havale ediyorum. Velîd ibn Utbe'yi sana havale ediyorum. Ümeyye İbn Halefi sana havale ediyorum. Ukbe ibn Ebî Muayt'ı sana havale ediyorum\". İbn Mes'ud diyor ki: Yedinci bir kişinin daha adını söyledi, ancak ben onun adını hatırlamıyorum. Canımı elinde tutan Allah'a yemin ederim ki Resûlullah s.a.v.'ın, ismini saydığı kişilerin (Bedir savaşında öldürülerek) Bedir çukuruna atılmış olduklarını gözlerimle gördüm. Tekrar: 520, 2934, 3",
+			"text": "Amr İbn Meymûn, Abdullah İbn Me'sud'un kendisine şunu anlattığını söylemiştir: Nebi (Sallallahu Aleyhi ve Sellem) Kabe'de namaz kılıyordu. Ebu Cehil ve arkadaşları Kabe'nin yakınında oturuyorlardı. Kendi aralarında \"Hanginiz falan oğullarının deve kestikleri yerden bir işkembe getirip secdeye vardığı zaman Muhammed'in sırtına koyacak?\" dediler. Bu konuşma üzerine içlerinden en şaki (kötü) olan birisi (Ukbe İbn Ebî Muayt) kalkarak işkembeyi getirdi. Nebi (Sallallahu aleyhi ve Sellem) secdeye yattığında o işkembeyi sırtına, iki kürek kemiği arasına koydu. (İbn Mes'ud dedi ki): \"Ben bunu gördüğüm halde bir şey yapamıyordum. Ah ne olurdu o zaman bunu önleyecek gücüm olsaydı!\" Onlar (katıla katıla) gülmeye başladılar, gülmekten birbirlerinin üzerine yıkılıyorlardı. Resulullah (Sallallahu aleyhi ve Sellem) secde ediyoı, başını kaldırmıyordu. Nihayet Fâtıma Resulullah (Sallallahu aleyhi ve Sellem)'in yanına geldi ve işkembeyi onun sırtından attı. Nebi (Sallallahu aleyhi ve Sellem) başını kaldırdıktan sonra üç kere \"Allah'ım Kureyşl sana havale ediyorum\" dedi. Nebi s.a.v.'in beddua etmesi onlara ağır geldi. Çünkü onlar, bu beldede yapılan duanın kabul edileceğine inanırlardı. Daha sonra Nebi s.a.v. birer birer isim sayarak şöyle dedi: \"Allah'ım! Ebu Cehil'i sana havale ediyorum. Utbe ibn Rebîayı sa­na havale ediyorum. Şeybe İbn Rebîa'yı sana havale ediyorum. Velîd ibn Utbe'yi sana havale ediyorum. Ümeyye İbn Halefi sana havale ediyorum. Ukbe ibn Ebî Muayt'ı sana havale ediyorum\". İbn Mes'ud diyor ki: Yedinci bir kişinin daha adını söyledi, ancak ben onun adını hatırlamıyorum. Canımı elinde tutan Allah'a yemin ederim ki Resûlullah s.a.v.'ın, ismini saydığı kişilerin (Bedir savaşında öldürülerek) Bedir çukuruna atılmış olduklarını gözlerimle gördüm. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 4,
@@ -1069,7 +1077,7 @@
 		{
 			"hadithnumber": 241,
 			"arabicnumber": 241,
-			"text": "Enes r.a.'den rivayet edildiğine göre (Enes r.a. dediki) Nebi (Sallallahu aleyhi ve Sellem) (namazda iken) elbisesin (in için)e tükürdü. Tekrar: 405, 412, 413, 417, 531,",
+			"text": "Enes r.a.'den rivayet edildiğine göre (Enes r.a. dediki) Nebi (Sallallahu aleyhi ve Sellem) (namazda iken) elbisesin (in için)e tükürdü. Tekrar: 405, 412,",
 			"grades": [],
 			"reference": {
 				"book": 4,

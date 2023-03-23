@@ -3,6 +3,14 @@
 		"name": "Sahih Muslim",
 		"section": {
 			"2": "The Book of Purification"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 534,
+				"hadithnumber_last": 678,
+				"arabicnumber_first": 223,
+				"arabicnumber_last": 292.02
+			}
 		}
 	},
 	"hadiths": [
@@ -39,7 +47,7 @@
 		{
 			"hadithnumber": 537,
 			"arabicnumber": "225",
-			"text": "Bize Muhammed b. Rafi' tahdis etti. Bize Abdurrezzak b. Hemmam tahdis etti, bize Ma'mer b. Raşid, Vehb b. Münebbih'in kardeşi, Hemmam b. Münebbih'ten tahdis edip dedi ki: Bu bize Ebu Hureyre'nin Resulullah (Sallallahu aleyhi ve Sellem) Muhammed'den tahdis ettikleridir deyip, zikrettiği çeşitli hadisler arasında bu da vardı: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Sizden birinizin abdestini bozan bir hali olursa abdest almadıkça namazı kabul edilmez. \" Diğer tahric: Buhari, 135; Ebu Davud, 60; Tirmizi, 76; Tuhfetu'l-Eşraf,",
+			"text": "Bize Muhammed b. Rafi' tahdis etti. Bize Abdurrezzak b. Hemmam tahdis etti, bize Ma'mer b. Raşid, Vehb b. Münebbih'in kardeşi, Hemmam b. Münebbih'ten tahdis edip dedi ki: Bu bize Ebu Hureyre'nin Resulullah (Sallallahu aleyhi ve Sellem) Muhammed'den tahdis ettikleridir deyip, zikrettiği çeşitli hadisler arasında bu da vardı: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Sizden birinizin abdestini bozan bir hali olursa abdest almadıkça namazı kabul edilmez. \" Diğer tahric: Buhari, 135; Ebu Davud, 60; Tirmizi, 76; Tuhfetu'l-Eşraf",
 			"grades": [],
 			"reference": {
 				"book": 2,
@@ -119,7 +127,7 @@
 		{
 			"hadithnumber": 545,
 			"arabicnumber": "230",
-			"text": "Bize Kuteybe b. Said, Ebu Bekr b. Ebi Şeybe ve Zuheyr b. Harb -lafız Kuteybe ve Ebu Bekir'e aittir - tahdis edip dediler ki: Bize Vekl', Süfyan'dan tahdis etti, o Ebu'n-Nadr'dan, o Enes'ten rivayet ettiğine göre Osman (mescidin yakınındaki) oturmak için ayrılmış yerlerde abdest aldı ve: Size Resulullah (Sallallahu aleyhi ve Sellem)'in nasıl abdest aldığını göstereyim mi, dedikten sonra (abdest azalarını) üçer üçer yıkayarak abdest aldı. Kuteybe rivayetinde şu fazlalığı eklemiştir: Süfyan dedi ki: Ebu'n-Nadr Ebu Enes'ten şöyle dediğini nakletti: Ebu Enes: Yanında da Resulullah (Sallallahu aleyhi ve Sellem)'in ashabından bazı adamlar da vardı, dedi. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf,",
+			"text": "Bize Kuteybe b. Said, Ebu Bekr b. Ebi Şeybe ve Zuheyr b. Harb -lafız Kuteybe ve Ebu Bekir'e aittir - tahdis edip dediler ki: Bize Vekl', Süfyan'dan tahdis etti, o Ebu'n-Nadr'dan, o Enes'ten rivayet ettiğine göre Osman (mescidin yakınındaki) oturmak için ayrılmış yerlerde abdest aldı ve: Size Resulullah (Sallallahu aleyhi ve Sellem)'in nasıl abdest aldığını göstereyim mi, dedikten sonra (abdest azalarını) üçer üçer yıkayarak abdest aldı. Kuteybe rivayetinde şu fazlalığı eklemiştir: Süfyan dedi ki: Ebu'n-Nadr Ebu Enes'ten şöyle dediğini nakletti: Ebu Enes: Yanında da Resulullah (Sallallahu aleyhi ve Sellem)'in ashabından bazı adamlar da vardı, dedi. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf",
 			"grades": [],
 			"reference": {
 				"book": 2,

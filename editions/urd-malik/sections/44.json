@@ -3,6 +3,14 @@
 		"name": "Muwatta Malik",
 		"section": {
 			"44": "The Oath of Qasama"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 1596,
+				"hadithnumber_last": 1597,
+				"arabicnumber_first": 1596,
+				"arabicnumber_last": 1597
+			}
 		}
 	},
 	"hadiths": [

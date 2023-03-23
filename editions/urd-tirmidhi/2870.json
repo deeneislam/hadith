@@ -3,6 +3,14 @@
 		"name": "Jami At Tirmidhi",
 		"section": {
 			"44": "Chapters on Parables"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 2859,
+				"hadithnumber_last": 2874,
+				"arabicnumber_first": 2859,
+				"arabicnumber_last": 2874
+			}
 		}
 	},
 	"hadiths": [

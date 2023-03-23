@@ -3,6 +3,14 @@
 		"name": "Jami At Tirmidhi",
 		"section": {
 			"3": "The Book on Al-Witr"
+		},
+		"section_detail": {
+			"3": {
+				"hadithnumber_first": 452,
+				"hadithnumber_last": 487,
+				"arabicnumber_first": 452,
+				"arabicnumber_last": 487
+			}
 		}
 	},
 	"hadiths": [

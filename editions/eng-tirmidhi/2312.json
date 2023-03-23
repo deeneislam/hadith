@@ -3,6 +3,14 @@
 		"name": "Jami At Tirmidhi",
 		"section": {
 			"36": "Chapters On Zuhd"
+		},
+		"section_detail": {
+			"36": {
+				"hadithnumber_first": 2304,
+				"hadithnumber_last": 2414,
+				"arabicnumber_first": 2304,
+				"arabicnumber_last": 2414
+			}
 		}
 	},
 	"hadiths": [

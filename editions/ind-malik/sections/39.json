@@ -3,6 +3,14 @@
 		"name": "Muwatta Malik",
 		"section": {
 			"39": "The Mukatab"
+		},
+		"section_detail": {
+			"39": {
+				"hadithnumber_first": 1489,
+				"hadithnumber_last": 1496,
+				"arabicnumber_first": 1489,
+				"arabicnumber_last": 1496
+			}
 		}
 	},
 	"hadiths": [

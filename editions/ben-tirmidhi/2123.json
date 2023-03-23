@@ -3,6 +3,14 @@
 		"name": "Jami At Tirmidhi",
 		"section": {
 			"30": "Chapters On Wasaya (Wills and Testament)"
+		},
+		"section_detail": {
+			"30": {
+				"hadithnumber_first": 2116,
+				"hadithnumber_last": 2124,
+				"arabicnumber_first": 2116,
+				"arabicnumber_last": 2124
+			}
 		}
 	},
 	"hadiths": [

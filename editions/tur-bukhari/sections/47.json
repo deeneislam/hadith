@@ -3,13 +3,21 @@
 		"name": "Sahih al Bukhari",
 		"section": {
 			"47": "Partnership"
+		},
+		"section_detail": {
+			"47": {
+				"hadithnumber_first": 2483,
+				"hadithnumber_last": 2507,
+				"arabicnumber_first": 2483,
+				"arabicnumber_last": 2507
+			}
 		}
 	},
 	"hadiths": [
 		{
 			"hadithnumber": 2483,
 			"arabicnumber": 2483,
-			"text": "Cabir İbn Abdullah'tan rivayet edilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem sahil tarafına bir birlik gönderdi. Başlarına da Ebu Ubeyde bin Cerrah'ı komutan tayin etti. Üç yüz kişilerdi ve ben de onların arasında bulunuyordum. Yola çıktık. Yolda bir süre ilerledikten sonra azığımız bitti. Bunun üzerine Ebu Ubeyde, orduda bulunan bütün azıkların getirilmesini emretti ve azıklar toplandı ve iki kap dolusu kuru hurma oldu. Ebu Ubeyde bize ondan azar azar veriyordu. Derken o da tükendi. Artık kişi başına sadece bir hurma almaya başlamıştık. Ben \"bir hurma neye yeter ki\" dedim. Hurmalar tamamen tükenince çok zorluk çektik. Bir süre sonra sahile vardık. Sahilde dağ gibi bir balina ile karşılaştık. Ordu o balinadan tam on sekiz gün yedi. Sonra Ebu Ubeyde'nin emri üzerine balinanın iki kemiği havaya dikildi, deve semerlendi ve kemiklerin altından geçti ve kemiklere değmedi. Tekrar: 2983, 4360, 4361, 4",
+			"text": "Cabir İbn Abdullah'tan rivayet edilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem sahil tarafına bir birlik gönderdi. Başlarına da Ebu Ubeyde bin Cerrah'ı komutan tayin etti. Üç yüz kişilerdi ve ben de onların arasında bulunuyordum. Yola çıktık. Yolda bir süre ilerledikten sonra azığımız bitti. Bunun üzerine Ebu Ubeyde, orduda bulunan bütün azıkların getirilmesini emretti ve azıklar toplandı ve iki kap dolusu kuru hurma oldu. Ebu Ubeyde bize ondan azar azar veriyordu. Derken o da tükendi. Artık kişi başına sadece bir hurma almaya başlamıştık. Ben \"bir hurma neye yeter ki\" dedim. Hurmalar tamamen tükenince çok zorluk çektik. Bir süre sonra sahile vardık. Sahilde dağ gibi bir balina ile karşılaştık. Ordu o balinadan tam on sekiz gün yedi. Sonra Ebu Ubeyde'nin emri üzerine balinanın iki kemiği havaya dikildi, deve semerlendi ve kemiklerin altından geçti ve kemiklere değmedi. Tekrar: 2983",
 			"grades": [],
 			"reference": {
 				"book": 47,
@@ -89,7 +97,7 @@
 		{
 			"hadithnumber": 2491,
 			"arabicnumber": 2491,
-			"text": "Abdullah İbn Ömer r.a.'den nakledilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Bir köledeki payını azad eden kişinin, adil bir kişinin biçtiği değere göre köleyi satın alacak parası varsa köle tamamen azad olur. Yoksa köleden sadece azad ettiği pay azad olur. \" Tekrar: 2503, 2521, 2",
+			"text": "Abdullah İbn Ömer r.a.'den nakledilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Bir köledeki payını azad eden kişinin, adil bir kişinin biçtiği değere göre köleyi satın alacak parası varsa köle tamamen azad olur. Yoksa köleden sadece azad ettiği pay azad olur. \" Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 47,
@@ -99,7 +107,7 @@
 		{
 			"hadithnumber": 2492,
 			"arabicnumber": 2492,
-			"text": "Ebu Hureyre r.a.'den rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Bir kimse kölesini kısmen azad ederse kendi malından köleyi özgürlüğüne kavuşturması gerekir. Malı yoksa köleye adil bir kişi tarafından değer biçilir, sonra zorlanmaksızın değerini ödeyinceye kadar çalıştırılır. \" Tekrar: 2",
+			"text": "Ebu Hureyre r.a.'den rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Bir kimse kölesini kısmen azad ederse kendi malından köleyi özgürlüğüne kavuşturması gerekir. Malı yoksa köleye adil bir kişi tarafından değer biçilir, sonra zorlanmaksızın değerini ödeyinceye kadar çalıştırılır. \" Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 47,
@@ -119,7 +127,7 @@
 		{
 			"hadithnumber": 2494,
 			"arabicnumber": 2494,
-			"text": "Urve İbn Zübeyr r.a.'den rivayet edilmiştir: Urve, Aişe r.anha'ya: \"Eğer (kendileriyle evlendiğiniz takdirde) yetimlerin haklarına riayet edememekten korkarsanız beğendiğiniz (veya size helal olan) kadınlardan ikişer, üçer, dörder alın\" [Nisa 3] ayetinin hükmünü sordu. O da şöyle cevap verdi: \"Kız kardeşimin oğlu! Bu, velisinin evinde bulunan ve malı onunla ortak olan yetim kızdır. Kızın malı ve güzelliği velisini cezbeder ve mehrinde adaletsizlik ederek onunla evlenmek ister ve ona diğer kadınlara verdiği mehir kadar verir. İşte bu ayette kadınlara verilen mehrin en büyüğünü vermeden onlarla evlenmeleri yasaklanmış ve onların dışında hoşlarına giden başka kadınlarla evlenmeleri emredilmiştir. Urve, Aişe'nin şöyle devam ettiğini nakletmiştir: Bu ayet indikten sonra ashabın erkekleri gelerek Nebi Sallallahu Aleyhi ve Sellem'den fetva istediler. Bunun üzerine \"Senden kadınlar hakkında fetva istiyorlar. De ki: onlara ait hükmü size Allah açıklıyor: Kitap'ta, kendileri için yazılmışı (mirası) vermeyip nikahlamak istediğiniz yetim kadınlar, çaresiz çocuklar ve yetimlere karşı adil olmanız hakkında size okunan ayetler (Allah'ın hükmünü apaçık ortaya koymaktadır)\" [Nisa 127] ayeti indirildi. Allah'ın size okunacağını bildirdiği ayet, \"Eğer (kendileriyle evlendiğiniz taktirde) yetimlerin haklarına riayet edememekten korkarsanız beğendiğiniz (veya size helalolan) kadınlardan ikişer, üçer, dörder alın\" [Nisa 3] ayetidir. Aişe yukarıdaki ayette geçen \"nikahlamak istediğiniz yetim kadınlar\" ifadesi ile ilgili şu açıklamayı yapmıştır: Bu, evinizde (korumanız altında) olan yetim kızdan, malı ve güzelliği az iken yüz çevirip evlenmek istememenizdir. Malı az olan ve güzelolmayan yetim kızlarla evlenmek istemediklerinden dolayı, ayette, insanların yetim kızların malını elde etmek arzusuyla onlara mehirlerini adilane vermeden evlenmeleri yasaklanmıştır. Tekrar: 2763, 4573, 4574, 4600, 5064, 5092, 5098, 5128, 5",
+			"text": "Urve İbn Zübeyr r.a.'den rivayet edilmiştir: Urve, Aişe r.anha'ya: \"Eğer (kendileriyle evlendiğiniz takdirde) yetimlerin haklarına riayet edememekten korkarsanız beğendiğiniz (veya size helal olan) kadınlardan ikişer, üçer, dörder alın\" [Nisa 3] ayetinin hükmünü sordu. O da şöyle cevap verdi: \"Kız kardeşimin oğlu! Bu, velisinin evinde bulunan ve malı onunla ortak olan yetim kızdır. Kızın malı ve güzelliği velisini cezbeder ve mehrinde adaletsizlik ederek onunla evlenmek ister ve ona diğer kadınlara verdiği mehir kadar verir. İşte bu ayette kadınlara verilen mehrin en büyüğünü vermeden onlarla evlenmeleri yasaklanmış ve onların dışında hoşlarına giden başka kadınlarla evlenmeleri emredilmiştir. Urve, Aişe'nin şöyle devam ettiğini nakletmiştir: Bu ayet indikten sonra ashabın erkekleri gelerek Nebi Sallallahu Aleyhi ve Sellem'den fetva istediler. Bunun üzerine \"Senden kadınlar hakkında fetva istiyorlar. De ki: onlara ait hükmü size Allah açıklıyor: Kitap'ta, kendileri için yazılmışı (mirası) vermeyip nikahlamak istediğiniz yetim kadınlar, çaresiz çocuklar ve yetimlere karşı adil olmanız hakkında size okunan ayetler (Allah'ın hükmünü apaçık ortaya koymaktadır)\" [Nisa 127] ayeti indirildi. Allah'ın size okunacağını bildirdiği ayet, \"Eğer (kendileriyle evlendiğiniz taktirde) yetimlerin haklarına riayet edememekten korkarsanız beğendiğiniz (veya size helalolan) kadınlardan ikişer, üçer, dörder alın\" [Nisa 3] ayetidir. Aişe yukarıdaki ayette geçen \"nikahlamak istediğiniz yetim kadınlar\" ifadesi ile ilgili şu açıklamayı yapmıştır: Bu, evinizde (korumanız altında) olan yetim kızdan, malı ve güzelliği az iken yüz çevirip evlenmek istememenizdir. Malı az olan ve güzelolmayan yetim kızlarla evlenmek istemediklerinden dolayı, ayette, insanların yetim kızların malını elde etmek arzusuyla onlara mehirlerini adilane vermeden evlenmeleri yasaklanmıştır. Tekrar: 2763, 4573, 4574, 4600, 5064, 5092",
 			"grades": [],
 			"reference": {
 				"book": 47,

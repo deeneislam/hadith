@@ -3,6 +3,14 @@
 		"name": "Sunan Ibn Majah",
 		"section": {
 			"6": "Chapters Regarding Funerals"
+		},
+		"section_detail": {
+			"6": {
+				"hadithnumber_first": 1433,
+				"hadithnumber_last": 1637,
+				"arabicnumber_first": 1433,
+				"arabicnumber_last": 1637
+			}
 		}
 	},
 	"hadiths": [

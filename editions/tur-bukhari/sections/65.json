@@ -3,6 +3,14 @@
 		"name": "Sahih al Bukhari",
 		"section": {
 			"65": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))"
+		},
+		"section_detail": {
+			"65": {
+				"hadithnumber_first": 4474,
+				"hadithnumber_last": 4977,
+				"arabicnumber_first": 4474,
+				"arabicnumber_last": 4977
+			}
 		}
 	},
 	"hadiths": [
@@ -3129,7 +3137,7 @@
 		{
 			"hadithnumber": 4791,
 			"arabicnumber": 4791,
-			"text": "Enes İbn Malik'ten rivayet edildiğine göre, o şöyle demiştir: \"Resulullah Sallallahu Aleyhi ve Sellem Zeyneb bint Cahş ile evlendiği zaman, insanları [ziyafete] davet etti. İnsanlar gelip yediler, sonra oturup konuştular. Allah Resu.ıü sallallahu aleyhi ve sellem kalkmaya hazırlanır gibi oldu, ama onlar kalkmadılar. Hz. Nebi onların bu halini görünce kendisi kalktı. Onun kalkmasıyla cemaatte kalktı. Ancak üç kişi oturmaya devam etti. Nebi Sallallahu Aleyhi ve Sellem içeri girmek üzere geldi. Bir de ne görsün, adamlar hala orada oturuyorlar. Sonra adamlar kalktı. Hemen Allah Resulü Sallallahu Aleyhi ve Sellem'in yanına gittim ve ona insanların gittiğini haber verdim. Bunun üzerine Allah Resulü Sallallahu Aleyhi ve Sellem geldi ve içeri girdi. Ben de içeri girmek için gittim. Ancak Rasulullah sallallahu aleyhi ve sellem onunla benim arama perde çekti. Bunun üzerine Allah Teala 'Ey iman edenler! Nebiin evlerine girmeyin! .. ' ayetini indirdi.\" Hadisin geçtiği diğer yerler: 4792, 4793, 4794, 5154, 5163, 5166, 5167, 5170, 5171, 5466, 238, 6",
+			"text": "Enes İbn Malik'ten rivayet edildiğine göre, o şöyle demiştir: \"Resulullah Sallallahu Aleyhi ve Sellem Zeyneb bint Cahş ile evlendiği zaman, insanları [ziyafete] davet etti. İnsanlar gelip yediler, sonra oturup konuştular. Allah Resu.ıü sallallahu aleyhi ve sellem kalkmaya hazırlanır gibi oldu, ama onlar kalkmadılar. Hz. Nebi onların bu halini görünce kendisi kalktı. Onun kalkmasıyla cemaatte kalktı. Ancak üç kişi oturmaya devam etti. Nebi Sallallahu Aleyhi ve Sellem içeri girmek üzere geldi. Bir de ne görsün, adamlar hala orada oturuyorlar. Sonra adamlar kalktı. Hemen Allah Resulü Sallallahu Aleyhi ve Sellem'in yanına gittim ve ona insanların gittiğini haber verdim. Bunun üzerine Allah Resulü Sallallahu Aleyhi ve Sellem geldi ve içeri girdi. Ben de içeri girmek için gittim. Ancak Rasulullah sallallahu aleyhi ve sellem onunla benim arama perde çekti. Bunun üzerine Allah Teala 'Ey iman edenler! Nebiin evlerine girmeyin! .. ' ayetini indirdi.\" Hadisin geçtiği diğer yerler: 4792, 4793, 4794, 5154, 5163, 5166, 5167, 5170, 517",
 			"grades": [],
 			"reference": {
 				"book": 65,
@@ -3509,7 +3517,7 @@
 		{
 			"hadithnumber": 4830,
 			"arabicnumber": 4830,
-			"text": "Ebu Hureyre'den Hz. Nebi'in şöyle buyurduğU rivayet edilmiştir: Allah Teala tüm mahlukatı yaratıp yaratmayı bitirince, rahim/akrabalzk bağı kalkıp Rahmdn'zn (azamet izdnnzn) bir ucundan tuttu. Allah Teala ona; \"Ne istiyorsun?\" diye sordu. O da şöyle cevap verdi: \"Benim bu şekildekalkmam, ilişkileri kesilen birinin kalkışıdır. Bunun üzerine Allah Teala: \"Seninle bağ kuranlar ile bağ kurmama; seninle bağlarını koparanlarla bağlarımı koparmama razı olur musun?\" buyurdu. O da; \"Elbette Ey Rabbim!\" diye karşılık verdi. Allah Ted/d da; \"Bundan sonra böyle olacak ... \" şeklinde hükmetti. Ebu Hureyre şöyle demiştir: Dilerseniz \"Geri dönerseniz, yeryüzünde bozgunculuk yapmaya ve akrabalık bağlannı kesmeye dönmüş olmaz mısınız?\" ayetini okuyun, Hadisin geçtiği diğer yerler: 4831, 4",
+			"text": "Ebu Hureyre'den Hz. Nebi'in şöyle buyurduğU rivayet edilmiştir: Allah Teala tüm mahlukatı yaratıp yaratmayı bitirince, rahim/akrabalzk bağı kalkıp Rahmdn'zn (azamet izdnnzn) bir ucundan tuttu. Allah Teala ona; \"Ne istiyorsun?\" diye sordu. O da şöyle cevap verdi: \"Benim bu şekildekalkmam, ilişkileri kesilen birinin kalkışıdır. Bunun üzerine Allah Teala: \"Seninle bağ kuranlar ile bağ kurmama; seninle bağlarını koparanlarla bağlarımı koparmama razı olur musun?\" buyurdu. O da; \"Elbette Ey Rabbim!\" diye karşılık verdi. Allah Ted/d da; \"Bundan sonra böyle olacak ... \" şeklinde hükmetti. Ebu Hureyre şöyle demiştir: Dilerseniz \"Geri dönerseniz, yeryüzünde bozgunculuk yapmaya ve akrabalık bağlannı kesmeye dönmüş olmaz mısınız?\" ayetini okuyun, Hadisin geçtiği diğer yerler:",
 			"grades": [],
 			"reference": {
 				"book": 65,
@@ -4059,7 +4067,7 @@
 		{
 			"hadithnumber": 4886,
 			"arabicnumber": 4886,
-			"text": "Abdullah İbn Mes'ud'un şöyle söylediği rivayet edilmiştir: \"Allah Teala dövme yaptıran, dövme yapan, yüzlerindeki kılları alan, güzel görünmek için dişlerinin arasını ayrık hale getiren ve Allah'ın yarattığını değiştiren kadınlara lanet etmiştir.\" Onun bu sözü Esed kabilesinden Ümmü Ya'kub adındaki bir kadının kulağına gitti. Bunun üzerine Ümmü Ya'kub ona gidip \"Bana senin şu, şu kadınlara la'net okuduğun haberi geldi,\" dedi. Bunun üzerine İbn Mes'ud şöyle dedi: \"Allah Resulü Sallallahu Aleyhi ve Sellem'in lanetlediği ve Allah'ın kitabında lanetlenmiş olan insanları benim lanetlememde ne var ki?\" Buna karşılık olarak kadın: \"Yemin ederim ki, Mushaf'ın iki kapağı arasındaki ayetleri okudum. Ancak senin söylediğini Kur'an'da bulamadım,\" diyerek itiraz etti. İbn Mes'ud: \"Şayet Kur'an'ı baştan sona okuduysan, benim söylediğimi Kur'an'da görmüşsündür. Allah Teala: 'Nebi size ne verdiyse onu alın, size ne yasakladıysa ondan da sakının,' buyurmuyar mu?\" dedi. Kadın: \"Elbette buyuruyor,\" şeklinde cevap verdi. İbn Mes'ud: \"Hz. Nebi bütün bunları yasaklamıştır,\" dedi. Bu defa kadın: \"Ben senin eşinin de bunları yaptığını gördüm\" dedi. Bunun üzerine İbn Mes'ud: \"Git bak bakalım\" dedi. Kadın gitti, ancak aradığını bulamadı. Bunun üzerine İbn Mes'ud şöyle dedi: \"Eğer eşim bunlardan birini yapsaydı, onunla birlikte olmazdım!\" Hadisin geçtiği diğer yerler: 4887, 5931, 5",
+			"text": "Abdullah İbn Mes'ud'un şöyle söylediği rivayet edilmiştir: \"Allah Teala dövme yaptıran, dövme yapan, yüzlerindeki kılları alan, güzel görünmek için dişlerinin arasını ayrık hale getiren ve Allah'ın yarattığını değiştiren kadınlara lanet etmiştir.\" Onun bu sözü Esed kabilesinden Ümmü Ya'kub adındaki bir kadının kulağına gitti. Bunun üzerine Ümmü Ya'kub ona gidip \"Bana senin şu, şu kadınlara la'net okuduğun haberi geldi,\" dedi. Bunun üzerine İbn Mes'ud şöyle dedi: \"Allah Resulü Sallallahu Aleyhi ve Sellem'in lanetlediği ve Allah'ın kitabında lanetlenmiş olan insanları benim lanetlememde ne var ki?\" Buna karşılık olarak kadın: \"Yemin ederim ki, Mushaf'ın iki kapağı arasındaki ayetleri okudum. Ancak senin söylediğini Kur'an'da bulamadım,\" diyerek itiraz etti. İbn Mes'ud: \"Şayet Kur'an'ı baştan sona okuduysan, benim söylediğimi Kur'an'da görmüşsündür. Allah Teala: 'Nebi size ne verdiyse onu alın, size ne yasakladıysa ondan da sakının,' buyurmuyar mu?\" dedi. Kadın: \"Elbette buyuruyor,\" şeklinde cevap verdi. İbn Mes'ud: \"Hz. Nebi bütün bunları yasaklamıştır,\" dedi. Bu defa kadın: \"Ben senin eşinin de bunları yaptığını gördüm\" dedi. Bunun üzerine İbn Mes'ud: \"Git bak bakalım\" dedi. Kadın gitti, ancak aradığını bulamadı. Bunun üzerine İbn Mes'ud şöyle dedi: \"Eğer eşim bunlardan birini yapsaydı, onunla birlikte olmazdım!\" Hadisin geçtiği diğer yerler:",
 			"grades": [],
 			"reference": {
 				"book": 65,

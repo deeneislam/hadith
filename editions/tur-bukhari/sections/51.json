@@ -3,6 +3,14 @@
 		"name": "Sahih al Bukhari",
 		"section": {
 			"51": "Gifts"
+		},
+		"section_detail": {
+			"51": {
+				"hadithnumber_first": 2566,
+				"hadithnumber_last": 2636,
+				"arabicnumber_first": 2566,
+				"arabicnumber_last": 2636
+			}
 		}
 	},
 	"hadiths": [
@@ -89,7 +97,7 @@
 		{
 			"hadithnumber": 2574,
 			"arabicnumber": 2574,
-			"text": "Aişe (r.anha)'den rivayet edilmiştir: İnsanlar, Nebi Sallallahu Aleyhi ve Sellem'e hediye vererek O'nun hoşnutluğunu kazanmak için Aişe'nin evinde bulunacağı günü gözlerlerdi. Tekrar. 2",
+			"text": "Aişe (r.anha)'den rivayet edilmiştir: İnsanlar, Nebi Sallallahu Aleyhi ve Sellem'e hediye vererek O'nun hoşnutluğunu kazanmak için Aişe'nin evinde bulunacağı günü gözlerlerdi. Tekrar",
 			"grades": [],
 			"reference": {
 				"book": 51,
@@ -99,7 +107,7 @@
 		{
 			"hadithnumber": 2575,
 			"arabicnumber": 2575,
-			"text": "İbn Abbas r.a.'dan rivayet edilmiştir: İbn Abbas'ın teyzesi Ümmü Hufeyd, Nebi Sallallahu Aleyhi ve Sellem'e keş, tereyağı ve birkaç keler hediye etmişti. Nebi Sallallahu Aleyhi ve Sellem keş'i ve tereyağını yedi; kelerleri ise tiksindiğinden dolayı yemedi. İbn Abbas r.a. dedi ki: \"Kelerler Hz. Nebi'in sofrasında yeniidi. Haram olsaydı Allah Resulü'nün sofrasında yenilmezdi.\" Tekrar: 5",
+			"text": "İbn Abbas r.a.'dan rivayet edilmiştir: İbn Abbas'ın teyzesi Ümmü Hufeyd, Nebi Sallallahu Aleyhi ve Sellem'e keş, tereyağı ve birkaç keler hediye etmişti. Nebi Sallallahu Aleyhi ve Sellem keş'i ve tereyağını yedi; kelerleri ise tiksindiğinden dolayı yemedi. İbn Abbas r.a. dedi ki: \"Kelerler Hz. Nebi'in sofrasında yeniidi. Haram olsaydı Allah Resulü'nün sofrasında yenilmezdi.\" Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 51,
@@ -269,7 +277,7 @@
 		{
 			"hadithnumber": 2593,
 			"arabicnumber": 2593,
-			"text": "Aişe r.anha'dan rivayet edilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem yolculuğa çıkacağı zaman eşleri arasında kura çekerdi. Kura kime çıkarsa onu beraberinde götürürdü. Her bir eşine bir gece ve gündüzünü paylaştırmıştı. Ancak Sevde binti Zem'a, Allah Resulü'nün rızasını umarak gününü ve gecesini Hz. Nebi'in eşi Aişe'ye bağışlamıştı. Tekrar: 2637, 2661, 2688, 2879, 4035, 4141, 4690, 4749, 4750, 4757, 5212, 6662, 6679, 7",
+			"text": "Aişe r.anha'dan rivayet edilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem yolculuğa çıkacağı zaman eşleri arasında kura çekerdi. Kura kime çıkarsa onu beraberinde götürürdü. Her bir eşine bir gece ve gündüzünü paylaştırmıştı. Ancak Sevde binti Zem'a, Allah Resulü'nün rızasını umarak gününü ve gecesini Hz. Nebi'in eşi Aişe'ye bağışlamıştı. Tekrar: 2637, 2661, 2688, 2879, 4035, 4141, 4690, 4749, 4750, 4757, 5212",
 			"grades": [],
 			"reference": {
 				"book": 51,
@@ -329,7 +337,7 @@
 		{
 			"hadithnumber": 2599,
 			"arabicnumber": 2599,
-			"text": "Misver b. Mahreme r.a.'den rivayet edilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem birkaç kaftan dağıtmıştı ama Mahreme'ye bir şey vermemişti. Mahreme \"Oğlum! Hadi Allah Resulü'nün yanına gidelim\" dedi. Birlikte gittik. \"İçeri gir de, Hz. Nebi'e dışarı çıkmasını arz et\" dedi. Ben de Hz. Nebi'i babamın yanına çağırdım. Nebi Sallallahu Aleyhi ve Sellem üzerinde bir kaftanla dışarı çıkarak: \"Bunu senin için sakladık\" buyurdu. Mahreme kaftana baktı. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem \"Mahreme memnun oldu mu?\" buyurdu. Tekrar: 2657, 3127, 5",
+			"text": "Misver b. Mahreme r.a.'den rivayet edilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem birkaç kaftan dağıtmıştı ama Mahreme'ye bir şey vermemişti. Mahreme \"Oğlum! Hadi Allah Resulü'nün yanına gidelim\" dedi. Birlikte gittik. \"İçeri gir de, Hz. Nebi'e dışarı çıkmasını arz et\" dedi. Ben de Hz. Nebi'i babamın yanına çağırdım. Nebi Sallallahu Aleyhi ve Sellem üzerinde bir kaftanla dışarı çıkarak: \"Bunu senin için sakladık\" buyurdu. Mahreme kaftana baktı. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem \"Mahreme memnun oldu mu?\" buyurdu. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 51,
@@ -519,7 +527,7 @@
 		{
 			"hadithnumber": 2620,
 			"arabicnumber": 2620,
-			"text": "Esma binti Ebi Bekir'den rivayet edilmiştir: Allah Resulü döneminde, annem müşrik olarak (henüz Müslüman değilken) yanıma geldi. Ben de Hz. Nebi'e: \"Annem geldi, benim kendisine iyi davranmamı umuyor (kendisine sırt dönüp onu ortada bırakmamdan korkuyor). Ona iyilik edeyim mi?\" diye danıştım. Nebi Sallallahu Aleyhi ve Sellem: \"Evet, annene iyilik et\" buyurdu. Tekrar: 3",
+			"text": "Esma binti Ebi Bekir'den rivayet edilmiştir: Allah Resulü döneminde, annem müşrik olarak (henüz Müslüman değilken) yanıma geldi. Ben de Hz. Nebi'e: \"Annem geldi, benim kendisine iyi davranmamı umuyor (kendisine sırt dönüp onu ortada bırakmamdan korkuyor). Ona iyilik edeyim mi?\" diye danıştım. Nebi Sallallahu Aleyhi ve Sellem: \"Evet, annene iyilik et\" buyurdu. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 51,
@@ -589,7 +597,7 @@
 		{
 			"hadithnumber": 2627,
 			"arabicnumber": 2627,
-			"text": "Katade'den rivayet edilmiştir: Enes b. Malik'i şöyle derken işittim: Medine'de bir düşman korkusu olmuştu. Nebi Sallallahu Aleyhi ve Sellem Ebu Talha'nın atını ödünç aldı. Bu atın adı \"Mendub\" idi. (Etrafı kontrol edip) dönünce \"Korkacak bir şey görmedik, bu atı da deniz (gibi iyi koşar) bulduk\" buyurdu. Tekrar: 2820, 2857, 2862, 2867, 2908, 2968, 2969, 3",
+			"text": "Katade'den rivayet edilmiştir: Enes b. Malik'i şöyle derken işittim: Medine'de bir düşman korkusu olmuştu. Nebi Sallallahu Aleyhi ve Sellem Ebu Talha'nın atını ödünç aldı. Bu atın adı \"Mendub\" idi. (Etrafı kontrol edip) dönünce \"Korkacak bir şey görmedik, bu atı da deniz (gibi iyi koşar) bulduk\" buyurdu. Tekrar: 2820, 2857, 2862, 2867, 2908",
 			"grades": [],
 			"reference": {
 				"book": 51,
@@ -619,7 +627,7 @@
 		{
 			"hadithnumber": 2630,
 			"arabicnumber": 2630,
-			"text": "Enes b. Malik r.a.'den rivayet edilmiştir: Muhacirler Mekke'den Medine'ye gelmişlerdi ve ellerinde hiç malları yoktu. Ensarın ise tarlaları ve gayrimenkulleri vardı. Ensar, muhacirlerle tarlalarını paylaştılar. Muhacirler tarlaların bakımını yapacak, ensar da çıkan ürünü onlarla paylaşacaktı. Enes'in annesi Ümmü Süleym -ki Abdullah b. Ebu Talha'nın da annesiydi- Allah Resulü Sallallahu Aleyhi ve Sellem'e birkaç hurma ağacı vermişti. Hz. Nebi Sallallahu Aleyhi ve Sellem de onları azatlı cariyesi ve Üsame b. Zeyd'in annesi olan Üm mü Eymen'e vermişti. İbn Şihab şöyle demiştir: Enes b. Malik bana şöyle anlatmıştı: Nebi Sallallahu Aleyhi ve Sellem Hayber halkı ile savaş sona erip de Medine'ye dönünce muhacirlerin meyvesinden faydalandıkları ağaçları ensara geri verdiler. Hz. Nebi de hurma ağaçlarını Enes'in annesine geri verdi ve bu ağaçlar yerine Ümmü Eymen'e kendi bahçesinin bir bölümünü verdi. Tekrar 3",
+			"text": "Enes b. Malik r.a.'den rivayet edilmiştir: Muhacirler Mekke'den Medine'ye gelmişlerdi ve ellerinde hiç malları yoktu. Ensarın ise tarlaları ve gayrimenkulleri vardı. Ensar, muhacirlerle tarlalarını paylaştılar. Muhacirler tarlaların bakımını yapacak, ensar da çıkan ürünü onlarla paylaşacaktı. Enes'in annesi Ümmü Süleym -ki Abdullah b. Ebu Talha'nın da annesiydi- Allah Resulü Sallallahu Aleyhi ve Sellem'e birkaç hurma ağacı vermişti. Hz. Nebi Sallallahu Aleyhi ve Sellem de onları azatlı cariyesi ve Üsame b. Zeyd'in annesi olan Üm mü Eymen'e vermişti. İbn Şihab şöyle demiştir: Enes b. Malik bana şöyle anlatmıştı: Nebi Sallallahu Aleyhi ve Sellem Hayber halkı ile savaş sona erip de Medine'ye dönünce muhacirlerin meyvesinden faydalandıkları ağaçları ensara geri verdiler. Hz. Nebi de hurma ağaçlarını Enes'in annesine geri verdi ve bu ağaçlar yerine Ümmü Eymen'e kendi bahçesinin bir bölümünü verdi. Tekrar",
 			"grades": [],
 			"reference": {
 				"book": 51,

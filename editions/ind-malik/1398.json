@@ -3,6 +3,14 @@
 		"name": "Muwatta Malik",
 		"section": {
 			"35": "Pre-emption in Property"
+		},
+		"section_detail": {
+			"35": {
+				"hadithnumber_first": 1395,
+				"hadithnumber_last": 1398,
+				"arabicnumber_first": 1395,
+				"arabicnumber_last": 1398
+			}
 		}
 	},
 	"hadiths": [

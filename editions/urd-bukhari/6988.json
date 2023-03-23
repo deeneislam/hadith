@@ -3,6 +3,14 @@
 		"name": "Sahih al Bukhari",
 		"section": {
 			"91": "Interpretation of Dreams"
+		},
+		"section_detail": {
+			"91": {
+				"hadithnumber_first": 6982,
+				"hadithnumber_last": 7047,
+				"arabicnumber_first": 6982,
+				"arabicnumber_last": 7047
+			}
 		}
 	},
 	"hadiths": [

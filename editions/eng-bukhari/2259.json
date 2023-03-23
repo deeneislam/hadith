@@ -3,6 +3,14 @@
 		"name": "Sahih al Bukhari",
 		"section": {
 			"36": "Shuf'a"
+		},
+		"section_detail": {
+			"36": {
+				"hadithnumber_first": 2257,
+				"hadithnumber_last": 2259,
+				"arabicnumber_first": 2257,
+				"arabicnumber_last": 2259
+			}
 		}
 	},
 	"hadiths": [

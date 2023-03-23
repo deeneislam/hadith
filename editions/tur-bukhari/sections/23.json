@@ -3,6 +3,14 @@
 		"name": "Sahih al Bukhari",
 		"section": {
 			"23": "Funerals (Al-Janaa'iz)"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 1237,
+				"hadithnumber_last": 1394,
+				"arabicnumber_first": 1237,
+				"arabicnumber_last": 1394
+			}
 		}
 	},
 	"hadiths": [
@@ -59,7 +67,7 @@
 		{
 			"hadithnumber": 1243,
 			"arabicnumber": 1243,
-			"text": "İbni Şihab şöyle demiştir: Zeyd İbn Sabit'in oğlu Harice bana şöyle dedi: Ensar'dan bir kadın olan Ümmü'l-Ala Nebi Sallallahu Aleyhi ve Sellem'e bîat eden kadınlardandı. O şöyle demiştir: Medine'ye hicret eden muhacirler Medine'de (ensara) kur'a ile taksim edildiler. Bizim ailenin payına da Osman İbn Maz'un düştü. Biz onu evimizde ağırladık. Ölüm hastalığına yakalandı. Ölünce yıkandı ve kendi elbisesi ile kefenlendi. Resulullah Sallallahu Aleyhi ve Sellem içeri girdi. Ben şöyle dedim: \"Ey Ebu Saib (Osman İbn Maz'un)! Allah'ın rahmeti senin üzerine olsun. Allah'ın sana ikramda bulunduğuna dair şahitlik ederim.\" Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Allah'ın ona ikramda bulunduğunu nereden biliyorsun?\" dedi. Ben: \"(Anam) babam sana feda olsun ey Allah'ın Resulü! Allah (Osman'a merhamet etmezse) kime merhamet eder?\" dedim. Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Osman'a ölüm geldi. Vallahi ben de onun için hayır umarım. (Ama şu var ki) vallahi ben Allah'ın Resulü olduğum halde bana (Allah tarafından) ne yapılacağını bilemem.\" Ben dedim ki: \"Vallahi bundan sonra hiç kimseyi tezkiye etmem. Tekrar: 2687, 3929, 7",
+			"text": "İbni Şihab şöyle demiştir: Zeyd İbn Sabit'in oğlu Harice bana şöyle dedi: Ensar'dan bir kadın olan Ümmü'l-Ala Nebi Sallallahu Aleyhi ve Sellem'e bîat eden kadınlardandı. O şöyle demiştir: Medine'ye hicret eden muhacirler Medine'de (ensara) kur'a ile taksim edildiler. Bizim ailenin payına da Osman İbn Maz'un düştü. Biz onu evimizde ağırladık. Ölüm hastalığına yakalandı. Ölünce yıkandı ve kendi elbisesi ile kefenlendi. Resulullah Sallallahu Aleyhi ve Sellem içeri girdi. Ben şöyle dedim: \"Ey Ebu Saib (Osman İbn Maz'un)! Allah'ın rahmeti senin üzerine olsun. Allah'ın sana ikramda bulunduğuna dair şahitlik ederim.\" Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Allah'ın ona ikramda bulunduğunu nereden biliyorsun?\" dedi. Ben: \"(Anam) babam sana feda olsun ey Allah'ın Resulü! Allah (Osman'a merhamet etmezse) kime merhamet eder?\" dedim. Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Osman'a ölüm geldi. Vallahi ben de onun için hayır umarım. (Ama şu var ki) vallahi ben Allah'ın Resulü olduğum halde bana (Allah tarafından) ne yapılacağını bilemem.\" Ben dedim ki: \"Vallahi bundan sonra hiç kimseyi tezkiye etmem. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 23,
@@ -69,7 +77,7 @@
 		{
 			"hadithnumber": 1244,
 			"arabicnumber": 1244,
-			"text": "Cabir (r.a.) şöyle demiştir: Babam (Uhud savaşında) öldürüldüğünde ben onun yüzünü açıp ağlıyordum, Müslümanlar benim böyle yapmamı engelledikleri halde, Nebi Sallallahu Aleyhi ve Sellem beni engellemiyordu. Halam Fatima ağlıyordu. Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Ağlasan da ağlamasan da siz cenazeyi kaldrıncaya kadar melekler onu kanatlarıyla gölgeliyorlar. Tekrar: 1",
+			"text": "Cabir (r.a.) şöyle demiştir: Babam (Uhud savaşında) öldürüldüğünde ben onun yüzünü açıp ağlıyordum, Müslümanlar benim böyle yapmamı engelledikleri halde, Nebi Sallallahu Aleyhi ve Sellem beni engellemiyordu. Halam Fatima ağlıyordu. Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Ağlasan da ağlamasan da siz cenazeyi kaldrıncaya kadar melekler onu kanatlarıyla gölgeliyorlar. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 23,
@@ -89,7 +97,7 @@
 		{
 			"hadithnumber": 1246,
 			"arabicnumber": 1246,
-			"text": "Enes İbn Malik (r.a.) Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu söyledi: \"Sancağı Zeyd aldı. Zeyd şehid edildi. Sonra sancağı Ca'fer aldı, o da şehid edildi. Sonra onu Abdullah İbn Revaha aldı, o da şehid edildi. -Bu sırada Resulullah'ın gözlerinden yaşlar boşalıyordu- (Resulullah devam ederek şöyle dedi:) Sonra sancağı emir olmaksızın Halid İbnu'l-Velid aldı, sonra Allah onun önünü açtı. Tekrar: 2798, 3063, 3",
+			"text": "Enes İbn Malik (r.a.) Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu söyledi: \"Sancağı Zeyd aldı. Zeyd şehid edildi. Sonra sancağı Ca'fer aldı, o da şehid edildi. Sonra onu Abdullah İbn Revaha aldı, o da şehid edildi. -Bu sırada Resulullah'ın gözlerinden yaşlar boşalıyordu- (Resulullah devam ederek şöyle dedi:) Sonra sancağı emir olmaksızın Halid İbnu'l-Velid aldı, sonra Allah onun önünü açtı. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 23,
@@ -139,7 +147,7 @@
 		{
 			"hadithnumber": 1252,
 			"arabicnumber": 1252,
-			"text": "Enes İbn Malik r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem bir kabrin başında ağlayan bir kadın'ın yanına uğradı ve ona: \"Allah'tan kork ve sabret\" dedi. Tekrar: 1",
+			"text": "Enes İbn Malik r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem bir kabrin başında ağlayan bir kadın'ın yanına uğradı ve ona: \"Allah'tan kork ve sabret\" dedi. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 23,
@@ -249,7 +257,7 @@
 		{
 			"hadithnumber": 1264,
 			"arabicnumber": 1264,
-			"text": "Aişe r.anha şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem, pamuk'tan, sehuliyye denilen üç parça beyaz Yemen bezi içinde kefenlendi. Bunların içinde gömlek (kamîs) ve sarık yoktu. Tekrarı: 1271, 1",
+			"text": "Aişe r.anha şöyle demiştir: Resulullah Sallallahu Aleyhi ve Sellem, pamuk'tan, sehuliyye denilen üç parça beyaz Yemen bezi içinde kefenlendi. Bunların içinde gömlek (kamîs) ve sarık yoktu. Tekrarı:",
 			"grades": [],
 			"reference": {
 				"book": 23,
@@ -259,7 +267,7 @@
 		{
 			"hadithnumber": 1265,
 			"arabicnumber": 1265,
-			"text": "İbn-i Abbas r.a. şöyle demiştir: Bir adam Arafat'ta vakfede iken bineğinden düştü. Deve de adam'ın boynunu kırdı (adam derhal öldü). Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"O'nu su ve sidr ile yıkayın ve iki kat ihramı içinde kefenleyin. O'na koku sürmeyin, başını da örtmeyin. Çünkü o kıyamet gününde telbiye getirdiği halde diriltilecektir. Tekrar; 1266, 1267, 1268, 1",
+			"text": "İbn-i Abbas r.a. şöyle demiştir: Bir adam Arafat'ta vakfede iken bineğinden düştü. Deve de adam'ın boynunu kırdı (adam derhal öldü). Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"O'nu su ve sidr ile yıkayın ve iki kat ihramı içinde kefenleyin. O'na koku sürmeyin, başını da örtmeyin. Çünkü o kıyamet gününde telbiye getirdiği halde diriltilecektir. Tekrar; 1266",
 			"grades": [],
 			"reference": {
 				"book": 23,
@@ -309,7 +317,7 @@
 		{
 			"hadithnumber": 1270,
 			"arabicnumber": 1270,
-			"text": "Cabir r.a. şöyle demiştir: Abdullah İbn Ubey defnedildikten sonra Nebi Sallallahu Aleyhi ve Sellem o'nun kabrinin yanına geldi. Onu kabrinden çıkarttı. Mübarek tükürüğünden onun üzerine üfledi, gömleğini ona giydirdi. Tekrar: 1",
+			"text": "Cabir r.a. şöyle demiştir: Abdullah İbn Ubey defnedildikten sonra Nebi Sallallahu Aleyhi ve Sellem o'nun kabrinin yanına geldi. Onu kabrinden çıkarttı. Mübarek tükürüğünden onun üzerine üfledi, gömleğini ona giydirdi. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 23,
@@ -379,7 +387,7 @@
 		{
 			"hadithnumber": 1277,
 			"arabicnumber": 1277,
-			"text": "Sehl r.a. şöyle dedi: Bir kadın elinde kenarlı, dokunmuş bir kaftanla Nebi Sallallahu Aleyhi ve Sellem'in huzuruna girdi. (Sehl yanındakilere) \"Bilir misiniz bürde nedir? Semledir (bütün bedeni örten bir elbisedir)\" dediler. (Sehl): \"Evet\" dedi. (Sehl, olayı anlatmaya devam ederek şöyle dedi): Kadın Nebi Sallallahu Aleyhi ve Sellem'e: \"Bunu kendi ellerimle dokudum ve senin giymen için getirdim\" dedi. Nebi Sallallahu Aleyhi ve Sellem de onu aldı. O sıra o elbiseye ihtiyacı vardı. Sonra Nebi Sallallahu Aleyhi ve Sellem bunu giyerek yanımıza çıktı. Sahabe'den biri bunu güzel bularak şöyle dedi: \"Ya Resulallah! Bu ne güzelmiş. Lütfen bunu bana veriniz\" dedi. (Nebi Sallallahu Aleyhi ve Sellem evine girerek o elbiseyi çıkardı ve onu isteyen kişiye gönderdi). Orada hazır bulunanlar; \"Bunu iyi etmedin. Nebi Sallallahu Aleyhi ve Sellem'in bu elbiseye ihtiyacı vardı. Sen ise onun geri çevirmeyeceğini bilerek ondan bunu istedin\" dediler. Adam: ''Vallahi ben bunu giymek için istemedim. Ben bu elbise kefenim olsun diye istedim\" dedi. (Sehl dedi ki): Gerçekten de bu elbise onun kefeni oldu. Tekrar: 2",
+			"text": "Sehl r.a. şöyle dedi: Bir kadın elinde kenarlı, dokunmuş bir kaftanla Nebi Sallallahu Aleyhi ve Sellem'in huzuruna girdi. (Sehl yanındakilere) \"Bilir misiniz bürde nedir? Semledir (bütün bedeni örten bir elbisedir)\" dediler. (Sehl): \"Evet\" dedi. (Sehl, olayı anlatmaya devam ederek şöyle dedi): Kadın Nebi Sallallahu Aleyhi ve Sellem'e: \"Bunu kendi ellerimle dokudum ve senin giymen için getirdim\" dedi. Nebi Sallallahu Aleyhi ve Sellem de onu aldı. O sıra o elbiseye ihtiyacı vardı. Sonra Nebi Sallallahu Aleyhi ve Sellem bunu giyerek yanımıza çıktı. Sahabe'den biri bunu güzel bularak şöyle dedi: \"Ya Resulallah! Bu ne güzelmiş. Lütfen bunu bana veriniz\" dedi. (Nebi Sallallahu Aleyhi ve Sellem evine girerek o elbiseyi çıkardı ve onu isteyen kişiye gönderdi). Orada hazır bulunanlar; \"Bunu iyi etmedin. Nebi Sallallahu Aleyhi ve Sellem'in bu elbiseye ihtiyacı vardı. Sen ise onun geri çevirmeyeceğini bilerek ondan bunu istedin\" dediler. Adam: ''Vallahi ben bunu giymek için istemedim. Ben bu elbise kefenim olsun diye istedim\" dedi. (Sehl dedi ki): Gerçekten de bu elbise onun kefeni oldu. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 23,
@@ -409,7 +417,7 @@
 		{
 			"hadithnumber": 1280,
 			"arabicnumber": 1280,
-			"text": "Zeyneb binti Ebi Seleme şöyle dedi: Ebu Süfyan'ın vefat haberi Şam'dan geldiğinde, üç gün geçtikten sonra Ummü Habîbe r.anha kendisine güzel koku getirilmesini istedi. Bunu yanaklarına ve kollarına sürerek şöyle dedi: \"Benim buna ihtiyacım yoktur. Ancak ben Nebi Sallallahu Aleyhi ve Sellem'in şöyle dediğini işittim: \"Allah'a ve ahiret gününe inanan bir kadının, kocası dışında ölen bir kimse için üç günden fazla yas tutması helal değildir. Kocası için ise dört ay on gün yas tutar. Tekrar: 1281, 5",
+			"text": "Zeyneb binti Ebi Seleme şöyle dedi: Ebu Süfyan'ın vefat haberi Şam'dan geldiğinde, üç gün geçtikten sonra Ummü Habîbe r.anha kendisine güzel koku getirilmesini istedi. Bunu yanaklarına ve kollarına sürerek şöyle dedi: \"Benim buna ihtiyacım yoktur. Ancak ben Nebi Sallallahu Aleyhi ve Sellem'in şöyle dediğini işittim: \"Allah'a ve ahiret gününe inanan bir kadının, kocası dışında ölen bir kimse için üç günden fazla yas tutması helal değildir. Kocası için ise dört ay on gün yas tutar. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 23,
@@ -439,7 +447,7 @@
 		{
 			"hadithnumber": 1284,
 			"arabicnumber": 1284,
-			"text": "Usame İbn Zeyd r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem'in kızı (Zeynep r.anha) \"Oğlum ölmek üzere, bize geliniz\" diye Resulullah'a haber gönderdi. Resulullah Sallallahu Aleyhi ve Sellem kızına selam gönderip şöyle cevap yolladı: \"Aldığı da verdiği de Allah'a aittir. Her şey'in Allah katında bir eceli vardır. Sabret! Sabrının sevabını Allah'tan bekle.\" (Zeynep) and vererek Nebi Sallallahu Aleyhi ve Sellem'in gelmesi için bir kez daha haber yolladı. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem yanında Sa'd İbn Muaz, Muaz İbn Cebel, Ubey İbn Ka'b, Zeyd İbn Sabit ve başka kimseler bulunduğu halde (Zeyneb'in yanına) gitti. Çocuk (can çekişme halinde) çırpınırken Resulullah Sallallahu Aleyhi ve Sellem'e verildi. Nebi (Sallallahu aleyhi ve Sellem)’in mubarek gözlerinden yaşlar boşalıyordu. Sa'd: \"Ey Allah'ın Resulü! Bu ağlama neyin nesi?\" dîye sordu. Nebi Sallallahu Aleyhi ve Sellem: Bu, Allah'ın kullarının kalplerine koyduğu rahmettir. Allah kullarından yalnızca merhamet sahibi olanlara merhamet eder. Tekrar: 5655, 6602, 6",
+			"text": "Usame İbn Zeyd r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem'in kızı (Zeynep r.anha) \"Oğlum ölmek üzere, bize geliniz\" diye Resulullah'a haber gönderdi. Resulullah Sallallahu Aleyhi ve Sellem kızına selam gönderip şöyle cevap yolladı: \"Aldığı da verdiği de Allah'a aittir. Her şey'in Allah katında bir eceli vardır. Sabret! Sabrının sevabını Allah'tan bekle.\" (Zeynep) and vererek Nebi Sallallahu Aleyhi ve Sellem'in gelmesi için bir kez daha haber yolladı. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem yanında Sa'd İbn Muaz, Muaz İbn Cebel, Ubey İbn Ka'b, Zeyd İbn Sabit ve başka kimseler bulunduğu halde (Zeyneb'in yanına) gitti. Çocuk (can çekişme halinde) çırpınırken Resulullah Sallallahu Aleyhi ve Sellem'e verildi. Nebi (Sallallahu aleyhi ve Sellem)’in mubarek gözlerinden yaşlar boşalıyordu. Sa'd: \"Ey Allah'ın Resulü! Bu ağlama neyin nesi?\" dîye sordu. Nebi Sallallahu Aleyhi ve Sellem: Bu, Allah'ın kullarının kalplerine koyduğu rahmettir. Allah kullarından yalnızca merhamet sahibi olanlara merhamet eder. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 23,
@@ -839,7 +847,7 @@
 		{
 			"hadithnumber": 1329,
 			"arabicnumber": 1329,
-			"text": "Abdullah İbn Ömer r.a. şöyle dedi: \"Yahudiler, kendilerinden zina etmiş olan bir erkek ve kadını Nebi Sallallahu Aleyhi ve Sellem'e getirdiler. Nebi (Sallallahu aleyhi ve Sellem) onların recmedilmesini emretti. Bunun üzerine mescid'de cenazelerin bulunduğu yere yakın bir yerde recmedildiler. Tekrarı: 3635, 4556, 7819, 6",
+			"text": "Abdullah İbn Ömer r.a. şöyle dedi: \"Yahudiler, kendilerinden zina etmiş olan bir erkek ve kadını Nebi Sallallahu Aleyhi ve Sellem'e getirdiler. Nebi (Sallallahu aleyhi ve Sellem) onların recmedilmesini emretti. Bunun üzerine mescid'de cenazelerin bulunduğu yere yakın bir yerde recmedildiler. Tekrarı: 3635",
 			"grades": [],
 			"reference": {
 				"book": 23,
@@ -979,7 +987,7 @@
 		{
 			"hadithnumber": 1343,
 			"arabicnumber": 1343,
-			"text": "Cabir İbn Abdullah r.a. şöyle anlatır: Nebi Sallallahu Aleyhi ve Sellem Uhud şehitlerinden ikişer kişiyi bir elbise ile kefenliyor sonra \"Bunların hangisi Kur'an'ı daha çok öğrenmiştir?\" diye soruyordu. Onlardan birine işaret edilirse onu lahde daha önce koyardı. Nebi Sallallahu Aleyhi ve Sellem daha sonra şöyle buyurdu: \"Ben kıyamet gününde bunlara şahidim.\" Nebi Sallallahu Aleyhi ve Sellem Uhud şehitlerinin kanları ile gömülmesini emretti. Onlar yıkanmadı, namazları da kılınmadı. Tekrar: 1345, 1346, 1347, 1",
+			"text": "Cabir İbn Abdullah r.a. şöyle anlatır: Nebi Sallallahu Aleyhi ve Sellem Uhud şehitlerinden ikişer kişiyi bir elbise ile kefenliyor sonra \"Bunların hangisi Kur'an'ı daha çok öğrenmiştir?\" diye soruyordu. Onlardan birine işaret edilirse onu lahde daha önce koyardı. Nebi Sallallahu Aleyhi ve Sellem daha sonra şöyle buyurdu: \"Ben kıyamet gününde bunlara şahidim.\" Nebi Sallallahu Aleyhi ve Sellem Uhud şehitlerinin kanları ile gömülmesini emretti. Onlar yıkanmadı, namazları da kılınmadı. Tekrar: 1345",
 			"grades": [],
 			"reference": {
 				"book": 23,
@@ -989,7 +997,7 @@
 		{
 			"hadithnumber": 1344,
 			"arabicnumber": 1344,
-			"text": "Ukbe İbn Amir r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem bir gün çıkarak (Uhud dağına gidip), Uhud şehitleri için cenaze namazı gibi namaz kıldı. Sonra (Medine'ye gelerek) minbere çıktı ve şöyle buyurdu: \"Ben sizin öncünüzüm (ahirete sizden önce gideninizim). Ben sizin için şahidim. Vallahi ben şu an havuzuma bakıyorum. Bana yeryüzünün hazineleri (yahut anahtarları) verildi. Vallahi ben sizin benden sonra şirk'e düşeceğinizden korkmuyorum, ancak sizin (dünya için) birbiriniz ile rekabet etmenizden korkarım. Tekrar: 3",
+			"text": "Ukbe İbn Amir r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem bir gün çıkarak (Uhud dağına gidip), Uhud şehitleri için cenaze namazı gibi namaz kıldı. Sonra (Medine'ye gelerek) minbere çıktı ve şöyle buyurdu: \"Ben sizin öncünüzüm (ahirete sizden önce gideninizim). Ben sizin için şahidim. Vallahi ben şu an havuzuma bakıyorum. Bana yeryüzünün hazineleri (yahut anahtarları) verildi. Vallahi ben sizin benden sonra şirk'e düşeceğinizden korkmuyorum, ancak sizin (dünya için) birbiriniz ile rekabet etmenizden korkarım. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 23,
@@ -1029,7 +1037,7 @@
 		{
 			"hadithnumber": 1349,
 			"arabicnumber": 1349,
-			"text": "İbn Abbas r.a., Nebi Sallallahu Aleyhi ve Sellem'den şunu rivayet etmiştir: \"Allah Mekke'yi haram kıldı. Ne benden önce ne de benden sonra hiç kimse için helal kılmadı. Benim için de yalnızca günün bir anında helal kıldı. Mekke'nin otu koparılmaz, ağacı kesilmez, avı ürkütülmez. Bulunan bir eşyası alınmaz, ancak tanıtmak için alınır.\" Bunları duyan Abbas: \"Dökümcülerin kullandığı ve kabirlerde kullandığımız izhir otu hariç\" dedi. Nebi de: \"İzhir otu hariç\" buyurdu. Ebu Hureyre, Nebi Sallallahu Aleyhi ve Sellem'den naklen\"Kabirlerimiz ve evlerimiz için kullandığımız izhir otu hariç\" demiştir. İbn Abbas r.a.: \"Demircilerin kullandığı ve evlerde kullanılan izhir otu hariç\" diye rivayet etmiştir. Tekrar: 1587, 1833, 1834, 2090, 2433, 2783, 2825, 3",
+			"text": "İbn Abbas r.a., Nebi Sallallahu Aleyhi ve Sellem'den şunu rivayet etmiştir: \"Allah Mekke'yi haram kıldı. Ne benden önce ne de benden sonra hiç kimse için helal kılmadı. Benim için de yalnızca günün bir anında helal kıldı. Mekke'nin otu koparılmaz, ağacı kesilmez, avı ürkütülmez. Bulunan bir eşyası alınmaz, ancak tanıtmak için alınır.\" Bunları duyan Abbas: \"Dökümcülerin kullandığı ve kabirlerde kullandığımız izhir otu hariç\" dedi. Nebi de: \"İzhir otu hariç\" buyurdu. Ebu Hureyre, Nebi Sallallahu Aleyhi ve Sellem'den naklen\"Kabirlerimiz ve evlerimiz için kullandığımız izhir otu hariç\" demiştir. İbn Abbas r.a.: \"Demircilerin kullandığı ve evlerde kullanılan izhir otu hariç\" diye rivayet etmiştir. Tekrar: 1587, 1833, 1834, 2090, 2433",
 			"grades": [],
 			"reference": {
 				"book": 23,
@@ -1079,7 +1087,7 @@
 		{
 			"hadithnumber": 1355,
 			"arabicnumber": 1355,
-			"text": "Salim, İbn Ömer r.a.'den şunları duyduğunu söyledi: Bu olaydan sonra Resulullah Sallallahu Aleyhi ve Sellem ve Ubey İbn Ka'b, İbn Sayyad'ın bulunduğu hurma bahçesine gittiler. Nebi Sallallahu Aleyhi ve Sellem İbn Sayyad kendisini görmediği halde onun ne söylediğini dinleyerek onu gafil avlamak istiyordu. Nebi Sallallahu Aleyhi ve Sellem onun kadife'den elbisesi içinde yan yatmış olduğunu gördü. Bu sırada bir hurma ağacının arkasına gizlenmiş olan İbn Sayyad'ın annesi Resulullah (Sallallahu Aleyhi ve Sellem)'i gördü ve İbn Sayyad'a: \"Ey Safi işte Muhammed\" dedi. Bunun üzerine İbn Sayyad sıçradı. Nebi Sallallahu Aleyhi ve Sellem: \"Şu kadın bıraksaydı İbn Sayyad'ın hali bize onun ne olduğunu açıklardı\" demiştir. Tekrar: 2638, 3",
+			"text": "Salim, İbn Ömer r.a.'den şunları duyduğunu söyledi: Bu olaydan sonra Resulullah Sallallahu Aleyhi ve Sellem ve Ubey İbn Ka'b, İbn Sayyad'ın bulunduğu hurma bahçesine gittiler. Nebi Sallallahu Aleyhi ve Sellem İbn Sayyad kendisini görmediği halde onun ne söylediğini dinleyerek onu gafil avlamak istiyordu. Nebi Sallallahu Aleyhi ve Sellem onun kadife'den elbisesi içinde yan yatmış olduğunu gördü. Bu sırada bir hurma ağacının arkasına gizlenmiş olan İbn Sayyad'ın annesi Resulullah (Sallallahu Aleyhi ve Sellem)'i gördü ve İbn Sayyad'a: \"Ey Safi işte Muhammed\" dedi. Bunun üzerine İbn Sayyad sıçradı. Nebi Sallallahu Aleyhi ve Sellem: \"Şu kadın bıraksaydı İbn Sayyad'ın hali bize onun ne olduğunu açıklardı\" demiştir. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 23,
@@ -1099,7 +1107,7 @@
 		{
 			"hadithnumber": 1357,
 			"arabicnumber": 1357,
-			"text": "İbn Abbas r.a. şöyle demiştir: Ben ve annem müstezaflardan idik. Ben çocuklardan, annem ise kadınlardan (müstezaflardan) idi. Tekrar: 4",
+			"text": "İbn Abbas r.a. şöyle demiştir: Ben ve annem müstezaflardan idik. Ben çocuklardan, annem ise kadınlardan (müstezaflardan) idi. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 23,
@@ -1109,7 +1117,7 @@
 		{
 			"hadithnumber": 1358,
 			"arabicnumber": 1358,
-			"text": "İbn Şihab şöyle demiştir: Ölen çocuk zina mahsulü de olsa onun namazı kılınır. Çünkü çocuk İslam fıtratı üzerine doğmuştur. Ana-babası, yahut yalnızca babası Müslüman olduğunu iddia ederse, annesi Müslüman olmasa bile, çocuk ağlıyarak doğmuş ise namazı kılınır. Doğum sırasında ağlamayan çocuk, düşük olduğu için onun namazı kılınmaz. Ebu Hureyre Nebi Sallallahu Aleyhi ve Sellem'den şunu aktarırdı: \"Doğan her çocuk (İslam) fıtrat üzerine doğar. Daha sonra ana-babası onu Yahudi, Hristiyan veya Mecusî (ateşperest) yapar. Nitekim her hayvan'ın yavrusu organları tam olarak doğar. Hiç yavrunun burnunda, kulağında eksik bir şey görüyor musunuz?\" Daha sonra Ebu Hureyre şu ayeti okumuştur: \"Yüzünü hanif olarak (şirkten uzak olarak) dine döndür. Allah'ın fıtratına, ki O insanları bu fıtrat üzerine yaratmıştır.[Rum 30] Tekrar: 1359, 1",
+			"text": "İbn Şihab şöyle demiştir: Ölen çocuk zina mahsulü de olsa onun namazı kılınır. Çünkü çocuk İslam fıtratı üzerine doğmuştur. Ana-babası, yahut yalnızca babası Müslüman olduğunu iddia ederse, annesi Müslüman olmasa bile, çocuk ağlıyarak doğmuş ise namazı kılınır. Doğum sırasında ağlamayan çocuk, düşük olduğu için onun namazı kılınmaz. Ebu Hureyre Nebi Sallallahu Aleyhi ve Sellem'den şunu aktarırdı: \"Doğan her çocuk (İslam) fıtrat üzerine doğar. Daha sonra ana-babası onu Yahudi, Hristiyan veya Mecusî (ateşperest) yapar. Nitekim her hayvan'ın yavrusu organları tam olarak doğar. Hiç yavrunun burnunda, kulağında eksik bir şey görüyor musunuz?\" Daha sonra Ebu Hureyre şu ayeti okumuştur: \"Yüzünü hanif olarak (şirkten uzak olarak) dine döndür. Allah'ın fıtratına, ki O insanları bu fıtrat üzerine yaratmıştır.[Rum 30] Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 23,
@@ -1129,7 +1137,7 @@
 		{
 			"hadithnumber": 1360,
 			"arabicnumber": 1360,
-			"text": "Saîd İbnü'i-Müseyyeb babasından şunu aktarmıştır: Ebu Talib'in ölümü yaklaştığında Resulullah Sallallahu Aleyhi ve Sellem onun yanına geldi. Ebu Cehl bin Hişam, Abdullah İbn Ebi Ümeyye İbnü'l-Muğîre'nin orada olduğunu gördü. Resulullah Sallallahu Aleyhi ve Sellem Ebu Talib'e: \"Amca! La ilahe illallah de. Bu kelimeyi söyle ki onun sayesinde senin için Allah katında şahit (şefaatçi) olayım\" dedi. Ebu Cehil ve Abdullah İbn Ebu Ümeyye: \"Ey Ebu Talib! Abdülmuttalib'in dininden yüz mü çeviriyorsun?\" dediler. Resulullah Sallallahu Aleyhi ve Sellem amcasına bu kelimeyi söylemesini teklif ettikçe onlar da söyledikleri sözü tekrarladılar. Sonunda Ebu Talib onlara son olarak şunu söyledi: \"O (yani ben) Abdül-muttalib'in dini üzere\" dedi ve \"La ilahe illallah\" demekten sakındı. Resulullah Sallallahu Aleyhi ve Sellem: \"Vallahi, bana yasaklanmadığı sürece ben senin için istiğfar edeceğim\" dedi. Bunun üzerine Yüce Allah onunla ilgili olarak şu ayeti indirdi: \"Nebi ve iman edenlerin, kendi akrabaları bile olsa müşrikler için istiğfar etmeleri uygun değildir.[Tevbe 113] Tekrar: 3884, 4",
+			"text": "Saîd İbnü'i-Müseyyeb babasından şunu aktarmıştır: Ebu Talib'in ölümü yaklaştığında Resulullah Sallallahu Aleyhi ve Sellem onun yanına geldi. Ebu Cehl bin Hişam, Abdullah İbn Ebi Ümeyye İbnü'l-Muğîre'nin orada olduğunu gördü. Resulullah Sallallahu Aleyhi ve Sellem Ebu Talib'e: \"Amca! La ilahe illallah de. Bu kelimeyi söyle ki onun sayesinde senin için Allah katında şahit (şefaatçi) olayım\" dedi. Ebu Cehil ve Abdullah İbn Ebu Ümeyye: \"Ey Ebu Talib! Abdülmuttalib'in dininden yüz mü çeviriyorsun?\" dediler. Resulullah Sallallahu Aleyhi ve Sellem amcasına bu kelimeyi söylemesini teklif ettikçe onlar da söyledikleri sözü tekrarladılar. Sonunda Ebu Talib onlara son olarak şunu söyledi: \"O (yani ben) Abdül-muttalib'in dini üzere\" dedi ve \"La ilahe illallah\" demekten sakındı. Resulullah Sallallahu Aleyhi ve Sellem: \"Vallahi, bana yasaklanmadığı sürece ben senin için istiğfar edeceğim\" dedi. Bunun üzerine Yüce Allah onunla ilgili olarak şu ayeti indirdi: \"Nebi ve iman edenlerin, kendi akrabaları bile olsa müşrikler için istiğfar etmeleri uygun değildir.[Tevbe 113] Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 23,
@@ -1459,7 +1467,7 @@
 		{
 			"hadithnumber": 1392,
 			"arabicnumber": 1392,
-			"text": "Amr İbn Meymun el-Evdî şöyle demiştir: Ömer İbnü'l-Hattab r.a. oğluna şöyle dedi: \"Ey Ömer'in oğlu Abdullah! Mu'minlerin anası Aişe'ye git ve şöyle de: 'Ömer İbnü'l-Hattab sana selam söylüyor. 'Sonra ondan iki arkadaşım (Hz.Nebi ve Hz. Ebu Bekir) ile birlikte gömülmek istediğimi söyle. Hz. Aişe şöyle dedi: \"Ben Hz. Nebi ve Ebu Bekir'in kabirlerinin yanını kendim için istiyordum. Ben bugün onu (Ömer'i) kendime tercih edeceğim.\" Abdullah, babası Ömer'in yanına dönünce Ömer: \"Ne oldu?\" diye sordu. Abdullah: \"Sana izin verdi ey mu'minlerin emiri!\" dedi. Ömer şöyle dedi; \"Benim için oraya gömülmekten daha önemli bir şey yoktu. Ben ölünce cenazemi taşıyıp Aişe'nin yanına götürün. Sonra ona: Ömer İbn Hattab buraya gömülmek için izin istiyor deyin. Şayet izin verirse beni oraya gömün. İzin vermezse Müslümanların kabirlerine gömün. Ben bu iş (halifelik) için, Resulullah'ın kendilerinden razı olarak vefat ettiği kişilerden daha layık kimseler bilmiyorum. Şayet onlar birini halife seçerlerse halife odur. Onun emirlerini dinleyip ona itaat edin. (Ömer Halife seçilmek üzere şura'ya katılacak kişiler arasında: Osman, Ali, Talha, Zübeyr, Abdurrahman İbn Avf ve Sa'd İbn Ebî Vakkas'ın adını zikretti. Ensardan bir genç Hz. Ömer'in huzuruna girerek: \"Allah'ın müjdesi ile sevin ey Mu'minlerin emiri! Senin Müslümanlıkta kendince de malum olan bir öncelik ve hayrın vardır. Sen daha sonra halife tayin edildin ve adaletle hükmettin. Bunların tümünden sonra da sana şehitlik nasip oldu.\" Dedi. Ömer şöyle dedi: \"Ey yeğenim, keşke bu söylediklerin benim için eşit çıksa, ne aleyhime ne lehime olsa (keşke bu söylediğin faziletler ile hilafetteki uygulamalarım birbirini eşitlese, sorumluluğum olmasa). Benden sonra halife olacak kişiye; ilk muhacirlere İyi davranmasını, onların hakkını bilmesini, onların saygınlığını korumasını, daha önceden Medine'yi yurt edinen ve iman etmiş olan ensara da iyi davranmasını, onların İyilerini kabul etmesini, kötülerini affetmesini, Allah'ın ve Resulü'nün zimmeti ile onların ahdine vefa göstermesini, onların ardında savaşılmasın!, onlara güçlerinin yetmeyeceği bir şeyin yüklenilmemesini tavsiye ederim. Tekrar: 3052, 3162, 3",
+			"text": "Amr İbn Meymun el-Evdî şöyle demiştir: Ömer İbnü'l-Hattab r.a. oğluna şöyle dedi: \"Ey Ömer'in oğlu Abdullah! Mu'minlerin anası Aişe'ye git ve şöyle de: 'Ömer İbnü'l-Hattab sana selam söylüyor. 'Sonra ondan iki arkadaşım (Hz.Nebi ve Hz. Ebu Bekir) ile birlikte gömülmek istediğimi söyle. Hz. Aişe şöyle dedi: \"Ben Hz. Nebi ve Ebu Bekir'in kabirlerinin yanını kendim için istiyordum. Ben bugün onu (Ömer'i) kendime tercih edeceğim.\" Abdullah, babası Ömer'in yanına dönünce Ömer: \"Ne oldu?\" diye sordu. Abdullah: \"Sana izin verdi ey mu'minlerin emiri!\" dedi. Ömer şöyle dedi; \"Benim için oraya gömülmekten daha önemli bir şey yoktu. Ben ölünce cenazemi taşıyıp Aişe'nin yanına götürün. Sonra ona: Ömer İbn Hattab buraya gömülmek için izin istiyor deyin. Şayet izin verirse beni oraya gömün. İzin vermezse Müslümanların kabirlerine gömün. Ben bu iş (halifelik) için, Resulullah'ın kendilerinden razı olarak vefat ettiği kişilerden daha layık kimseler bilmiyorum. Şayet onlar birini halife seçerlerse halife odur. Onun emirlerini dinleyip ona itaat edin. (Ömer Halife seçilmek üzere şura'ya katılacak kişiler arasında: Osman, Ali, Talha, Zübeyr, Abdurrahman İbn Avf ve Sa'd İbn Ebî Vakkas'ın adını zikretti. Ensardan bir genç Hz. Ömer'in huzuruna girerek: \"Allah'ın müjdesi ile sevin ey Mu'minlerin emiri! Senin Müslümanlıkta kendince de malum olan bir öncelik ve hayrın vardır. Sen daha sonra halife tayin edildin ve adaletle hükmettin. Bunların tümünden sonra da sana şehitlik nasip oldu.\" Dedi. Ömer şöyle dedi: \"Ey yeğenim, keşke bu söylediklerin benim için eşit çıksa, ne aleyhime ne lehime olsa (keşke bu söylediğin faziletler ile hilafetteki uygulamalarım birbirini eşitlese, sorumluluğum olmasa). Benden sonra halife olacak kişiye; ilk muhacirlere İyi davranmasını, onların hakkını bilmesini, onların saygınlığını korumasını, daha önceden Medine'yi yurt edinen ve iman etmiş olan ensara da iyi davranmasını, onların İyilerini kabul etmesini, kötülerini affetmesini, Allah'ın ve Resulü'nün zimmeti ile onların ahdine vefa göstermesini, onların ardında savaşılmasın!, onlara güçlerinin yetmeyeceği bir şeyin yüklenilmemesini tavsiye ederim. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 23,

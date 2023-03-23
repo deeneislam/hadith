@@ -3,6 +3,14 @@
 		"name": "Jami At Tirmidhi",
 		"section": {
 			"22": "The Book on Virtues of Jihad"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 1619,
+				"hadithnumber_last": 1669,
+				"arabicnumber_first": 1619,
+				"arabicnumber_last": 1669
+			}
 		}
 	},
 	"hadiths": [

@@ -3,13 +3,21 @@
 		"name": "Sahih al Bukhari",
 		"section": {
 			"0": ""
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 299,
+				"hadithnumber_last": 7495,
+				"arabicnumber_first": 299,
+				"arabicnumber_last": 7495
+			}
 		}
 	},
 	"hadiths": [
 		{
 			"hadithnumber": 2962,
 			"arabicnumber": 2962,
-			"text": "Mücaşi' şöyle demiştir: \"Kardeşimle birlikte Resulullah Sallallahu Aleyhi ve Sellem'e geldik. Ben: \"Hicret etmek üzere sana bey'at ediyoruz\" dedim. Resul-i Ekrem Sallallahu Aleyhi ve Sellem: \"Artık hicret bitti !\" buyurdu. Ben: \"Peki bizden hangi konuda bey'at alacaksınız?\" deyince şöyle buyurdu: \"İslam ve cihad konusunda ... \" Tekrar: 3078, 30",
+			"text": "Mücaşi' şöyle demiştir: \"Kardeşimle birlikte Resulullah Sallallahu Aleyhi ve Sellem'e geldik. Ben: \"Hicret etmek üzere sana bey'at ediyoruz\" dedim. Resul-i Ekrem Sallallahu Aleyhi ve Sellem: \"Artık hicret bitti !\" buyurdu. Ben: \"Peki bizden hangi konuda bey'at alacaksınız?\" deyince şöyle buyurdu: \"İslam ve cihad konusunda ... \" Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 0,

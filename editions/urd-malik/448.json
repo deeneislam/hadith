@@ -3,6 +3,14 @@
 		"name": "Muwatta Malik",
 		"section": {
 			"12": "The Eclipse Prayer"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 445,
+				"hadithnumber_last": 448,
+				"arabicnumber_first": 445,
+				"arabicnumber_last": 448
+			}
 		}
 	},
 	"hadiths": [

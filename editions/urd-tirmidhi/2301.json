@@ -3,6 +3,14 @@
 		"name": "Jami At Tirmidhi",
 		"section": {
 			"35": "Chapters On Witnesses"
+		},
+		"section_detail": {
+			"35": {
+				"hadithnumber_first": 2295,
+				"hadithnumber_last": 2303,
+				"arabicnumber_first": 2295,
+				"arabicnumber_last": 2303
+			}
 		}
 	},
 	"hadiths": [

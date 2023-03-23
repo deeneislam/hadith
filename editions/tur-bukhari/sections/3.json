@@ -3,6 +3,14 @@
 		"name": "Sahih al Bukhari",
 		"section": {
 			"3": "Knowledge"
+		},
+		"section_detail": {
+			"3": {
+				"hadithnumber_first": 59,
+				"hadithnumber_last": 134,
+				"arabicnumber_first": 59,
+				"arabicnumber_last": 134
+			}
 		}
 	},
 	"hadiths": [
@@ -29,7 +37,7 @@
 		{
 			"hadithnumber": 61,
 			"arabicnumber": 61,
-			"text": "İbn Ömer'den rivayet edildiğine göre Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur. \"Ağaçlar arasında bir ağaç vardır ki yaprağı düşmez. Bu ağaç müslümana benzer. Bana bu ağacın ne olduğunu söyleyiniz\". İnsanlar çöl ağaçlarını saymaya başladılar. (Abdullah b. Ömer diyor ki:) Aklıma onun hurma ağacı olduğu geldi. Ancak utandığımdan bunu söylemedim. Daha sonra ashab-ı kiram: \"Ey Allah'ın Resulü onun ne olduğunu bize bildir\" dediler. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem): O hurma ağacıdır\" buyurdu. Tekrar: 62, 72, 131, 2209, 4698, 5444, 5",
+			"text": "İbn Ömer'den rivayet edildiğine göre Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur. \"Ağaçlar arasında bir ağaç vardır ki yaprağı düşmez. Bu ağaç müslümana benzer. Bana bu ağacın ne olduğunu söyleyiniz\". İnsanlar çöl ağaçlarını saymaya başladılar. (Abdullah b. Ömer diyor ki:) Aklıma onun hurma ağacı olduğu geldi. Ancak utandığımdan bunu söylemedim. Daha sonra ashab-ı kiram: \"Ey Allah'ın Resulü onun ne olduğunu bize bildir\" dediler. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem): O hurma ağacıdır\" buyurdu. Tekrar: 62, 72, 131, 2209",
 			"grades": [],
 			"reference": {
 				"book": 3,
@@ -59,7 +67,7 @@
 		{
 			"hadithnumber": 64,
 			"arabicnumber": 64,
-			"text": "Ubeydullah bin Abdullah bin Utbe bin Mes'ud'un zikrettiğine göre Ab­dullah bin Abbas ona şunu haber vermiştir: \"Resulullah sallallahu aleyhi ve sellem bir adam'a mektup göndermiş ve bunu Bahreyn'in büyüğüne (yöneticisine) vermesini emretmiştir. Bahreyn büyüğü de bunu Kisra'ya vermiştir. mektubu okuyunca yırtınıştı. (ibn Müseyyeb'in şöyle dediğini zanne­diyorum) Bunun üzerine Resûlullah (Sallallahu aleyhi ve Sellem) onların (ülke ve yönetimlerinin) parça parça olmaları için beddua etti. Tekrar: 2",
+			"text": "Ubeydullah bin Abdullah bin Utbe bin Mes'ud'un zikrettiğine göre Ab­dullah bin Abbas ona şunu haber vermiştir: \"Resulullah sallallahu aleyhi ve sellem bir adam'a mektup göndermiş ve bunu Bahreyn'in büyüğüne (yöneticisine) vermesini emretmiştir. Bahreyn büyüğü de bunu Kisra'ya vermiştir. mektubu okuyunca yırtınıştı. (ibn Müseyyeb'in şöyle dediğini zanne­diyorum) Bunun üzerine Resûlullah (Sallallahu aleyhi ve Sellem) onların (ülke ve yönetimlerinin) parça parça olmaları için beddua etti. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 3,
@@ -89,7 +97,7 @@
 		{
 			"hadithnumber": 67,
 			"arabicnumber": 67,
-			"text": "Ebu Bekre babasından şunu aktarmıştır: Nebi (Sallallahu aleyhi ve Sellem) devesinin üzerine oturdu, bir kişi de devesinin yularını tutuyordu. Nebi (Sallallahu aleyhi ve Sellem) Bu gün hangi gündür?\" diye sordu. Biz bu güne başka bir isim vereceğini zannederek sustuk. Nebi (Sallallahu aleyhi ve Sellem). Kurban günü değil mi?\" dedi. Biz: \"Evet\" dedik. Nebi s.a.v. şöyle buyurdu: \"Şüphesiz ki bu gününüzün, bu ayınızın, bu beldenizin haram olması gibi, canlarınız mallarınız, ırz ve namuslarınız aranızda haramdır. Burada olan olmayanlara tebliğ etsin. Burada olan, kendisinden daha iyi kavrayacak birine tebliğ etmiş olabilir. Tekrar: 105, 1741, 3197, 4406, 4662, 5",
+			"text": "Ebu Bekre babasından şunu aktarmıştır: Nebi (Sallallahu aleyhi ve Sellem) devesinin üzerine oturdu, bir kişi de devesinin yularını tutuyordu. Nebi (Sallallahu aleyhi ve Sellem) Bu gün hangi gündür?\" diye sordu. Biz bu güne başka bir isim vereceğini zannederek sustuk. Nebi (Sallallahu aleyhi ve Sellem). Kurban günü değil mi?\" dedi. Biz: \"Evet\" dedik. Nebi s.a.v. şöyle buyurdu: \"Şüphesiz ki bu gününüzün, bu ayınızın, bu beldenizin haram olması gibi, canlarınız mallarınız, ırz ve namuslarınız aranızda haramdır. Burada olan olmayanlara tebliğ etsin. Burada olan, kendisinden daha iyi kavrayacak birine tebliğ etmiş olabilir. Tekrar: 105, 1741, 3197",
 			"grades": [],
 			"reference": {
 				"book": 3,
@@ -149,7 +157,7 @@
 		{
 			"hadithnumber": 73,
 			"arabicnumber": 73,
-			"text": "Kays b. Ebu Hazim şöyle demiştir: Abdullah İbn Mes'ud'un şöyle dediğini duydum: Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: Gıpta etmek ancak iki şeyde söz konusudur: Bir kimseye Allah mal vermiş, bu malını da hak yolda harcamaya muvaffak kılmıştır. Bir kimseye Allah bilgi ve hikmet vermiş, o kişi de o hikmete göre hükmetmekte ve onu öğretmektedir. Tekrar: 1",
+			"text": "Kays b. Ebu Hazim şöyle demiştir: Abdullah İbn Mes'ud'un şöyle dediğini duydum: Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: Gıpta etmek ancak iki şeyde söz konusudur: Bir kimseye Allah mal vermiş, bu malını da hak yolda harcamaya muvaffak kılmıştır. Bir kimseye Allah bilgi ve hikmet vermiş, o kişi de o hikmete göre hükmetmekte ve onu öğretmektedir. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 3,
@@ -159,7 +167,7 @@
 		{
 			"hadithnumber": 74,
 			"arabicnumber": 74,
-			"text": "Rivayet edildiğine göre îbn Abbas ile Hur İbn Kays İbn Hısn ei-Fezârî Musa A.S.'ın (Kur'an'da buluştuğu bahsedilen) arkadaşı hakkında görüş ayrılığına düştüler. İbn Abbas bunun Hızır olduğunu söyledi. Onların yanından Ubey bn Ka'b geçiyordu. İbn Abbas onu çağırarak sordu: \"Ben ve bu arkadaşım, Hz. Musa'nın kendisi ile buluşmak için yol sorduğu kişi hakkında tartıştık. Onunla ilgili olarak Nebi (Sallallahu aleyhi ve Sellem)'in bir şey söylediğini işitmiş miydin?\" dedi. Ubey şöyle dedi: \"Evet, Nebi (Sallallahu aleyhi ve Sellem)'in şöyle söylediğini işittim: Hz. Musa, İsrailoğullarından bir grup ile birlikte iken bir adam gelerek: Senden daha bilgili bir kimse biliyor musun? Diye sordu. Hz. Musa \"hayır\" diye cevap verdi. Bunun üzerine Yüce Allah Hz. Musa'ya vahyederek şöyle dedi: \"Evet senden daha bilgili bir kimse. O da kulumuz Hızır'dır\" dedi. Musa onun yanına nasıl gideceğini sordu. Yüce Allah balığı onun için bîr alâmet kıldı. Musa'ya \"Balığı kaybettiğinde dön, çünkü onunla orada buluşacaksın\" denildi. Hz. Musa denizde balığın izini sürerdi. \"(Musa (a.s.)'ın yanındaki yol arkadaşı olan genç adam:) Gördün mü? dedi, kayaya sığındığımız sırada balığı unuttum. Onu hatırlamamı bana şeytandan başkası unutturmadı. O, şaşılacak bir şekilde denizde yolunu tutup gitmişti. Musa: işte aradığımız o idi, dedi. Hemen İzlerinin üzerine geri döndüler.\" Hemen ardından o bilge kişiyi (Hızır) buldular. Daha sonra Hızır ile Musa arasında Allah'ın kitabında haber verdiği olaylar yaşandı. Tekrar: 78, 122, 2267, 2728, 3278, 3400, 3401, 4725, 4726, 4",
+			"text": "Rivayet edildiğine göre îbn Abbas ile Hur İbn Kays İbn Hısn ei-Fezârî Musa A.S.'ın (Kur'an'da buluştuğu bahsedilen) arkadaşı hakkında görüş ayrılığına düştüler. İbn Abbas bunun Hızır olduğunu söyledi. Onların yanından Ubey bn Ka'b geçiyordu. İbn Abbas onu çağırarak sordu: \"Ben ve bu arkadaşım, Hz. Musa'nın kendisi ile buluşmak için yol sorduğu kişi hakkında tartıştık. Onunla ilgili olarak Nebi (Sallallahu aleyhi ve Sellem)'in bir şey söylediğini işitmiş miydin?\" dedi. Ubey şöyle dedi: \"Evet, Nebi (Sallallahu aleyhi ve Sellem)'in şöyle söylediğini işittim: Hz. Musa, İsrailoğullarından bir grup ile birlikte iken bir adam gelerek: Senden daha bilgili bir kimse biliyor musun? Diye sordu. Hz. Musa \"hayır\" diye cevap verdi. Bunun üzerine Yüce Allah Hz. Musa'ya vahyederek şöyle dedi: \"Evet senden daha bilgili bir kimse. O da kulumuz Hızır'dır\" dedi. Musa onun yanına nasıl gideceğini sordu. Yüce Allah balığı onun için bîr alâmet kıldı. Musa'ya \"Balığı kaybettiğinde dön, çünkü onunla orada buluşacaksın\" denildi. Hz. Musa denizde balığın izini sürerdi. \"(Musa (a.s.)'ın yanındaki yol arkadaşı olan genç adam:) Gördün mü? dedi, kayaya sığındığımız sırada balığı unuttum. Onu hatırlamamı bana şeytandan başkası unutturmadı. O, şaşılacak bir şekilde denizde yolunu tutup gitmişti. Musa: işte aradığımız o idi, dedi. Hemen İzlerinin üzerine geri döndüler.\" Hemen ardından o bilge kişiyi (Hızır) buldular. Daha sonra Hızır ile Musa arasında Allah'ın kitabında haber verdiği olaylar yaşandı. Tekrar: 78, 122, 2267, 2728, 3278, 3400, 3401",
 			"grades": [],
 			"reference": {
 				"book": 3,
@@ -179,7 +187,7 @@
 		{
 			"hadithnumber": 76,
 			"arabicnumber": 76,
-			"text": "Abdullah İbn Abbas şöyle demiştir: \"İhtilama (buluğ çağına) yaklaştığım bir dönemde, Nebi (Sallallahu Aleyhi ve Sellem) Mina'da bir duvara doğru yönelmediği halde (yani önüne sütre almaksızın) namaz kıldırırken dişi bir eşek üzerinde gelerek safın bir bölümünün önünden geçtim. Eşeği otlaması için salarak saf’a girdim. Benim bu davranışım yadırganmadı\". Tekrar: 493,",
+			"text": "Abdullah İbn Abbas şöyle demiştir: \"İhtilama (buluğ çağına) yaklaştığım bir dönemde, Nebi (Sallallahu Aleyhi ve Sellem) Mina'da bir duvara doğru yönelmediği halde (yani önüne sütre almaksızın) namaz kıldırırken dişi bir eşek üzerinde gelerek safın bir bölümünün önünden geçtim. Eşeği otlaması için salarak saf’a girdim. Benim bu davranışım yadırganmadı\". Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 3,
@@ -189,7 +197,7 @@
 		{
 			"hadithnumber": 77,
 			"arabicnumber": 77,
-			"text": "Mahmûd İbnü'r-Rebi' şöyle demiştir: Nebi (sallallahu aleyhi ve sellem)'in ben beş yaşında iken bir kova daki su'dan ağzına alarak yüzüme püskürttüğünü hatırlıyorum. Tekrar: 189, 839, 1",
+			"text": "Mahmûd İbnü'r-Rebi' şöyle demiştir: Nebi (sallallahu aleyhi ve sellem)'in ben beş yaşında iken bir kova daki su'dan ağzına alarak yüzüme püskürttüğünü hatırlıyorum. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 3,
@@ -219,7 +227,7 @@
 		{
 			"hadithnumber": 80,
 			"arabicnumber": 80,
-			"text": "Enes, Nebi (Sallallahu aleyhi ve Sellem)’in şöyle dediğini rivayet etmiştir: \"ilmin kaldırılması, cehaletin yerleşmesi, içkinin içilmesi ve zinanın yaygınlaşması kıyamet alâmetlerindendir. Tekrar: 81, 5",
+			"text": "Enes, Nebi (Sallallahu aleyhi ve Sellem)’in şöyle dediğini rivayet etmiştir: \"ilmin kaldırılması, cehaletin yerleşmesi, içkinin içilmesi ve zinanın yaygınlaşması kıyamet alâmetlerindendir. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 3,
@@ -249,7 +257,7 @@
 		{
 			"hadithnumber": 83,
 			"arabicnumber": 83,
-			"text": "Abdullah İbn Amr İbnü'l-As'ın rivayet ettiğine göre, Resulullah (Sallallahu aleyhi ve Sellem) veda haccı sırasında Mina'da durdu. İnsanlar ona soru soruyorlardı. Bir adam gelerek: \"Farkında olmadan kurban kesmeden önce tıraş oldum\" dedi. Nebi (Sallallahu aleyhi ve Sellem) ''Şimdi kurbanını kes, sakıncası yok' buyurdu. Bir başkası gelerek: Farkında olmadan şeytan taşlamadan önce kurban kestim, dedi. Nebi (Sallallahu aleyhi ve Sellem) : \"Şimdi şeytanı taşla, sakıncası yok\" buyurdu. Yapılması gerekenden önce veya sonra yapılmış olan şeylerle ilgili olarak Nebi (Sallallahu aleyhi ve Sellem)'e ne sorulduysa Nebi s.a.v. Yap, bir sakıncası yok\" buyurdu. Tekrar: 124, 1736, 1",
+			"text": "Abdullah İbn Amr İbnü'l-As'ın rivayet ettiğine göre, Resulullah (Sallallahu aleyhi ve Sellem) veda haccı sırasında Mina'da durdu. İnsanlar ona soru soruyorlardı. Bir adam gelerek: \"Farkında olmadan kurban kesmeden önce tıraş oldum\" dedi. Nebi (Sallallahu aleyhi ve Sellem) ''Şimdi kurbanını kes, sakıncası yok' buyurdu. Bir başkası gelerek: Farkında olmadan şeytan taşlamadan önce kurban kestim, dedi. Nebi (Sallallahu aleyhi ve Sellem) : \"Şimdi şeytanı taşla, sakıncası yok\" buyurdu. Yapılması gerekenden önce veya sonra yapılmış olan şeylerle ilgili olarak Nebi (Sallallahu aleyhi ve Sellem)'e ne sorulduysa Nebi s.a.v. Yap, bir sakıncası yok\" buyurdu. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 3,
@@ -259,7 +267,7 @@
 		{
 			"hadithnumber": 84,
 			"arabicnumber": 84,
-			"text": "İbn Abbas'tan rivayet edildiğine göre Nebi (Sallallahu aleyhi ve Sellem)'e hac sırasında \"Şeytan taşlamadan önce kurban kestim (benim için bir sorumluluk olur mu?)\" diye soruldu, Nebi (Sallallahu aleyhi ve Sellem) sakıncası yok anlamında işaret etti. Adam \"Kurban kesmeden önce tıraş oldum\" dedi, Nebi (Sallallahu aleyhi ve Sellem) sakıncası yok anlamında işaret etti. Tekrar: 1721, 1722, 1723, 1",
+			"text": "İbn Abbas'tan rivayet edildiğine göre Nebi (Sallallahu aleyhi ve Sellem)'e hac sırasında \"Şeytan taşlamadan önce kurban kestim (benim için bir sorumluluk olur mu?)\" diye soruldu, Nebi (Sallallahu aleyhi ve Sellem) sakıncası yok anlamında işaret etti. Adam \"Kurban kesmeden önce tıraş oldum\" dedi, Nebi (Sallallahu aleyhi ve Sellem) sakıncası yok anlamında işaret etti. Tekrar: 1721",
 			"grades": [],
 			"reference": {
 				"book": 3,
@@ -269,7 +277,7 @@
 		{
 			"hadithnumber": 85,
 			"arabicnumber": 85,
-			"text": "Salim şöyle demiştir: Ebu Hureyre r.a. Nebi s.a.v.'in şöyle dediğini söylemiştir: \"ilim kabzedilecek, cehalet ve fitneler yayılacak, herc çoğalacak\". Nebi (Sallallahu aleyhi ve Sellem)'e Herc nedir ey Allah'ın Resulü?\" diye sordular. Nebi (Sallallahu aleyhi ve Sellem) eli ile ölümü kasdeder gibi işarette bulunarak \"İşte budur\" dedi. Tekrar: 1036, 1412, 3608, 3609, 5635, 5636, 6037, 6506, 6935, 7",
+			"text": "Salim şöyle demiştir: Ebu Hureyre r.a. Nebi s.a.v.'in şöyle dediğini söylemiştir: \"ilim kabzedilecek, cehalet ve fitneler yayılacak, herc çoğalacak\". Nebi (Sallallahu aleyhi ve Sellem)'e Herc nedir ey Allah'ın Resulü?\" diye sordular. Nebi (Sallallahu aleyhi ve Sellem) eli ile ölümü kasdeder gibi işarette bulunarak \"İşte budur\" dedi. Tekrar: 1036, 1412, 3608, 3609, 5635, 5636, 6037",
 			"grades": [],
 			"reference": {
 				"book": 3,
@@ -279,7 +287,7 @@
 		{
 			"hadithnumber": 86,
 			"arabicnumber": 86,
-			"text": "Esma' şöyle demiştir: (Güneş tutulduğu bir sırada) namaz kılarken Aişe'nin yanına gittim. \"İnsanlara ne oluyor (neden korkuyorlar?)\" diye sordum. Başıyla gökyüzünü gösterdi. Bir de baktım ki insanlar namaza durmuşlar. Âişe \"Sübhanallah\" dedi. Ben \"Bu bir ayet (işaret) midir?\"diye sordum, başıyla \"evet\" diye işaret etti. Bunun üzerine ben de namaza durdum. Üzerime baygınlık çökünce (yanımdaki kırbadan) başıma su dökmeye başladım. Namazdan sonra Nebi (Sallallahu aleyhi ve Sellem) Allah'a hamd-ü sena edip şöyle buyurdu: \"Daha önce bana gösterilmemiş her şey, hatta cennet ve cehennem bile bana burada gösterildi. Bana 'kabirlerinizde Mesih Deccal'in fitnesine benzer (veya yakın) bir şekilde imtihan edileceksiniz' dîye vahyedildi. Kabre giren kişiye sorulacak: Bu adam (Hz. Muhammed) hakkında ne biliyorsun? Mu'min (veya kesin inançlı bir) kişi: \"O, Muhammed'dir, Allah'ın resulüdür. Bizlere apaçık deliller ve hidayeti getirdi. Biz de onun davetine icabet ettik ve ona tabi olduk. O Muhammeddir (üç kere)' diyecek. O kişiye: \"Rahat bir şekilde uyu. Senin ona kesin olarak inandığını anladık'' denilecek. Münafık (veya kalbinde şüphe bulunan) kişi ise: \"Bilmiyorum. İnsanların bir şeyler söylediğini duydum, ben de aynısını söyledim\" diyecek. Tekrar: 184, 922, 1053, 1054, 1061, 1235, 1373, 2",
+			"text": "Esma' şöyle demiştir: (Güneş tutulduğu bir sırada) namaz kılarken Aişe'nin yanına gittim. \"İnsanlara ne oluyor (neden korkuyorlar?)\" diye sordum. Başıyla gökyüzünü gösterdi. Bir de baktım ki insanlar namaza durmuşlar. Âişe \"Sübhanallah\" dedi. Ben \"Bu bir ayet (işaret) midir?\"diye sordum, başıyla \"evet\" diye işaret etti. Bunun üzerine ben de namaza durdum. Üzerime baygınlık çökünce (yanımdaki kırbadan) başıma su dökmeye başladım. Namazdan sonra Nebi (Sallallahu aleyhi ve Sellem) Allah'a hamd-ü sena edip şöyle buyurdu: \"Daha önce bana gösterilmemiş her şey, hatta cennet ve cehennem bile bana burada gösterildi. Bana 'kabirlerinizde Mesih Deccal'in fitnesine benzer (veya yakın) bir şekilde imtihan edileceksiniz' dîye vahyedildi. Kabre giren kişiye sorulacak: Bu adam (Hz. Muhammed) hakkında ne biliyorsun? Mu'min (veya kesin inançlı bir) kişi: \"O, Muhammed'dir, Allah'ın resulüdür. Bizlere apaçık deliller ve hidayeti getirdi. Biz de onun davetine icabet ettik ve ona tabi olduk. O Muhammeddir (üç kere)' diyecek. O kişiye: \"Rahat bir şekilde uyu. Senin ona kesin olarak inandığını anladık'' denilecek. Münafık (veya kalbinde şüphe bulunan) kişi ise: \"Bilmiyorum. İnsanların bir şeyler söylediğini duydum, ben de aynısını söyledim\" diyecek. Tekrar: 184, 922, 1053, 1054, 1061",
 			"grades": [],
 			"reference": {
 				"book": 3,
@@ -319,7 +327,7 @@
 		{
 			"hadithnumber": 90,
 			"arabicnumber": 90,
-			"text": "Ebu Mes'ud el-Ensarî şöyle demiştir: Bir adam Nebimize: Ey Allah'ın Resulü! Falanca bize namaz kıldırırken namazı uzattığından neredeyse cemaatle namaza yaklaşmıyorum (arasıra terk ediyorum)\"demişti. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) o gün verdiği vaaz sırasındaki öfkeli halinden daha öfkeli olarak görmedim. şöyle buyurdu: \"Ey insanlar! Sizler nefret ettiriyorsunuz, insanlara namaz kıldıran kişi (namazı) hafif tutsun. Çünkü namaz kılanların (cemaatin) içinde hasta, zayıf ve ihtiyaç sahibi olanlar vardır. Tekrar: 702,",
+			"text": "Ebu Mes'ud el-Ensarî şöyle demiştir: Bir adam Nebimize: Ey Allah'ın Resulü! Falanca bize namaz kıldırırken namazı uzattığından neredeyse cemaatle namaza yaklaşmıyorum (arasıra terk ediyorum)\"demişti. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) o gün verdiği vaaz sırasındaki öfkeli halinden daha öfkeli olarak görmedim. şöyle buyurdu: \"Ey insanlar! Sizler nefret ettiriyorsunuz, insanlara namaz kıldıran kişi (namazı) hafif tutsun. Çünkü namaz kılanların (cemaatin) içinde hasta, zayıf ve ihtiyaç sahibi olanlar vardır. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 3,
@@ -329,7 +337,7 @@
 		{
 			"hadithnumber": 91,
 			"arabicnumber": 91,
-			"text": "Zeyd ibn Hâlid el-Cühenî'den rivayet edilmiştir. Bir adam Nebi (Sallallahu aleyhi ve Sellem)'e buluntu mal hakkında soru sordu. Nebi (Sallallahu aleyhi ve Sellem) Bağını (veya kabını), kılıfını iyice belle, sonra bir yıl boyunca mal bulduğunu etrafa duyur. Sonra onu kullan. Sahibi gelirse malı ona ver\". Adam: \"Yitik deve de böyle midir?\" diye sordu. Nebi (Sallallahu aleyhi ve Sellem) yanakları (yahut yüzü) kızaracak derecede öfkelendi ve şöyle buyurdu: \"Deveden sana ne? Onun su tulumu da (suluğu da), tabanı da vardır. Suya gider, ağaç (yapraklarından) yer. Sahibi buluncaya kadar onu kendi haline bırak\". Adam: \"Ya yitik davar?\" diye sordu. Nebi (Sallallahu aleyhi ve Sellem): Ya senin, ya kardeşinin, ya da kurdundur\" buyurdu. Tekrar: 2372, 2427, 2428, 2429, 2436, 2",
+			"text": "Zeyd ibn Hâlid el-Cühenî'den rivayet edilmiştir. Bir adam Nebi (Sallallahu aleyhi ve Sellem)'e buluntu mal hakkında soru sordu. Nebi (Sallallahu aleyhi ve Sellem) Bağını (veya kabını), kılıfını iyice belle, sonra bir yıl boyunca mal bulduğunu etrafa duyur. Sonra onu kullan. Sahibi gelirse malı ona ver\". Adam: \"Yitik deve de böyle midir?\" diye sordu. Nebi (Sallallahu aleyhi ve Sellem) yanakları (yahut yüzü) kızaracak derecede öfkelendi ve şöyle buyurdu: \"Deveden sana ne? Onun su tulumu da (suluğu da), tabanı da vardır. Suya gider, ağaç (yapraklarından) yer. Sahibi buluncaya kadar onu kendi haline bırak\". Adam: \"Ya yitik davar?\" diye sordu. Nebi (Sallallahu aleyhi ve Sellem): Ya senin, ya kardeşinin, ya da kurdundur\" buyurdu. Tekrar: 2372, 2427, 2428",
 			"grades": [],
 			"reference": {
 				"book": 3,
@@ -349,7 +357,7 @@
 		{
 			"hadithnumber": 93,
 			"arabicnumber": 93,
-			"text": "Zührî şöyle demiştir: Enes İbn Mâlik bana şunu haber verdi: Resulullah (Sallallahu aleyhi ve Sellem) minbere çıktı. Abdullah İbn Huzâfe ayağa kalkarak \"Benim babam kimdir?\" diye sordu. Resûlullah Baban Huzâfe'dir\" buyurdu. Sonra Nebi (Sallallahu aleyhi ve Sellem) \"Bana sorunuz\" sözünü çokça tekrarladı. Bunun üzerine Hz. Ömer dizleri üzerine oturarak şöyle dedi; \"Biz Rab olarak Allah'tan, din olarak İslam'dan ve peygamber olarak da Muhammed'den razıyız. Tekrar: 540, 749, 4621, 6362, 6468, 6486, 7089, 7090, 7",
+			"text": "Zührî şöyle demiştir: Enes İbn Mâlik bana şunu haber verdi: Resulullah (Sallallahu aleyhi ve Sellem) minbere çıktı. Abdullah İbn Huzâfe ayağa kalkarak \"Benim babam kimdir?\" diye sordu. Resûlullah Baban Huzâfe'dir\" buyurdu. Sonra Nebi (Sallallahu aleyhi ve Sellem) \"Bana sorunuz\" sözünü çokça tekrarladı. Bunun üzerine Hz. Ömer dizleri üzerine oturarak şöyle dedi; \"Biz Rab olarak Allah'tan, din olarak İslam'dan ve peygamber olarak da Muhammed'den razıyız. Tekrar: 540, 749, 4621, 6362, 6468, 6486",
 			"grades": [],
 			"reference": {
 				"book": 3,
@@ -389,7 +397,7 @@
 		{
 			"hadithnumber": 97,
 			"arabicnumber": 97,
-			"text": "Ebu Bürde'nin babasından (Ebu Musa el-Eş'ari r.a.) rivayet ettiğine göre Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: \"Üç kişinin ikişer (iki kat) sevabı vardır: Ehl-i kitaptan (Yahudi ve Hıristiyanlardan) olup, hem kendi Nebilerine hem de Muhammede sallallahu aleyhi ve sellem'e inanan kişi, hem Allah'ın hem de efendilerinin hakkını yerine getiren köle, bir cariyesi olup da onu güzelce terbiye eden ve ona güzelce (İlim) Öğreten sonra da onu azat ederek onunla evlenen kişi. Tekrar: 2544, 2547, 2551, 3",
+			"text": "Ebu Bürde'nin babasından (Ebu Musa el-Eş'ari r.a.) rivayet ettiğine göre Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: \"Üç kişinin ikişer (iki kat) sevabı vardır: Ehl-i kitaptan (Yahudi ve Hıristiyanlardan) olup, hem kendi Nebilerine hem de Muhammede sallallahu aleyhi ve sellem'e inanan kişi, hem Allah'ın hem de efendilerinin hakkını yerine getiren köle, bir cariyesi olup da onu güzelce terbiye eden ve ona güzelce (İlim) Öğreten sonra da onu azat ederek onunla evlenen kişi. Tekrar: 2544",
 			"grades": [],
 			"reference": {
 				"book": 3,
@@ -399,7 +407,7 @@
 		{
 			"hadithnumber": 98,
 			"arabicnumber": 98,
-			"text": "İbn Abbas r.a. şöyle demiştir: \"Şahitlik ederim ki Nebi (Sallallahu aleyhi ve Sellem) (vaaz verdikten son­ra) kadınlara duyuramadığını düşünerek Bilal ile birlikte kadınların yanına gitti. Onlara sadaka vermelerini emretti. Kadınların kimi küpesini, kimi yüzüğünü çıkarıp atmaya başladılar. Bilal onları eteği içinde topluyordu. Tekrar: 863, 962, 975, 977, 979, 989, 1431, 1449, 4895, 5249, 5880, 5",
+			"text": "İbn Abbas r.a. şöyle demiştir: \"Şahitlik ederim ki Nebi (Sallallahu aleyhi ve Sellem) (vaaz verdikten son­ra) kadınlara duyuramadığını düşünerek Bilal ile birlikte kadınların yanına gitti. Onlara sadaka vermelerini emretti. Kadınların kimi küpesini, kimi yüzüğünü çıkarıp atmaya başladılar. Bilal onları eteği içinde topluyordu. Tekrar: 863, 962, 975, 977, 979, 989, 1431, 1449, 4895",
 			"grades": [],
 			"reference": {
 				"book": 3,
@@ -449,7 +457,7 @@
 		{
 			"hadithnumber": 103,
 			"arabicnumber": 103,
-			"text": "İbn Ebi Müleyke'nin belirttiğine göre Nebi (Sallallahu aleyhi ve Sellem)'in eşi Hz. Âişe (r.anha) bir şey duyduğu zaman onu anlamak için mutlaka sözü söyleyene baş vururdu. Nebi (Sallallahu aleyhi ve Sellem) Hesaba çekilene azap edilir\" buyurdu. Hz. Âişe diyor ki: Bunun üzerine ben Nebi (Sallallahu aleyhi ve Sellem)'e Yüce Allah \"(Amel defterini sağ tarafından alan kişi) yakında kolay bir şekilde hesaba çekilecek [İnşikak, 8] buyurmuyor mu? diye sordum. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Bu, yalnızca arzdır. Kim ince hesaba çekilirse helak olur. Tekrar: 4",
+			"text": "İbn Ebi Müleyke'nin belirttiğine göre Nebi (Sallallahu aleyhi ve Sellem)'in eşi Hz. Âişe (r.anha) bir şey duyduğu zaman onu anlamak için mutlaka sözü söyleyene baş vururdu. Nebi (Sallallahu aleyhi ve Sellem) Hesaba çekilene azap edilir\" buyurdu. Hz. Âişe diyor ki: Bunun üzerine ben Nebi (Sallallahu aleyhi ve Sellem)'e Yüce Allah \"(Amel defterini sağ tarafından alan kişi) yakında kolay bir şekilde hesaba çekilecek [İnşikak, 8] buyurmuyor mu? diye sordum. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Bu, yalnızca arzdır. Kim ince hesaba çekilirse helak olur. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 3,
@@ -529,7 +537,7 @@
 		{
 			"hadithnumber": 111,
 			"arabicnumber": 111,
-			"text": "Ebu Cuhayfe şöyle demiştir: Hz. Ali'ye: \"Sizin yanınızda bir kitap var mıdır?\" diye sordum. O: \"Hayır, ancak Allah'ın kitabı, Müslüman bir adam’a verilen kavrama kabiliyeti ve bir de şu sahifedekiler vardır\" dedi. Ben: \"O sahifede ne var?\" diye sordum. Ali: \"Diyetler, esirin serbest bırakılması vardır. Bir Müslüman bir kafire karşılık olarak öldürülmez\" dedi. Tekrar: 187, 3047, 3172, 3179, 6755, 6",
+			"text": "Ebu Cuhayfe şöyle demiştir: Hz. Ali'ye: \"Sizin yanınızda bir kitap var mıdır?\" diye sordum. O: \"Hayır, ancak Allah'ın kitabı, Müslüman bir adam’a verilen kavrama kabiliyeti ve bir de şu sahifedekiler vardır\" dedi. Ben: \"O sahifede ne var?\" diye sordum. Ali: \"Diyetler, esirin serbest bırakılması vardır. Bir Müslüman bir kafire karşılık olarak öldürülmez\" dedi. Tekrar: 187, 3047, 3172",
 			"grades": [],
 			"reference": {
 				"book": 3,
@@ -559,7 +567,7 @@
 		{
 			"hadithnumber": 114,
 			"arabicnumber": 114,
-			"text": "Abdullah İbn Abbas şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem)'in hastalığı şiddetlendiği bir sırada o: \"Bana bir sayfa getirin de size bir şeyler yazayım (yazdırayım) ta ki bundan sonra yoldan sapmayasmız\" buyurdu. Bunun üzerine Hz. Ömer: Nebi (Sallallahu aleyhi ve Sellem)'in hastalığı ağırlaştı. Elimizde Allah'ın kitabı vardır. O bize yeter\" dedi. Oradaki sahabe arasında ihtilaf çıktı, sesler birbirine karıştı. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem): Yanımdan kalkın. Benim yanımda tartışma uygun değildir\" buyurdu. İbn Abbas (bu hadisi rivayet ettiği yerden) çıkarken \"Resûlullah'ın yazıyı yazmaması ne büyük bir musibettir\" dedi. Tekrar: 3053, 3168, 4431, 4",
+			"text": "Abdullah İbn Abbas şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem)'in hastalığı şiddetlendiği bir sırada o: \"Bana bir sayfa getirin de size bir şeyler yazayım (yazdırayım) ta ki bundan sonra yoldan sapmayasmız\" buyurdu. Bunun üzerine Hz. Ömer: Nebi (Sallallahu aleyhi ve Sellem)'in hastalığı ağırlaştı. Elimizde Allah'ın kitabı vardır. O bize yeter\" dedi. Oradaki sahabe arasında ihtilaf çıktı, sesler birbirine karıştı. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem): Yanımdan kalkın. Benim yanımda tartışma uygun değildir\" buyurdu. İbn Abbas (bu hadisi rivayet ettiği yerden) çıkarken \"Resûlullah'ın yazıyı yazmaması ne büyük bir musibettir\" dedi. Tekrar: 3053",
 			"grades": [],
 			"reference": {
 				"book": 3,
@@ -589,7 +597,7 @@
 		{
 			"hadithnumber": 117,
 			"arabicnumber": 117,
-			"text": "İbn Abbas şöyle demiştir: Bir gece teyzem, Nebi (Sallallahu aleyhi ve Sellem)'in eşi Meymûne bintİ'l-Hârîs'in evinde kaldım. Nebi (Sallallahu aleyhi ve Sellem) o gece (sıra Meymûne'de olduğu için) onun yanındaydı. Nebi (Sallallahu aleyhi ve Sellem) yatsı namazını (mescitte) kıldırdı, sonra evine gelerek dört rekat namaz kıldı. Sonra uyudu. Sonra kalktı ve \"çocuk uyudu\" (yahut buna benzer bir söz) dedi. Sonra namaza durdu, ben de (kalkıp) onun sol tarafına durdum, o beni sağına aldı, beş rekat namaz kıldı. Sonra iki rekat daha kıldı. Sonra uyudu, öyle ki onun horultusunu duydum. Sonra da namaza çıktı. Tekrar: 138, 183, 697, 698, 699, 726, 728, 859, 992, 1198, 4569, 4570, 4571, 4572, 5919, 6",
+			"text": "İbn Abbas şöyle demiştir: Bir gece teyzem, Nebi (Sallallahu aleyhi ve Sellem)'in eşi Meymûne bintİ'l-Hârîs'in evinde kaldım. Nebi (Sallallahu aleyhi ve Sellem) o gece (sıra Meymûne'de olduğu için) onun yanındaydı. Nebi (Sallallahu aleyhi ve Sellem) yatsı namazını (mescitte) kıldırdı, sonra evine gelerek dört rekat namaz kıldı. Sonra uyudu. Sonra kalktı ve \"çocuk uyudu\" (yahut buna benzer bir söz) dedi. Sonra namaza durdu, ben de (kalkıp) onun sol tarafına durdum, o beni sağına aldı, beş rekat namaz kıldı. Sonra iki rekat daha kıldı. Sonra uyudu, öyle ki onun horultusunu duydum. Sonra da namaza çıktı. Tekrar: 138, 183, 697, 698, 699, 726, 728, 859, 992, 1198, 4569, 4570, 4571",
 			"grades": [],
 			"reference": {
 				"book": 3,
@@ -649,7 +657,7 @@
 		{
 			"hadithnumber": 123,
 			"arabicnumber": 123,
-			"text": "Ebu Musa r.a. şöyle demiştir: Bir adam Nebi (Sallallahu aleyhi ve Sellem)'e gelerek şöyle dedi: \"Ey Allah'ın Resulü! Allah yolunda savaşmak nedir? Birimiz öfkesi sebebiyle savaşıyor, birimiz asabiyetten dolayı savaşıyor\". Nebi (Sallallahu aleyhi ve Sellem) başını ona doğru kaldırdı (çünkü adam ayaktaydı) ve şöyle dedi: \"Kim Allah'ın kelimesi en yüce olsun diye savaşırsa işte o Allah yolundadır. Tekrar: 2",
+			"text": "Ebu Musa r.a. şöyle demiştir: Bir adam Nebi (Sallallahu aleyhi ve Sellem)'e gelerek şöyle dedi: \"Ey Allah'ın Resulü! Allah yolunda savaşmak nedir? Birimiz öfkesi sebebiyle savaşıyor, birimiz asabiyetten dolayı savaşıyor\". Nebi (Sallallahu aleyhi ve Sellem) başını ona doğru kaldırdı (çünkü adam ayaktaydı) ve şöyle dedi: \"Kim Allah'ın kelimesi en yüce olsun diye savaşırsa işte o Allah yolundadır. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 3,
@@ -669,7 +677,7 @@
 		{
 			"hadithnumber": 125,
 			"arabicnumber": 125,
-			"text": "Alkame'nin Abdullah'tan rivayet ettiğine göre o şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem)'le birlikte Medine harabelerinde yürürken, Nebi (Sallallahu aleyhi ve Sellem) hurma dalından bir değneğe dayanıyordu. Derken birkaç Yahudi'yle karşılaştı. Yahudiler birbirlerine \"Ona ruh hakkında sorun\" dediler. Diğer bazıları \"Ona bir şey sormayın, hoşlanmayacağınız bir şey söyleyebilir\" dediler. Onlardan bir adam kalkarak \"Ey Ebu'l-Kasım! Ruh nedir?\" diye sordu. Nebi (Sallallahu aleyhi ve Sellem) sustu. Ben (içimden) \"Ona vahiy indiriliyor\" dedim. Ayağa kalktım. Vahiy hali kendisinden geçince şu âyetleri okudu: \"Sana ruh hakkında soruyorlar. De ki ruh Rabbim'in emrindendir. Size ilimden pek az bir nasip verilmiştir.[İsrâ, 85.] el-A'meş şöyle demiştir: \"Bizim kıraatimizde de bu âyetin okunuşu böyledir. Tekrar: 4721, 7",
+			"text": "Alkame'nin Abdullah'tan rivayet ettiğine göre o şöyle demiştir: Nebi (Sallallahu aleyhi ve Sellem)'le birlikte Medine harabelerinde yürürken, Nebi (Sallallahu aleyhi ve Sellem) hurma dalından bir değneğe dayanıyordu. Derken birkaç Yahudi'yle karşılaştı. Yahudiler birbirlerine \"Ona ruh hakkında sorun\" dediler. Diğer bazıları \"Ona bir şey sormayın, hoşlanmayacağınız bir şey söyleyebilir\" dediler. Onlardan bir adam kalkarak \"Ey Ebu'l-Kasım! Ruh nedir?\" diye sordu. Nebi (Sallallahu aleyhi ve Sellem) sustu. Ben (içimden) \"Ona vahiy indiriliyor\" dedim. Ayağa kalktım. Vahiy hali kendisinden geçince şu âyetleri okudu: \"Sana ruh hakkında soruyorlar. De ki ruh Rabbim'in emrindendir. Size ilimden pek az bir nasip verilmiştir.[İsrâ, 85.] el-A'meş şöyle demiştir: \"Bizim kıraatimizde de bu âyetin okunuşu böyledir. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 3,
@@ -679,7 +687,7 @@
 		{
 			"hadithnumber": 126,
 			"arabicnumber": 126,
-			"text": "Esved şöyle demiştir: İbnü'z-Zübeyr bana şöyle dedi: \"Aişe sana çokça gizli şeyler söylerdi. Kabe konusunda sana ne söyledi?\" Ben dedim ki: \"Bana Nebi (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu söyledi: \"Ey Âişe! Kavmin küfürden daha yeni kurtulmuş olmasaydı, Kabe'yi yıkar ve ona insanların birinden girmesi, diğerinden çıkmast için iki kapı yapardım\". Bunun üzerine Abdullah İbnü'z-Zübeyr böyle yaptı. Tekrar: 1583, 1584, 1585, 1586, 2",
+			"text": "Esved şöyle demiştir: İbnü'z-Zübeyr bana şöyle dedi: \"Aişe sana çokça gizli şeyler söylerdi. Kabe konusunda sana ne söyledi?\" Ben dedim ki: \"Bana Nebi (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu söyledi: \"Ey Âişe! Kavmin küfürden daha yeni kurtulmuş olmasaydı, Kabe'yi yıkar ve ona insanların birinden girmesi, diğerinden çıkmast için iki kapı yapardım\". Bunun üzerine Abdullah İbnü'z-Zübeyr böyle yaptı. Tekrar: 1583, 1584",
 			"grades": [],
 			"reference": {
 				"book": 3,
@@ -719,7 +727,7 @@
 		{
 			"hadithnumber": 130,
 			"arabicnumber": 130,
-			"text": "Ümmü Seleme r.anha şöyle demiştir: Ümmü Süleym, Resulullah (Sallallahu aleyhi ve Sellem)'e gelerek şöyle dedi: \"Ey Allah'ın Resulü! Allah gerçeği söylemekten haya etmez. Kadın ihtilam olduğunda gusletmesi gerekli midir?\" Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Su görünce\" dedi. Ümmü Süleym elleriyle yüzünü örttü ve şöyle dedi: \"Ey Allah'ın Resulü! Hiç kadın ihtilam olur mu?\" Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Evet, Allah hayrını versin! Peki çocuk niçin kadına benziyor (zannedersin). Tekrar: 282, 3",
+			"text": "Ümmü Seleme r.anha şöyle demiştir: Ümmü Süleym, Resulullah (Sallallahu aleyhi ve Sellem)'e gelerek şöyle dedi: \"Ey Allah'ın Resulü! Allah gerçeği söylemekten haya etmez. Kadın ihtilam olduğunda gusletmesi gerekli midir?\" Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Su görünce\" dedi. Ümmü Süleym elleriyle yüzünü örttü ve şöyle dedi: \"Ey Allah'ın Resulü! Hiç kadın ihtilam olur mu?\" Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Evet, Allah hayrını versin! Peki çocuk niçin kadına benziyor (zannedersin). Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 3,

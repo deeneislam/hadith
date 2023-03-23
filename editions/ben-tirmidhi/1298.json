@@ -3,6 +3,14 @@
 		"name": "Jami At Tirmidhi",
 		"section": {
 			"14": "The Book on Business"
+		},
+		"section_detail": {
+			"14": {
+				"hadithnumber_first": 1205,
+				"hadithnumber_last": 1321,
+				"arabicnumber_first": 1205,
+				"arabicnumber_last": 1321
+			}
 		}
 	},
 	"hadiths": [

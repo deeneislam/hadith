@@ -3,6 +3,14 @@
 		"name": "Sahih al Bukhari",
 		"section": {
 			"39": "Kafalah"
+		},
+		"section_detail": {
+			"39": {
+				"hadithnumber_first": 2290,
+				"hadithnumber_last": 2298,
+				"arabicnumber_first": 2290,
+				"arabicnumber_last": 2298
+			}
 		}
 	},
 	"hadiths": [
@@ -69,7 +77,7 @@
 		{
 			"hadithnumber": 2296,
 			"arabicnumber": 2296,
-			"text": "Cabir İbn Abdullah r.a.'ın naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem \"Bahreynlin malları gelecek olursa sana şu kadar vereceğim\" buyurmuştu. Fakat söz konusu mallar gelmeden önce Nebi Sallallahu Aleyhi ve Sellem ahirete göç etti. Bahreyn'in malları geldiği zaman Hz. Ebu Bekir r.a., \"Resulullah'ın vaadte bulunduğu kimse varsa ya da ondan alacağı bulunan kimse varsa bize gelsin\" şeklinde bir duyuru yaptırdı. Bunun üzerine ben ona gittim ve \"Benim şu kadar alacağım var\" dedim. Ebu Bekir r.a. bana o paradan bir miktar alıp verdi ve \"say\" dedi. Verdiği para, beşyüz adetti. Bana, \"bunun iki katını daha al\" dedi Tekrar: 2598, 2683, 3",
+			"text": "Cabir İbn Abdullah r.a.'ın naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem \"Bahreynlin malları gelecek olursa sana şu kadar vereceğim\" buyurmuştu. Fakat söz konusu mallar gelmeden önce Nebi Sallallahu Aleyhi ve Sellem ahirete göç etti. Bahreyn'in malları geldiği zaman Hz. Ebu Bekir r.a., \"Resulullah'ın vaadte bulunduğu kimse varsa ya da ondan alacağı bulunan kimse varsa bize gelsin\" şeklinde bir duyuru yaptırdı. Bunun üzerine ben ona gittim ve \"Benim şu kadar alacağım var\" dedim. Ebu Bekir r.a. bana o paradan bir miktar alıp verdi ve \"say\" dedi. Verdiği para, beşyüz adetti. Bana, \"bunun iki katını daha al\" dedi Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 39,
@@ -89,7 +97,7 @@
 		{
 			"hadithnumber": 2298,
 			"arabicnumber": 2298,
-			"text": "Ebu Hureyre r.a. şöyle anlatır: Resuılullah Sallallahu Aleyhi ve Sellem'e borcu bulunan bir cenaze getirildiği zaman \"Borcu için (techiz masraflarını) aşan bir mal bıraktı mı?\" diye sorardı. Eğer borcunu karşılayacak kadar mal bıraktığı söylenirse onun cenaze namazını kılardı. Aksi halde, müminlere, \"Arkadaşınızın namazını kılın\" buyururdu. Fetihler artıp (mallar çoğalınca), \"Ben, mu'minlere kendi nefislerinden daha yakınım. Bir müslüman borçlu olarak ölürse borcunu ödemek bana aittir. Mal bıraktığı zaman ise malı mirasçılarınındır\" buyurmuştur. Tekra: 2398, 2399, 5371, 6",
+			"text": "Ebu Hureyre r.a. şöyle anlatır: Resuılullah Sallallahu Aleyhi ve Sellem'e borcu bulunan bir cenaze getirildiği zaman \"Borcu için (techiz masraflarını) aşan bir mal bıraktı mı?\" diye sorardı. Eğer borcunu karşılayacak kadar mal bıraktığı söylenirse onun cenaze namazını kılardı. Aksi halde, müminlere, \"Arkadaşınızın namazını kılın\" buyururdu. Fetihler artıp (mallar çoğalınca), \"Ben, mu'minlere kendi nefislerinden daha yakınım. Bir müslüman borçlu olarak ölürse borcunu ödemek bana aittir. Mal bıraktığı zaman ise malı mirasçılarınındır\" buyurmuştur. Tekra: 2398",
 			"grades": [],
 			"reference": {
 				"book": 39,

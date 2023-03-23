@@ -3,6 +3,14 @@
 		"name": "Jami At Tirmidhi",
 		"section": {
 			"2": "The Book on Salat (Prayer)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 149,
+				"hadithnumber_last": 451,
+				"arabicnumber_first": 149,
+				"arabicnumber_last": 451
+			}
 		}
 	},
 	"hadiths": [

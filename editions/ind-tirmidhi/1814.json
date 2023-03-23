@@ -3,6 +3,14 @@
 		"name": "Jami At Tirmidhi",
 		"section": {
 			"25": "The Book on Food"
+		},
+		"section_detail": {
+			"25": {
+				"hadithnumber_first": 1788,
+				"hadithnumber_last": 1860,
+				"arabicnumber_first": 1788,
+				"arabicnumber_last": 1860
+			}
 		}
 	},
 	"hadiths": [

@@ -3,6 +3,14 @@
 		"name": "Sunan Abu Dawud",
 		"section": {
 			"43": "General Behavior (Kitab Al-Adab)"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 4773,
+				"hadithnumber_last": 5274,
+				"arabicnumber_first": 4773,
+				"arabicnumber_last": 5274
+			}
 		}
 	},
 	"hadiths": [
@@ -313,7 +321,7 @@
 		{
 			"hadithnumber": 4785,
 			"arabicnumber": 4785,
-			"text": "Âişe (r.anha)'dan demiştir ki: Rasûlullah (s.a.v.), biri diğerinden daha kolay iki şey arasında muhayyer bırakılırsa, günah olmaması şartıyla, mutlaka onlardan en kolay olanını seçerdi, şayet günah ise insanlar arasında ondan en uzağı olurdu. Rasûlullah (s.a.v.) kendisi için (kimseden) bir intikam almazdı. Ancak Allah'ın haramlarının çiğnenmesi müstesna; (o zaman bizzat kendisi) o çiğnenen haramlardan dolayı Allah için intikam alırdı. Tahric edenler: Buhari, menâkıb. edeb. hudud: Müslim, Fedail; Muvatta, hüsnü'l-hulk: Ahmed b. Hanbel, VI. 85. 114. 130. 162, 182. 191, 209, 223, 229",
+			"text": "Âişe (r.anha)'dan demiştir ki: Rasûlullah (s.a.v.), biri diğerinden daha kolay iki şey arasında muhayyer bırakılırsa, günah olmaması şartıyla, mutlaka onlardan en kolay olanını seçerdi, şayet günah ise insanlar arasında ondan en uzağı olurdu. Rasûlullah (s.a.v.) kendisi için (kimseden) bir intikam almazdı. Ancak Allah'ın haramlarının çiğnenmesi müstesna; (o zaman bizzat kendisi) o çiğnenen haramlardan dolayı Allah için intikam alırdı. Tahric edenler: Buhari, menâkıb. edeb. hudud: Müslim, Fedail; Muvatta, hüsnü'l-hulk: Ahmed b. Hanbel, VI. 85. 114. 130. 162, 182. 191",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -336,7 +344,7 @@
 		{
 			"hadithnumber": 4786,
 			"arabicnumber": 4786,
-			"text": "Aişe (r.anha)'dan demiştir ki: Rasûlullah (Sallallahu aleyhi ve Sellem), hayatta ne bir kadın dövmüştür, ne de bir hizmetçi.\" Tahric edenler: Müslim, fedail; İbn Mace, nikah; Dârîmî, nikâh, Ahmed b. Hanbel, V,32, 2",
+			"text": "Aişe (r.anha)'dan demiştir ki: Rasûlullah (Sallallahu aleyhi ve Sellem), hayatta ne bir kadın dövmüştür, ne de bir hizmetçi.\" Tahric edenler: Müslim, fedail; İbn Mace, nikah; Dârîmî, nikâh, Ahmed b. Hanbel, V",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -655,7 +663,7 @@
 		{
 			"hadithnumber": 4799,
 			"arabicnumber": 4799,
-			"text": "Ebu'd Derdâ (r.a.)'den (rivayet edildiğine göre) Nebi (s.a.v.) (şöyle) buyurmuştur: \"Terazide güzel huydan daha ağır basacak olan bir şey yoktur.\" (Bu hadisin ravilerinden) Ebul Velid (et-Tayâlisî, bu hadisi el Kasım b: Ebi Bezze'den) sema' yoluyla, yani ben, Ata el Keyharanî'yi (şöyle şöyle derken) işittim, (şeklinde) rivayet etti. (Diğer râvi Hafs b. Ömer ise el-Kasım'dan an'ane tarikiyle rivayet etti.) Ebu Dâvud der ki: (Sözü geçen) o (Ata el Keyharhanf den maksat) Ata İbn Yakub'dur ve ibrahim Ibn Nafi'nin dayısıdır. Keyharânî ve Gevharâ-nî (nisbeileriyle) anılır. Diğer tahric edenler: Tirmizî, Birr; Ahmed b. Hanbel, VI, 442",
+			"text": "Ebu'd Derdâ (r.a.)'den (rivayet edildiğine göre) Nebi (s.a.v.) (şöyle) buyurmuştur: \"Terazide güzel huydan daha ağır basacak olan bir şey yoktur.\" (Bu hadisin ravilerinden) Ebul Velid (et-Tayâlisî, bu hadisi el Kasım b: Ebi Bezze'den) sema' yoluyla, yani ben, Ata el Keyharanî'yi (şöyle şöyle derken) işittim, (şeklinde) rivayet etti. (Diğer râvi Hafs b. Ömer ise el-Kasım'dan an'ane tarikiyle rivayet etti.) Ebu Dâvud der ki: (Sözü geçen) o (Ata el Keyharhanf den maksat) Ata İbn Yakub'dur ve ibrahim Ibn Nafi'nin dayısıdır. Keyharânî ve Gevharâ-nî (nisbeileriyle) anılır. Diğer tahric edenler: Tirmizî, Birr; Ahmed b. Hanbel, VI",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -1944,7 +1952,7 @@
 		{
 			"hadithnumber": 4850,
 			"arabicnumber": 4850,
-			"text": "Abdullah (İbn Mesud) (r.a)'dan (rivayet edildiğine) Rasûlullah (s.a.v.) şöyle buyurmuştur: \"İki kişi, üçüncü bir kimsenin yanında gizli konuşmasın. Çünkü bu o şahsı üzer.\" Tahric edenler: Buhari, istizan; Müslim, selâm; Tirmizî. edeb; İbn Mâce, tahâre; edeb; Dârimî, istizan; Muvatta, kelam. Ahmed b. Hanbel, I, 431. 460, 464, II, 9, 123",
+			"text": "Abdullah (İbn Mesud) (r.a)'dan (rivayet edildiğine) Rasûlullah (s.a.v.) şöyle buyurmuştur: \"İki kişi, üçüncü bir kimsenin yanında gizli konuşmasın. Çünkü bu o şahsı üzer.\" Tahric edenler: Buhari, istizan; Müslim, selâm; Tirmizî. edeb; İbn Mâce, tahâre; edeb; Dârimî, istizan; Muvatta, kelam. Ahmed b. Hanbel, I, 431. 460, 464, II",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -1994,7 +2002,7 @@
 		{
 			"hadithnumber": 4852,
 			"arabicnumber": 4852,
-			"text": "(Abdullah) İbn Ömer (radıyallahü anh)'den (rivâyet edildiğine göre) Resûlüllah (sallallahü aleyhi ve sellem) (bir önceki hadisin) bir benzerini ifade buyurmuştur. (Bu rivâyetin ravilerinden) Ebû Salih dedi ki: Ömer'e: (Bu iki kişinin fısıldattığı kişilerin sayısı en az) dört (ise o zaman da fısıldaşmak sakıncalı mıdır?) diye sordum da: (O zaman) \" Sana zarar vermez\" cevabını verdi. istizan 47; Ahmed b. Hanbel, II, 9, 4",
+			"text": "(Abdullah) İbn Ömer (radıyallahü anh)'den (rivâyet edildiğine göre) Resûlüllah (sallallahü aleyhi ve sellem) (bir önceki hadisin) bir benzerini ifade buyurmuştur. (Bu rivâyetin ravilerinden) Ebû Salih dedi ki: Ömer'e: (Bu iki kişinin fısıldattığı kişilerin sayısı en az) dört (ise o zaman da fısıldaşmak sakıncalı mıdır?) diye sordum da: (O zaman) \" Sana zarar vermez\" cevabını verdi. istizan 47; Ahmed b. Hanbel, II",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -2390,7 +2398,7 @@
 		{
 			"hadithnumber": 4868,
 			"arabicnumber": 4868,
-			"text": "âbir b. Abdullah (r.a.)'den (rivayet edildiğine göre) Rasûllullah (s.a.v.) şöyle buyurmuştur: \"Bir adam bir söz söyler de sonra (o sözün, orada bulunmayanlar tarafından işitmesini istemezmiş gibi) sağına soluna bakımrsa; o söz emânettir.\" Tahric edenler: Tirmizî birr; Ahmed b. Hanbel, III, 324",
+			"text": "âbir b. Abdullah (r.a.)'den (rivayet edildiğine göre) Rasûllullah (s.a.v.) şöyle buyurmuştur: \"Bir adam bir söz söyler de sonra (o sözün, orada bulunmayanlar tarafından işitmesini istemezmiş gibi) sağına soluna bakımrsa; o söz emânettir.\" Tahric edenler: Tirmizî birr; Ahmed b. Hanbel, III",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -5144,7 +5152,7 @@
 		{
 			"hadithnumber": 4978,
 			"arabicnumber": 4978,
-			"text": "(Ebu Ümâme İbn Sehl İbn Huneyf'in) babasından (rivayet edildiğine göre); Rasûlullah (s.a.v.) şöyle buyurmuştur: \"Sakın hâ!... Biriniz; nefsim habis oldu, demesin. Fakat; nefsim lakis oldu, desin.\" Diğer Tahric: Buhari, edeb; Müslim, edeb Ahmed b. Hanbel, VI, 51,",
+			"text": "(Ebu Ümâme İbn Sehl İbn Huneyf'in) babasından (rivayet edildiğine göre); Rasûlullah (s.a.v.) şöyle buyurmuştur: \"Sakın hâ!... Biriniz; nefsim habis oldu, demesin. Fakat; nefsim lakis oldu, desin.\" Diğer Tahric: Buhari, edeb; Müslim, edeb Ahmed b. Hanbel, VI",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -6800,7 +6808,7 @@
 		{
 			"hadithnumber": 5046,
 			"arabicnumber": 5046,
-			"text": "Sa'd b. Ubeyde'den (şöyle) dedi(ği rivayet edil)miştir: Berâ b. Âzib'in bana naklettiğine göre; Rasûlullah (s.a.v.)'in kendisine şöyle buyurmuştur: \"Yatağına gir(mek iste)diğin zaman (eğer abdestin yoksa aynen) namaz için aldığın abdest gibi bir abdest al, sonra sağ tarafının üzerine yat ve: \"Ey Allahım, ben yüzümü sana teslim ettim, işimi de sana havale ettim, (azabından) korkarak ve sevabını umarak (bütün İşlerimde) sırtımı sana dayadım. Senden kurtulup sığınılacak ancak sen varsın, indirmiş olduğun kitabına ve göndermiş olduğun nebî'nc iman ettim, diye dua et. (Böyle yaptığın takdirde) ölürsen İslam üzere ölürsün. Bunlar son sözlerin olsun.\" el-Bera (b. Azib sözlerine devam ederek) demiş ki: Ben (kendi kendime): \"Bu sözleri (bir daha) hatırlayayım\" dedim. \"Göndermiş olduğun Resulüne...\" diye okudum da (fahr-i kainat efndimiz): \"Hayır (öyle değil), göndermiş olduğun Nebine\" buyurdu. Tahric edenler: Buharî, vudu, de'va, tevhid, Müslim, zikr; Tirmizi, deavat; İbn Mâce, dua; Darimî, istizan; Ahmed b. Hanbel, IV, 285,290, 292, 296",
+			"text": "Sa'd b. Ubeyde'den (şöyle) dedi(ği rivayet edil)miştir: Berâ b. Âzib'in bana naklettiğine göre; Rasûlullah (s.a.v.)'in kendisine şöyle buyurmuştur: \"Yatağına gir(mek iste)diğin zaman (eğer abdestin yoksa aynen) namaz için aldığın abdest gibi bir abdest al, sonra sağ tarafının üzerine yat ve: \"Ey Allahım, ben yüzümü sana teslim ettim, işimi de sana havale ettim, (azabından) korkarak ve sevabını umarak (bütün İşlerimde) sırtımı sana dayadım. Senden kurtulup sığınılacak ancak sen varsın, indirmiş olduğun kitabına ve göndermiş olduğun nebî'nc iman ettim, diye dua et. (Böyle yaptığın takdirde) ölürsen İslam üzere ölürsün. Bunlar son sözlerin olsun.\" el-Bera (b. Azib sözlerine devam ederek) demiş ki: Ben (kendi kendime): \"Bu sözleri (bir daha) hatırlayayım\" dedim. \"Göndermiş olduğun Resulüne...\" diye okudum da (fahr-i kainat efndimiz): \"Hayır (öyle değil), göndermiş olduğun Nebine\" buyurdu. Tahric edenler: Buharî, vudu, de'va, tevhid, Müslim, zikr; Tirmizi, deavat; İbn Mâce, dua; Darimî, istizan; Ahmed b. Hanbel, IV, 28",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -6985,7 +6993,7 @@
 		{
 			"hadithnumber": 5053,
 			"arabicnumber": 5053,
-			"text": "Hz. Enes'den (rivayet edildiğine göre) Rasûllullah (s.a.v.) yatağına gir(mek üzere yatağının üzerine otur)duğu zaman,- \"Bizi doyurup sulayan, bize yeten ve bizi sığındıran Allah'a hamdolsun! Nice kimseler vardır ki, onların ne işlerini üzerine alıp kendilerine yeten(ler)i vardır, ne de barındıranları vardır\" demiştir. Tahric edenler: Müslim, zikr; Tirmizî daavat; Ahmed b. Hanbel, II, 17,11",
+			"text": "Hz. Enes'den (rivayet edildiğine göre) Rasûllullah (s.a.v.) yatağına gir(mek üzere yatağının üzerine otur)duğu zaman,- \"Bizi doyurup sulayan, bize yeten ve bizi sığındıran Allah'a hamdolsun! Nice kimseler vardır ki, onların ne işlerini üzerine alıp kendilerine yeten(ler)i vardır, ne de barındıranları vardır\" demiştir. Tahric edenler: Müslim, zikr; Tirmizî daavat; Ahmed b. Hanbel, II",
 			"grades": [
 				{
 					"name": "Al-Albani",

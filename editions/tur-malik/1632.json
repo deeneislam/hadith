@@ -3,6 +3,14 @@
 		"name": "Muwatta Malik",
 		"section": {
 			"46": "The Decree"
+		},
+		"section_detail": {
+			"46": {
+				"hadithnumber_first": 1623,
+				"hadithnumber_last": 1632,
+				"arabicnumber_first": 1623,
+				"arabicnumber_last": 1632
+			}
 		}
 	},
 	"hadiths": [

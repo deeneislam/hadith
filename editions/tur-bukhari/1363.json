@@ -3,13 +3,21 @@
 		"name": "Sahih al Bukhari",
 		"section": {
 			"0": ""
+		},
+		"section_detail": {
+			"0": {
+				"hadithnumber_first": 299,
+				"hadithnumber_last": 7495,
+				"arabicnumber_first": 299,
+				"arabicnumber_last": 7495
+			}
 		}
 	},
 	"hadiths": [
 		{
 			"hadithnumber": 1363,
 			"arabicnumber": 1363,
-			"text": "Sabit İbn Dahhak Nebi Sallallahu Aleyhi ve Sellem'den şunu rivayet etmiştir: \"Bilerek yalan yere İslam'dan başka bir millet (din) üzerine yemin eden kişi dediği gibi olur. Keskin bir aletle kendisini öldüren kimse de cehennem ateşinde o aletle azap görür. Tekrar; 4171, 4843, 6",
+			"text": "Sabit İbn Dahhak Nebi Sallallahu Aleyhi ve Sellem'den şunu rivayet etmiştir: \"Bilerek yalan yere İslam'dan başka bir millet (din) üzerine yemin eden kişi dediği gibi olur. Keskin bir aletle kendisini öldüren kimse de cehennem ateşinde o aletle azap görür. Tekrar;",
 			"grades": [],
 			"reference": {
 				"book": 0,

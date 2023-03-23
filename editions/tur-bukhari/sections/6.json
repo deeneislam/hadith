@@ -3,13 +3,21 @@
 		"name": "Sahih al Bukhari",
 		"section": {
 			"6": "Menstrual Periods"
+		},
+		"section_detail": {
+			"6": {
+				"hadithnumber_first": 294,
+				"hadithnumber_last": 333,
+				"arabicnumber_first": 294,
+				"arabicnumber_last": 333
+			}
 		}
 	},
 	"hadiths": [
 		{
 			"hadithnumber": 294,
 			"arabicnumber": 294,
-			"text": "el-Kâsım'dan Âişe r.anha'nın şöyle dediğini işittiği nakledilmiştir: \"Hacca gitmek üzere niyet ederek yola koyulduk. Serife geldiğimiz zaman ay hâli oldum Mebi (Sallallahu aleyhi ve Sellem) yanıma geldiğinde ağlayıp duruyordum. Bana: Neyin var? Yoksa hayız mı oldun?' diye sordu. Ben de 'evet' dedim. Bunun üzerine şöyle buyurdu: 'Bu, Allah'ın Âdem'in kızları için takdir ettiği bir şeydir, Beytullahı tavaf dışında hacıların yaptığı her şeyi yap.' Âişe r.anha şöyle demiştir: \"Nebi (Sallallahu aleyhi ve Sellem) hanımları için sığır kurban etti. Tekrar: 305, 316, 317, 319, 328, 1016, 1018, 1556, 1560, 1561, 1562, 1638, 1650, 1709, 1720, 1733, 1757, 1762, 1771, 1772, 1783, 1786, 1787, 1788, 2952, 2984, 4395, 4401, 4408, 5329, 5548, 5",
+			"text": "el-Kâsım'dan Âişe r.anha'nın şöyle dediğini işittiği nakledilmiştir: \"Hacca gitmek üzere niyet ederek yola koyulduk. Serife geldiğimiz zaman ay hâli oldum Mebi (Sallallahu aleyhi ve Sellem) yanıma geldiğinde ağlayıp duruyordum. Bana: Neyin var? Yoksa hayız mı oldun?' diye sordu. Ben de 'evet' dedim. Bunun üzerine şöyle buyurdu: 'Bu, Allah'ın Âdem'in kızları için takdir ettiği bir şeydir, Beytullahı tavaf dışında hacıların yaptığı her şeyi yap.' Âişe r.anha şöyle demiştir: \"Nebi (Sallallahu aleyhi ve Sellem) hanımları için sığır kurban etti. Tekrar: 305, 316, 317, 319, 328, 1016, 1018, 1556, 1560, 1561, 1562, 1638, 1650, 1709, 1720, 1733, 1757, 1762, 1771, 1772, 1783, 1786, 1787, 1788, 2952, 2984, 4395, 4401, 4408",
 			"grades": [],
 			"reference": {
 				"book": 6,
@@ -29,7 +37,7 @@
 		{
 			"hadithnumber": 296,
 			"arabicnumber": 296,
-			"text": "Hişâm İbn Yûsuf, ibn Cüreyc'in kendilerine şöyle bildirdiğini nakletmiştir: \"Hişam İbn. Urve'nin bize haber verdiğine göre kendisine biri gelip 'Hayızlı kadın bana hizmet edebilir mi veya cünüp bir kadın bana yakın olabilir mi?' diye sordu. Urue 'Bunlar benim için normal şeyler. Hayızlı ve cünüp kadınlar bana hizmet eder. Hizmet konusunda bu iki durumun bir sakıncası yoktur. Aişe r.anha'nın bana haber verdiğine göre kendisi, hayızlıyken mescitte itikafta bulunan Nebi (Sallallahu aleyhi ve Sellem)'in saçlarını tararmış. Allah Resulü (Sallallahu aleyhi ve Sellem) başını mescidden Aişe'nin odasına doğru uzatır ona yaklaştırırmış, o da hayız olmasına rağmen odasından onun saçını tararmış' diye cevap verdi. Tekrar: 296, 301, 2028, 2029, 2",
+			"text": "Hişâm İbn Yûsuf, ibn Cüreyc'in kendilerine şöyle bildirdiğini nakletmiştir: \"Hişam İbn. Urve'nin bize haber verdiğine göre kendisine biri gelip 'Hayızlı kadın bana hizmet edebilir mi veya cünüp bir kadın bana yakın olabilir mi?' diye sordu. Urue 'Bunlar benim için normal şeyler. Hayızlı ve cünüp kadınlar bana hizmet eder. Hizmet konusunda bu iki durumun bir sakıncası yoktur. Aişe r.anha'nın bana haber verdiğine göre kendisi, hayızlıyken mescitte itikafta bulunan Nebi (Sallallahu aleyhi ve Sellem)'in saçlarını tararmış. Allah Resulü (Sallallahu aleyhi ve Sellem) başını mescidden Aişe'nin odasına doğru uzatır ona yaklaştırırmış, o da hayız olmasına rağmen odasından onun saçını tararmış' diye cevap verdi. Tekrar: 296, 301",
 			"grades": [],
 			"reference": {
 				"book": 6,
@@ -179,7 +187,7 @@
 		{
 			"hadithnumber": 313,
 			"arabicnumber": 313,
-			"text": "Ümmü Atiyye'den şöyle nakledilmiştir: \"Bir ölü için üç günden fazla yas tutmamız yasaklandı. Ancak koca için dört ay on gün yas tutmamız emredildi. Yas tuttuğumuz süre içinde, sürme çekmez, koku sürünmez ve asab dışında boyalı elbise giymezdik. Adetimiz sona erip hayızdan dolayı gusül abdesti alınca azıcık küst-ı azfâr kullanmamıza izin verildi. Bizim cenazelerin ardından gitmemiz de yasaklandı. Tekrar: 1278, 5340, 5",
+			"text": "Ümmü Atiyye'den şöyle nakledilmiştir: \"Bir ölü için üç günden fazla yas tutmamız yasaklandı. Ancak koca için dört ay on gün yas tutmamız emredildi. Yas tuttuğumuz süre içinde, sürme çekmez, koku sürünmez ve asab dışında boyalı elbise giymezdik. Adetimiz sona erip hayızdan dolayı gusül abdesti alınca azıcık küst-ı azfâr kullanmamıza izin verildi. Bizim cenazelerin ardından gitmemiz de yasaklandı. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 6,
@@ -289,7 +297,7 @@
 		{
 			"hadithnumber": 324,
 			"arabicnumber": 324,
-			"text": "Hafsa (binti Sîrin'den) şöyle nakledilmiştir: \"Biz genç kızlarımıza, bayramlara katılmak için evden çıkmalarına izin vermezdik. Bir gün bir kadın geldi ve Kasr-ı Benî Halefe yerleşti. Kocası Nebi (Sallallahu aleyhi ve Sellem) ile birlikte on iki gazveye katılmış bacısından bahsetti: \"Kız kardeşim, altı savaşta kocasının yanında yer aldı. (Bize savaştaki vazifeleri hakkında) Yaralıları tedavi eder, hastalarla ilgilenirdik dedi.\" Kız kardeşim Nebi (Sallallahu aleyhi ve Sellem)'e Cilbâbı olmadığı için (topluca iştirak edilen bayramlar gibi hayrın bolca işlendiği günlerde) dışarı çıkamayan kadınlara günah olur mu?' diye sordu. Allah Resulü Böylesi durumlarda arkadaşı, ona kendi cilbabını versin. O da, bu sayede hayrın bulunduğu meclislere katılsın ve Müslümanların topluca dua ettiği ortamlarda bulunsun' şeklinde cevap verdi. Ümmü Atıyye (Basra'ya) geldiği zaman ona Bu sözü Nebi (Sallallahu aleyhi ve Sellem)'den duydun mu? diye sordum. O da 'Babam ona feda olsun ki, evet. (Ümmü Atıyye Nebi (Sallallahu aleyhi ve Sellem)'den bahsederken mutlaka 'babam ona feda olsun ki' derdi.) Nebi (Sallallahu aleyhi ve Sellem)’in şöyle dediğini de işittim: \"Genç kızlar ve perde arkasında bulunan kızlar (veya perde arkasında bulunan genç kızlar) ile Hayızlı kadınlar dışarı çıktp hayrın bulunduğu meclislere katılsınlar ve Müslümanların dualarına iştirak etsinler. Yalnız hayızlı kadınlar namazgahtan uzak dursunlar.\" Hafsa, \"hayızlı kadınlar da dışarı çıkıp bu meclislere katılır mı?\" diye sorunca, Ümmü Atıyye \"Onlar Arafat'a çıkıp, şuraya buraya gitmiyorlar mı?\" demiştir. Tekrar: 351, 974,",
+			"text": "Hafsa (binti Sîrin'den) şöyle nakledilmiştir: \"Biz genç kızlarımıza, bayramlara katılmak için evden çıkmalarına izin vermezdik. Bir gün bir kadın geldi ve Kasr-ı Benî Halefe yerleşti. Kocası Nebi (Sallallahu aleyhi ve Sellem) ile birlikte on iki gazveye katılmış bacısından bahsetti: \"Kız kardeşim, altı savaşta kocasının yanında yer aldı. (Bize savaştaki vazifeleri hakkında) Yaralıları tedavi eder, hastalarla ilgilenirdik dedi.\" Kız kardeşim Nebi (Sallallahu aleyhi ve Sellem)'e Cilbâbı olmadığı için (topluca iştirak edilen bayramlar gibi hayrın bolca işlendiği günlerde) dışarı çıkamayan kadınlara günah olur mu?' diye sordu. Allah Resulü Böylesi durumlarda arkadaşı, ona kendi cilbabını versin. O da, bu sayede hayrın bulunduğu meclislere katılsın ve Müslümanların topluca dua ettiği ortamlarda bulunsun' şeklinde cevap verdi. Ümmü Atıyye (Basra'ya) geldiği zaman ona Bu sözü Nebi (Sallallahu aleyhi ve Sellem)'den duydun mu? diye sordum. O da 'Babam ona feda olsun ki, evet. (Ümmü Atıyye Nebi (Sallallahu aleyhi ve Sellem)'den bahsederken mutlaka 'babam ona feda olsun ki' derdi.) Nebi (Sallallahu aleyhi ve Sellem)’in şöyle dediğini de işittim: \"Genç kızlar ve perde arkasında bulunan kızlar (veya perde arkasında bulunan genç kızlar) ile Hayızlı kadınlar dışarı çıktp hayrın bulunduğu meclislere katılsınlar ve Müslümanların dualarına iştirak etsinler. Yalnız hayızlı kadınlar namazgahtan uzak dursunlar.\" Hafsa, \"hayızlı kadınlar da dışarı çıkıp bu meclislere katılır mı?\" diye sorunca, Ümmü Atıyye \"Onlar Arafat'a çıkıp, şuraya buraya gitmiyorlar mı?\" demiştir. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 6,
@@ -369,7 +377,7 @@
 		{
 			"hadithnumber": 333,
 			"arabicnumber": 333,
-			"text": "Abdullah İbn Şeddâd'dan şöyle nakledilmiştir: \"Nebi (Sallallahu aleyhi ve Sellem)'in hanımı teyzem Meymûne (r.anha)'dan kendisinin hayız olduğunu, bu yüzden namaz kılmadığını, Nebi Sallallahu Aleyhi ve Sellem'in secdeye gittiği yerin kenarında yattığını ve seccade üzerinde namaz kılan Allah Resûlü (Sallallahu Aleyhi ve Sellem)'in elbisesinin bir tarafının kendisine değdiğini işittim. Tekrar; 379",
+			"text": "Abdullah İbn Şeddâd'dan şöyle nakledilmiştir: \"Nebi (Sallallahu aleyhi ve Sellem)'in hanımı teyzem Meymûne (r.anha)'dan kendisinin hayız olduğunu, bu yüzden namaz kılmadığını, Nebi Sallallahu Aleyhi ve Sellem'in secdeye gittiği yerin kenarında yattığını ve seccade üzerinde namaz kılan Allah Resûlü (Sallallahu Aleyhi ve Sellem)'in elbisesinin bir tarafının kendisine değdiğini işittim. Tekrar;",
 			"grades": [],
 			"reference": {
 				"book": 6,

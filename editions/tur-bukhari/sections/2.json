@@ -3,6 +3,14 @@
 		"name": "Sahih al Bukhari",
 		"section": {
 			"2": "Belief"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 8,
+				"hadithnumber_last": 58,
+				"arabicnumber_first": 8,
+				"arabicnumber_last": 58
+			}
 		}
 	},
 	"hadiths": [
@@ -119,7 +127,7 @@
 		{
 			"hadithnumber": 19,
 			"arabicnumber": 19,
-			"text": "Ebu Said-i Hudri r.a. şöyle demiştir: Resulullah sallallahu aleyhi ve sellem buyurdu ki: \"Müslümanın en hayırlı malının koyun olması yakındır. Dağ başlarında ve yağmur suyunun biriktiği yerlerde (vadi ortalarında) onları gezdirir de bu sayede dinini fitnelerden korumuş olur Tekrar: 3300, 3",
+			"text": "Ebu Said-i Hudri r.a. şöyle demiştir: Resulullah sallallahu aleyhi ve sellem buyurdu ki: \"Müslümanın en hayırlı malının koyun olması yakındır. Dağ başlarında ve yağmur suyunun biriktiği yerlerde (vadi ortalarında) onları gezdirir de bu sayede dinini fitnelerden korumuş olur Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 2,
@@ -149,7 +157,7 @@
 		{
 			"hadithnumber": 22,
 			"arabicnumber": 22,
-			"text": "Ebu Saîd el-Hudrî'den rivayet edildiğine göre Hz. Peygamber şöyle buyurmuştur: \"Cennetlikler cennete, cehennemlikler de cehenneme girdikten sonra Allah Teala: 'Kalbinde hardal danesi ağırlığınca imanı olanı (cehennemden) çıkarın!’ buyurur. Bunun üzerine (bu kişiler) cehennem'den kararmış (kömür gibi olmuş) bir halde çıkarılırlar. Sonra haya yahut hayat (şüphe Malik'tendir) nehrine atılırlar. Orada selin uğradığı yerde kalan tohumlar nasıl (çabucak) ayrık otu olarak biterse öyle biterler. Görmez misin, bunlar (ne güzel) sapsarı olarak (ve iki tarafına) salınarak sürer?. Tekrar: 4581, 4919,6560, 6",
+			"text": "Ebu Saîd el-Hudrî'den rivayet edildiğine göre Hz. Peygamber şöyle buyurmuştur: \"Cennetlikler cennete, cehennemlikler de cehenneme girdikten sonra Allah Teala: 'Kalbinde hardal danesi ağırlığınca imanı olanı (cehennemden) çıkarın!’ buyurur. Bunun üzerine (bu kişiler) cehennem'den kararmış (kömür gibi olmuş) bir halde çıkarılırlar. Sonra haya yahut hayat (şüphe Malik'tendir) nehrine atılırlar. Orada selin uğradığı yerde kalan tohumlar nasıl (çabucak) ayrık otu olarak biterse öyle biterler. Görmez misin, bunlar (ne güzel) sapsarı olarak (ve iki tarafına) salınarak sürer?. Tekrar: 458",
 			"grades": [],
 			"reference": {
 				"book": 2,
@@ -159,7 +167,7 @@
 		{
 			"hadithnumber": 23,
 			"arabicnumber": 23,
-			"text": "Ebu Said-i Hudri r.a. şöyle demiştir: Resulullah sallallahu aleyhi ve sellem buyurdu ki: Uyuduğum esnada gördüm ki halk bana arzolunuyordu. Üstlerinde gömlekler vardı. Bu gömleklerin kimi memelere varıyor, kimi daha kısa idi. Ömer bin el-Hattâb da bana arzolundu. Üstünde (eteklerini yerde) sürüdüğü bir gömlek vardı. \"Ya Resûlâllâh, bunu ne ile te`vîl ettin?\" diye sordular. \"Dîn ile.\" cevâbını verdi. Tekrar: 3",
+			"text": "Ebu Said-i Hudri r.a. şöyle demiştir: Resulullah sallallahu aleyhi ve sellem buyurdu ki: Uyuduğum esnada gördüm ki halk bana arzolunuyordu. Üstlerinde gömlekler vardı. Bu gömleklerin kimi memelere varıyor, kimi daha kısa idi. Ömer bin el-Hattâb da bana arzolundu. Üstünde (eteklerini yerde) sürüdüğü bir gömlek vardı. \"Ya Resûlâllâh, bunu ne ile te`vîl ettin?\" diye sordular. \"Dîn ile.\" cevâbını verdi. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 2,
@@ -219,7 +227,7 @@
 		{
 			"hadithnumber": 29,
 			"arabicnumber": 29,
-			"text": "Abdullah ibn-i Abbas r.a şöyle demiştir: Nebiyy-i Muhterem sallallahu aleyhi ve sellem buyurdu ki: \"Bana afeş (cehennem) gösterildi. Cehennemliklerin çoğunluğunun kadınlar olduğunu gördüm. Zira onlar inkar edenlerdir\". Nebi (Sallallahu aleyhi ve Sellem)'e soruldu: \"Allah'ı mı inkar ederler?\" Nebi sallallahu aleyhi ve selem şöyle buyurdu: Kocalarını(n hakkını) inkar ederler, iyiliği inkar ederler. Onlardan birine uzun zaman iyilikte bulunsan, sonra senden (sevmediği) bir şey görse hemen 'zaten senden hiçbir iyilik görmedim' der\". Tekrar: 431, 748, 1",
+			"text": "Abdullah ibn-i Abbas r.a şöyle demiştir: Nebiyy-i Muhterem sallallahu aleyhi ve sellem buyurdu ki: \"Bana afeş (cehennem) gösterildi. Cehennemliklerin çoğunluğunun kadınlar olduğunu gördüm. Zira onlar inkar edenlerdir\". Nebi (Sallallahu aleyhi ve Sellem)'e soruldu: \"Allah'ı mı inkar ederler?\" Nebi sallallahu aleyhi ve selem şöyle buyurdu: Kocalarını(n hakkını) inkar ederler, iyiliği inkar ederler. Onlardan birine uzun zaman iyilikte bulunsan, sonra senden (sevmediği) bir şey görse hemen 'zaten senden hiçbir iyilik görmedim' der\". Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 2,
@@ -249,7 +257,7 @@
 		{
 			"hadithnumber": 32,
 			"arabicnumber": 32,
-			"text": "Abdullah (İbn-i Mes’ud’dan) rivayet’e göre: \"İman edenler ve imanlarına zulüm karıştırmayanlar var ya.[En'am, 82] ayeti indiri­lince Nebi (Sallallahu aleyhi ve Sellem)'e: \"Hangimiz zulüm etmemiştir ki! dediler. Bunun üzerine Allah şu âyeti indirdi: \"Şüphesiz ki şirk büyük bir zulümdür.[Lokman, 13] Tekrar: 3360, 3428, 4629, 4",
+			"text": "Abdullah (İbn-i Mes’ud’dan) rivayet’e göre: \"İman edenler ve imanlarına zulüm karıştırmayanlar var ya.[En'am, 82] ayeti indiri­lince Nebi (Sallallahu aleyhi ve Sellem)'e: \"Hangimiz zulüm etmemiştir ki! dediler. Bunun üzerine Allah şu âyeti indirdi: \"Şüphesiz ki şirk büyük bir zulümdür.[Lokman, 13] Tekrar: 3360",
 			"grades": [],
 			"reference": {
 				"book": 2,
@@ -279,7 +287,7 @@
 		{
 			"hadithnumber": 35,
 			"arabicnumber": 35,
-			"text": "Ebu Hureyre r.a. şöyle demiştir: Resulullah sallallahu aleyhi ve sellem buyurdu ki: Kim inanarak ve sevabını yalnızca Allah'tan umarak Kadir gecesini ihya ederse geçmiş günahlerı bağışlanır. Tekrar: 37, 38, 1901, 2",
+			"text": "Ebu Hureyre r.a. şöyle demiştir: Resulullah sallallahu aleyhi ve sellem buyurdu ki: Kim inanarak ve sevabını yalnızca Allah'tan umarak Kadir gecesini ihya ederse geçmiş günahlerı bağışlanır. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 2,
@@ -319,7 +327,7 @@
 		{
 			"hadithnumber": 39,
 			"arabicnumber": 39,
-			"text": "Ebu Hureyre r.a. dediki Nebiyy-i Muhterem sallallahu aleyhi ve sellem buyurdu ki: \"Dîn kolaylıktır. Dini aşmak isteyen kimse, ona yenik düşer. O halde, orta yolu tutunuz, (elinizden gelenin) en iyisini yapmaya çalışınız, o zaman size müjdeler otsun; günün başlangıcından, sonundan ve bir miktar da geceden faydalanınız. Tekrar: 5",
+			"text": "Ebu Hureyre r.a. dediki Nebiyy-i Muhterem sallallahu aleyhi ve sellem buyurdu ki: \"Dîn kolaylıktır. Dini aşmak isteyen kimse, ona yenik düşer. O halde, orta yolu tutunuz, (elinizden gelenin) en iyisini yapmaya çalışınız, o zaman size müjdeler otsun; günün başlangıcından, sonundan ve bir miktar da geceden faydalanınız. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 2,
@@ -329,7 +337,7 @@
 		{
 			"hadithnumber": 40,
 			"arabicnumber": 40,
-			"text": "Bera’ r.a. şöyle dedi: Nebiyy-i Mükerrem sallallahu aleyhi ve sellem Medine'ye ilk geldiğinde Ensar'dan ecdadının yahut dayılarının- yanında misafir olarak kaldı. On altı ay (yahut on yedi ay) boyunca Beytü'l-Makdis'e yönelerek namaz kıldı. Kıblenin Ka'be olmasını istiyordu. Medine'de Kabe'ye yönelerek kıldığı ilk namaz ikindi namazı idi. Bir grup sahabe de onunla birlikte kıldılar. Nebi s.a.v. ile birlikte namaz kılanlardan bir sahabi namazdan çıkınca bir başka mescitte namaz kılan, namaz içinde rükû' eden bir topluluğun yanına uğradı. Onlara: Allah için şahitlik ederim ki Allah Resulü ile Kabe'ye dönerek namaz kıldım, dedi. Bunun üzerine o topluluk bulundukları yerde Kabe'ye doğru yöneldiler. Hz. Peygamberin Beytü'l-Makdis'e dönerek namaz kılması Yahudilerin yani ehl-i kitabın hoşuna gidiyordu. Hz. Peygamber namazda yüzünü Kabe'ye çevirince ehli kitap onun bu yaptığını yadırgadı. Züheyr şöyle demiştir: Ebû İshak, Bera'dan şunu rivayet etmiştir: \"Kıblenin değiştirilmesinden önce bazı kimseler vefat etmişler ve şehit olmuşlardı. Biz onlar hakkında ne diyeceğimizi bilemedik. Bunun üzerine Yüce Allah şu âyeti indirdi: \"Allah sizin imanınızı zayi edecek değildir.[Bakara 143] Tekrar: 399, 4",
+			"text": "Bera’ r.a. şöyle dedi: Nebiyy-i Mükerrem sallallahu aleyhi ve sellem Medine'ye ilk geldiğinde Ensar'dan ecdadının yahut dayılarının- yanında misafir olarak kaldı. On altı ay (yahut on yedi ay) boyunca Beytü'l-Makdis'e yönelerek namaz kıldı. Kıblenin Ka'be olmasını istiyordu. Medine'de Kabe'ye yönelerek kıldığı ilk namaz ikindi namazı idi. Bir grup sahabe de onunla birlikte kıldılar. Nebi s.a.v. ile birlikte namaz kılanlardan bir sahabi namazdan çıkınca bir başka mescitte namaz kılan, namaz içinde rükû' eden bir topluluğun yanına uğradı. Onlara: Allah için şahitlik ederim ki Allah Resulü ile Kabe'ye dönerek namaz kıldım, dedi. Bunun üzerine o topluluk bulundukları yerde Kabe'ye doğru yöneldiler. Hz. Peygamberin Beytü'l-Makdis'e dönerek namaz kılması Yahudilerin yani ehl-i kitabın hoşuna gidiyordu. Hz. Peygamber namazda yüzünü Kabe'ye çevirince ehli kitap onun bu yaptığını yadırgadı. Züheyr şöyle demiştir: Ebû İshak, Bera'dan şunu rivayet etmiştir: \"Kıblenin değiştirilmesinden önce bazı kimseler vefat etmişler ve şehit olmuşlardı. Biz onlar hakkında ne diyeceğimizi bilemedik. Bunun üzerine Yüce Allah şu âyeti indirdi: \"Allah sizin imanınızı zayi edecek değildir.[Bakara 143] Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 2,
@@ -369,7 +377,7 @@
 		{
 			"hadithnumber": 44,
 			"arabicnumber": 44,
-			"text": "Enes r.a. şöyle demiştir: Nebiyy-i Muhterem sallallahu aleyhi ve sellem buyurdu ki: La İlahe İllallah deyib de kalbinde bir arpa tanesi kadar hayır (yani iman) bulunan kimse Cehennem`den çıkacaktır. La İlahe İllallah deyip te kalbinde bir buğday tanesi kadar hayır (yani iman) bulunan kimse Cehennem`den çıkacaktır. La İlahe İllallah deyip te kalbinde bir zerre kadar hayır (iman) bulunan kimse Cehennem`den çıkacaktır. Tekrar: 4476, 6565, 7410, 7440, 7",
+			"text": "Enes r.a. şöyle demiştir: Nebiyy-i Muhterem sallallahu aleyhi ve sellem buyurdu ki: La İlahe İllallah deyib de kalbinde bir arpa tanesi kadar hayır (yani iman) bulunan kimse Cehennem`den çıkacaktır. La İlahe İllallah deyip te kalbinde bir buğday tanesi kadar hayır (yani iman) bulunan kimse Cehennem`den çıkacaktır. La İlahe İllallah deyip te kalbinde bir zerre kadar hayır (iman) bulunan kimse Cehennem`den çıkacaktır. Tekrar: 4476, 6565",
 			"grades": [],
 			"reference": {
 				"book": 2,
@@ -379,7 +387,7 @@
 		{
 			"hadithnumber": 45,
 			"arabicnumber": 45,
-			"text": "Ömer İbnü'l-Hattâb r.a.'den rivayet edildiğine göre Yahudilerden biri ona şöyle dedi: Ey muminlerin emiri ! Sizin kitabınızda okuduğunuz bir ayet biz Yahudiler topluluğuna inmiş olsaydı, o ayet'in indiği günü bayram edinirdik\". Hz. Ömer sordu: \"Hangi âyet?\" Yahudi cevap verdi: \"Bugün size dininizi kemale erdirdim, üzerinizdeki ni'metimi tamamladım ve sizin için din olarak İslâm'dan razı oldum.’’ [Mâide,3] Bunun üzerine Hz. Ömer şöyle dedi: Biz bu günü ve Nebi (Sallallahu aleyhi ve Sellem)'e bu âyet'in indirildiği yeri biliriz. Bu ayet Nebi (Sallallahu aleyhi ve Sellem) Arafat'ta ayakta beklerken Cum'a günü indirildi. Tekrar: 4",
+			"text": "Ömer İbnü'l-Hattâb r.a.'den rivayet edildiğine göre Yahudilerden biri ona şöyle dedi: Ey muminlerin emiri ! Sizin kitabınızda okuduğunuz bir ayet biz Yahudiler topluluğuna inmiş olsaydı, o ayet'in indiği günü bayram edinirdik\". Hz. Ömer sordu: \"Hangi âyet?\" Yahudi cevap verdi: \"Bugün size dininizi kemale erdirdim, üzerinizdeki ni'metimi tamamladım ve sizin için din olarak İslâm'dan razı oldum.’’ [Mâide,3] Bunun üzerine Hz. Ömer şöyle dedi: Biz bu günü ve Nebi (Sallallahu aleyhi ve Sellem)'e bu âyet'in indirildiği yeri biliriz. Bu ayet Nebi (Sallallahu aleyhi ve Sellem) Arafat'ta ayakta beklerken Cum'a günü indirildi. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 2,
@@ -389,7 +397,7 @@
 		{
 			"hadithnumber": 46,
 			"arabicnumber": 46,
-			"text": "Talha b. Ubeydullah'tan rivayet edilmiştir: Necidlilerden saçı başı dağınık bir adam Nebi (sallallahu aleyhi ve sellem)'e geldi. Sesinin mırıltısı duyuluyor, ancak ne dediği anlaşılmıyordu. Yaklaştı nihayet bir de baktık ki İslam hakkında soru soruyor. Nebi (sallallahu aleyhi ve sellem) şöyle buyurdu: Bir gün ve gecede beş vakit namaz.\" dedi. Adam: \"Benim üzerime bunlar dışında gerekli olan namaz var mıdır?\" diye sordu. Nebi (sallallahu aleyhi ve sellem) Hayır. Ancak dilersen nafile olarak yaparsın\" buyurdu. Daha sonra Nebi (sallallahu aleyhi ve sellem) Ramazanda oruç tutmak\" dedi. Adam: Benim üzerime bunlar dışında gerekli olan oruç var mıdır? diye sordu. Nebi (sallallahu aleyhi ve sellem) Hayır. Ancak dilersen nafile olarak tutabilirsin\" buyurdu. Daha sonra Nebi (sallallahu aleyhi ve sellem) zekat'tan bahsetti. Adam: \"Benim üzerime bunlar dışında gerekli olan zekat var mıdır?\" diye sordu. Nebi (sallallahu aleyhi ve sellem): \"Hayır. Ancak dilersen nafile olarak verirsin\" buyurdu. Adam \"Vallahi bunlardan ne fazla ne de eksik yaparım\" diyerek döndü ve gitti. Nebi (sallallahu aleyhi ve sellem)’de şöyle buyurdu: \"Doğru söylediyse kurtuldu. Tekrar: 1",
+			"text": "Talha b. Ubeydullah'tan rivayet edilmiştir: Necidlilerden saçı başı dağınık bir adam Nebi (sallallahu aleyhi ve sellem)'e geldi. Sesinin mırıltısı duyuluyor, ancak ne dediği anlaşılmıyordu. Yaklaştı nihayet bir de baktık ki İslam hakkında soru soruyor. Nebi (sallallahu aleyhi ve sellem) şöyle buyurdu: Bir gün ve gecede beş vakit namaz.\" dedi. Adam: \"Benim üzerime bunlar dışında gerekli olan namaz var mıdır?\" diye sordu. Nebi (sallallahu aleyhi ve sellem) Hayır. Ancak dilersen nafile olarak yaparsın\" buyurdu. Daha sonra Nebi (sallallahu aleyhi ve sellem) Ramazanda oruç tutmak\" dedi. Adam: Benim üzerime bunlar dışında gerekli olan oruç var mıdır? diye sordu. Nebi (sallallahu aleyhi ve sellem) Hayır. Ancak dilersen nafile olarak tutabilirsin\" buyurdu. Daha sonra Nebi (sallallahu aleyhi ve sellem) zekat'tan bahsetti. Adam: \"Benim üzerime bunlar dışında gerekli olan zekat var mıdır?\" diye sordu. Nebi (sallallahu aleyhi ve sellem): \"Hayır. Ancak dilersen nafile olarak verirsin\" buyurdu. Adam \"Vallahi bunlardan ne fazla ne de eksik yaparım\" diyerek döndü ve gitti. Nebi (sallallahu aleyhi ve sellem)’de şöyle buyurdu: \"Doğru söylediyse kurtuldu. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 2,
@@ -469,7 +477,7 @@
 		{
 			"hadithnumber": 54,
 			"arabicnumber": 54,
-			"text": "Ömer den rivayet edildiğine göre Allah Resulü sallallahu aleyhi ve selem şöyle buyurmuştur: \"Ameller niyetlere göredir. Herkes için niyet ettiği(nin karşılığı) vardır. Kimin hicreti Allah'a ve Resulüne ise onun hicreti Allah'a ve Resûlünedir. Kimin de hicreti elde etmek istediği dünya ve nikahlamak istediği bir kadına ise onun hicreti de hicret ettiği şeyedir. Tekrar: 1, 2529, 3898, 5",
+			"text": "Ömer den rivayet edildiğine göre Allah Resulü sallallahu aleyhi ve selem şöyle buyurmuştur: \"Ameller niyetlere göredir. Herkes için niyet ettiği(nin karşılığı) vardır. Kimin hicreti Allah'a ve Resulüne ise onun hicreti Allah'a ve Resûlünedir. Kimin de hicreti elde etmek istediği dünya ve nikahlamak istediği bir kadına ise onun hicreti de hicret ettiği şeyedir. Tekrar: 1",
 			"grades": [],
 			"reference": {
 				"book": 2,
@@ -489,7 +497,7 @@
 		{
 			"hadithnumber": 56,
 			"arabicnumber": 56,
-			"text": "Sa'd b. Ebî Vakkas'tan rivayet edildiğine göre Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: \"Allah'ın rızasını gözeterek yaptığın her harcamadan dolayı sevap alırsın, hatta eşinin ağzına koyduğun lokmadan bile. Tekrar: 1295, 2742, 2744, 3936, 4409, 5354, 5659, 5",
+			"text": "Sa'd b. Ebî Vakkas'tan rivayet edildiğine göre Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: \"Allah'ın rızasını gözeterek yaptığın her harcamadan dolayı sevap alırsın, hatta eşinin ağzına koyduğun lokmadan bile. Tekrar: 1295, 2742, 2744, 3936, 4409",
 			"grades": [],
 			"reference": {
 				"book": 2,
@@ -499,7 +507,7 @@
 		{
 			"hadithnumber": 57,
 			"arabicnumber": 57,
-			"text": "Cerir bin Abdullah'ın şöyle dediği rivayet edilmiştir: Nebi (Sallallahu aleyhi ve Sellem)'e namaz kılmak, zekat vermek ve her müslümana (karşı) hayırhah olmak üzere biat ettim. Tekrar: 524, 1401, 2",
+			"text": "Cerir bin Abdullah'ın şöyle dediği rivayet edilmiştir: Nebi (Sallallahu aleyhi ve Sellem)'e namaz kılmak, zekat vermek ve her müslümana (karşı) hayırhah olmak üzere biat ettim. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 2,

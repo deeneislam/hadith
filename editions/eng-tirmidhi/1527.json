@@ -3,6 +3,14 @@
 		"name": "Jami At Tirmidhi",
 		"section": {
 			"20": "The Book on Vows and Oaths"
+		},
+		"section_detail": {
+			"20": {
+				"hadithnumber_first": 1524,
+				"hadithnumber_last": 1547,
+				"arabicnumber_first": 1524,
+				"arabicnumber_last": 1547
+			}
 		}
 	},
 	"hadiths": [

@@ -3,6 +3,14 @@
 		"name": "Sahih al Bukhari",
 		"section": {
 			"52": "Witnesses"
+		},
+		"section_detail": {
+			"52": {
+				"hadithnumber_first": 2637,
+				"hadithnumber_last": 2689,
+				"arabicnumber_first": 2637,
+				"arabicnumber_last": 2689
+			}
 		}
 	},
 	"hadiths": [
@@ -29,7 +37,7 @@
 		{
 			"hadithnumber": 2639,
 			"arabicnumber": 2639,
-			"text": "Aişe r.anha'dan rivayet edilmiştir: Kureyza kabilesinden Rifaa'nın hanımı, Nebi Sallallahu Aleyhi ve Sellem'e gelerek: \"Rifaa ile evliydim. Beni boşadı, ayrılığımı da kesinleştirdi (yani. Ben de Abdurrahman b. Zübeyr'le evlendim. Ama onun elbisenin eteği gibi bir şeyi var\" dedi. Nebi Sallallahu Aleyhi ve Sellem \"Rifaa'ya dönmek mi istiyorsun? Hayır, sen onun balcağızını, o da senin balcağızını tatmadıkça bu olamaz\" buyurdu. Bu esnada Ebu Bekir Hz. Nebi'in yanında oturuyordu. Halid b. Said de içeri girmek için kapı da müsaade bekliyordu, (onun bu sözüne kulak misafiri olunca) \"Ebu Bekir! Bu kadının Hz. Nebi'in huzurunda alenen söylediği şu sözü duymuyor musun?\" dedi. Tekrar 5260, 5261, 5317, 5",
+			"text": "Aişe r.anha'dan rivayet edilmiştir: Kureyza kabilesinden Rifaa'nın hanımı, Nebi Sallallahu Aleyhi ve Sellem'e gelerek: \"Rifaa ile evliydim. Beni boşadı, ayrılığımı da kesinleştirdi (yani. Ben de Abdurrahman b. Zübeyr'le evlendim. Ama onun elbisenin eteği gibi bir şeyi var\" dedi. Nebi Sallallahu Aleyhi ve Sellem \"Rifaa'ya dönmek mi istiyorsun? Hayır, sen onun balcağızını, o da senin balcağızını tatmadıkça bu olamaz\" buyurdu. Bu esnada Ebu Bekir Hz. Nebi'in yanında oturuyordu. Halid b. Said de içeri girmek için kapı da müsaade bekliyordu, (onun bu sözüne kulak misafiri olunca) \"Ebu Bekir! Bu kadının Hz. Nebi'in huzurunda alenen söylediği şu sözü duymuyor musun?\" dedi. Tekrar 5260",
 			"grades": [],
 			"reference": {
 				"book": 52,
@@ -79,7 +87,7 @@
 		{
 			"hadithnumber": 2644,
 			"arabicnumber": 2644,
-			"text": "Aişe r.anha'dan rivayet edilmiştir: Eflah benim yanıma girmek için müsaade istedi. Ben müsaade vermedim. Bunun üzerine Eflah: \"Benden mi saklanıyorsun? Ben senin amcanım\" dedi. \"Bu nasılolur!\" dedim. \"Kardeşimin hanım ı seni kardeşimin sütüyle emzirmişti\" dedi. Allah Resulü Sallallahu Aleyhi ve Sellem'e bunun doğru olup olmadığını sordum. O da: \"Eflah doğru söylüyor, ona müsaade ver\" buyurdu. Tekrar 4796, 5103, 5",
+			"text": "Aişe r.anha'dan rivayet edilmiştir: Eflah benim yanıma girmek için müsaade istedi. Ben müsaade vermedim. Bunun üzerine Eflah: \"Benden mi saklanıyorsun? Ben senin amcanım\" dedi. \"Bu nasılolur!\" dedim. \"Kardeşimin hanım ı seni kardeşimin sütüyle emzirmişti\" dedi. Allah Resulü Sallallahu Aleyhi ve Sellem'e bunun doğru olup olmadığını sordum. O da: \"Eflah doğru söylüyor, ona müsaade ver\" buyurdu. Tekrar",
 			"grades": [],
 			"reference": {
 				"book": 52,
@@ -119,7 +127,7 @@
 		{
 			"hadithnumber": 2648,
 			"arabicnumber": 2648,
-			"text": "İbn Şihab'dan rivayet edilmiştir: Urve b. Zübeyr bana şöyle anlattı: Mekke'nin fethi sırasında bir kadın hırsızlık etmişti. Allah Resulü'ne getirildi. Nebi Sallallahu Aleyhi ve Sellem'in emri üzerine kadının eli kesildi. Aişe r.anha şöyle demiştir: \"O kadın güzel bir tövbe etti ve evlendi. Elinin kesilmesinden sonra bir ihtiyacı olduğunda Nebi Sallallahu Aleyhi ve Sellem’e gelir ve ihtiyacını ona arzederdi.\" Tekrar: 3475, 3732, 3733, 4",
+			"text": "İbn Şihab'dan rivayet edilmiştir: Urve b. Zübeyr bana şöyle anlattı: Mekke'nin fethi sırasında bir kadın hırsızlık etmişti. Allah Resulü'ne getirildi. Nebi Sallallahu Aleyhi ve Sellem'in emri üzerine kadının eli kesildi. Aişe r.anha şöyle demiştir: \"O kadın güzel bir tövbe etti ve evlendi. Elinin kesilmesinden sonra bir ihtiyacı olduğunda Nebi Sallallahu Aleyhi ve Sellem’e gelir ve ihtiyacını ona arzederdi.\" Tekrar: 3475",
 			"grades": [],
 			"reference": {
 				"book": 52,
@@ -149,7 +157,7 @@
 		{
 			"hadithnumber": 2651,
 			"arabicnumber": 2651,
-			"text": "İmran b. Husayn r.a.'dan rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"En hayırlı nesil benim zamanımda yaşayan nesildir; sonra onların ardından gelenler; sonra da onların ardından gelenlerdir.\" İmran diyor ki: \"Nebi (Sallallahu aleyhi ve Sellem) iki mi, yoksa üç nesil mi saydı hatırlamıyorum.\" Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Sizden sonra öyle bir topluluk gelecek ki hıyanet edecekler ve onlara güvenilmeyecek; şahitlik yapacaklar ama şahitlik yapmaları istenmeyecek, adak adayacaklar ama yerine getirmeyecekler ve onlarda aşırı kiloluluk (şişmanlık, obezlik hastalığı) baş gösterecektir. \" Tekrar: 3",
+			"text": "İmran b. Husayn r.a.'dan rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"En hayırlı nesil benim zamanımda yaşayan nesildir; sonra onların ardından gelenler; sonra da onların ardından gelenlerdir.\" İmran diyor ki: \"Nebi (Sallallahu aleyhi ve Sellem) iki mi, yoksa üç nesil mi saydı hatırlamıyorum.\" Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Sizden sonra öyle bir topluluk gelecek ki hıyanet edecekler ve onlara güvenilmeyecek; şahitlik yapacaklar ama şahitlik yapmaları istenmeyecek, adak adayacaklar ama yerine getirmeyecekler ve onlarda aşırı kiloluluk (şişmanlık, obezlik hastalığı) baş gösterecektir. \" Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 52,
@@ -189,7 +197,7 @@
 		{
 			"hadithnumber": 2655,
 			"arabicnumber": 2655,
-			"text": "Aişe r.anha'dan rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem mescidde Kur'an okuyan birini duydu ve: \"Allah ona merhamet etsin. Bana falanca sureden düşürdüğüm (unuttuğum) şu ayetleri hatırlattı\" buyurdu. Abbad b. Abdullah, Aişe'nin şu sözünü de eklemiştir: \"Rasulullah benim evimde teheccüd namazı kıldı, o sırada mescitten bir ses işitti. Bana dönüp: Aişe! Bu Abbad'ın sesi mi?\" buyurdu. \"evet\" dedim. \"Allahım! Abbad'a merhamet eyle\" dedi. Tekrar: 5037, 5",
+			"text": "Aişe r.anha'dan rivayet edilmiştir: Nebi Sallallahu Aleyhi ve Sellem mescidde Kur'an okuyan birini duydu ve: \"Allah ona merhamet etsin. Bana falanca sureden düşürdüğüm (unuttuğum) şu ayetleri hatırlattı\" buyurdu. Abbad b. Abdullah, Aişe'nin şu sözünü de eklemiştir: \"Rasulullah benim evimde teheccüd namazı kıldı, o sırada mescitten bir ses işitti. Bana dönüp: Aişe! Bu Abbad'ın sesi mi?\" buyurdu. \"evet\" dedim. \"Allahım! Abbad'a merhamet eyle\" dedi. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 52,
@@ -399,7 +407,7 @@
 		{
 			"hadithnumber": 2679,
 			"arabicnumber": 2679,
-			"text": "Nafi’ Abdullah r.a.'den rivayet etmiştir: Nebi Sallallahu Aleyhi ve Sellem \"Her kim yemin edecekse Allah adına yemin etsin ya da sussun\" buyurmuştur. Tekrar: 3836, 6",
+			"text": "Nafi’ Abdullah r.a.'den rivayet etmiştir: Nebi Sallallahu Aleyhi ve Sellem \"Her kim yemin edecekse Allah adına yemin etsin ya da sussun\" buyurmuştur. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 52,
@@ -459,7 +467,7 @@
 		{
 			"hadithnumber": 2685,
 			"arabicnumber": 2685,
-			"text": "Abdullah b. Abbas r.a.'ın şöyle dediği rivayet edilmiştir: \"Ey müslümanlar! Allah'ın Nebiine indirdiği Kitab'ı Allah'la ilgili haberlerin en yenisi iken ve Onu katışıksız (saf bir halde) okuyup dururken nasıl ehl-i kitaba soru sorabiliyorsunuz! Allah size ehl-i kitabın, Allah'ın yazdığını değiştirdiklerini ve Kitaplarını elleriyle tahrif ederek, az bir bedelle değiştirmek için \"Bu Allah'ın katındandır\" dediklerini bildirmedi mi? Size gelen ilim, onlara soru sormayı size yasaklamıyor mu? Vallahi! Biz bu güne değin, onlardan tek bir kişinin gelip de size ne indirildi diye sorduğunu görmedik\" Tekrar: 7",
+			"text": "Abdullah b. Abbas r.a.'ın şöyle dediği rivayet edilmiştir: \"Ey müslümanlar! Allah'ın Nebiine indirdiği Kitab'ı Allah'la ilgili haberlerin en yenisi iken ve Onu katışıksız (saf bir halde) okuyup dururken nasıl ehl-i kitaba soru sorabiliyorsunuz! Allah size ehl-i kitabın, Allah'ın yazdığını değiştirdiklerini ve Kitaplarını elleriyle tahrif ederek, az bir bedelle değiştirmek için \"Bu Allah'ın katındandır\" dediklerini bildirmedi mi? Size gelen ilim, onlara soru sormayı size yasaklamıyor mu? Vallahi! Biz bu güne değin, onlardan tek bir kişinin gelip de size ne indirildi diye sorduğunu görmedik\" Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 52,

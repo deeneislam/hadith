@@ -3,6 +3,14 @@
 		"name": "Jami At Tirmidhi",
 		"section": {
 			"8": "The Book on Fasting"
+		},
+		"section_detail": {
+			"8": {
+				"hadithnumber_first": 682,
+				"hadithnumber_last": 808,
+				"arabicnumber_first": 682,
+				"arabicnumber_last": 808
+			}
 		}
 	},
 	"hadiths": [

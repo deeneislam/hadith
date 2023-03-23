@@ -3,6 +3,14 @@
 		"name": "Muwatta Malik",
 		"section": {
 			"57": "Jahannam"
+		},
+		"section_detail": {
+			"57": {
+				"hadithnumber_first": 1839,
+				"hadithnumber_last": 1840,
+				"arabicnumber_first": 1839,
+				"arabicnumber_last": 1840
+			}
 		}
 	},
 	"hadiths": [

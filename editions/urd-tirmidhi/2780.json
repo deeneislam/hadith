@@ -3,6 +3,14 @@
 		"name": "Jami At Tirmidhi",
 		"section": {
 			"43": "Chapters on Manners"
+		},
+		"section_detail": {
+			"43": {
+				"hadithnumber_first": 2736,
+				"hadithnumber_last": 2858,
+				"arabicnumber_first": 2736,
+				"arabicnumber_last": 2858
+			}
 		}
 	},
 	"hadiths": [

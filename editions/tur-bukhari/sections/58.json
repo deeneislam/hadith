@@ -3,6 +3,14 @@
 		"name": "Sahih al Bukhari",
 		"section": {
 			"58": "Jizyah and Mawaada'ah"
+		},
+		"section_detail": {
+			"58": {
+				"hadithnumber_first": 3157,
+				"hadithnumber_last": 3189,
+				"arabicnumber_first": 3157,
+				"arabicnumber_last": 3189
+			}
 		}
 	},
 	"hadiths": [
@@ -169,7 +177,7 @@
 		{
 			"hadithnumber": 3175,
 			"arabicnumber": 3175,
-			"text": "Hz. Aişe'nin naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem'e büyü yapılmıştı. Hatta bu yüzden aslında hiç yapmadığı bazı şeyleri yaptığını zannediyordu. Tekrar: 2268, 5763, 5765, 5",
+			"text": "Hz. Aişe'nin naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem'e büyü yapılmıştı. Hatta bu yüzden aslında hiç yapmadığı bazı şeyleri yaptığını zannediyordu. Tekrar: 2268",
 			"grades": [],
 			"reference": {
 				"book": 58,

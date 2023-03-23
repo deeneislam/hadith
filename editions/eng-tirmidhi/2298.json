@@ -3,6 +3,14 @@
 		"name": "Jami At Tirmidhi",
 		"section": {
 			"32": "Chapters On Al-Qadar"
+		},
+		"section_detail": {
+			"32": {
+				"hadithnumber_first": 2133,
+				"hadithnumber_last": 2298,
+				"arabicnumber_first": 2133,
+				"arabicnumber_last": 2298
+			}
 		}
 	},
 	"hadiths": [

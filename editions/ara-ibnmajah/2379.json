@@ -3,6 +3,14 @@
 		"name": "Sunan Ibn Majah",
 		"section": {
 			"14": "The Chapters on Gifts"
+		},
+		"section_detail": {
+			"14": {
+				"hadithnumber_first": 2375,
+				"hadithnumber_last": 2389,
+				"arabicnumber_first": 2375,
+				"arabicnumber_last": 2389
+			}
 		}
 	},
 	"hadiths": [

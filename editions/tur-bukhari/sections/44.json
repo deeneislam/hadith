@@ -3,13 +3,21 @@
 		"name": "Sahih al Bukhari",
 		"section": {
 			"44": "Khusoomaat"
+		},
+		"section_detail": {
+			"44": {
+				"hadithnumber_first": 2410,
+				"hadithnumber_last": 2425,
+				"arabicnumber_first": 2410,
+				"arabicnumber_last": 2425
+			}
 		}
 	},
 	"hadiths": [
 		{
 			"hadithnumber": 2410,
 			"arabicnumber": 2410,
-			"text": "Abdullah (İbn Mes'ud) r.a. şöyle anlatır: Bir kimseyi, Resulullah Sallallahu Aleyhi ve Sellem'den işittiğim şekle aykırı bir şekilde Kur'an okurken işittim. Hemen onu alıp Nebi Sallallahu Aleyhi ve Sellem'in huzuruna götürdüm. Efendimiz Sallallahu Aleyhi ve Sellem, \"Her ikiniz de güzel okuyor\" buyurdu.' Şu'be, \"Ben Resulullah'ın şöyle söylediğini zannediyorum\" demiştir: \"(Kitabınız) hakkında ihtilafa düşmeyin. Şüphesiz sizden önceki kavimler kitapları hakkında görüş ayrılığına düştüler ve helak oldular. \"185 Tekrar: 3408, 3414, 3476, 4813, 5063, 6517, 6",
+			"text": "Abdullah (İbn Mes'ud) r.a. şöyle anlatır: Bir kimseyi, Resulullah Sallallahu Aleyhi ve Sellem'den işittiğim şekle aykırı bir şekilde Kur'an okurken işittim. Hemen onu alıp Nebi Sallallahu Aleyhi ve Sellem'in huzuruna götürdüm. Efendimiz Sallallahu Aleyhi ve Sellem, \"Her ikiniz de güzel okuyor\" buyurdu.' Şu'be, \"Ben Resulullah'ın şöyle söylediğini zannediyorum\" demiştir: \"(Kitabınız) hakkında ihtilafa düşmeyin. Şüphesiz sizden önceki kavimler kitapları hakkında görüş ayrılığına düştüler ve helak oldular. \"185 Tekrar: 3408, 3414, 3476, 4813",
 			"grades": [],
 			"reference": {
 				"book": 44,
@@ -39,7 +47,7 @@
 		{
 			"hadithnumber": 2413,
 			"arabicnumber": 2413,
-			"text": "Enes r.a. şöyle anlatır: Bir yahudi iki taş arasında bir müslümanın başını ezmiş yaralamıştı. Ona, \"Bunu sana kim yaptı, falan mı yoksa falan mı?\" diye soruldu. En sonunda o yahudinin ismi geçince başıyla onun olduğunu ima etti. Sonra yahudi yaptığını itiraf etti. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem emretti, onun başı da iki taş arasında ezilip yaralandı. Tekrar: 2746, 5295, 6876, 6877, 6",
+			"text": "Enes r.a. şöyle anlatır: Bir yahudi iki taş arasında bir müslümanın başını ezmiş yaralamıştı. Ona, \"Bunu sana kim yaptı, falan mı yoksa falan mı?\" diye soruldu. En sonunda o yahudinin ismi geçince başıyla onun olduğunu ima etti. Sonra yahudi yaptığını itiraf etti. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem emretti, onun başı da iki taş arasında ezilip yaralandı. Tekrar: 2746, 5295",
 			"grades": [],
 			"reference": {
 				"book": 44,
@@ -89,7 +97,7 @@
 		{
 			"hadithnumber": 2419,
 			"arabicnumber": 2419,
-			"text": "Abdurrahman İbn Abdu'l-kari şöyle anlatır: Ömer İbn el-Hattab r.a.'ı şöyle derken işittim: Hakim İbn Hizam'ın oğlu Hişam'ı, Furkan suresini benim okuduğumdan farklı bir şekilde okurken işittim. Resulullah Sallallahu Aleyhi ve Sellem bu sureyi bana okutmuştu. Neredeyse onu hemen durduracaktım. Fakat tamamlaması için biraz mühlet tanıdım. Sonra hemen ridasından tutup Efendimiz Sallallahu Aleyhi ve Sellem'e götürerek, \"Ben bu adamı, senin bana okuttuğundan farklı bir şekilde Kur'an okurken işittim\" dedim. Resulullah Sallallahu Aleyhi ve Sellem bana, \"Onu bırak\" dedi. Ona da, \"Oku\" buyurdu. Adam okudu. Resulullah Sallallahu Aleyhi ve Sellem, \"Kur'an bu şekilde indirildi\" buyurdu. Sonra bana \"Oku\" dedi. Ben de okudum. Bana da \"Kur'an bu şekilde indirildi. Muhakkak ki Kur'an yedi harf üzere indirildi, hangisi kolayınıza geliyorsa öyle okuyun\" buyurdu. Tekrar: 4992, 5",
+			"text": "Abdurrahman İbn Abdu'l-kari şöyle anlatır: Ömer İbn el-Hattab r.a.'ı şöyle derken işittim: Hakim İbn Hizam'ın oğlu Hişam'ı, Furkan suresini benim okuduğumdan farklı bir şekilde okurken işittim. Resulullah Sallallahu Aleyhi ve Sellem bu sureyi bana okutmuştu. Neredeyse onu hemen durduracaktım. Fakat tamamlaması için biraz mühlet tanıdım. Sonra hemen ridasından tutup Efendimiz Sallallahu Aleyhi ve Sellem'e götürerek, \"Ben bu adamı, senin bana okuttuğundan farklı bir şekilde Kur'an okurken işittim\" dedim. Resulullah Sallallahu Aleyhi ve Sellem bana, \"Onu bırak\" dedi. Ona da, \"Oku\" buyurdu. Adam okudu. Resulullah Sallallahu Aleyhi ve Sellem, \"Kur'an bu şekilde indirildi\" buyurdu. Sonra bana \"Oku\" dedi. Ben de okudum. Bana da \"Kur'an bu şekilde indirildi. Muhakkak ki Kur'an yedi harf üzere indirildi, hangisi kolayınıza geliyorsa öyle okuyun\" buyurdu. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 44,

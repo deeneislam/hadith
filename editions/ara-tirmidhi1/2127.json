@@ -3,6 +3,14 @@
 		"name": "Jami At Tirmidhi",
 		"section": {
 			"31": "Chapters On Wala' And Gifts"
+		},
+		"section_detail": {
+			"31": {
+				"hadithnumber_first": 2125,
+				"hadithnumber_last": 2132,
+				"arabicnumber_first": 2125,
+				"arabicnumber_last": 2132
+			}
 		}
 	},
 	"hadiths": [

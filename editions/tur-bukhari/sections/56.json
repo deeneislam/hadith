@@ -3,6 +3,14 @@
 		"name": "Sahih al Bukhari",
 		"section": {
 			"56": "Fighting for the Cause of Allah (Jihaad)"
+		},
+		"section_detail": {
+			"56": {
+				"hadithnumber_first": 2782,
+				"hadithnumber_last": 3090,
+				"arabicnumber_first": 2782,
+				"arabicnumber_last": 3090
+			}
 		}
 	},
 	"hadiths": [
@@ -69,7 +77,7 @@
 		{
 			"hadithnumber": 2788,
 			"arabicnumber": 2788,
-			"text": "Enes İbn Malik r.a.'den nakledilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem Milhan'ın kızı Ümmü Haram'ın yanına girer ve Ümmü Haram ona yemek hazırlardı. Ümmü Haram, Ubade İbnü's-Samit'le evliydi. Bir gün yine Allah Resulü onun yanına girmiş, o da ona yemek hazırlamıştı. Allah Resulü Sallallahu Aleyhi ve Sellem'in saçını-başını ayıklıyordu. Derken Allah Resulü Sallallahu Aleyhi ve Sellem uyudu. Uyandığında gülüyordu. Ümmü Haram: \"Ey Allah'ın Resulü! Hayırdır, neye gülüyorsun?\" dedi. Resulullah Sallallahu Aleyhi ve Sellem: \"Rüyamda Allah yolunda cihad eden bir grup gösterildi. Şu denizde yolculuk ediyorlar ve tahtlar üzerinde krallar gibi oturuyorlardı\" buyurdu. Ümmü Haram \"Ey Allah/ın Resulü! Allah'a dua etsen de beni de onlardan kılsa\" dedi. Bunun üzerine Resulullah onun için dua etti. Sonra başını tekrar koydu (ve uykuya daldı). Sonra yeniden gülerek kalktı. Ümmü Haram: \"Ey Allah'ın Resulü! Yine niye gülüyorsun?\" diye sordu. Allah Resulü Sallallahu Aleyhi ve Sellem de birincideki gibi \"Rüyamda Allah yolunda cihada çıkan bir grup gördüm. .. \" buyurdu. Üm mü Haram da: \"Ey Allah'ın Resulü! Dua etsen de Allah beni de onlardan kılsa\" dedi. Bunun üzerine Allah Resulü Sallallahu aleyhi ve sellem \"Sen öncekilerdensin\" buyurdu. Ümmü Haram, Muaviye İbn Ebu Süfyan döneminde deniz yolculuğuna çıktı. Karaya çıktıklarında bineğinden düştü ve bu düşmeden dolayı vefat etti. Tekrar: 2799, 2877, 2894, 2682, 7001, 2800, 2878, 2895, 2",
+			"text": "Enes İbn Malik r.a.'den nakledilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem Milhan'ın kızı Ümmü Haram'ın yanına girer ve Ümmü Haram ona yemek hazırlardı. Ümmü Haram, Ubade İbnü's-Samit'le evliydi. Bir gün yine Allah Resulü onun yanına girmiş, o da ona yemek hazırlamıştı. Allah Resulü Sallallahu Aleyhi ve Sellem'in saçını-başını ayıklıyordu. Derken Allah Resulü Sallallahu Aleyhi ve Sellem uyudu. Uyandığında gülüyordu. Ümmü Haram: \"Ey Allah'ın Resulü! Hayırdır, neye gülüyorsun?\" dedi. Resulullah Sallallahu Aleyhi ve Sellem: \"Rüyamda Allah yolunda cihad eden bir grup gösterildi. Şu denizde yolculuk ediyorlar ve tahtlar üzerinde krallar gibi oturuyorlardı\" buyurdu. Ümmü Haram \"Ey Allah/ın Resulü! Allah'a dua etsen de beni de onlardan kılsa\" dedi. Bunun üzerine Resulullah onun için dua etti. Sonra başını tekrar koydu (ve uykuya daldı). Sonra yeniden gülerek kalktı. Ümmü Haram: \"Ey Allah'ın Resulü! Yine niye gülüyorsun?\" diye sordu. Allah Resulü Sallallahu Aleyhi ve Sellem de birincideki gibi \"Rüyamda Allah yolunda cihada çıkan bir grup gördüm. .. \" buyurdu. Üm mü Haram da: \"Ey Allah'ın Resulü! Dua etsen de Allah beni de onlardan kılsa\" dedi. Bunun üzerine Allah Resulü Sallallahu aleyhi ve sellem \"Sen öncekilerdensin\" buyurdu. Ümmü Haram, Muaviye İbn Ebu Süfyan döneminde deniz yolculuğuna çıktı. Karaya çıktıklarında bineğinden düştü ve bu düşmeden dolayı vefat etti. Tekrar: 2799, 2877, 2894, 2682, 7001, 2800",
 			"grades": [],
 			"reference": {
 				"book": 56,
@@ -119,7 +127,7 @@
 		{
 			"hadithnumber": 2794,
 			"arabicnumber": 2794,
-			"text": "Sehl İbn Sa'd r.a.'dan nakledilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Allah yolunda sabah veya akşam yola çıkmak dünyadan ve dünyadaki her şeyden daha değerlidir.\" Tekrar: 2",
+			"text": "Sehl İbn Sa'd r.a.'dan nakledilmiştir: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Allah yolunda sabah veya akşam yola çıkmak dünyadan ve dünyadaki her şeyden daha değerlidir.\" Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 56,
@@ -229,7 +237,7 @@
 		{
 			"hadithnumber": 2807,
 			"arabicnumber": 2807,
-			"text": "Zeyd İbn Sabit r.a.'den nakledilmiştir: Bütün Kur'an sahifelerini Mushaflara yazdım. Allah Resulü Sallallahu Aleyhi ve Sellem'i okurken duyduğum bir ayeti yalnızca Huzeyme İbn Sabit el-Ensari'nin yanında buldum. Allah Resulü Sallallahu Aleyhi ve Sellem onun şahitliğini iki kişinin şahitliği yerine koymuştu. Bu ayet \"mu'minler içinde Allah'a verdikleri sözü tutan nice erler var\" ayetidir. Tekrar 4049, 4679, 4784, 4986, 4988, 4",
+			"text": "Zeyd İbn Sabit r.a.'den nakledilmiştir: Bütün Kur'an sahifelerini Mushaflara yazdım. Allah Resulü Sallallahu Aleyhi ve Sellem'i okurken duyduğum bir ayeti yalnızca Huzeyme İbn Sabit el-Ensari'nin yanında buldum. Allah Resulü Sallallahu Aleyhi ve Sellem onun şahitliğini iki kişinin şahitliği yerine koymuştu. Bu ayet \"mu'minler içinde Allah'a verdikleri sözü tutan nice erler var\" ayetidir. Tekrar 4049, 4679, 4784",
 			"grades": [],
 			"reference": {
 				"book": 56,
@@ -339,7 +347,7 @@
 		{
 			"hadithnumber": 2818,
 			"arabicnumber": 2818,
-			"text": "Ömer İbn Ubeydullah'ın kölesi ve katibi olan Salim Ebu'n-Nadr şöyle demiştir: Abdullah İbn Ebi Evfa bir defasında Ömer İbn Ubeydullah'a mektup yazarak şöyle demiştir: \"Resulullah Sallallahu Aleyhi ve Sellem buyurdu ki: \"Şunu iyi biliniz ki, cennet kılıçların gölgesi altındadır. \" Tekrar: 2833, 2",
+			"text": "Ömer İbn Ubeydullah'ın kölesi ve katibi olan Salim Ebu'n-Nadr şöyle demiştir: Abdullah İbn Ebi Evfa bir defasında Ömer İbn Ubeydullah'a mektup yazarak şöyle demiştir: \"Resulullah Sallallahu Aleyhi ve Sellem buyurdu ki: \"Şunu iyi biliniz ki, cennet kılıçların gölgesi altındadır. \" Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 56,
@@ -349,7 +357,7 @@
 		{
 			"hadithnumber": 2819,
 			"arabicnumber": 2819,
-			"text": "Ebu Hureyre'den nakledildiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Bir defasında Hz. Süleyman (A.S.): \"Bu gece yüz -başka bir rivayette bu ifade doksan dokuz diye zikredilmiştir- eşimle birlikte olacağım ve her biri Allah yolunda cihad edecek birer yiğit süvari doğuracak\" dedi. Yanında bulunan dostu ona: \"Bunun için inşaallah demelisin\" diye hatırlattı. Ancak o, inşaallah demedi. Hz. Süleyman'ın o gece birlikte olduğu eşlerinden sadece biri hamile kaldı ve o da özürlü bir çocuk doğurdu. Muhammed'in canını elinde tutan Allah'a yemin ederim ki, Hz. Süleyman eğer inşaallah deseydi (eşlerinden her biri bir yiğit doğuracak ve) hepsi bir süvari birliği olup Allah yolunda cihad ederdi. \" Tekrar: 3424, 5242, 6",
+			"text": "Ebu Hureyre'den nakledildiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Bir defasında Hz. Süleyman (A.S.): \"Bu gece yüz -başka bir rivayette bu ifade doksan dokuz diye zikredilmiştir- eşimle birlikte olacağım ve her biri Allah yolunda cihad edecek birer yiğit süvari doğuracak\" dedi. Yanında bulunan dostu ona: \"Bunun için inşaallah demelisin\" diye hatırlattı. Ancak o, inşaallah demedi. Hz. Süleyman'ın o gece birlikte olduğu eşlerinden sadece biri hamile kaldı ve o da özürlü bir çocuk doğurdu. Muhammed'in canını elinde tutan Allah'a yemin ederim ki, Hz. Süleyman eğer inşaallah deseydi (eşlerinden her biri bir yiğit doğuracak ve) hepsi bir süvari birliği olup Allah yolunda cihad ederdi. \" Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 56,
@@ -379,7 +387,7 @@
 		{
 			"hadithnumber": 2822,
 			"arabicnumber": 2822,
-			"text": "Amr İbn Meymun el-Evdi anlatıyor: \"Sa'd, oğullarına şu sözleri bir öğretmenin öğrencisine okuma - yazmayı öğretmesi gibi öğretiyor ve Resulullah Sallallahu Aleyhi ve Sellem'in namazdan sonra bu şekilde Allah'a sığındığını söylüyordu: \"Allahım, korkaklıktan sana sığınırım. Erzel-i ömürden (yani Hayatın en kötü ve çekilmez olduğu yaşlılıktan) sana sığınırım. Allahım, dünyanın fitne ve sınamasından ve kabir azabından da sana sığınırım.\" Ben bunu Mus'ab'a anlattım ve doğru olduğunu söyledi. \" Tekrar: 6365, 6",
+			"text": "Amr İbn Meymun el-Evdi anlatıyor: \"Sa'd, oğullarına şu sözleri bir öğretmenin öğrencisine okuma - yazmayı öğretmesi gibi öğretiyor ve Resulullah Sallallahu Aleyhi ve Sellem'in namazdan sonra bu şekilde Allah'a sığındığını söylüyordu: \"Allahım, korkaklıktan sana sığınırım. Erzel-i ömürden (yani Hayatın en kötü ve çekilmez olduğu yaşlılıktan) sana sığınırım. Allahım, dünyanın fitne ve sınamasından ve kabir azabından da sana sığınırım.\" Ben bunu Mus'ab'a anlattım ve doğru olduğunu söyledi. \" Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 56,
@@ -389,7 +397,7 @@
 		{
 			"hadithnumber": 2823,
 			"arabicnumber": 2823,
-			"text": "Enes İbn Malik'in naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle demiştir: \"Allahım, aciz duruma düşmekten ve tembellikten sana sığınırım. Sana sığınırım Allahım, korkaklıktan ve yaşlılıktan. Allahım, hayatın ve ölümün fitnesinden ve kabir azabından sana sığınırım. \" Tekrar: 4",
+			"text": "Enes İbn Malik'in naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle demiştir: \"Allahım, aciz duruma düşmekten ve tembellikten sana sığınırım. Sana sığınırım Allahım, korkaklıktan ve yaşlılıktan. Allahım, hayatın ve ölümün fitnesinden ve kabir azabından sana sığınırım. \" Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 56,
@@ -499,7 +507,7 @@
 		{
 			"hadithnumber": 2834,
 			"arabicnumber": 2834,
-			"text": "Enes İbn Malik'in şöyle dediği nakeedilmiştir: \"Bir defasında ResuIullah Sallallahu Aleyhi ve Sellem Hendek savaşı için hazırlıkIar yapılırken kazıIan hendekIerin başına geIdi. Muhacirlerin ve ensarın çok soğuk bir sabah vaktinde hendek kazdıkIarını gördü. OnIardan hiçbirinin köIesi de yoktu ki onIarı çalıştırsınIar. ResuI-i Ekrem Sallallahu Aleyhi ve Sellem onIarın çektiği sıkıntıyı, açlık ve susuzIukIarını görünce şöyIe buyurdu: \"Allahım, yoktur ahiret hayatından başka yaşanası hayat; Allahım, Ensarı ve muhacirleri mağfiret et!\" OnIar da Nebi Sallallahu Aleyhi ve Sellem'e şu şekilde cevap verdiler: \"Biziz bey'at eden Muhammed'e; Yaşadığımız sürece cihad etmek üzere hem ta ebede!\" Tekrar: 2961, 3795, 3796, 4099, 4",
+			"text": "Enes İbn Malik'in şöyle dediği nakeedilmiştir: \"Bir defasında ResuIullah Sallallahu Aleyhi ve Sellem Hendek savaşı için hazırlıkIar yapılırken kazıIan hendekIerin başına geIdi. Muhacirlerin ve ensarın çok soğuk bir sabah vaktinde hendek kazdıkIarını gördü. OnIardan hiçbirinin köIesi de yoktu ki onIarı çalıştırsınIar. ResuI-i Ekrem Sallallahu Aleyhi ve Sellem onIarın çektiği sıkıntıyı, açlık ve susuzIukIarını görünce şöyIe buyurdu: \"Allahım, yoktur ahiret hayatından başka yaşanası hayat; Allahım, Ensarı ve muhacirleri mağfiret et!\" OnIar da Nebi Sallallahu Aleyhi ve Sellem'e şu şekilde cevap verdiler: \"Biziz bey'at eden Muhammed'e; Yaşadığımız sürece cihad etmek üzere hem ta ebede!\" Tekrar: 2961, 3795",
 			"grades": [],
 			"reference": {
 				"book": 56,
@@ -519,7 +527,7 @@
 		{
 			"hadithnumber": 2836,
 			"arabicnumber": 2836,
-			"text": "Bera İbn Azib'in naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem hendek kazılırken bir taraftan çıkan toprakları taşıyor bir taraftan da: \"Allahrm! Sen olmasaydın biz hidayet yolunu bulamazdık!\" diyordu. Tekrar: 2837, 3034, 4104, 4",
+			"text": "Bera İbn Azib'in naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem hendek kazılırken bir taraftan çıkan toprakları taşıyor bir taraftan da: \"Allahrm! Sen olmasaydın biz hidayet yolunu bulamazdık!\" diyordu. Tekrar: 2837",
 			"grades": [],
 			"reference": {
 				"book": 56,
@@ -659,7 +667,7 @@
 		{
 			"hadithnumber": 2850,
 			"arabicnumber": 2850,
-			"text": "Urve İbnü'l-Ca'd Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu rivayet etmiştir: \"Kıyamet gününe kadar hayır atların yelelerine düğümlenmiştir. \" Tekrar: 2",
+			"text": "Urve İbnü'l-Ca'd Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu rivayet etmiştir: \"Kıyamet gününe kadar hayır atların yelelerine düğümlenmiştir. \" Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 56,
@@ -719,7 +727,7 @@
 		{
 			"hadithnumber": 2856,
 			"arabicnumber": 2856,
-			"text": "Muaz İbn Cebel anlatıyor: \"Ben Resul-i Ekrem Sallallahu Aleyhi ve Sellem ile birlikte O'nun Ufeyr adı verilen merkebine binmiştim. Resulullah Sallallahu Aleyhi ve Sellem'in terkisinde giderken bana: \"Ey Muaz, Allah'ın kulları üzerindeki hakkı ve kulların da Allah üzerindeki hakkı nedir, bilir misin?\" diye sordu. Ben: \"Allah ve Resulü daha iyi bilir\" dedim. Resul-i Ekrem Sallallahu Aleyhi ve Sellem bunun üzerine şöyle buyurdu: \"Allah'ın kulları üzerindeki hakkı, kulların Allah'a ibadet etmeleri ve O'na hiçbir şeyi ortak koşmamalarıdır. Kulların Allah üzerindeki hakkı ise, kendisine hiçbir şeyi ortak koşmayan kullarına azab etmemesidir.\" Ben bunu duyunca: \"Ey Allah'ın Resulü, ben bunu insanlara müjdeleyeyim mi?\" dedim. Nebi Sallallahu Aleyhi ve Sellem ise: \"Hayır, müjdeleme! Bu müjdeyi duyup tembelliğe düşebilirler\" buyurdu. Tekrar: 5967, 6",
+			"text": "Muaz İbn Cebel anlatıyor: \"Ben Resul-i Ekrem Sallallahu Aleyhi ve Sellem ile birlikte O'nun Ufeyr adı verilen merkebine binmiştim. Resulullah Sallallahu Aleyhi ve Sellem'in terkisinde giderken bana: \"Ey Muaz, Allah'ın kulları üzerindeki hakkı ve kulların da Allah üzerindeki hakkı nedir, bilir misin?\" diye sordu. Ben: \"Allah ve Resulü daha iyi bilir\" dedim. Resul-i Ekrem Sallallahu Aleyhi ve Sellem bunun üzerine şöyle buyurdu: \"Allah'ın kulları üzerindeki hakkı, kulların Allah'a ibadet etmeleri ve O'na hiçbir şeyi ortak koşmamalarıdır. Kulların Allah üzerindeki hakkı ise, kendisine hiçbir şeyi ortak koşmayan kullarına azab etmemesidir.\" Ben bunu duyunca: \"Ey Allah'ın Resulü, ben bunu insanlara müjdeleyeyim mi?\" dedim. Nebi Sallallahu Aleyhi ve Sellem ise: \"Hayır, müjdeleme! Bu müjdeyi duyup tembelliğe düşebilirler\" buyurdu. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 56,
@@ -949,7 +957,7 @@
 		{
 			"hadithnumber": 2880,
 			"arabicnumber": 2880,
-			"text": "Enes İbn Malik'in şöyle dediği nakledilmiştir: \"Uhud savaşında Müslümanlar bozguna uğramış ve Resulullah Sallallahu Aleyhi ve Sellem'in yanından uzaklaşıp dağılmışlardı. Ben Aişe r.anha ile Ümmü Süleym'i gördüm. Eteklerini toplamışlardı ve ayak bileklerindeki halhallar görünüyordu. Onlar seke seke omuzlarında kırbalarla su taşıyorlar ve mücahitlere su içiriyorlardı. Sonra dönüyor, kırbalarını doldurup tekrar mücahitlere su veriyorlardı. \" Tekrar: 2",
+			"text": "Enes İbn Malik'in şöyle dediği nakledilmiştir: \"Uhud savaşında Müslümanlar bozguna uğramış ve Resulullah Sallallahu Aleyhi ve Sellem'in yanından uzaklaşıp dağılmışlardı. Ben Aişe r.anha ile Ümmü Süleym'i gördüm. Eteklerini toplamışlardı ve ayak bileklerindeki halhallar görünüyordu. Onlar seke seke omuzlarında kırbalarla su taşıyorlar ve mücahitlere su içiriyorlardı. Sonra dönüyor, kırbalarını doldurup tekrar mücahitlere su veriyorlardı. \" Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 56,
@@ -1119,7 +1127,7 @@
 		{
 			"hadithnumber": 2898,
 			"arabicnumber": 2898,
-			"text": "Sehl İbn Sa'd es-Saidi anlatıyor: \"Resulullah Sallallahu Aleyhi ve Sellem, müşriklerle karşı karşıya geldi ve savaş başladı. Bir ara Resulullah Sallallahu Aleyhi ve Sellem da düşmanlar da karargahlarına döndüler. Nebi Sallallahu Aleyhi ve Sellem'in ashabı içinde bir yiğit vardı; önüne gelen ve ordusundan ayrı düşen düşman askerlerini tek tek takip ediyor ve kılıcıyla vurup yere seriyordu. İnsanlar onun hakkında: \"Bugün içimizden hiç kimse bu adam gibi mükafat almadı\" demeye başladılar. Fakat Resul-i Ekrem Sallallahu Aleyhi ve Sellem: \"Buna rağmen o cehennemliklerdendir\" buyurdu. Bu o anda orada bulunan herkesi şaşkına çevirmişti. İçimizden birisi: \"Ben bu adamı takip edeceğim\" deyip onun peşine takıldı; onun durduğu yerde duruyor, harekete geçtiği zaman hareket ediyordu. Bir süre sonra kahramanca çarpışan bu adam çok ağır bir yara aldı ve bir an önce ölmek için intihar etti. O kılıcın kabzasnı yere dayadı ve ucunu da tam göğsünün ortasına yerleştirip üzerine yüklenerek kendisini öldürdü. Bu olayı gören adam derhal Nebi Sallallahu Aleyhi ve Sellem'in yanına geldi ve: \"Şehadet ederim ki sen Allah'ın Resulüsün\" dedi. Nebi Sallallahu Aleyhi ve Sellem: \"Ne oldu, niçin bunu söyleme ihtiyacı duydun?\" diye sorunca adam şöyle cevap verdi: \"Biraz önce insanların hayranlıkla bahsettiği ve sizin cehennemlik olduğunu söylediğiniz adam vardı ya ben sizin o sözünüz üzerine onu takip ettim ve her hareketini kontrol etmeye başladım. Adam savaşırken çok ağır bir yara aldı ve bir an önce ölmek istedi. Bunun için de kılıcın kabzasını yere dayadı ve ucunu da tam göğsünün ortasına yerleştirip üzerine yüklenerek kendisini öldürdü.\" Bunun üzerine Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Bir kimse insanların müşahede edebildiği davranışları bakımından cennetliklerin amelini işler fakat cehennemliklerden olur. Buna karşılık bir kimse insanların müşahede edebildiği davranışları bakımından cehennemliklerin amelini işler fakat cennetliklerden olur. \" Tekrar: 4202, 4",
+			"text": "Sehl İbn Sa'd es-Saidi anlatıyor: \"Resulullah Sallallahu Aleyhi ve Sellem, müşriklerle karşı karşıya geldi ve savaş başladı. Bir ara Resulullah Sallallahu Aleyhi ve Sellem da düşmanlar da karargahlarına döndüler. Nebi Sallallahu Aleyhi ve Sellem'in ashabı içinde bir yiğit vardı; önüne gelen ve ordusundan ayrı düşen düşman askerlerini tek tek takip ediyor ve kılıcıyla vurup yere seriyordu. İnsanlar onun hakkında: \"Bugün içimizden hiç kimse bu adam gibi mükafat almadı\" demeye başladılar. Fakat Resul-i Ekrem Sallallahu Aleyhi ve Sellem: \"Buna rağmen o cehennemliklerdendir\" buyurdu. Bu o anda orada bulunan herkesi şaşkına çevirmişti. İçimizden birisi: \"Ben bu adamı takip edeceğim\" deyip onun peşine takıldı; onun durduğu yerde duruyor, harekete geçtiği zaman hareket ediyordu. Bir süre sonra kahramanca çarpışan bu adam çok ağır bir yara aldı ve bir an önce ölmek için intihar etti. O kılıcın kabzasnı yere dayadı ve ucunu da tam göğsünün ortasına yerleştirip üzerine yüklenerek kendisini öldürdü. Bu olayı gören adam derhal Nebi Sallallahu Aleyhi ve Sellem'in yanına geldi ve: \"Şehadet ederim ki sen Allah'ın Resulüsün\" dedi. Nebi Sallallahu Aleyhi ve Sellem: \"Ne oldu, niçin bunu söyleme ihtiyacı duydun?\" diye sorunca adam şöyle cevap verdi: \"Biraz önce insanların hayranlıkla bahsettiği ve sizin cehennemlik olduğunu söylediğiniz adam vardı ya ben sizin o sözünüz üzerine onu takip ettim ve her hareketini kontrol etmeye başladım. Adam savaşırken çok ağır bir yara aldı ve bir an önce ölmek istedi. Bunun için de kılıcın kabzasını yere dayadı ve ucunu da tam göğsünün ortasına yerleştirip üzerine yüklenerek kendisini öldürdü.\" Bunun üzerine Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Bir kimse insanların müşahede edebildiği davranışları bakımından cennetliklerin amelini işler fakat cehennemliklerden olur. Buna karşılık bir kimse insanların müşahede edebildiği davranışları bakımından cehennemliklerin amelini işler fakat cennetliklerden olur. \" Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 56,
@@ -1179,7 +1187,7 @@
 		{
 			"hadithnumber": 2904,
 			"arabicnumber": 2904,
-			"text": "Hz. Ömer'in şöyle dediği nakledilmiştir: \"Ben-i Nadir Yahudilerinden alınan malları Allah Teala Resulü’ne herhangi bir savaş olmadan bir ganimet (fey) olarak lutfetti. Müslümanlar bu malları elde etmek için ne at ne de deve koşturmak zorunda kaldılar. İşte bu mallar sırf Resul-i Ekrem Sallallahu Aleyhi ve Sellem'e ait kabul edildi. O da ailesinin bir yıllık nafakasını ayırdı ve kalan kısmı Allah yolunda cihada hazırlık olmak üzere silah alımı ve diğer askerı harcamalar için kullandı. \" Tekrar: 3094, 4033, 4885, 5357, 5",
+			"text": "Hz. Ömer'in şöyle dediği nakledilmiştir: \"Ben-i Nadir Yahudilerinden alınan malları Allah Teala Resulü’ne herhangi bir savaş olmadan bir ganimet (fey) olarak lutfetti. Müslümanlar bu malları elde etmek için ne at ne de deve koşturmak zorunda kaldılar. İşte bu mallar sırf Resul-i Ekrem Sallallahu Aleyhi ve Sellem'e ait kabul edildi. O da ailesinin bir yıllık nafakasını ayırdı ve kalan kısmı Allah yolunda cihada hazırlık olmak üzere silah alımı ve diğer askerı harcamalar için kullandı. \" Tekrar: 3094, 4033",
 			"grades": [],
 			"reference": {
 				"book": 56,
@@ -1279,7 +1287,7 @@
 		{
 			"hadithnumber": 2915,
 			"arabicnumber": 2915,
-			"text": "Abdullah İbn Abbas'ın şöyle dediği nakledilmiştir: \"Resulullah Sallallahu Aleyhi ve Sellem (Bedir savaşında karargah çadırında ellerini açmış Rabbine) şöyle yalvarıyordu: \"Allahım, (muzaffer olacağımıza dair) sözünü ve (Kureyş kervanı ile şu savaşa gelen topluluktan birinin bizim olacağına dair) va'dini gerçekleştirmeni diliyorum. Allahım, eğer müşriklerin karşısına çıkan şu topluluğun galip gelmesini dilemezsen bugünden sonra artık yeryüzünde sana ibadet eden kalmayacak!\" Bu dua üzerine Hz. Ebu Bekir, Resulullah Sallallahu Aleyhi ve Sellem'ın elini tutup şöyle dedi: \"Ey Allah'ın Resulü, Rabbine bu kadar ısrarlı bir şekilde yalvardığın yetişir!\" Resul-i Ekrem Sallallahu Aleyhi ve Sellem bu sırada zırhlıydı ve dışarı çıkarken şöyle diyordu: \"Şu müşrikler topluluğu yakında hezimete uğrayacak ve arkalarını dönüp kaçacak! Fakat kıyamet anı daha şiddetli ve acı olacak!'' [Kamer 45-46] Tekrar: 3",
+			"text": "Abdullah İbn Abbas'ın şöyle dediği nakledilmiştir: \"Resulullah Sallallahu Aleyhi ve Sellem (Bedir savaşında karargah çadırında ellerini açmış Rabbine) şöyle yalvarıyordu: \"Allahım, (muzaffer olacağımıza dair) sözünü ve (Kureyş kervanı ile şu savaşa gelen topluluktan birinin bizim olacağına dair) va'dini gerçekleştirmeni diliyorum. Allahım, eğer müşriklerin karşısına çıkan şu topluluğun galip gelmesini dilemezsen bugünden sonra artık yeryüzünde sana ibadet eden kalmayacak!\" Bu dua üzerine Hz. Ebu Bekir, Resulullah Sallallahu Aleyhi ve Sellem'ın elini tutup şöyle dedi: \"Ey Allah'ın Resulü, Rabbine bu kadar ısrarlı bir şekilde yalvardığın yetişir!\" Resul-i Ekrem Sallallahu Aleyhi ve Sellem bu sırada zırhlıydı ve dışarı çıkarken şöyle diyordu: \"Şu müşrikler topluluğu yakında hezimete uğrayacak ve arkalarını dönüp kaçacak! Fakat kıyamet anı daha şiddetli ve acı olacak!'' [Kamer 45-46] Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 56,
@@ -1439,7 +1447,7 @@
 		{
 			"hadithnumber": 2931,
 			"arabicnumber": 2931,
-			"text": "Hz. Ali'nin şöyle dediği nakledilmiştir: Hendek savaşında Resulullah Sallallahu Aleyhi ve Sellem müşriklere şöyle beddua etmişti: \"Allahım, bunların evlerini ve kabirlerini ateşle doldur! Onlar güneş batana kadar bizim ikindi namazını (Salatu'l-vusta'yı) kılmamıza engel oldular. \" Tekrar: 4",
+			"text": "Hz. Ali'nin şöyle dediği nakledilmiştir: Hendek savaşında Resulullah Sallallahu Aleyhi ve Sellem müşriklere şöyle beddua etmişti: \"Allahım, bunların evlerini ve kabirlerini ateşle doldur! Onlar güneş batana kadar bizim ikindi namazını (Salatu'l-vusta'yı) kılmamıza engel oldular. \" Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 56,
@@ -1459,7 +1467,7 @@
 		{
 			"hadithnumber": 2933,
 			"arabicnumber": 2933,
-			"text": "Abdullah İbn Ebi Evfa şöyle demiştir: \"Nebi Sallallahu Aleyhi ve Sellem Hendek savaşında müşriklere şöyle beddua etmişti: \"Ey kitabı indiren, hesabı çok hızlı gören Allahım, çeşitli kabilelerden oluşan şu düşman birliklerini dağıt, onları hezimete uğrat ve sarsıp perişan et!\" Tekrar: 2965, 3025, 4",
+			"text": "Abdullah İbn Ebi Evfa şöyle demiştir: \"Nebi Sallallahu Aleyhi ve Sellem Hendek savaşında müşriklere şöyle beddua etmişti: \"Ey kitabı indiren, hesabı çok hızlı gören Allahım, çeşitli kabilelerden oluşan şu düşman birliklerini dağıt, onları hezimete uğrat ve sarsıp perişan et!\" Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 56,
@@ -1479,7 +1487,7 @@
 		{
 			"hadithnumber": 2935,
 			"arabicnumber": 2935,
-			"text": "Aişe r.anha anlatıyor: Bir defasında Yahudiler Nebi Sallallahu Aleyhi ve Sellem'e gelerek: \"Es-Samu Aleyke (= Ölüm senin üzerine olsun)!\" dediler. Ben bunu duyunca onlara la'net okumaya başladım. Resulullah Sallallahu Aleyhi ve Sellem bana: \"Ne oldu, niye böyle la'net okuyorsun?\" deyince ben: \"Sen onların ne dediklerini duymadın herhalde!?\" dedim. Resulullah Sallallahu Aleyhi ve Sellem da: \"Sen de benim dediğimi duymadın galiba. Ben de onlara: \"ve alekum (= Sizin üzerinize de)\" dedim.\" Tekrar: 6024, 6030, 6256, 6",
+			"text": "Aişe r.anha anlatıyor: Bir defasında Yahudiler Nebi Sallallahu Aleyhi ve Sellem'e gelerek: \"Es-Samu Aleyke (= Ölüm senin üzerine olsun)!\" dediler. Ben bunu duyunca onlara la'net okumaya başladım. Resulullah Sallallahu Aleyhi ve Sellem bana: \"Ne oldu, niye böyle la'net okuyorsun?\" deyince ben: \"Sen onların ne dediklerini duymadın herhalde!?\" dedim. Resulullah Sallallahu Aleyhi ve Sellem da: \"Sen de benim dediğimi duymadın galiba. Ben de onlara: \"ve alekum (= Sizin üzerinize de)\" dedim.\" Tekrar: 6024",
 			"grades": [],
 			"reference": {
 				"book": 56,
@@ -1539,7 +1547,7 @@
 		{
 			"hadithnumber": 2942,
 			"arabicnumber": 2942,
-			"text": "Sehl İbn Sa'd r.a. anlatıyor: \"Resulullah Sallallahu Aleyhi ve Sellem'in Hayber savaşında şöyle dediğini duydum: \"Ben bu sancağı öyle birisine vereceğim ki, Allah Teala onun elleriyle fethi gerçekleştirecek!\" Bunun üzerine herkes sancak kendisine verilecek ümidiyle ayağa kalktı. Sabah olduğunda hala herkeste bu ümit vardı. Resul-i Ekrem Sallallahu Aleyhi ve Sellem: \"Ali nerede?\" diye sordu. Hz. Ali'nin gözünden rahatsız olduğunu söylediler. Fakat Nebi Sallallahu Aleyhi ve Sellem onun çağırılmasını emretti. Gelince de mübarek tükürüğünü Hz. Ali'nin gözlerine sürdü. Hz. Ali'nin gözleri o anda iyileşti; sanki hiç hasta olmamış gibiydi. Gözlerindeki rahatsızlık giden Hz. Ali şöyle dedi: \"Bu Yahudilerle bizim gibi Müslüman olmalarını sağlayıncaya kadar savaşacağız!\" Fakat Resulullah Sallallahu Aleyhi ve Sellem ona şunları söyledi: \"Ağır ol bakalım! Önce onlara yakın uygun bir yere karargahını kurarsın ve sonra onları İslam'a davet edersin. Bu sırada İslam'ın onlara farz kıldığı görevleri söylersin. Allah'a yemin ederim ki ey Ali, senin sayende tek bir kimsenin Müslüman olup hidayete ermesi senin için kızıl develere sahip olup bunları sadaka olarak dağıtmaktan daha hayırlıdır. \" Tekrar: 3",
+			"text": "Sehl İbn Sa'd r.a. anlatıyor: \"Resulullah Sallallahu Aleyhi ve Sellem'in Hayber savaşında şöyle dediğini duydum: \"Ben bu sancağı öyle birisine vereceğim ki, Allah Teala onun elleriyle fethi gerçekleştirecek!\" Bunun üzerine herkes sancak kendisine verilecek ümidiyle ayağa kalktı. Sabah olduğunda hala herkeste bu ümit vardı. Resul-i Ekrem Sallallahu Aleyhi ve Sellem: \"Ali nerede?\" diye sordu. Hz. Ali'nin gözünden rahatsız olduğunu söylediler. Fakat Nebi Sallallahu Aleyhi ve Sellem onun çağırılmasını emretti. Gelince de mübarek tükürüğünü Hz. Ali'nin gözlerine sürdü. Hz. Ali'nin gözleri o anda iyileşti; sanki hiç hasta olmamış gibiydi. Gözlerindeki rahatsızlık giden Hz. Ali şöyle dedi: \"Bu Yahudilerle bizim gibi Müslüman olmalarını sağlayıncaya kadar savaşacağız!\" Fakat Resulullah Sallallahu Aleyhi ve Sellem ona şunları söyledi: \"Ağır ol bakalım! Önce onlara yakın uygun bir yere karargahını kurarsın ve sonra onları İslam'a davet edersin. Bu sırada İslam'ın onlara farz kıldığı görevleri söylersin. Allah'a yemin ederim ki ey Ali, senin sayende tek bir kimsenin Müslüman olup hidayete ermesi senin için kızıl develere sahip olup bunları sadaka olarak dağıtmaktan daha hayırlıdır. \" Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 56,
@@ -1709,7 +1717,7 @@
 		{
 			"hadithnumber": 2960,
 			"arabicnumber": 2960,
-			"text": "Seleme İbnü'l-Ekva' şöyle demiştir: \"Resulullah Sallallahu Aleyhi ve Sellem'e bey'at ettikten sonra bir ağaç gölgesine gitmiştim. İnsanlar geri çekilip ortalık tenhalaşınca Nebi Sallallahu Aleyhi ve Sellem bana: \"Ey Ekva'ın oğlu, bey'at etmeyecekmisin?\" diye sordu. Ben: \"Ey Allah'ın Resulü, ben az önce bey'at etmiştim zaten!\" dedim. Bana: \"Olsun, yeniden\" dedi. Ben de ikinci kez O Sallallahu Aleyhi ve Sellem'e bey'at ettim.\" Bu rivayeti nakleden ravi Yezid İbn Ebi Ubeyd diyor ki: \"Seleme İbnü'l-Ekva'a: Ey Ebu Müslim, o zaman ResuI-i Ekrem Sallallahu Aleyhi ve Sellem'e ne üzerine bey'at etmiştiniz diye sordum. Bana şu cevabı verdi: Ölümüne ... \" Tekrar: 4",
+			"text": "Seleme İbnü'l-Ekva' şöyle demiştir: \"Resulullah Sallallahu Aleyhi ve Sellem'e bey'at ettikten sonra bir ağaç gölgesine gitmiştim. İnsanlar geri çekilip ortalık tenhalaşınca Nebi Sallallahu Aleyhi ve Sellem bana: \"Ey Ekva'ın oğlu, bey'at etmeyecekmisin?\" diye sordu. Ben: \"Ey Allah'ın Resulü, ben az önce bey'at etmiştim zaten!\" dedim. Bana: \"Olsun, yeniden\" dedi. Ben de ikinci kez O Sallallahu Aleyhi ve Sellem'e bey'at ettim.\" Bu rivayeti nakleden ravi Yezid İbn Ebi Ubeyd diyor ki: \"Seleme İbnü'l-Ekva'a: Ey Ebu Müslim, o zaman ResuI-i Ekrem Sallallahu Aleyhi ve Sellem'e ne üzerine bey'at etmiştiniz diye sordum. Bana şu cevabı verdi: Ölümüne ... \" Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 56,
@@ -1959,7 +1967,7 @@
 		{
 			"hadithnumber": 2987,
 			"arabicnumber": 2987,
-			"text": "Usame İbn Zeyd r.a.'in naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem bir merkeple yolculuk yapıyordu. Merkebin semerinin üzerinde kadife bir örtü vardı ve Nebi Sallallahu Aleyhi ve Sellem bu yolculuğu sırasında Usame'yi terkisine aldı. Tekrar: 4566, 5",
+			"text": "Usame İbn Zeyd r.a.'in naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem bir merkeple yolculuk yapıyordu. Merkebin semerinin üzerinde kadife bir örtü vardı ve Nebi Sallallahu Aleyhi ve Sellem bu yolculuğu sırasında Usame'yi terkisine aldı. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 56,
@@ -2289,7 +2297,7 @@
 		{
 			"hadithnumber": 3020,
 			"arabicnumber": 3020,
-			"text": "Kays İbn Ebu Hazim'in şöyle dediği nakledilmiştir: \"Cerir İbn Abdullah bana dedi ki: Resulullah Sallallahu Aleyhi ve Sellem bana şöyle demişti: \"Beni şu Zülhalasa - Bu Has'am kabilesinin yaşadığı yerde bulunan ve el-Ka'betü'l-yemimiyye diye anılan bir tapınağın adıdır - belasından kurtarsan çok hoşnut edersİn!\" Ben de Ahmes kabilesinden yüz elli kişilik bir süvari birliği ile oraya gittim. Ahmesliler çok iyi at binen kimselerdi. Ben ise at üzerinde doğru dürüst duramıyordum bile. Resulullah Sallallahu Aleyhi ve Sellem benim göğsüme vurdu ve şöyle dua etti: \"Allahım onu sabit kıl, ona sükunet ver ve kendisini hidayete erdiren ve hidayete eren bir kul eyle!\" Bu duanın ardından Cerır oraya gitti ve Zülhalasa'yı parçalayıp yaktı. Operasyonla ilgili bilgiyi Resulullah Sallallahu Aleyhi ve Sellem'e ulaştırması için bir haberci gönderdi. Haberci Nebi Sallallahu Aleyhi ve Sellem'in huzuruna çıkınca: \"Seni hak ile gönderen Allah'a yemin ederim ki ben gelirken Zülhalasa içi boşaltılmış ve yanarak kapkara kesilmiş bir deve gibi yerle bir olmuş ve yakılmıştı.\" Resul-i Ekrem Sallallahu Aleyhi ve Sellem de Ahmes ve onların içinden bu operasyona katılanlar için Allah'tan beş defa bereket diledi.\" Tekrar: 3036, 3076, 3823, 4355 - 4",
+			"text": "Kays İbn Ebu Hazim'in şöyle dediği nakledilmiştir: \"Cerir İbn Abdullah bana dedi ki: Resulullah Sallallahu Aleyhi ve Sellem bana şöyle demişti: \"Beni şu Zülhalasa - Bu Has'am kabilesinin yaşadığı yerde bulunan ve el-Ka'betü'l-yemimiyye diye anılan bir tapınağın adıdır - belasından kurtarsan çok hoşnut edersİn!\" Ben de Ahmes kabilesinden yüz elli kişilik bir süvari birliği ile oraya gittim. Ahmesliler çok iyi at binen kimselerdi. Ben ise at üzerinde doğru dürüst duramıyordum bile. Resulullah Sallallahu Aleyhi ve Sellem benim göğsüme vurdu ve şöyle dua etti: \"Allahım onu sabit kıl, ona sükunet ver ve kendisini hidayete erdiren ve hidayete eren bir kul eyle!\" Bu duanın ardından Cerır oraya gitti ve Zülhalasa'yı parçalayıp yaktı. Operasyonla ilgili bilgiyi Resulullah Sallallahu Aleyhi ve Sellem'e ulaştırması için bir haberci gönderdi. Haberci Nebi Sallallahu Aleyhi ve Sellem'in huzuruna çıkınca: \"Seni hak ile gönderen Allah'a yemin ederim ki ben gelirken Zülhalasa içi boşaltılmış ve yanarak kapkara kesilmiş bir deve gibi yerle bir olmuş ve yakılmıştı.\" Resul-i Ekrem Sallallahu Aleyhi ve Sellem de Ahmes ve onların içinden bu operasyona katılanlar için Allah'tan beş defa bereket diledi.\" Tekrar: 3036, 3076,",
 			"grades": [],
 			"reference": {
 				"book": 56,
@@ -2449,7 +2457,7 @@
 		{
 			"hadithnumber": 3039,
 			"arabicnumber": 3039,
-			"text": "Ebu İshak dedi ki: Bera' bin A'zib'in şunları anlattığını işittim: \"Resulullah Sallallahu Aleyhi ve Sellem Uhud savaşında tepeye yerleştirdiği elli kişilik okçu birliğinin başına komutan olarak Abdullah İbn Cübeyr'i tayin etmiş ve onlara şu talimatı vermişti: \"Akbabaların cesetlerimizi parçaladığını görseniz bile ben size haberci gönderene kadar yerlerinizden ayrılmayacaksınız! Bizim düşman güçlerini perişan edip dağıttığımızı ve ezip geçtiğimizi görseniz bile ben size haberci gönderinceye kadar yerlerinizden ayrılmayacaksınız!\" Müslümanlar başta düşman güçlerini hezimete uğrattılar. Vallahi ben bu bozgun sırasında müşrik kadınların elbiselerini toplayıp sağa sola koşuşturduklarını gördüm. Ayak bileklerindeki halhalları ve baldırları görünüyordu. Müslümanların bu ilk hamlede müşrikleri dağıttığını gören Abdullah İbn Cübeyr komutasındaki okçu birliği: \"Haydi biz de ganimet toplamaya gidelim! Baksanıza cephedeki askerlerimiz düşmanı dağıttı! Daha ne bekliyorsunuz!\" demeye başladı. Abdullah İbn Cübeyr: \"Resulullah Sallallahu Aleyhi ve Sellem'in size verdiği talimatı ne çabuk unuttunuz?\" dediyse de sözünü dinlemediler ve: \"Vallahi biz de arkadaşlarımızın yanına gidip onlar gibi ganimet toplayacağız\" deyip gittiler. Fakat Müşrikler bu fırsattan yararlanıp karşı saldırıya geçince Müslümanlar dağıldı ve bozguna uğradılar. Bu sırada Resul-i Ekrem Sallallahu Aleyhi ve Sellem'in yanında sadece on iki kişi kalmıştı. Müşrikler bizden yetmiş kişiyi şehit etmişlerdi. Resulullah Sallallahu Aleyhi ve Sellem ve ashabı Bedir savaşında müşriklerden yüz kırk kişiyi alt etmişti. Bunlardan yetmiş kişi öldürülmüş ve yetmiş kişi de esir edilmişti. Ebu Süfyan savaşı kazandığı düşüncesiyle üç defa: \"Muhammed aranızda mı?\" diye bağırdı. Fakat Nebi Sallallahu Aleyhi ve Sellem ashabının ona cevap vermesini yasakladı. Ardından Ebu Süfyan: \"Peki Ebu Kuhafe'nin oğlu aranızda mı?\" diye üç kez bağırdı. Son olarak da üç defa: \"Hattab oğlu Ömer aranızda mı?\" diye seslendi. Herhangi bir cevap alamayınca arkadaşlarının arasına dönerek: \"Biraz önce adlarını saydığım kişilerin hepsi öldürüldü işte\" dedi. Hz. Ömer bunun üzerine daha fazla dayanamadı ve: \"Allah'a yemin ederim ki büyük bir yanılgı içerisindesin, yalan söylüyorsun. Senin biraz önce saydığın kişilerin hepsi de sağdır. Sağ kalmaları hiç hoşuna gitmeyecek kimseler sana gününü gösterecek\" dedi. Ebu Süfyan da: \"Bedir savaşında yaşadığımız yenilgiye karşılık bugün bir zafer kazandık. Savaş işte böyle dönüşümlüdür; bir kazanırsın bir kaybedersin. Siz bazı arkadaşlarınıza musle yapıldığını, (azalarının kesildiğini) göreceksiniz. Askerlerimin bunu yapmasını ben emretmedim. Fakat böyle bir yola başvurmaları da beni hiç üzmedi\" deyip: \"Yaşasın Hubel, yaşasın Hubel!\" diye bağırmaya başladı. Nebi Sallallahu Aleyhi ve Sellem yanındakilere: \"Ona cevap vermeyecek misiniz?\" diye sordu .. Oradakiler: \"Ne diyelim ey Allah'ın Resulü?\" deyince Resulullah Sallallahu Aleyhi ve Sellem: \"Allah en yücedir ve en üstündürl deyin\" buyurdu. Ebu Süfyan: \"Bizim Uzza'mız var, sizin ise bir Uzza'nız bile yok!\" diye tekrar karşılık verdi. Nebi Sallallahu Aleyhi ve Sellem tekrar: \"Ona cevap vermeyecek misiniz?\" diye sordu. Oradakiler: \"Ne diyelim ey Allah'ın Resulü?\" deyince Resulullah Sallallahu Aleyhi ve Sellem: \"Allah bizim Mevlamızdır, sizin ise bir Mevlanız yokl deyin\" buyurdu. Tekrar: 3986, 4",
+			"text": "Ebu İshak dedi ki: Bera' bin A'zib'in şunları anlattığını işittim: \"Resulullah Sallallahu Aleyhi ve Sellem Uhud savaşında tepeye yerleştirdiği elli kişilik okçu birliğinin başına komutan olarak Abdullah İbn Cübeyr'i tayin etmiş ve onlara şu talimatı vermişti: \"Akbabaların cesetlerimizi parçaladığını görseniz bile ben size haberci gönderene kadar yerlerinizden ayrılmayacaksınız! Bizim düşman güçlerini perişan edip dağıttığımızı ve ezip geçtiğimizi görseniz bile ben size haberci gönderinceye kadar yerlerinizden ayrılmayacaksınız!\" Müslümanlar başta düşman güçlerini hezimete uğrattılar. Vallahi ben bu bozgun sırasında müşrik kadınların elbiselerini toplayıp sağa sola koşuşturduklarını gördüm. Ayak bileklerindeki halhalları ve baldırları görünüyordu. Müslümanların bu ilk hamlede müşrikleri dağıttığını gören Abdullah İbn Cübeyr komutasındaki okçu birliği: \"Haydi biz de ganimet toplamaya gidelim! Baksanıza cephedeki askerlerimiz düşmanı dağıttı! Daha ne bekliyorsunuz!\" demeye başladı. Abdullah İbn Cübeyr: \"Resulullah Sallallahu Aleyhi ve Sellem'in size verdiği talimatı ne çabuk unuttunuz?\" dediyse de sözünü dinlemediler ve: \"Vallahi biz de arkadaşlarımızın yanına gidip onlar gibi ganimet toplayacağız\" deyip gittiler. Fakat Müşrikler bu fırsattan yararlanıp karşı saldırıya geçince Müslümanlar dağıldı ve bozguna uğradılar. Bu sırada Resul-i Ekrem Sallallahu Aleyhi ve Sellem'in yanında sadece on iki kişi kalmıştı. Müşrikler bizden yetmiş kişiyi şehit etmişlerdi. Resulullah Sallallahu Aleyhi ve Sellem ve ashabı Bedir savaşında müşriklerden yüz kırk kişiyi alt etmişti. Bunlardan yetmiş kişi öldürülmüş ve yetmiş kişi de esir edilmişti. Ebu Süfyan savaşı kazandığı düşüncesiyle üç defa: \"Muhammed aranızda mı?\" diye bağırdı. Fakat Nebi Sallallahu Aleyhi ve Sellem ashabının ona cevap vermesini yasakladı. Ardından Ebu Süfyan: \"Peki Ebu Kuhafe'nin oğlu aranızda mı?\" diye üç kez bağırdı. Son olarak da üç defa: \"Hattab oğlu Ömer aranızda mı?\" diye seslendi. Herhangi bir cevap alamayınca arkadaşlarının arasına dönerek: \"Biraz önce adlarını saydığım kişilerin hepsi öldürüldü işte\" dedi. Hz. Ömer bunun üzerine daha fazla dayanamadı ve: \"Allah'a yemin ederim ki büyük bir yanılgı içerisindesin, yalan söylüyorsun. Senin biraz önce saydığın kişilerin hepsi de sağdır. Sağ kalmaları hiç hoşuna gitmeyecek kimseler sana gününü gösterecek\" dedi. Ebu Süfyan da: \"Bedir savaşında yaşadığımız yenilgiye karşılık bugün bir zafer kazandık. Savaş işte böyle dönüşümlüdür; bir kazanırsın bir kaybedersin. Siz bazı arkadaşlarınıza musle yapıldığını, (azalarının kesildiğini) göreceksiniz. Askerlerimin bunu yapmasını ben emretmedim. Fakat böyle bir yola başvurmaları da beni hiç üzmedi\" deyip: \"Yaşasın Hubel, yaşasın Hubel!\" diye bağırmaya başladı. Nebi Sallallahu Aleyhi ve Sellem yanındakilere: \"Ona cevap vermeyecek misiniz?\" diye sordu .. Oradakiler: \"Ne diyelim ey Allah'ın Resulü?\" deyince Resulullah Sallallahu Aleyhi ve Sellem: \"Allah en yücedir ve en üstündürl deyin\" buyurdu. Ebu Süfyan: \"Bizim Uzza'mız var, sizin ise bir Uzza'nız bile yok!\" diye tekrar karşılık verdi. Nebi Sallallahu Aleyhi ve Sellem tekrar: \"Ona cevap vermeyecek misiniz?\" diye sordu. Oradakiler: \"Ne diyelim ey Allah'ın Resulü?\" deyince Resulullah Sallallahu Aleyhi ve Sellem: \"Allah bizim Mevlamızdır, sizin ise bir Mevlanız yokl deyin\" buyurdu. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 56,
@@ -2519,7 +2527,7 @@
 		{
 			"hadithnumber": 3046,
 			"arabicnumber": 3046,
-			"text": "Ebu Musa r.a.'ın naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Esirlerin bağlarını çözün, açları doyurun ve hastaları ziyaret edin!\" Tekrar: 5174, 5",
+			"text": "Ebu Musa r.a.'ın naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Esirlerin bağlarını çözün, açları doyurun ve hastaları ziyaret edin!\" Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 56,
@@ -2619,7 +2627,7 @@
 		{
 			"hadithnumber": 3057,
 			"arabicnumber": 3057,
-			"text": "İbn Ömer r.a. şöyle demiştir: Sonra Resulullah Sallallahu Aleyhi ve Sellem ayağı kalkıp Allah Teala'yı layık olduğu vechile övdü, Deccal'i anlattı ve şöyle buyurdu: \"Ben Deccal'e karşı sizi sıkı sıkı uyarıyorum. Şu ana kadar gelmiş geçmiş bütün Nebiler de kendi kavim/erini ona karşı uyarmışlardı. Nuh da kavmini Deccal fitnesine karşı uyarmıştır. Ancak ben Deccal hakkında daha önce hiçbir Nebiin söylemediği bir ayrıntıyı size haber vereceğim: Şunu iyi bilin ki Deccal tek gözlüdür; Allah ise kesinlikle tek gözlü değildir. \" Tekrar: 3337, 3439, 4402, 6175, 7",
+			"text": "İbn Ömer r.a. şöyle demiştir: Sonra Resulullah Sallallahu Aleyhi ve Sellem ayağı kalkıp Allah Teala'yı layık olduğu vechile övdü, Deccal'i anlattı ve şöyle buyurdu: \"Ben Deccal'e karşı sizi sıkı sıkı uyarıyorum. Şu ana kadar gelmiş geçmiş bütün Nebiler de kendi kavim/erini ona karşı uyarmışlardı. Nuh da kavmini Deccal fitnesine karşı uyarmıştır. Ancak ben Deccal hakkında daha önce hiçbir Nebiin söylemediği bir ayrıntıyı size haber vereceğim: Şunu iyi bilin ki Deccal tek gözlüdür; Allah ise kesinlikle tek gözlü değildir. \" Tekrar: 3337, 3439",
 			"grades": [],
 			"reference": {
 				"book": 56,
@@ -2669,7 +2677,7 @@
 		{
 			"hadithnumber": 3062,
 			"arabicnumber": 3062,
-			"text": "Ebu Hureyre r.a.'in şöyle dediği nakledilmiştir: \"Biz Resul-i Ekrem Sallallahu Aleyhi ve Sellem ile birlikte bir savaşta bulunmuştuk. Nebi Sallallahu Aleyhi ve Sellem Müslüman olduğunu iddia eden ve İslam saflarında çarpışan birisi için: \"Bu cehennemliktir!\" buyurdu. Savaş başlayınca bu adam kahramanca çarpıştı ve çok ağır bir yara aldı. Bunun üzerine Resulullah Sallallahu Aleyhi ve Sellem'e: \"Ey Allah'ın Resulü, demin cehennemlik olduğunu söylediğiniz adam bu gün olağanüstü bir kahramanlık gösterdi ve öldü\" diyenler oldu. Nebi Sallallahu Aleyhi ve Sellem ise: \"Cehenneme gitti!\" buyurdu, Fakat bazı kimseler neredeyse O'nun s.a.v.'in bu sözünden kuşku duymaya başladılar, Onlar bu şekilde konuşurlarken o adamın ölmediği fakat çok ağır bir yara aldığı ve gece olduğunda acılarına daha fazla dayanamayıp kendisini öldürdüğü haberi ulaştı. Resul-i Ekrem Sallallahu Aleyhi ve Sellem'e bunlar anlatıldı ve O Sallallahu Aleyhi ve Sellem de: \"Şehadet ederim ki ben Allah'ın kulu ve Resulüyüm!\" deyip Bilal'e insanlara şöyle demesini emretti: \"Cennete sadece Müslüman olan kimseler girer. Allah Teala dinini günahkar (facir) bir insanla bile destekleyebilir. \" Tekrar: 4",
+			"text": "Ebu Hureyre r.a.'in şöyle dediği nakledilmiştir: \"Biz Resul-i Ekrem Sallallahu Aleyhi ve Sellem ile birlikte bir savaşta bulunmuştuk. Nebi Sallallahu Aleyhi ve Sellem Müslüman olduğunu iddia eden ve İslam saflarında çarpışan birisi için: \"Bu cehennemliktir!\" buyurdu. Savaş başlayınca bu adam kahramanca çarpıştı ve çok ağır bir yara aldı. Bunun üzerine Resulullah Sallallahu Aleyhi ve Sellem'e: \"Ey Allah'ın Resulü, demin cehennemlik olduğunu söylediğiniz adam bu gün olağanüstü bir kahramanlık gösterdi ve öldü\" diyenler oldu. Nebi Sallallahu Aleyhi ve Sellem ise: \"Cehenneme gitti!\" buyurdu, Fakat bazı kimseler neredeyse O'nun s.a.v.'in bu sözünden kuşku duymaya başladılar, Onlar bu şekilde konuşurlarken o adamın ölmediği fakat çok ağır bir yara aldığı ve gece olduğunda acılarına daha fazla dayanamayıp kendisini öldürdüğü haberi ulaştı. Resul-i Ekrem Sallallahu Aleyhi ve Sellem'e bunlar anlatıldı ve O Sallallahu Aleyhi ve Sellem de: \"Şehadet ederim ki ben Allah'ın kulu ve Resulüyüm!\" deyip Bilal'e insanlara şöyle demesini emretti: \"Cennete sadece Müslüman olan kimseler girer. Allah Teala dinini günahkar (facir) bir insanla bile destekleyebilir. \" Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 56,

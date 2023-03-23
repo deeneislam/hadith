@@ -3,6 +3,14 @@
 		"name": "Sahih al Bukhari",
 		"section": {
 			"55": "Wills and Testaments (Wasaayaa)"
+		},
+		"section_detail": {
+			"55": {
+				"hadithnumber_first": 2738,
+				"hadithnumber_last": 2781,
+				"arabicnumber_first": 2738,
+				"arabicnumber_last": 2781
+			}
 		}
 	},
 	"hadiths": [
@@ -19,7 +27,7 @@
 		{
 			"hadithnumber": 2739,
 			"arabicnumber": 2739,
-			"text": "Allah Resulü'nün Sallallahu aleyhi ve sellem kayınbiraderi Cüveyriye bintü'lHaris'in erkek kardeşi Amr İbnü'l-Haris'ten nakledilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem vefat ettiğinde ne dirhem, ne dinar, ne köle, ne cariye, ne de herhangi bir mal bırakmadı. Geriye bıraktığı tek şey, beyaz katırı, silahı ve sadaka olarak bıraktığı bir tarlaydı. Tekrar: 2873, 2",
+			"text": "Allah Resulü'nün Sallallahu aleyhi ve sellem kayınbiraderi Cüveyriye bintü'lHaris'in erkek kardeşi Amr İbnü'l-Haris'ten nakledilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem vefat ettiğinde ne dirhem, ne dinar, ne köle, ne cariye, ne de herhangi bir mal bırakmadı. Geriye bıraktığı tek şey, beyaz katırı, silahı ve sadaka olarak bıraktığı bir tarlaydı. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 55,
@@ -199,7 +207,7 @@
 		{
 			"hadithnumber": 2757,
 			"arabicnumber": 2757,
-			"text": "Ka'b İbn Malik r.a.'den nakledilmiştir: Ka'b İbn Malik \"Ey Allah'ın Resulü! Ben tövbe ettiğimin göstergesi olarak, Allah ve Resulü'ne sadaka olarak bütün malımdan sıyrılıyorum\" demişti. Nebi Sallallahu aleyhi ve sellem: \"Malının birazını elinde tut. Bu senin için daha iyidir\" buyurdu. Bunun üzerine Ka'b \"O zaman Hayber'deki payımı elimde tutuyorum\" dedi. Tekrar: 2947, 2948, 2949, 2950, 3088, 3556, 3889, 3951, 4418, 4673, 4676, 4677, 4678,",
+			"text": "Ka'b İbn Malik r.a.'den nakledilmiştir: Ka'b İbn Malik \"Ey Allah'ın Resulü! Ben tövbe ettiğimin göstergesi olarak, Allah ve Resulü'ne sadaka olarak bütün malımdan sıyrılıyorum\" demişti. Nebi Sallallahu aleyhi ve sellem: \"Malının birazını elinde tut. Bu senin için daha iyidir\" buyurdu. Bunun üzerine Ka'b \"O zaman Hayber'deki payımı elimde tutuyorum\" dedi. Tekrar: 2947, 2948, 2949, 2950, 3088, 3556, 3889, 3951, 4418, 4673, 46",
 			"grades": [],
 			"reference": {
 				"book": 55,

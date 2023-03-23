@@ -3,13 +3,21 @@
 		"name": "Sahih al Bukhari",
 		"section": {
 			"26": "`Umrah (Minor pilgrimage)"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 1773,
+				"hadithnumber_last": 1805,
+				"arabicnumber_first": 1773,
+				"arabicnumber_last": 1805
+			}
 		}
 	},
 	"hadiths": [
 		{
 			"hadithnumber": 1781,
 			"arabicnumber": 1781,
-			"text": "Ebu İshak şöyle dedi: Mesruk, Ata ve Mücahid'e (Nebi Sallallahu Aleyhi ve Sellem'in) umrelerini sordum. şöyle dediler: Resulullah Sallallahu Aleyhi ve Sellem hac yapmadan önce Zilkade ayında umre yaptı. Ebu İshak dediki: Bera bin A'zib r.a.'e sordum şöyle cevap verdi: Resulullah Sallallahu Aleyhi ve Sellem hac yapmadan önce Zilkade ayında iki kere umre yaptı. Yani haccın farz kılındığı hükmünün gelmesinden önceki yıllarda. Tekrar: 1844, 2698, 2699, 2",
+			"text": "Ebu İshak şöyle dedi: Mesruk, Ata ve Mücahid'e (Nebi Sallallahu Aleyhi ve Sellem'in) umrelerini sordum. şöyle dediler: Resulullah Sallallahu Aleyhi ve Sellem hac yapmadan önce Zilkade ayında umre yaptı. Ebu İshak dediki: Bera bin A'zib r.a.'e sordum şöyle cevap verdi: Resulullah Sallallahu Aleyhi ve Sellem hac yapmadan önce Zilkade ayında iki kere umre yaptı. Yani haccın farz kılındığı hükmünün gelmesinden önceki yıllarda. Tekrar: 1844",
 			"grades": [],
 			"reference": {
 				"book": 26,

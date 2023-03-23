@@ -3,6 +3,14 @@
 		"name": "Sunan Ibn Majah",
 		"section": {
 			"23": "Chapters on Shares of Inheritance"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 2719,
+				"hadithnumber_last": 2752,
+				"arabicnumber_first": 2719,
+				"arabicnumber_last": 2752
+			}
 		}
 	},
 	"hadiths": [

@@ -3,6 +3,14 @@
 		"name": "Sahih Muslim",
 		"section": {
 			"18": "The Book of Divorce "
+		},
+		"section_detail": {
+			"18": {
+				"hadithnumber_first": 3652,
+				"hadithnumber_last": 3742,
+				"arabicnumber_first": 938.03,
+				"arabicnumber_last": 1491
+			}
 		}
 	},
 	"hadiths": [

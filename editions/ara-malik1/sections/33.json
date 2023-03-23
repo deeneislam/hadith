@@ -3,6 +3,14 @@
 		"name": "Muwatta Malik",
 		"section": {
 			"33": "Sharecropping"
+		},
+		"section_detail": {
+			"33": {
+				"hadithnumber_first": 1388,
+				"hadithnumber_last": 1389,
+				"arabicnumber_first": 1388,
+				"arabicnumber_last": 1389
+			}
 		}
 	},
 	"hadiths": [

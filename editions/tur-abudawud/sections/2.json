@@ -3,6 +3,14 @@
 		"name": "Sunan Abu Dawud",
 		"section": {
 			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
 		}
 	},
 	"hadiths": [
@@ -136,7 +144,7 @@
 		{
 			"hadithnumber": 396,
 			"arabicnumber": 396,
-			"text": "Abdullah b. Amr (r.a.) ResuluIIah (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu rivayet etmiştir: \"Öğlenin vakti, ikindi vakti girmedikçe; ikindininki güneş sararmadikça, akşamın vakti de şafağın kırmızılığı kaybolmadıkça (devam eder); yatsının vakti gece yarısına; sabah namazının vakti ise, güneş doğuncaya kadardır.\" Diğer tahric: MüsIim, mesacid; Nesai, mevakit; Ahmed b. Hanbel, II, 21",
+			"text": "Abdullah b. Amr (r.a.) ResuluIIah (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu rivayet etmiştir: \"Öğlenin vakti, ikindi vakti girmedikçe; ikindininki güneş sararmadikça, akşamın vakti de şafağın kırmızılığı kaybolmadıkça (devam eder); yatsının vakti gece yarısına; sabah namazının vakti ise, güneş doğuncaya kadardır.\" Diğer tahric: MüsIim, mesacid; Nesai, mevakit; Ahmed b. Hanbel, II",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -271,7 +279,7 @@
 		{
 			"hadithnumber": 401,
 			"arabicnumber": 401,
-			"text": "Ebu Zer (r.a.) şöyle demiştir: Biz Resulullah (Sallallahu aleyhi ve Sellem) ile beraberdik. Müezzin öğle ezanını okumak istedi. Fakat Resulullah (Sallallahu aleyhi ve Sellem); “Serinliğe bırak\" buyurdu. Biraz sonra müezzin yine ezanı okumak istedi. Efendimiz (Sallallahu aleyhi ve Sellem) biz tepeciklerin gölgesini görünceye kadar iki veya üç defa; “Serinliğe bırak, şüphesiz sıcağın şiddeti cehennemin kükremesindendir. Sıcak şiddetlendiği zaman namazı serinliğe bırakınız\" buyurdu. Diğer tahric: Buhari, mevakît; ezan; Müslim, mesacid; Tirmizî, mevakît; Nesai, mevakît; Ahmed b. Hanbel, II, 29, 238, 256",
+			"text": "Ebu Zer (r.a.) şöyle demiştir: Biz Resulullah (Sallallahu aleyhi ve Sellem) ile beraberdik. Müezzin öğle ezanını okumak istedi. Fakat Resulullah (Sallallahu aleyhi ve Sellem); “Serinliğe bırak\" buyurdu. Biraz sonra müezzin yine ezanı okumak istedi. Efendimiz (Sallallahu aleyhi ve Sellem) biz tepeciklerin gölgesini görünceye kadar iki veya üç defa; “Serinliğe bırak, şüphesiz sıcağın şiddeti cehennemin kükremesindendir. Sıcak şiddetlendiği zaman namazı serinliğe bırakınız\" buyurdu. Diğer tahric: Buhari, mevakît; ezan; Müslim, mesacid; Tirmizî, mevakît; Nesai, mevakît; Ahmed b. Hanbel, II",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -298,7 +306,7 @@
 		{
 			"hadithnumber": 402,
 			"arabicnumber": 402,
-			"text": "Ebu Hureyre (r.a.) Peygamber (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu rivayet etmiştir: \"Sıcak şiddetlendiği zaman namazı serinliğe bırakınız\" İbn Mevheb, (rivayetinde Efendimizin sözünü naklederken) عَنْ الصَّلَاةِ yerine بِالصَّلَاةِ kelimesini kullanmış ve: \"Muhakkak sıcağın şiddeti cehennemin kükremesindendir\" dediğini ilave etmiştir. (Bak:) Şu tahric bilgilerine: Buhari, mevakît; ezan; Müslim, mesacid; Tirmizî, mevakît; Nesai, mevakît; Ahmed b. Hanbel, II, 29, 238, 256",
+			"text": "Ebu Hureyre (r.a.) Peygamber (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu rivayet etmiştir: \"Sıcak şiddetlendiği zaman namazı serinliğe bırakınız\" İbn Mevheb, (rivayetinde Efendimizin sözünü naklederken) عَنْ الصَّلَاةِ yerine بِالصَّلَاةِ kelimesini kullanmış ve: \"Muhakkak sıcağın şiddeti cehennemin kükremesindendir\" dediğini ilave etmiştir. (Bak:) Şu tahric bilgilerine: Buhari, mevakît; ezan; Müslim, mesacid; Tirmizî, mevakît; Nesai, mevakît; Ahmed b. Hanbel, II",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -352,7 +360,7 @@
 		{
 			"hadithnumber": 404,
 			"arabicnumber": 404,
-			"text": "Enes bin Malik (r.a.) haber vermiştir ki; Peygamber (Sallallahu aleyhi ve Sellem) ikindi namazını güneş beyaz (parlak), yüksek ve dipdiri iken kılardı. Ve (Namazdan sonra) Avaliye giden kimse güneş daha yüksek(te) iken oraya varırdı. Diğer tahric: Buharî, mevakit; i'tisam; Müslim, mesacid; Nesai, mevakit; İbn Mace, salat; Tirmizî, salat; Ahmed b. Hanbel, III , 131, 184",
+			"text": "Enes bin Malik (r.a.) haber vermiştir ki; Peygamber (Sallallahu aleyhi ve Sellem) ikindi namazını güneş beyaz (parlak), yüksek ve dipdiri iken kılardı. Ve (Namazdan sonra) Avaliye giden kimse güneş daha yüksek(te) iken oraya varırdı. Diğer tahric: Buharî, mevakit; i'tisam; Müslim, mesacid; Nesai, mevakit; İbn Mace, salat; Tirmizî, salat; Ahmed b. Hanbel, III",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -479,7 +487,7 @@
 		{
 			"hadithnumber": 409,
 			"arabicnumber": 409,
-			"text": "Ali (r.a.)'den demiştir ki; Peygamber (Sallallahu aleyhi ve Sellem) Hendek günü, \"Bizi orta namazından (yani) ikindi namazından alıkoydular. Allah (da) onların evlerine ve kabirlerine ateş doldursun\" dedi. Diğer tahric: Buhari, Cihad, meğazi; Müslim mesacid: Tirmizî, tefsir-i sure; İbni Mace, salat; Nesai, salat, Ahmed b. Hanbe!, I, 79",
+			"text": "Ali (r.a.)'den demiştir ki; Peygamber (Sallallahu aleyhi ve Sellem) Hendek günü, \"Bizi orta namazından (yani) ikindi namazından alıkoydular. Allah (da) onların evlerine ve kabirlerine ateş doldursun\" dedi. Diğer tahric: Buhari, Cihad, meğazi; Müslim mesacid: Tirmizî, tefsir-i sure; İbni Mace, salat; Nesai, salat, Ahmed b. Hanbe!, I",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -1519,7 +1527,7 @@
 		{
 			"hadithnumber": 449,
 			"arabicnumber": 449,
-			"text": "Enes b. Malik (r.a.), Resulullah (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu haber vermiştir: \"İnsanlar, mescidleriyle öğününceye kadar kıyamet kopmaz.\" Diğer tahric: Nesai, mesacid; İbn Mace, mesacid; Darimi, salat; Ahmed b. Hanbel, III 134, 145",
+			"text": "Enes b. Malik (r.a.), Resulullah (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu haber vermiştir: \"İnsanlar, mescidleriyle öğününceye kadar kıyamet kopmaz.\" Diğer tahric: Nesai, mesacid; İbn Mace, mesacid; Darimi, salat; Ahmed b. Hanbel, III",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -1627,7 +1635,7 @@
 		{
 			"hadithnumber": 453,
 			"arabicnumber": 453,
-			"text": "Enes b. Malik (r.a.)'den, demiştir ki; Resulullah (Sallallahu aleyhi ve Sellem) (Mekke'den Medine'ye gelince Medine'nin (Necid tarafındaki) Ben-i Amr b. Avf denilen mahallesinin yüksek semtine indi. Orada on dört gün kaldı. Sonra, Neccar oğullarına haber gönderdi. Onlar da kılıçları omuzlarına asıllı bir vaziyette geldiler. Sanki şu anda Resulullah'ı hayvanının üzerinde, Ebu Bekr'i terkisinde, Neccar oğullarının ileri gelenlerini de Efendimizin etrafında görür gibiyim. Böylece, Ebu Eyyub'un bahçesine geldi. Resulullah (Sallallahu aleyhi ve Sellem) namazı vakti geldiği yerde hatta koyun ağıllarında kılardı. Mescid'i bina etmekle emrolundu ve Neccar oğullarına haber gönderdi. (Onlar gelince): \"Ey Neccar oğulları, Şu bahçenizin fiyatını söyleyiniz (ve bana satınız)\" buyurdu. Vallahi bunun ücretini ancak Allah (azze ve celle)'den isteriz, dediler. Enes devamla dedi ki, bahçe'de şu söyleyeceğim şeyler vardı: Bir bölümünde müşriklerin kabirleri, bazı yerlerinde yıkık bina kalıntıları, bir kısmında da hurma ağaçları. Resulullah (Sallallahu aleyhi ve Sellem)'in emri ile müşriklerin kabirleri açılıp (kemikleri) başka yerlere nakledildi. Bina kalıntıları düzeltildi, hurmalar da kesildi. Bu hurmalar, mescidin kıble tarafına dizildi. Kapının kenarlarını taşla yaptılar. Sahabiler recez söyleyerek taş taşımaya başladılar. Hz. Nebi'de onlarla birlikte; \"Allah'ım, yegane hayrdır; hayr-i ahiret - Sen Ensar'a ve Muhacirlere yardım et\" Diğer tahric: Buhari, salat; Buyu'; vesaya; Medine; Menakibu'l-Ensar; Müslim, mesacid; Nesai, mesacid; Ahmed b. Hanbel, III, 118",
+			"text": "Enes b. Malik (r.a.)'den, demiştir ki; Resulullah (Sallallahu aleyhi ve Sellem) (Mekke'den Medine'ye gelince Medine'nin (Necid tarafındaki) Ben-i Amr b. Avf denilen mahallesinin yüksek semtine indi. Orada on dört gün kaldı. Sonra, Neccar oğullarına haber gönderdi. Onlar da kılıçları omuzlarına asıllı bir vaziyette geldiler. Sanki şu anda Resulullah'ı hayvanının üzerinde, Ebu Bekr'i terkisinde, Neccar oğullarının ileri gelenlerini de Efendimizin etrafında görür gibiyim. Böylece, Ebu Eyyub'un bahçesine geldi. Resulullah (Sallallahu aleyhi ve Sellem) namazı vakti geldiği yerde hatta koyun ağıllarında kılardı. Mescid'i bina etmekle emrolundu ve Neccar oğullarına haber gönderdi. (Onlar gelince): \"Ey Neccar oğulları, Şu bahçenizin fiyatını söyleyiniz (ve bana satınız)\" buyurdu. Vallahi bunun ücretini ancak Allah (azze ve celle)'den isteriz, dediler. Enes devamla dedi ki, bahçe'de şu söyleyeceğim şeyler vardı: Bir bölümünde müşriklerin kabirleri, bazı yerlerinde yıkık bina kalıntıları, bir kısmında da hurma ağaçları. Resulullah (Sallallahu aleyhi ve Sellem)'in emri ile müşriklerin kabirleri açılıp (kemikleri) başka yerlere nakledildi. Bina kalıntıları düzeltildi, hurmalar da kesildi. Bu hurmalar, mescidin kıble tarafına dizildi. Kapının kenarlarını taşla yaptılar. Sahabiler recez söyleyerek taş taşımaya başladılar. Hz. Nebi'de onlarla birlikte; \"Allah'ım, yegane hayrdır; hayr-i ahiret - Sen Ensar'a ve Muhacirlere yardım et\" Diğer tahric: Buhari, salat; Buyu'; vesaya; Medine; Menakibu'l-Ensar; Müslim, mesacid; Nesai, mesacid; Ahmed b. Hanbel, III",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -1654,7 +1662,7 @@
 		{
 			"hadithnumber": 454,
 			"arabicnumber": 454,
-			"text": "Enes b. Malik (r.a.)'den demiştir ki: Mescid'in yeri, Neccar oğullarına ait bir bahçe idi. Orada, ekin, hurma ağaçları ve müşriklerin kabirleri vardı. Resulullah (Sallallahu aleyhi ve Sellem) (bahçe sahiplerine): \"Bana bahçenin fiyatını söyleyiniz (ve satınız)\" buyurdu. Bahçe sahipleri: Biz para istemiyoruz, dediler. Bunun üzerine, hurma ağaçları kesildi, ekin (yeri) düzeltildi, müşriklerin kabirleri de açılıp içindekiler çıkartıldı. (Ravilerden, Hammad b. Seleme); hadisin bundan sonraki kısmını, ön­ceki hadiste olduğu gibi aktardı, ancak (önceki hadisin sonundaki) \"yardım et\" kelimesinin yerine \"bağışla\" kelimesini söyledi. (Ebu Davud'un hocası) Musa dedi ki; Abdül-varis de bu rivayetin benzerini bize haber verdi. Ancak Abdül-varis \"ekin\" kelimesinin yerine \"harabe\" derdi. Abdül-varis bu hadisi, Hammad'a rivayet ettiğini söylemiştir. Diğer tahric: Buhari, salat; Buyu'; vesaya; Medine; Menakibu'l-Ensar; Müslim, mesacid; Nesai, mesacid; Ahmed b. Hanbel, III, 118",
+			"text": "Enes b. Malik (r.a.)'den demiştir ki: Mescid'in yeri, Neccar oğullarına ait bir bahçe idi. Orada, ekin, hurma ağaçları ve müşriklerin kabirleri vardı. Resulullah (Sallallahu aleyhi ve Sellem) (bahçe sahiplerine): \"Bana bahçenin fiyatını söyleyiniz (ve satınız)\" buyurdu. Bahçe sahipleri: Biz para istemiyoruz, dediler. Bunun üzerine, hurma ağaçları kesildi, ekin (yeri) düzeltildi, müşriklerin kabirleri de açılıp içindekiler çıkartıldı. (Ravilerden, Hammad b. Seleme); hadisin bundan sonraki kısmını, ön­ceki hadiste olduğu gibi aktardı, ancak (önceki hadisin sonundaki) \"yardım et\" kelimesinin yerine \"bağışla\" kelimesini söyledi. (Ebu Davud'un hocası) Musa dedi ki; Abdül-varis de bu rivayetin benzerini bize haber verdi. Ancak Abdül-varis \"ekin\" kelimesinin yerine \"harabe\" derdi. Abdül-varis bu hadisi, Hammad'a rivayet ettiğini söylemiştir. Diğer tahric: Buhari, salat; Buyu'; vesaya; Medine; Menakibu'l-Ensar; Müslim, mesacid; Nesai, mesacid; Ahmed b. Hanbel, III",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -2031,7 +2039,7 @@
 		{
 			"hadithnumber": 469,
 			"arabicnumber": 469,
-			"text": "Ebu Hureyre (r.a.)'den, Nebi (Sallallahu aleyhi ve Sellem)'in şöyle buyurluğu rivayet edilmiştir: \"Sizden biri, abdestini bozmadan ve yerinden kalkmadan namaz kıldığı yerde kaldığı müddetçe, melekler onun için; \"Allahım onu bağışla, o'na rahmet et\" diye dua ve istiğfar eder.” Diğer tahric: Buhari, ezan; buyu; Müslim, mesacid; Nesai, mesacid; Tirmizi, salat; ibn Mace.mesacid; Darimi, Salat; muvatta, sefer; Ahmed b. Hanbel, 1",
+			"text": "Ebu Hureyre (r.a.)'den, Nebi (Sallallahu aleyhi ve Sellem)'in şöyle buyurluğu rivayet edilmiştir: \"Sizden biri, abdestini bozmadan ve yerinden kalkmadan namaz kıldığı yerde kaldığı müddetçe, melekler onun için; \"Allahım onu bağışla, o'na rahmet et\" diye dua ve istiğfar eder.” Diğer tahric: Buhari, ezan; buyu; Müslim, mesacid; Nesai, mesacid; Tirmizi, salat; ibn Mace.mesacid; Darimi, Salat; muvatta, sefer; Ahmed b. Hanbel",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -2220,7 +2228,7 @@
 		{
 			"hadithnumber": 476,
 			"arabicnumber": 476,
-			"text": "Enes b. Malik (r.a.)'den, demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Mescid'de (sümkürme veya) balgam çıkarmak (günahtır)\" (Said b. Urve bundan sonra) önceki (475 nolu) rivayetin aynısını zikretti. Diğer tahric: Ahmed b. Hanbel, III, 109",
+			"text": "Enes b. Malik (r.a.)'den, demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Mescid'de (sümkürme veya) balgam çıkarmak (günahtır)\" (Said b. Urve bundan sonra) önceki (475 nolu) rivayetin aynısını zikretti. Diğer tahric: Ahmed b. Hanbel, III",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -2659,7 +2667,7 @@
 		{
 			"hadithnumber": 493,
 			"arabicnumber": 493,
-			"text": "Bera b. Azib (r.a.) demiştir ki; Resulullah (Sallallahu aleyhi ve Sellem)'e deve yataklarında namaz kılmanın hükmü soruldu. Nebî (Sallallahu aleyhi ve Sellem): \"Deve yataklarında namaz kılmayınız. Çünkü develer şeytanlardandır\" buyurdu. Koyun ağıllarında namaz kılmanın hükmü sorulunca da: \"Oralarda kılınız, çünkü onlar berekettir\" karşılığını verdi. Diğer tahric: Müslim, hayz; Ebu Davud, tahare; Ahmed b. Hanbel, IV, 150, 288, 352, V; 57,",
+			"text": "Bera b. Azib (r.a.) demiştir ki; Resulullah (Sallallahu aleyhi ve Sellem)'e deve yataklarında namaz kılmanın hükmü soruldu. Nebî (Sallallahu aleyhi ve Sellem): \"Deve yataklarında namaz kılmayınız. Çünkü develer şeytanlardandır\" buyurdu. Koyun ağıllarında namaz kılmanın hükmü sorulunca da: \"Oralarda kılınız, çünkü onlar berekettir\" karşılığını verdi. Diğer tahric: Müslim, hayz; Ebu Davud, tahare; Ahmed b. Hanbel, IV, 150, 288, 352, V;",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -3244,7 +3252,7 @@
 		{
 			"hadithnumber": 516,
 			"arabicnumber": 516,
-			"text": "Ebu Hureyre (r.a.)'nin Rivayet ettiğine göre, Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: \"Namaz için ezan okunduğu zaman şeytan arkasını dönüp yellene yellene ezan sesini işitmez oluncaya kadar uzaklaşır. Ezan bitince geri gelir; namaz için ikâmet edilince (tekrar) arkasını dönüp kaçar. İkâmet bitince tekrar geri gelir, (namaz kılan) kişiyle kalbi arasına girer ve hatırına gelmeyen şeyler hakkında \"şunu da bunu da hatırla\" der. Nihayet adam kaç (rekât) namaz kıldığını bilmez hale gelir.\" Diğer tahric: Buhari, ezan; sehv; bed’ul-halk; Müslim, salat; mesacid; Nesai, ezan; sehv; Dârimî, salât; Muvatta, nida; Ahmed b. Hanbel, II, 31",
+			"text": "Ebu Hureyre (r.a.)'nin Rivayet ettiğine göre, Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: \"Namaz için ezan okunduğu zaman şeytan arkasını dönüp yellene yellene ezan sesini işitmez oluncaya kadar uzaklaşır. Ezan bitince geri gelir; namaz için ikâmet edilince (tekrar) arkasını dönüp kaçar. İkâmet bitince tekrar geri gelir, (namaz kılan) kişiyle kalbi arasına girer ve hatırına gelmeyen şeyler hakkında \"şunu da bunu da hatırla\" der. Nihayet adam kaç (rekât) namaz kıldığını bilmez hale gelir.\" Diğer tahric: Buhari, ezan; sehv; bed’ul-halk; Müslim, salat; mesacid; Nesai, ezan; sehv; Dârimî, salât; Muvatta, nida; Ahmed b. Hanbel, II",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -3656,7 +3664,7 @@
 		{
 			"hadithnumber": 532,
 			"arabicnumber": 532,
-			"text": "İbn Ömer'den rivayet edildiğine göre, Bilal (r.a.) sabah olmadan ezan okumuş, Nebiyy-i Ekrem (Sallallahu aleyhi ve Sellem) de ona (tekrar ezan okudğu yere) dönmesini ve \"haberiniz olsun köle uyudu, haberiniz olsun köle uyudu\" diye seslenmesini emretmiştir. Musa (rivayetine) devamla '' Bilal dönüp haberiniz olsun köle uyumuştur.” diye nida etti'' cümlesini eklemiştir. Ebu Davud dediki; Bu hadisi Eyyub'dan sadece Hammad riva­yet etmiştir. Diğer tahric: Buharî, ezan; savm; şehadet; ahad; Müslim, sıyam; Tirmizî, salat; Nesaî, ezan; Darimî, salat; Muvatta nida; Ahmed b. Hanbel, II, 9, 57, 62, 64, 7",
+			"text": "İbn Ömer'den rivayet edildiğine göre, Bilal (r.a.) sabah olmadan ezan okumuş, Nebiyy-i Ekrem (Sallallahu aleyhi ve Sellem) de ona (tekrar ezan okudğu yere) dönmesini ve \"haberiniz olsun köle uyudu, haberiniz olsun köle uyudu\" diye seslenmesini emretmiştir. Musa (rivayetine) devamla '' Bilal dönüp haberiniz olsun köle uyumuştur.” diye nida etti'' cümlesini eklemiştir. Ebu Davud dediki; Bu hadisi Eyyub'dan sadece Hammad riva­yet etmiştir. Diğer tahric: Buharî, ezan; savm; şehadet; ahad; Müslim, sıyam; Tirmizî, salat; Nesaî, ezan; Darimî, salat; Muvatta nida; Ahmed b. Hanbel, II, 9",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -3760,7 +3768,7 @@
 		{
 			"hadithnumber": 536,
 			"arabicnumber": 536,
-			"text": "Ebu'ş-Şa'sa'dan; demiştir ki; Biz Ebu Hureyre ile beraber mescidde idik. İkindi ezanı okunduktan sonra birisi mescidden çıktı (gitti). Bunun üzerine Ebu Hureyre (r.a.); \"Bu adam Ebu'l-Kasım (Sallallahu aleyhi ve sellem)'e isyan etti\" dedi. Diğer tahric: Müslim, mesacid; Tirmizî, mevakît; Nesaî, salat; İbn Mace, ezan; Darimî, salat; Ahmed b. Hanbel, 11,410, 416",
+			"text": "Ebu'ş-Şa'sa'dan; demiştir ki; Biz Ebu Hureyre ile beraber mescidde idik. İkindi ezanı okunduktan sonra birisi mescidden çıktı (gitti). Bunun üzerine Ebu Hureyre (r.a.); \"Bu adam Ebu'l-Kasım (Sallallahu aleyhi ve sellem)'e isyan etti\" dedi. Diğer tahric: Müslim, mesacid; Tirmizî, mevakît; Nesaî, salat; İbn Mace, ezan; Darimî, salat; Ahmed b. Hanbel",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -3833,7 +3841,7 @@
 		{
 			"hadithnumber": 539,
 			"arabicnumber": 539,
-			"text": "Abdullah b. Ebi Katade'nin babası (Ebu Katade) vasıtasıyla Nebî (Sallallahu aleyhi ve Sellem)’den rivayet ettiğine göre, (Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: \"Namaz için ikamet edildiğinde beni görünceye kadar (ayağa) kalkmayınız\" Ebu Davud dedi ki: Bu hadis-i şerifi aynı şekilde Eyyub ile Haccacu's-Savvaf da,Yahya'dan rivayet etmişlerdir. Hişam ed-Destevaî dedi ki: \"(Bu hadisi) bana Yahya (mektubunda) yazdı. \" Bu hadisi bir de Muaviye b. Sellam ve Ali b. El-Mübarek Yahya'dan rivayet etmiş­ler ve rivayetlerinde (fazla olarak şunu) nakletmişlerdir: \"Beni görün­ceye kadar (kalkmayınız ve) acele etmeyiniz\" Diğer tahric: Buhari, cum’a, ezan; Müslim, mesacid; Tirmizi, salat; cum’a; Nesaî, imame, ezan; Darimi, salat; Ahmed b. Hanbel, V, 304, 305",
+			"text": "Abdullah b. Ebi Katade'nin babası (Ebu Katade) vasıtasıyla Nebî (Sallallahu aleyhi ve Sellem)’den rivayet ettiğine göre, (Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: \"Namaz için ikamet edildiğinde beni görünceye kadar (ayağa) kalkmayınız\" Ebu Davud dedi ki: Bu hadis-i şerifi aynı şekilde Eyyub ile Haccacu's-Savvaf da,Yahya'dan rivayet etmişlerdir. Hişam ed-Destevaî dedi ki: \"(Bu hadisi) bana Yahya (mektubunda) yazdı. \" Bu hadisi bir de Muaviye b. Sellam ve Ali b. El-Mübarek Yahya'dan rivayet etmiş­ler ve rivayetlerinde (fazla olarak şunu) nakletmişlerdir: \"Beni görün­ceye kadar (kalkmayınız ve) acele etmeyiniz\" Diğer tahric: Buhari, cum’a, ezan; Müslim, mesacid; Tirmizi, salat; cum’a; Nesaî, imame, ezan; Darimi, salat; Ahmed b. Hanbel, V",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -4064,7 +4072,7 @@
 		{
 			"hadithnumber": 548,
 			"arabicnumber": 548,
-			"text": "Ebu Hureyre'den; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"And olsun ki, namaz'ın kılınması, (ikametin yapılması) ve birinin geçip onlara namaz kıldırması için emir vermeyi, sonra da beraberlerinde odun bulunan bir kısım insanlarla gidip (cemaatle) namaza iştirak etmeyenlerin evlerini cayır cayır yakmayı arzu ettim\" Diğer tahric: Müslim, mesacid; Tirmizi, salat; İbn Mace, mesacid; Ahmed b. Hanbel, II, 244, 292, 314, 319",
+			"text": "Ebu Hureyre'den; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"And olsun ki, namaz'ın kılınması, (ikametin yapılması) ve birinin geçip onlara namaz kıldırması için emir vermeyi, sonra da beraberlerinde odun bulunan bir kısım insanlarla gidip (cemaatle) namaza iştirak etmeyenlerin evlerini cayır cayır yakmayı arzu ettim\" Diğer tahric: Müslim, mesacid; Tirmizi, salat; İbn Mace, mesacid; Ahmed b. Hanbel, II, 244",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -4518,7 +4526,7 @@
 		{
 			"hadithnumber": 566,
 			"arabicnumber": 566,
-			"text": "İbn Ömer(r.a.)'den; demiştir ki; Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Allah'ın cariyelerini (kadın kullarını) Allah'ın mescidlerinden men etmeyiniz\" Diğer tahric: Buharî, cum'a; Müslim, salat; Darimî, salat; Muvatta, kıble; Ahmed b. Hanbel, II, 16, 151",
+			"text": "İbn Ömer(r.a.)'den; demiştir ki; Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Allah'ın cariyelerini (kadın kullarını) Allah'ın mescidlerinden men etmeyiniz\" Diğer tahric: Buharî, cum'a; Müslim, salat; Darimî, salat; Muvatta, kıble; Ahmed b. Hanbel, II",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -4564,7 +4572,7 @@
 		{
 			"hadithnumber": 568,
 			"arabicnumber": 568,
-			"text": "Abdullah b. Ömer (r.a.) dedi ki; \"Resulullah (Sallallahu aleyhi ve Sellem), \"Kadınlara geceleyin mescidlere gitmek için izin veriniz\" buyurdular. Bu rivayeti duyan İbn Ömer'in oğlu (Bilal veya Vakid), \"Vallahi onlara izin vermeyiz. Çünkü onlar bunu bir fitne ve fesad vesilesi yaparlar. Vallahi onlara izin vermeyiz\" dedi. (Mücahid) dedi ki; (İbn Ömer) oğluna kızıp azarladı ve \"Ben Resulullah, \"onlara izin veriniz\" buyurdu, diyorum, sen \"Onlara izin vermeyiz\" deyip duruyorsun\" dedi. Diğer tahric: Müslim, salat; Tirmizî, cum'a; Ahmed b. Hanbel, II, 49",
+			"text": "Abdullah b. Ömer (r.a.) dedi ki; \"Resulullah (Sallallahu aleyhi ve Sellem), \"Kadınlara geceleyin mescidlere gitmek için izin veriniz\" buyurdular. Bu rivayeti duyan İbn Ömer'in oğlu (Bilal veya Vakid), \"Vallahi onlara izin vermeyiz. Çünkü onlar bunu bir fitne ve fesad vesilesi yaparlar. Vallahi onlara izin vermeyiz\" dedi. (Mücahid) dedi ki; (İbn Ömer) oğluna kızıp azarladı ve \"Ben Resulullah, \"onlara izin veriniz\" buyurdu, diyorum, sen \"Onlara izin vermeyiz\" deyip duruyorsun\" dedi. Diğer tahric: Müslim, salat; Tirmizî, cum'a; Ahmed b. Hanbel, II",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -4664,7 +4672,7 @@
 		{
 			"hadithnumber": 572,
 			"arabicnumber": 572,
-			"text": "Ebu Hureyre (r.a.) dedi ki; Resulullah (Sallallahu aleyhi ve Sellem)'i şöyle buyururken işittim: \"Namaz için ikamet edildiğinde o'na koşarak gelmeyiniz, sükunet ve vakarla yürüyerek geliniz, Yetişebildiğinizi (imamla beraber) kılınız, yetişemediğinizi tamamlayınız\" Ebu Davud dedi ki: Zebidî, İbn Ebi Zi’b İbrahim b. Sa'd, Ma'mer ve Şuayb b. Ebî Hamze, Zühri’den yetişemediğini tamamlayınız\" şeklinde sadece, îbn Uyeyne Zühri’den \"kaza ediniz\" şeklinde rivayet etmiştir. Muhammed b. Amr, Ebu Seleme'den; o da Ebu Hureyre'den ve Ca'fer b. Rebia, el-A'rac tarikiyle Ebu Hureyre'den \"tamamlayınız\" şeklinde; İbn Mes'ud Resulullah (Sallallahu aleyhi ve Sellem)'dan ve Ebu Katade ile Enes (r.a.) da yine Resulullah 'tan şeklinde ri­vayet etmişlerdir. Diğer tahric: Buharî, ezan; cum'a; Müslim, mesacid; Tirmizî, salat; İbn Mace, mesacid; Darimi, salat; Ahmed b. Hanbel, II, 237, 239",
+			"text": "Ebu Hureyre (r.a.) dedi ki; Resulullah (Sallallahu aleyhi ve Sellem)'i şöyle buyururken işittim: \"Namaz için ikamet edildiğinde o'na koşarak gelmeyiniz, sükunet ve vakarla yürüyerek geliniz, Yetişebildiğinizi (imamla beraber) kılınız, yetişemediğinizi tamamlayınız\" Ebu Davud dedi ki: Zebidî, İbn Ebi Zi’b İbrahim b. Sa'd, Ma'mer ve Şuayb b. Ebî Hamze, Zühri’den yetişemediğini tamamlayınız\" şeklinde sadece, îbn Uyeyne Zühri’den \"kaza ediniz\" şeklinde rivayet etmiştir. Muhammed b. Amr, Ebu Seleme'den; o da Ebu Hureyre'den ve Ca'fer b. Rebia, el-A'rac tarikiyle Ebu Hureyre'den \"tamamlayınız\" şeklinde; İbn Mes'ud Resulullah (Sallallahu aleyhi ve Sellem)'dan ve Ebu Katade ile Enes (r.a.) da yine Resulullah 'tan şeklinde ri­vayet etmişlerdir. Diğer tahric: Buharî, ezan; cum'a; Müslim, mesacid; Tirmizî, salat; İbn Mace, mesacid; Darimi, salat; Ahmed b. Hanbel, II",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -4687,7 +4695,7 @@
 		{
 			"hadithnumber": 573,
 			"arabicnumber": 573,
-			"text": "Ebu Hureyre (r.a.)'den, Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: \"Namaz'a, sükunet ve vakarla geliniz, yetiştiğinizi kılınız, geçeni kaza ediniz\" Ebu Davud, dedi ki: İbn Sirin ve Ebu Rafi' hadisi Ebu Hureyre'den \"kaza etsin\" lafzı ile rivayet etmişlerdir. Ebu Zer'den şekillerinde ihtilaflı olarak rivayet edilmiştir. Diğer tahric: Ahmed b. Hanbel, V, 306. Ayrıca bk. Buharî, ezan; cum'a; Müslim, mesacid; Tirmizî, salat; İbn Mace, mesacid; Darimi, salat; Ahmed b. Hanbel, II, 237, 239",
+			"text": "Ebu Hureyre (r.a.)'den, Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: \"Namaz'a, sükunet ve vakarla geliniz, yetiştiğinizi kılınız, geçeni kaza ediniz\" Ebu Davud, dedi ki: İbn Sirin ve Ebu Rafi' hadisi Ebu Hureyre'den \"kaza etsin\" lafzı ile rivayet etmişlerdir. Ebu Zer'den şekillerinde ihtilaflı olarak rivayet edilmiştir. Diğer tahric: Ahmed b. Hanbel, V, 306. Ayrıca bk. Buharî, ezan; cum'a; Müslim, mesacid; Tirmizî, salat; İbn Mace, mesacid; Darimi, salat; Ahmed b. Hanbel, II",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -5411,7 +5419,7 @@
 		{
 			"hadithnumber": 601,
 			"arabicnumber": 601,
-			"text": "Enes b. Malik (r.a.) demiştir ki; Resul-i Ekrem (Sallallahu aleyhi ve Sellem) bir at'a binmişti. At'tan düştü de sağ tarafı berelendi. Namazlardan birini oturarak kıldı. Biz de arkasında oturarak namazımızı kıldık. Namaz bitince; \"İmam ancak kendisine uyulmak içindir. O namazı ayakta kılınca, siz de ayakta kılınız. O ruku'a vardığı zaman siz de ruku'a varınız. O başını kaldırdı mı siz de kaldırınız. \"Semiallahü limen-hamideh\" deyince siz de \"Rabbena ve leke'l-hamd\" deyiniz. Namazı oturarak kıldığı zaman siz de hep beraber oturarak kılınız\" buyurdu. Diğer tahric: Buharî. salat ezan, taksîrü's-salat; sehv; Merza; Müslim, salai; Tirmizî, salat; Nesaî, eimme; iftitah; tatbik; İbn Mace, ikame; Darimî, salat; Muvatta, nida; cemaa; Ahmed b. Hanbel, II, 230, 314, 341, 376, 411",
+			"text": "Enes b. Malik (r.a.) demiştir ki; Resul-i Ekrem (Sallallahu aleyhi ve Sellem) bir at'a binmişti. At'tan düştü de sağ tarafı berelendi. Namazlardan birini oturarak kıldı. Biz de arkasında oturarak namazımızı kıldık. Namaz bitince; \"İmam ancak kendisine uyulmak içindir. O namazı ayakta kılınca, siz de ayakta kılınız. O ruku'a vardığı zaman siz de ruku'a varınız. O başını kaldırdı mı siz de kaldırınız. \"Semiallahü limen-hamideh\" deyince siz de \"Rabbena ve leke'l-hamd\" deyiniz. Namazı oturarak kıldığı zaman siz de hep beraber oturarak kılınız\" buyurdu. Diğer tahric: Buharî. salat ezan, taksîrü's-salat; sehv; Merza; Müslim, salai; Tirmizî, salat; Nesaî, eimme; iftitah; tatbik; İbn Mace, ikame; Darimî, salat; Muvatta, nida; cemaa; Ahmed b. Hanbel, II, 230, 314",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -5465,7 +5473,7 @@
 		{
 			"hadithnumber": 603,
 			"arabicnumber": 603,
-			"text": "Ebu Hureyre (r.a.)'den; \"Resulullah (Sallallahu aleyhi ve Sellem) (şöyle) buyurmuştur; \"İmam ancak kendisine uyulmak için (imamlığa geçirilmiş) dir. Bu sebeple imam tekbir alınca siz de tekbir alınız. O tekbir alıncaya kadar (sakın) siz tekbir almayınız. O ruku'a varınca, siz de rükua varınız. O rüku'a varıncaya kadar sakın siz rÜku'a varmayınız. İmam Semi'Allahu limen hamd\" dediği zaman, siz de ‘’Rabbena leke’l-hamd’’ deyiniz. (Ravi) Müslim (b. İbrahim) bu cümleyi .... şeklinde rivayet etti.] Secde ettiği zaman, secde ediniz, o secde edinceye kadar (sakın) secde etmeyiniz. Ve o namazı ayakta kıldığı zaman siz de ayakta kılınız, oturarak kılarsa siz de hepberaber oturarak kılınız\" Ebu Davud dedi ki: Allahumme Rabbena lekel hamd…… cümlesini arkadaşlarımdan biri Süleyman (b. Harb) den naklen bana bildirmiştir. Diğer tahric: Buharî, salat; ezan; taksîrü's-salat; sehv, merza; Müslim, salat; Tirmizî, salat; Nesaî, eimme; iftitah; tatbîk; İbn Mace, ikame; Darimî, salat; Muvatta, nida; cemaa; Ahmed b. Hanbel 230, 314, 341",
+			"text": "Ebu Hureyre (r.a.)'den; \"Resulullah (Sallallahu aleyhi ve Sellem) (şöyle) buyurmuştur; \"İmam ancak kendisine uyulmak için (imamlığa geçirilmiş) dir. Bu sebeple imam tekbir alınca siz de tekbir alınız. O tekbir alıncaya kadar (sakın) siz tekbir almayınız. O ruku'a varınca, siz de rükua varınız. O rüku'a varıncaya kadar sakın siz rÜku'a varmayınız. İmam Semi'Allahu limen hamd\" dediği zaman, siz de ‘’Rabbena leke’l-hamd’’ deyiniz. (Ravi) Müslim (b. İbrahim) bu cümleyi .... şeklinde rivayet etti.] Secde ettiği zaman, secde ediniz, o secde edinceye kadar (sakın) secde etmeyiniz. Ve o namazı ayakta kıldığı zaman siz de ayakta kılınız, oturarak kılarsa siz de hepberaber oturarak kılınız\" Ebu Davud dedi ki: Allahumme Rabbena lekel hamd…… cümlesini arkadaşlarımdan biri Süleyman (b. Harb) den naklen bana bildirmiştir. Diğer tahric: Buharî, salat; ezan; taksîrü's-salat; sehv, merza; Müslim, salat; Tirmizî, salat; Nesaî, eimme; iftitah; tatbîk; İbn Mace, ikame; Darimî, salat; Muvatta, nida; cemaa; Ahmed b. Hanbel",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -5515,7 +5523,7 @@
 		{
 			"hadithnumber": 605,
 			"arabicnumber": 605,
-			"text": "Nebi (Sallallahu aleyhi ve Sellem)'in eşi Aişe'den; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) evinde oturarak namaz kılıyordu. Bir topluluk da arkasında ayakta namaza durdu. Onlara oturmalarını işaret etti. Namazı bitirince de (şöyle) buyurdu: \"İmam ancak kendisine uyulsun diye imam olmuştur. Rüku'a vardığı zaman, siz de rüku a varı­nız. Başını kaldırdığı zaman siz de (başınızı) kaldırınız. O oturarak kıldığında siz de oturarak kılınız\" Diğer tahric: Buhari, salat; ezan; taksiru's-salat; sehv; merza; Müslim, salat; Tirmizî, salat; Nesaî eimme; iftîtah, tatbik; ibn Mace, ikame; Darimî, salat; Muvatta; nida; cemaat; Ahmed b. Hanbel 11, 230, 314, 341, 376",
+			"text": "Nebi (Sallallahu aleyhi ve Sellem)'in eşi Aişe'den; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) evinde oturarak namaz kılıyordu. Bir topluluk da arkasında ayakta namaza durdu. Onlara oturmalarını işaret etti. Namazı bitirince de (şöyle) buyurdu: \"İmam ancak kendisine uyulsun diye imam olmuştur. Rüku'a vardığı zaman, siz de rüku a varı­nız. Başını kaldırdığı zaman siz de (başınızı) kaldırınız. O oturarak kıldığında siz de oturarak kılınız\" Diğer tahric: Buhari, salat; ezan; taksiru's-salat; sehv; merza; Müslim, salat; Tirmizî, salat; Nesaî eimme; iftîtah, tatbik; ibn Mace, ikame; Darimî, salat; Muvatta; nida; cemaat; Ahmed b. Hanbel 11, 230",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -5542,7 +5550,7 @@
 		{
 			"hadithnumber": 606,
 			"arabicnumber": 606,
-			"text": "Cabir (r.a.)'den; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) hastalandı, biz de o, oturduğu halde arkasında namaz'a durduk. Ebu Bekr (r.a.) Resul-i Ekrem (Sallallahu aleyhi ve Sellem)'in tekbirini cemaate duyurmak için tekbir getiriyordu.\" Sonra bir evvelki hadisi aynen nakletti. Diğer tahric: Buharî, salat; ezan; taksiru's-salat; sehv; merza; Müslim, salat; Tirrnizi,salat; Nesaî, eimme; iftitah; tatbik; İbn Mace, ikame; Darimî, salat; Muvatta, nida; cemaa; Ahmed b. Hanbel, II, 230, 314",
+			"text": "Cabir (r.a.)'den; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) hastalandı, biz de o, oturduğu halde arkasında namaz'a durduk. Ebu Bekr (r.a.) Resul-i Ekrem (Sallallahu aleyhi ve Sellem)'in tekbirini cemaate duyurmak için tekbir getiriyordu.\" Sonra bir evvelki hadisi aynen nakletti. Diğer tahric: Buharî, salat; ezan; taksiru's-salat; sehv; merza; Müslim, salat; Tirrnizi,salat; Nesaî, eimme; iftitah; tatbik; İbn Mace, ikame; Darimî, salat; Muvatta, nida; cemaa; Ahmed b. Hanbel, II",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -5646,7 +5654,7 @@
 		{
 			"hadithnumber": 610,
 			"arabicnumber": 610,
-			"text": "İbn Abbas (r.a.)'den; demiştir ki; Teyzem Meymune'nin evinde gecelemiştim. Resulullah (Sallallahu aleyhi ve Sellem) geceleyin kalktı, su tulumunun ağzını çözüp abdest aldı, sonra da tulumun ağzını bağladı ve namaza durdu. Hemen ardından ben de kalkıp onun aldığı gibi abdest alarak gelip sol tarafına durdum. Beni sağ eliyle tutarak arkasından dolandırıp sağ yanına durdurdu ve namazı onunla beraber kıldım. Diğer tahric: Müslim, salatü'l-müsafirîn; Buharî, davat; Tirmizi, eşribe; daavat; Nesaî, imame; Ahmed b. Hanbel, I, 284",
+			"text": "İbn Abbas (r.a.)'den; demiştir ki; Teyzem Meymune'nin evinde gecelemiştim. Resulullah (Sallallahu aleyhi ve Sellem) geceleyin kalktı, su tulumunun ağzını çözüp abdest aldı, sonra da tulumun ağzını bağladı ve namaza durdu. Hemen ardından ben de kalkıp onun aldığı gibi abdest alarak gelip sol tarafına durdum. Beni sağ eliyle tutarak arkasından dolandırıp sağ yanına durdurdu ve namazı onunla beraber kıldım. Diğer tahric: Müslim, salatü'l-müsafirîn; Buharî, davat; Tirmizi, eşribe; daavat; Nesaî, imame; Ahmed b. Hanbel, I",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -5700,7 +5708,7 @@
 		{
 			"hadithnumber": 612,
 			"arabicnumber": 612,
-			"text": "Enes b. Malik'den; demiştir ki: (Enes'in) ninesi Müleyke, Resul-i Ekrem (Sallallahu aleyhi ve Sellem)'i hazırladığı bir yemeğe çağırdı. Resul-i Ekrem yemekten yedi ve sonra; \"Kalkın size namaz kıldırayım\" buyurdu. Enes dedi ki; Uzun müddet kullanılmaktan kararmış bir hasırımız (ı sermek) için kalktım ve üzerine su serp(erek onu sil)dim. Resul-i Ekrem (Sallallahu aleyhi ve Sellem) kalktı, ben ve bir yetim çocuk onun arkasında saf olduk, yaşlı kadın da bizim arkamıza durdu ve Resulullah (Sallallahu aleyhi ve Sellem) bize iki rekat namaz kıldırdıktan sonra ayrılıp gitti. Diğer tahric: Buharî, ezan; salat; teheccüd; Müslim, mesacid; Tirmizî, salat; Nesaî, mesacid; imame; İbn Mace, mesacid; muvatta', sefer; Darimî, salat; Ahmed b. Hanbel, III, 131, 145",
+			"text": "Enes b. Malik'den; demiştir ki: (Enes'in) ninesi Müleyke, Resul-i Ekrem (Sallallahu aleyhi ve Sellem)'i hazırladığı bir yemeğe çağırdı. Resul-i Ekrem yemekten yedi ve sonra; \"Kalkın size namaz kıldırayım\" buyurdu. Enes dedi ki; Uzun müddet kullanılmaktan kararmış bir hasırımız (ı sermek) için kalktım ve üzerine su serp(erek onu sil)dim. Resul-i Ekrem (Sallallahu aleyhi ve Sellem) kalktı, ben ve bir yetim çocuk onun arkasında saf olduk, yaşlı kadın da bizim arkamıza durdu ve Resulullah (Sallallahu aleyhi ve Sellem) bize iki rekat namaz kıldırdıktan sonra ayrılıp gitti. Diğer tahric: Buharî, ezan; salat; teheccüd; Müslim, mesacid; Tirmizî, salat; Nesaî, mesacid; imame; İbn Mace, mesacid; muvatta', sefer; Darimî, salat; Ahmed b. Hanbel, III",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -5985,7 +5993,7 @@
 		{
 			"hadithnumber": 623,
 			"arabicnumber": 623,
-			"text": "Ebu Hureyre (r.a.)'den; dedi ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Sizden biriniz başını, imam secdede iken kaldırınca Allah'ın onun başını eşek başına, yahud da [şek raviye aittir] suretini eşek suretine çevireceğinden korkmaz mı?\" Diğer tahric: Buharî, ezan; Müslim, salat; Tirmizî, cuma; Nesaî, İkame; İbn Mace, ikame; Darimi, salat; Ahmed b. Hanbel, II, 260, 271,425,456",
+			"text": "Ebu Hureyre (r.a.)'den; dedi ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Sizden biriniz başını, imam secdede iken kaldırınca Allah'ın onun başını eşek başına, yahud da [şek raviye aittir] suretini eşek suretine çevireceğinden korkmaz mı?\" Diğer tahric: Buharî, ezan; Müslim, salat; Tirmizî, cuma; Nesaî, İkame; İbn Mace, ikame; Darimi, salat; Ahmed b. Hanbel, II, 2",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -6039,7 +6047,7 @@
 		{
 			"hadithnumber": 625,
 			"arabicnumber": 625,
-			"text": "Ebu Hureyre (r.a.)'den, rivayet edildiğine göre, Resulullah (Sallallahu aleyhi ve Sellem)'e bir tek elbise içinde namaz kılmanın hükmü sorulmuş da: \"Herbirinizin ikişer elbisesi var mı ki?\" cevabını vermiş. Diğer tahric: Buharî, salat; Müslim, salat; İbn Mace ikame; Muvatta' cemaa; Ahmed b. Hanbel, 230, 239, 243, 255",
+			"text": "Ebu Hureyre (r.a.)'den, rivayet edildiğine göre, Resulullah (Sallallahu aleyhi ve Sellem)'e bir tek elbise içinde namaz kılmanın hükmü sorulmuş da: \"Herbirinizin ikişer elbisesi var mı ki?\" cevabını vermiş. Diğer tahric: Buharî, salat; Müslim, salat; İbn Mace ikame; Muvatta' cemaa; Ahmed b. Hanbel, 230",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -6147,7 +6155,7 @@
 		{
 			"hadithnumber": 629,
 			"arabicnumber": 629,
-			"text": "Kays b. Talk'ın babası Talk'dan rivayet ettiğine göre Talk şöyle demiştir: Biz Resulullah (Sallallahu aleyhi ve Sellem)'in huzuruna vardığımızda bir adam gelerek; \"Ya Resulullah bîr tek elbise içinde (kılınan) namaz hakkında ne dersin?\" dedi. (Hadisin ravisi Talk rivayetine devamla) dedi ki: Resulullah (Sallallahu aleyhi ve Sellem) de (o anda belinde bağlı olan) peştemalini çözerek (omuzundaki) ridasının üstüne koydu. (İkisini bir elbise haline getirerek) ikisini birden uçlarını sol omuzun üstünden ve sağ omuzun altından geçirdi ve bize namaz kıldırdı. Namazı bitirince de, \"Sizin her biriniz iki elbise bulabilir mi ki?\" buyurdu. Diğer tahric: Buharî, salat; Müslim, salat; ibn Mace, İkame; muvatta, cemaa; Ahmed b. HanbeUI, 230, 239, 243, 255",
+			"text": "Kays b. Talk'ın babası Talk'dan rivayet ettiğine göre Talk şöyle demiştir: Biz Resulullah (Sallallahu aleyhi ve Sellem)'in huzuruna vardığımızda bir adam gelerek; \"Ya Resulullah bîr tek elbise içinde (kılınan) namaz hakkında ne dersin?\" dedi. (Hadisin ravisi Talk rivayetine devamla) dedi ki: Resulullah (Sallallahu aleyhi ve Sellem) de (o anda belinde bağlı olan) peştemalini çözerek (omuzundaki) ridasının üstüne koydu. (İkisini bir elbise haline getirerek) ikisini birden uçlarını sol omuzun üstünden ve sağ omuzun altından geçirdi ve bize namaz kıldırdı. Namazı bitirince de, \"Sizin her biriniz iki elbise bulabilir mi ki?\" buyurdu. Diğer tahric: Buharî, salat; Müslim, salat; ibn Mace, İkame; muvatta, cemaa; Ahmed b. HanbeUI, 230",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -6501,7 +6509,7 @@
 		{
 			"hadithnumber": 643,
 			"arabicnumber": 643,
-			"text": "Ebu Hureyre'den rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) namazda elbisenin yere sarkıtılması ve erkeğin ağzını örtmesini yasaklamıştır. Ebu Davud dedi ki: Bu hadisi bir de İsa, Ata yoluyla Ebu Hureyre’den \"Nebî (s.a.v.) namazda elbiseyi yere sarkıtmaktan nehyetmiştir\" şeklinde rivayet etmiştir. Diğer tahric: Tirmizî, salat; Ahmed b. Hanbel,II, 295",
+			"text": "Ebu Hureyre'den rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) namazda elbisenin yere sarkıtılması ve erkeğin ağzını örtmesini yasaklamıştır. Ebu Davud dedi ki: Bu hadisi bir de İsa, Ata yoluyla Ebu Hureyre’den \"Nebî (s.a.v.) namazda elbiseyi yere sarkıtmaktan nehyetmiştir\" şeklinde rivayet etmiştir. Diğer tahric: Tirmizî, salat; Ahmed b. Hanbel,II",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -6755,7 +6763,7 @@
 		{
 			"hadithnumber": 653,
 			"arabicnumber": 653,
-			"text": "Amr b. Şuayb'in babasından rivayet ettiğine göre dedesi (şöyle) demiştir: \"Ben Nebi (Sallallahu aleyhi ve Sellem)'i ayakkabılı da ayakkabısız da namaz kılarken gördüm.\" Diğer tahric: İbn Mace, ikame; Nesaî, sehv; Ahmed b. Hanbel, II, 174, 178, 179, 190",
+			"text": "Amr b. Şuayb'in babasından rivayet ettiğine göre dedesi (şöyle) demiştir: \"Ben Nebi (Sallallahu aleyhi ve Sellem)'i ayakkabılı da ayakkabısız da namaz kılarken gördüm.\" Diğer tahric: İbn Mace, ikame; Nesaî, sehv; Ahmed b. Hanbel, II, 174",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -6859,7 +6867,7 @@
 		{
 			"hadithnumber": 657,
 			"arabicnumber": 657,
-			"text": "Enes b. Malik’den; demiştir ki: “Ensar’dan bir adam; “Ya Resulallah (Sallallahu aleyhi ve Sellem), ben şişman bir adamım, seninle beraber namaz kılamıyorum” dedi. (Gerçekten de) şişmandı.Nebi için bir yemek hazırlayıp onu evine çağırdı ve Nebiimize, (haydi) bir namaz kıl da nasıl namaz kıldığını göreyim, böylece (bundan sonraki namazlarımda) seni örnek alayım” dedi. (Bunun üzerine kalkıp) ellerindeki hasırın bir yanını ıslattılar. (Hz. Nebi de) kalktı iki rekat namaz kıldı. İbn Carud, Enes b. Malik’e, “Nebi (Sallallahu aleyhi ve Sellem) böyle devamlı kuşluk namazı kılar mıydı?” dedi. O da: O günden başka onu (kuşluk namazı) kılarken görmedim cevabını verdi. Diğer tahric: Buhari, salat; ezan; Müslim, mesacid; Tirmizi, salat; Nesai, İmame; Darimi salat; Muvatta’ , sefer; Ahmed b. Hanbel, III,13",
+			"text": "Enes b. Malik’den; demiştir ki: “Ensar’dan bir adam; “Ya Resulallah (Sallallahu aleyhi ve Sellem), ben şişman bir adamım, seninle beraber namaz kılamıyorum” dedi. (Gerçekten de) şişmandı.Nebi için bir yemek hazırlayıp onu evine çağırdı ve Nebiimize, (haydi) bir namaz kıl da nasıl namaz kıldığını göreyim, böylece (bundan sonraki namazlarımda) seni örnek alayım” dedi. (Bunun üzerine kalkıp) ellerindeki hasırın bir yanını ıslattılar. (Hz. Nebi de) kalktı iki rekat namaz kıldı. İbn Carud, Enes b. Malik’e, “Nebi (Sallallahu aleyhi ve Sellem) böyle devamlı kuşluk namazı kılar mıydı?” dedi. O da: O günden başka onu (kuşluk namazı) kılarken görmedim cevabını verdi. Diğer tahric: Buhari, salat; ezan; Müslim, mesacid; Tirmizi, salat; Nesai, İmame; Darimi salat; Muvatta’ , sefer; Ahmed b. Hanbel, III",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -6882,7 +6890,7 @@
 		{
 			"hadithnumber": 658,
 			"arabicnumber": 658,
-			"text": "Enes b. Malik (r.a.)'den şöyle dediği rivayet edilmiştir: Nebi (Sallallahu aleyhi ve Sellem) Ümmü Süleym'i (zaman zaman) ziyaret ederdi, bazan (da bu ziyaret esnasında) namaz (vakti) girerdi. Resul-i Ek­rem (Sallallahu aleyhi ve Sellem) de bize ait ve suyla yıkanmış hasırdan ibaret olan bir sergi üzerine namaz(ını) kılardı. Diğer tahric: Buharî, salat, ezan; Müslim, mesacid; Tirmizî, salat; Nesaî, imame; Darimî, salat; Muvatta', sefer; Ahmed b. Hanbel, III, 131",
+			"text": "Enes b. Malik (r.a.)'den şöyle dediği rivayet edilmiştir: Nebi (Sallallahu aleyhi ve Sellem) Ümmü Süleym'i (zaman zaman) ziyaret ederdi, bazan (da bu ziyaret esnasında) namaz (vakti) girerdi. Resul-i Ek­rem (Sallallahu aleyhi ve Sellem) de bize ait ve suyla yıkanmış hasırdan ibaret olan bir sergi üzerine namaz(ını) kılardı. Diğer tahric: Buharî, salat, ezan; Müslim, mesacid; Tirmizî, salat; Nesaî, imame; Darimî, salat; Muvatta', sefer; Ahmed b. Hanbel, III",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -7005,7 +7013,7 @@
 		{
 			"hadithnumber": 663,
 			"arabicnumber": 663,
-			"text": "Simak b. Harb'den; demiştir ki: Nu'man b. Beşîr'i (şöyle) derken işittim: \"Nebi (Sallallahu aleyhi ve Sellem) bizi saflarda ok gibi düzene sokardı. Resulullah (Sallallahu aleyhi ve Sellem) bizim bunu öğrendiğimize (ve önemini) anladığımıza kanaat getirinceye kadar (bu işe devam etti). Bir gün (yine) bize yönelmişti. Bir de ne görsün, bir adam göğsünü (saftan) ileri çıkarmış (duruyor). Bunun üzerine (şöyle); (Allah'a yemin olsun ki) Ya saflarınızı düzeltirsiniz, yahutta Allah aranızı açar\" diye buyurdu. Diğer tahric: Buharî, ezan; Tirmizi, mevakit; Nesaî, imame; Ahmed b. Hanbel, IV, 271",
+			"text": "Simak b. Harb'den; demiştir ki: Nu'man b. Beşîr'i (şöyle) derken işittim: \"Nebi (Sallallahu aleyhi ve Sellem) bizi saflarda ok gibi düzene sokardı. Resulullah (Sallallahu aleyhi ve Sellem) bizim bunu öğrendiğimize (ve önemini) anladığımıza kanaat getirinceye kadar (bu işe devam etti). Bir gün (yine) bize yönelmişti. Bir de ne görsün, bir adam göğsünü (saftan) ileri çıkarmış (duruyor). Bunun üzerine (şöyle); (Allah'a yemin olsun ki) Ya saflarınızı düzeltirsiniz, yahutta Allah aranızı açar\" diye buyurdu. Diğer tahric: Buharî, ezan; Tirmizi, mevakit; Nesaî, imame; Ahmed b. Hanbel, IV",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -7028,7 +7036,7 @@
 		{
 			"hadithnumber": 664,
 			"arabicnumber": 664,
-			"text": "el-Bera b. Azib (r.a.)'den; demiştir ki: Nebi (Sallallahu aleyhi ve Sellem) bir ucdan bir uc'a safların arasına girer, göğüslerimize ve omuzlarımıza dokunarak (bizi doğrultur) ve; \"Eğri büğrü olmayınız ki kalbleriniz arasında ihtilaf olmasın, şüphesiz Allah ile melekler ilk saflara rahmet ve istiğfar ederler\" buyurdu. Diğer tahric: Nesaî, imame; ezan; îbn Mace, ikame; Ahmed b. Hanbel, IV, 269, 284",
+			"text": "el-Bera b. Azib (r.a.)'den; demiştir ki: Nebi (Sallallahu aleyhi ve Sellem) bir ucdan bir uc'a safların arasına girer, göğüslerimize ve omuzlarımıza dokunarak (bizi doğrultur) ve; \"Eğri büğrü olmayınız ki kalbleriniz arasında ihtilaf olmasın, şüphesiz Allah ile melekler ilk saflara rahmet ve istiğfar ederler\" buyurdu. Diğer tahric: Nesaî, imame; ezan; îbn Mace, ikame; Ahmed b. Hanbel, IV",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -7390,7 +7398,7 @@
 		{
 			"hadithnumber": 678,
 			"arabicnumber": 678,
-			"text": "Ebu Hureyre (r.a.)'den; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Erkek saflarının en hayırlısı ilkidir, hayrı en az olanı da sonuncusudur. Kadın saflarının en hayırlısı ise, sonuncusudur; hayrı en az olanı da birincisidir.\" Diğer tahric: Müslim, salat; Tirmizî, mevakit; Nesai, imame, ibn Mace, ikame; Darimî, salat; Ahmed b. Hanbel, II, 485, 247, 336",
+			"text": "Ebu Hureyre (r.a.)'den; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Erkek saflarının en hayırlısı ilkidir, hayrı en az olanı da sonuncusudur. Kadın saflarının en hayırlısı ise, sonuncusudur; hayrı en az olanı da birincisidir.\" Diğer tahric: Müslim, salat; Tirmizî, mevakit; Nesai, imame, ibn Mace, ikame; Darimî, salat; Ahmed b. Hanbel, II",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -7513,7 +7521,7 @@
 		{
 			"hadithnumber": 683,
 			"arabicnumber": 683,
-			"text": "Ebu Bekre (r.a.)'in haber verdiğine göre kendisi (bir gün) Nebi (Sallallahu aleyhi ve Sellem) rüku'da iken mescide girdiğini söylemiş ve (sözlerine devam ederek şöyle) demiştir: \"Hemen saffın gerisinde rüku'a vardım.\" Bunun Üzerine Nebi (Sallallahu aleyhi ve Sellem); \"Allah (cemaate iştirak etme arzu ve) hırsını artırsın fakat bir daha (bunu) yapma!\" buyurdu. Diğer tahric: Buharî, ezan; Nesaî, imame; Ahmed b. Hanbel, V, 39,",
+			"text": "Ebu Bekre (r.a.)'in haber verdiğine göre kendisi (bir gün) Nebi (Sallallahu aleyhi ve Sellem) rüku'da iken mescide girdiğini söylemiş ve (sözlerine devam ederek şöyle) demiştir: \"Hemen saffın gerisinde rüku'a vardım.\" Bunun Üzerine Nebi (Sallallahu aleyhi ve Sellem); \"Allah (cemaate iştirak etme arzu ve) hırsını artırsın fakat bir daha (bunu) yapma!\" buyurdu. Diğer tahric: Buharî, ezan; Nesaî, imame; Ahmed b. Hanbel, V",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -7536,7 +7544,7 @@
 		{
 			"hadithnumber": 684,
 			"arabicnumber": 684,
-			"text": "el-Hasen'den rivayet edildiğine göre, (bir gün) Ebu Bekre (r.a.) Resul-i Ekrem (Sallallahu aleyhi ve Sellem) rüku'da iken (mescid'e) gelmiş ve hemen safın gerisinde rüku'a varmış, sonra da saffa yürü(yerek gir)di.Nebi (Sallallahu aleyhi ve Sellem) namazı bitirince: \"O safın gerisinde rüku'a vardıktan sonra yürüyerek saffa giren hanginizdi?\" demiş. Ebu Bekre de: \"Bendim\" diye cevab vermiştir. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) de şöyle buyurmuştur: \"Allah senin (cemaatle namaz kılmaktaki arzu ve) hırsını arttırsın (fakat) bunu bir daha yapma\" Diğer tahric: Buharî, ezan; Nesaî, imame; Ahmed b. Hanbel, V,",
+			"text": "el-Hasen'den rivayet edildiğine göre, (bir gün) Ebu Bekre (r.a.) Resul-i Ekrem (Sallallahu aleyhi ve Sellem) rüku'da iken (mescid'e) gelmiş ve hemen safın gerisinde rüku'a varmış, sonra da saffa yürü(yerek gir)di.Nebi (Sallallahu aleyhi ve Sellem) namazı bitirince: \"O safın gerisinde rüku'a vardıktan sonra yürüyerek saffa giren hanginizdi?\" demiş. Ebu Bekre de: \"Bendim\" diye cevab vermiştir. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) de şöyle buyurmuştur: \"Allah senin (cemaatle namaz kılmaktaki arzu ve) hırsını arttırsın (fakat) bunu bir daha yapma\" Diğer tahric: Buharî, ezan; Nesaî, imame; Ahmed b. Hanbel, V",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -7559,7 +7567,7 @@
 		{
 			"hadithnumber": 685,
 			"arabicnumber": 685,
-			"text": "Talha b. Ubeydillah (r.a.)'den; demiştir ki: Nebi (Sallallahu aleyhi ve Sellem) bana hitaben) şöyle buyurdu: \"Önüne, semerin arka kemerinin boyu kadar bir şey koyunca önünden geçen kimse sana zarar vermez.\" Diğer tahric: Müslim, salat; Ebu Davud, salat; Nesaî, kıble; İbn Mace, ikame; Darimî, salat; Ahmed b. Hanbel, I, 121, 162; II, 129; V, 149, 151",
+			"text": "Talha b. Ubeydillah (r.a.)'den; demiştir ki: Nebi (Sallallahu aleyhi ve Sellem) bana hitaben) şöyle buyurdu: \"Önüne, semerin arka kemerinin boyu kadar bir şey koyunca önünden geçen kimse sana zarar vermez.\" Diğer tahric: Müslim, salat; Ebu Davud, salat; Nesaî, kıble; İbn Mace, ikame; Darimî, salat; Ahmed b. Hanbel, I, 121, 162; II, 129; V",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -7740,7 +7748,7 @@
 		{
 			"hadithnumber": 692,
 			"arabicnumber": 692,
-			"text": "İbn Ömer (r.a.)'den rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) deveye doğru namaz kılarmış. Diğer tahric: Buharî, salat; Ebu Davud, cihad; Müslim, salat; Tirmizi, salat; Ahmed b. Hanbel, II, 26, 106, 316",
+			"text": "İbn Ömer (r.a.)'den rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) deveye doğru namaz kılarmış. Diğer tahric: Buharî, salat; Ebu Davud, cihad; Müslim, salat; Tirmizi, salat; Ahmed b. Hanbel, II",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -7948,7 +7956,7 @@
 		{
 			"hadithnumber": 700,
 			"arabicnumber": 700,
-			"text": "Ebu Said (r.a.)'den (rivayet edildiğine göre), Nebi (Sallallahu aleyhi ve Sellem) (şöyle) buyurmuştur: \"Sizden biriniz kendisine insanlardan sütre olacak bir şeye doğru namaz kılar da başka biri önünden geçmek isterse, ona göğsüne dokunarak engel olsun. Diretirse, onunla dövüşsün. Çünkü o ancak şeytandır.\" Ebu Davud, Süfyan-ı Sevrî'nin şöyle dediğini söylüyor: \"Ben namaz kılarken önümden böbürlenerek geçen adam'a mani olurum. Zayıf'a mani olmam.” Diğer tahric: Buharî, salat; bed'u'l-halk; Müslim, salat,-selam; Ebu Davud, salat; Nesaî, kasame ; Ibn Mace, ikame; Darimî, salat; Muvatta, sefer; İstı'zan; Ahmed b. Hanbel, III,",
+			"text": "Ebu Said (r.a.)'den (rivayet edildiğine göre), Nebi (Sallallahu aleyhi ve Sellem) (şöyle) buyurmuştur: \"Sizden biriniz kendisine insanlardan sütre olacak bir şeye doğru namaz kılar da başka biri önünden geçmek isterse, ona göğsüne dokunarak engel olsun. Diretirse, onunla dövüşsün. Çünkü o ancak şeytandır.\" Ebu Davud, Süfyan-ı Sevrî'nin şöyle dediğini söylüyor: \"Ben namaz kılarken önümden böbürlenerek geçen adam'a mani olurum. Zayıf'a mani olmam.” Diğer tahric: Buharî, salat; bed'u'l-halk; Müslim, salat,-selam; Ebu Davud, salat; Nesaî, kasame ; Ibn Mace, ikame; Darimî, salat; Muvatta, sefer; İstı'zan; Ahmed b. Hanbel, III",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -8256,7 +8264,7 @@
 		{
 			"hadithnumber": 712,
 			"arabicnumber": 712,
-			"text": "Aişe (r.anha)'den demiştir ki: \"Bizi eşeklerle ve köpeklerle bir tutmanız ne çirkindir!...Yemin ederim ki ben, önüne enlemesine uzanıp yatmış olduğum halde Nebi (Sallallahu aleyhi ve Sellem)'in namaz kıldığını gördüm. Secde etmek istediği zaman ayağıma dürterdi. Ben de onları toplardım. Sonra secdeye varırdı.\" Diğer tahric: Buharî, salat; Müslim, salat; Nesaî. tahare; Muvatta, salatu leyl ; Ahmed b. Hanbel, VI, 44, 55",
+			"text": "Aişe (r.anha)'den demiştir ki: \"Bizi eşeklerle ve köpeklerle bir tutmanız ne çirkindir!...Yemin ederim ki ben, önüne enlemesine uzanıp yatmış olduğum halde Nebi (Sallallahu aleyhi ve Sellem)'in namaz kıldığını gördüm. Secde etmek istediği zaman ayağıma dürterdi. Ben de onları toplardım. Sonra secdeye varırdı.\" Diğer tahric: Buharî, salat; Müslim, salat; Nesaî. tahare; Muvatta, salatu leyl ; Ahmed b. Hanbel, VI",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -8283,7 +8291,7 @@
 		{
 			"hadithnumber": 713,
 			"arabicnumber": 713,
-			"text": "Aişe (r.a.)'den; demiştir ki: \"Ben Nebi (Sallallahu aleyhi ve Sellem) geceleyin namaz kılarken, ayaklarım onun önünde uzatılmış olarak uyurdum, secde etmek istediği zaman ayaklarıma vururdu, ben (de) onları toplardım. O da secdeye varırdı.\" Diğer tahric: Buharî, salat; el-Amel fî'ssalat; Müslim, salat; Nesaî, tahare; Muvatta, salatü'Meyl; Ahmed.b. Hanbel VI, 44, 55",
+			"text": "Aişe (r.a.)'den; demiştir ki: \"Ben Nebi (Sallallahu aleyhi ve Sellem) geceleyin namaz kılarken, ayaklarım onun önünde uzatılmış olarak uyurdum, secde etmek istediği zaman ayaklarıma vururdu, ben (de) onları toplardım. O da secdeye varırdı.\" Diğer tahric: Buharî, salat; el-Amel fî'ssalat; Müslim, salat; Nesaî, tahare; Muvatta, salatü'Meyl; Ahmed.b. Hanbel VI",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -8441,7 +8449,7 @@
 		{
 			"hadithnumber": 719,
 			"arabicnumber": 719,
-			"text": "Ebu Saîd el-Hudrî (r.a.)'den; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Namazı (önden geçen) hiçbir şey bozamaz. (Bununla beraber, yine de siz) gücünüz yettiğince (önünüzden geçene) mani olmaya çalışınız. Çünkü o şeytandan başka bir şey değildir.\" Diğer tahric: Buharî, salat; bed'u'l-halk; Müslim, salat; selam; Ebu Davud, salat; Nesaî, kasame ; İbn Mace, ikame; Darimî, salat; Muvatta', sefer; istizan; Ahmed b. Hanbel IH, 39,",
+			"text": "Ebu Saîd el-Hudrî (r.a.)'den; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Namazı (önden geçen) hiçbir şey bozamaz. (Bununla beraber, yine de siz) gücünüz yettiğince (önünüzden geçene) mani olmaya çalışınız. Çünkü o şeytandan başka bir şey değildir.\" Diğer tahric: Buharî, salat; bed'u'l-halk; Müslim, salat; selam; Ebu Davud, salat; Nesaî, kasame ; İbn Mace, ikame; Darimî, salat; Muvatta', sefer; istizan; Ahmed b. Hanbel IH",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -10054,7 +10062,7 @@
 		{
 			"hadithnumber": 782,
 			"arabicnumber": 782,
-			"text": "Enes (r.a.)'den rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) Ebu Bekr, Ömer ve Osman (namazda) kıraata El-hamdulillahi rabbil alemin ile başlarlardı. Diğer tahric: Buharî, ezan; Tirmızî, Mevakît; îbn Ma'ce İkame, Müslim, salat; Darımî, salat; Ahmed b. Hanbel, III, 101",
+			"text": "Enes (r.a.)'den rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) Ebu Bekr, Ömer ve Osman (namazda) kıraata El-hamdulillahi rabbil alemin ile başlarlardı. Diğer tahric: Buharî, ezan; Tirmızî, Mevakît; îbn Ma'ce İkame, Müslim, salat; Darımî, salat; Ahmed b. Hanbel, III",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -10339,7 +10347,7 @@
 		{
 			"hadithnumber": 793,
 			"arabicnumber": 793,
-			"text": "Cabir (r.a.), Muaz'ın olayını naklederek dedi ki; \"Nebi (Sallallahu aleyhi ve Sellem) bir gence; \"Ey kardeşimin oğlu namaz kılarken ne yapıyorsun?” diye sordu. (O da): Fatiha okuyorum, bir de Allah'dan Cennet'i istiyorum, (Cehen­nem) ateş(in)den de (yine) Allah'a sığınıyorum. Senin güzel nağmele­rinle, Muaz'ın nağmelerininse ne olduğunu bilmiyorum, diye cevap verdi. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem): “Gerçekten Ben de Muaz da bu ikisi ile ilgili (isteklerde bulunmaktayız)\" buyurdu veya buna benzer bir şey (söyledi.) Diğer tahric: Beyhakî, es-S. Kübra, III, 8",
+			"text": "Cabir (r.a.), Muaz'ın olayını naklederek dedi ki; \"Nebi (Sallallahu aleyhi ve Sellem) bir gence; \"Ey kardeşimin oğlu namaz kılarken ne yapıyorsun?” diye sordu. (O da): Fatiha okuyorum, bir de Allah'dan Cennet'i istiyorum, (Cehen­nem) ateş(in)den de (yine) Allah'a sığınıyorum. Senin güzel nağmele­rinle, Muaz'ın nağmelerininse ne olduğunu bilmiyorum, diye cevap verdi. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem): “Gerçekten Ben de Muaz da bu ikisi ile ilgili (isteklerde bulunmaktayız)\" buyurdu veya buna benzer bir şey (söyledi.) Diğer tahric: Beyhakî, es-S. Kübra, III",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -10605,7 +10613,7 @@
 		{
 			"hadithnumber": 803,
 			"arabicnumber": 803,
-			"text": "Cabir b. Semure'den demiştir ki: Ömer (r.a.), Sa'd b. Ebî Vakkas'a; \"Gerçekten halk senden namaza varıncaya kadar her konuda şikayet etmektedir, dedi. (O da): Ben (namazın) ilk iki rekatını uzatırım, son iki rekatini da kısa tutarım. Nebi (Sallallahu aleyhi ve Sellem)'in namazına uymakta kusur etmem diye cevap vecdi. (Hz. Ömer de): Senden beklenen de budur, dedi. Diğer tahric: Buhari, ezan; Müslim, salat; Nesai, Iftıtah; Ahmed b. Hanbel, I, 175",
+			"text": "Cabir b. Semure'den demiştir ki: Ömer (r.a.), Sa'd b. Ebî Vakkas'a; \"Gerçekten halk senden namaza varıncaya kadar her konuda şikayet etmektedir, dedi. (O da): Ben (namazın) ilk iki rekatını uzatırım, son iki rekatini da kısa tutarım. Nebi (Sallallahu aleyhi ve Sellem)'in namazına uymakta kusur etmem diye cevap vecdi. (Hz. Ömer de): Senden beklenen de budur, dedi. Diğer tahric: Buhari, ezan; Müslim, salat; Nesai, Iftıtah; Ahmed b. Hanbel, I",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -10732,7 +10740,7 @@
 		{
 			"hadithnumber": 808,
 			"arabicnumber": 808,
-			"text": "Abdullah b. Übeydillah dedi ki: Beni Haşim gençlerinden oluşan bir toplulukla beraber İbn Abbas'ın yanına vardım. İçimizden bir genc'e dedik ki: Sor (bakalım) İbn Abbas'a Nebi (Sallallahu aleyhi ve Sellem) öğle ve ikindi namazlarında (Kur'an) okur muydu? (O genç bu soruyu sorunca İbn Abbas); \"Hayır, asla!\" diye cevap verdi. Bunun üzerine İbn Abbas'a; \"Belki de içinden okuyordu\" denildi. O da \"Tuh sana bu birincisi (olan hiç okumamak) dan daha fena! (Çünkü) O (Sallallahu aleyhi ve Sellem) kendisine gönderileni tebliğle memur idi. Üç özelliğin dışında bizi diğer insanlardan ayırmadı: 1. Bize abdesti güzelce almamızı; 2. Sadaka yemememizi; 3. Eşeği ata çekmememizi emretti\" dedi. Diğer tahric: Tirmizî, cıhad; Nesaî, tahare, hayl, Ahmed b Hanbel, I, 78, 95, 132",
+			"text": "Abdullah b. Übeydillah dedi ki: Beni Haşim gençlerinden oluşan bir toplulukla beraber İbn Abbas'ın yanına vardım. İçimizden bir genc'e dedik ki: Sor (bakalım) İbn Abbas'a Nebi (Sallallahu aleyhi ve Sellem) öğle ve ikindi namazlarında (Kur'an) okur muydu? (O genç bu soruyu sorunca İbn Abbas); \"Hayır, asla!\" diye cevap verdi. Bunun üzerine İbn Abbas'a; \"Belki de içinden okuyordu\" denildi. O da \"Tuh sana bu birincisi (olan hiç okumamak) dan daha fena! (Çünkü) O (Sallallahu aleyhi ve Sellem) kendisine gönderileni tebliğle memur idi. Üç özelliğin dışında bizi diğer insanlardan ayırmadı: 1. Bize abdesti güzelce almamızı; 2. Sadaka yemememizi; 3. Eşeği ata çekmememizi emretti\" dedi. Diğer tahric: Tirmizî, cıhad; Nesaî, tahare, hayl, Ahmed b Hanbel, I",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -11144,7 +11152,7 @@
 		{
 			"hadithnumber": 824,
 			"arabicnumber": 824,
-			"text": "Nafi'b. Mahmud b. er-Rebî el-Ensarî (r.a.)'den; demiştir ki: Ubade b. es-Samit (bir defasında) sabah namazında geç kalmıştı. Bunun üzerine Müezzin Ebu Nuaym namaz için tekbir aldı ve cemaate namaz kıldırmaya başladı. (Derken) Ubade bin es-Samit çıkageldi. Ben de beraberinde idim. Nihayet biz de Ebu Nuaym'ın arkasında saf olduk. Ebu Nuaym sesli okuyordu. Ubade (de) Fatiha Suresi'ni okumaya başladı. Ubade'ye (namazdan) çıkınca; \"Ebu Nuaym sesli okurken, senin de Fatiha'yı okuduğunu işittim\" dedim. Ubade; \"Evet (haklısın) Resulullah (Sallallahu aleyhi ve Sellem) bize aşikar okuduğu namazlardan birisini kıldırdı ve (cemaatin okuyuşu sebebiyle) kıraatte güçlük çektiği bu) namazdan sonra bize dönerek: \"Ben sesli okuduğum zaman siz de okuyor musunuz?\" buyurdu. Birimiz, Biz bunu yapıyoruz, dedi. Bunun üzerine; \"Hayır (öyle) olmaz, ben de (kendi kendine) \"ne oluyor da okuduğu Kur'an'a ortak olunuyor\" diyordum. Ben aşikar okudum mu, siz hiç bir şey, okumayın, yalnız ümmü'l-Kur'an müstesna\" buyurdu. Diğer tahric: Tırmizî, salat; Nesaî, iftitah; İbn Mace, ikame: Muvatta, nida; Ahmed b. Hanbel, II, 240",
+			"text": "Nafi'b. Mahmud b. er-Rebî el-Ensarî (r.a.)'den; demiştir ki: Ubade b. es-Samit (bir defasında) sabah namazında geç kalmıştı. Bunun üzerine Müezzin Ebu Nuaym namaz için tekbir aldı ve cemaate namaz kıldırmaya başladı. (Derken) Ubade bin es-Samit çıkageldi. Ben de beraberinde idim. Nihayet biz de Ebu Nuaym'ın arkasında saf olduk. Ebu Nuaym sesli okuyordu. Ubade (de) Fatiha Suresi'ni okumaya başladı. Ubade'ye (namazdan) çıkınca; \"Ebu Nuaym sesli okurken, senin de Fatiha'yı okuduğunu işittim\" dedim. Ubade; \"Evet (haklısın) Resulullah (Sallallahu aleyhi ve Sellem) bize aşikar okuduğu namazlardan birisini kıldırdı ve (cemaatin okuyuşu sebebiyle) kıraatte güçlük çektiği bu) namazdan sonra bize dönerek: \"Ben sesli okuduğum zaman siz de okuyor musunuz?\" buyurdu. Birimiz, Biz bunu yapıyoruz, dedi. Bunun üzerine; \"Hayır (öyle) olmaz, ben de (kendi kendine) \"ne oluyor da okuduğu Kur'an'a ortak olunuyor\" diyordum. Ben aşikar okudum mu, siz hiç bir şey, okumayın, yalnız ümmü'l-Kur'an müstesna\" buyurdu. Diğer tahric: Tırmizî, salat; Nesaî, iftitah; İbn Mace, ikame: Muvatta, nida; Ahmed b. Hanbel, II",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -11190,7 +11198,7 @@
 		{
 			"hadithnumber": 826,
 			"arabicnumber": 826,
-			"text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) sesli okuduğu bir namazdan sonra: \"Demin biriniz benimle beraber okudu mu?\" buyurmuş. Bunun üzerine bir adam: Evet, ey Allah'ın Resulü, diye cevab vermiş, (Resul-i Ekrem de şöyle) buyurmuş: \"Ben de neden kıraatim karışıyor diyordum.\" Halk, Resulullah (Sallallahu aleyhi ve Sellem)'den bunu duyunca bir daha Resul-i Ekrem'in aşikare okuduğu namazlarda O'nunla beraber okumayı bıraktılar. Ebu Davud dediki: Bu İbn Ükeyme hadisini Ma'mer, Yunus ve Usame b. Zeyd, Malik'in (rivayet ettiği hadisin) manasına uygun olarak ez-Zührî'den rivayet ettiler. Diğer tahric: Tirmizî, salat; Nesaî iftitah; İbn Mace, ikame; Muvatta, nida; Ahmed b. Hanbel, II, 240",
+			"text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) sesli okuduğu bir namazdan sonra: \"Demin biriniz benimle beraber okudu mu?\" buyurmuş. Bunun üzerine bir adam: Evet, ey Allah'ın Resulü, diye cevab vermiş, (Resul-i Ekrem de şöyle) buyurmuş: \"Ben de neden kıraatim karışıyor diyordum.\" Halk, Resulullah (Sallallahu aleyhi ve Sellem)'den bunu duyunca bir daha Resul-i Ekrem'in aşikare okuduğu namazlarda O'nunla beraber okumayı bıraktılar. Ebu Davud dediki: Bu İbn Ükeyme hadisini Ma'mer, Yunus ve Usame b. Zeyd, Malik'in (rivayet ettiği hadisin) manasına uygun olarak ez-Zührî'den rivayet ettiler. Diğer tahric: Tirmizî, salat; Nesaî iftitah; İbn Mace, ikame; Muvatta, nida; Ahmed b. Hanbel, II",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -11240,7 +11248,7 @@
 		{
 			"hadithnumber": 828,
 			"arabicnumber": 828,
-			"text": "İmran b. Husayn'den nakledildiğine göre, Nebi (salallahu aleyhi ve sellem) (cemaatle) öğle namazı kılarken, bir adam gelip arkasında \"Rabbinin o çok yüce adım tesbih (ve tenzih) et\" (el-A'la suresini) okumuş. Resul-i Ekrem namazı bitirince: \"Okuyan hanginizdi?\" diye sormuş, (cemaat de); Bir adam,diye cevap vermişler. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) de: \"Gerçekten anladım ki, biriniz bunu benim ağzımdan aldı\" buyurmuş. Ebu Davud dedi ki: (Şeyhim) Ebu'l-Velîd, rivayetinde Şu'be'nin şöyle dediğini söyledi: \"Ben Katade'ye Said'in sözü; \"Kur'an (okuduğu) için sus (şeklinde) değil miydi.\" dedim. O da; \"Bu (imam) sesli okuduğu zamandır diye cevap verdi.\" tbn Kesîr ise rivayetinde Şu'be'nin, Katade'ye; \"Nebi (Sallallahu aleyhi ve Sellem) bu işi çirkin görmüşe benziyor\" dediğini, onun da \"çirkin görmüş olsaydı, bundan nehyederdi\" diye cevap verdiğini bilirdi.\" Diğer tahric: Müslim, salat; Nesai, iftitah; kıyamu'l-leyl; Ahmed b. Hanbel, IV, 42",
+			"text": "İmran b. Husayn'den nakledildiğine göre, Nebi (salallahu aleyhi ve sellem) (cemaatle) öğle namazı kılarken, bir adam gelip arkasında \"Rabbinin o çok yüce adım tesbih (ve tenzih) et\" (el-A'la suresini) okumuş. Resul-i Ekrem namazı bitirince: \"Okuyan hanginizdi?\" diye sormuş, (cemaat de); Bir adam,diye cevap vermişler. Bunun üzerine Nebi (Sallallahu aleyhi ve Sellem) de: \"Gerçekten anladım ki, biriniz bunu benim ağzımdan aldı\" buyurmuş. Ebu Davud dedi ki: (Şeyhim) Ebu'l-Velîd, rivayetinde Şu'be'nin şöyle dediğini söyledi: \"Ben Katade'ye Said'in sözü; \"Kur'an (okuduğu) için sus (şeklinde) değil miydi.\" dedim. O da; \"Bu (imam) sesli okuduğu zamandır diye cevap verdi.\" tbn Kesîr ise rivayetinde Şu'be'nin, Katade'ye; \"Nebi (Sallallahu aleyhi ve Sellem) bu işi çirkin görmüşe benziyor\" dediğini, onun da \"çirkin görmüş olsaydı, bundan nehyederdi\" diye cevap verdiğini bilirdi.\" Diğer tahric: Müslim, salat; Nesai, iftitah; kıyamu'l-leyl; Ahmed b. Hanbel, IV",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -11267,7 +11275,7 @@
 		{
 			"hadithnumber": 829,
 			"arabicnumber": 829,
-			"text": "İmran b. Husayn'dan rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) onlara Öğle namazını kıldırmış, (namazdan) çıkınca, \"Sebbihis-me Rabbike'l-A'la diye başlayan (sure) yi hanginiz okudu?\" deyince bir zat, \"ben\" cevabını vermiş. Bunun üzerine (Resul-i Ekrem): \"Gerçekten anladım ki, biriniz onu benim ağzımdan aldı\" buyurmuştur. Diğer tahric: Müslim, salat; Nesaî, iftitah, kıyamü'l-leyl; Ahmed b. Hanbel, IV, 426",
+			"text": "İmran b. Husayn'dan rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) onlara Öğle namazını kıldırmış, (namazdan) çıkınca, \"Sebbihis-me Rabbike'l-A'la diye başlayan (sure) yi hanginiz okudu?\" deyince bir zat, \"ben\" cevabını vermiş. Bunun üzerine (Resul-i Ekrem): \"Gerçekten anladım ki, biriniz onu benim ağzımdan aldı\" buyurmuştur. Diğer tahric: Müslim, salat; Nesaî, iftitah, kıyamü'l-leyl; Ahmed b. Hanbel, IV",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -11744,7 +11752,7 @@
 		{
 			"hadithnumber": 848,
 			"arabicnumber": 848,
-			"text": "Ebu Hureyre'den rivayet edildiğine göre; Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: \"İmam \"semiallahu limen hamideh\" dediği za­man, siz de \"Allahiimme Rabbena lekel hamd\" deyiniz! Zira sözü meleklerin sözüne denk gelen kişinin günahları affedilir.\" Diğer tahric: Buharî, ezan; bed'ui-halk; tefsir sure; Müslim, salat; Tirmizî, mevakît; Nesaî, iftitah , tatbik; İbn Mace, ikame; Darîmî, salat; Muvatta', nida; Ahmed b. Hanbel II, 233, 238, 270, 387",
+			"text": "Ebu Hureyre'den rivayet edildiğine göre; Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: \"İmam \"semiallahu limen hamideh\" dediği za­man, siz de \"Allahiimme Rabbena lekel hamd\" deyiniz! Zira sözü meleklerin sözüne denk gelen kişinin günahları affedilir.\" Diğer tahric: Buharî, ezan; bed'ui-halk; tefsir sure; Müslim, salat; Tirmizî, mevakît; Nesaî, iftitah , tatbik; İbn Mace, ikame; Darîmî, salat; Muvatta', nida; Ahmed b. Hanbel II, 233",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -11875,7 +11883,7 @@
 		{
 			"hadithnumber": 853,
 			"arabicnumber": 853,
-			"text": "Enes b. Malik'deri; demiştir ki: Ben tamam olmak şartıyla Resulullah (Sallallahu aleyhi ve Sellem)'den daha kısa namaz kıldıran bir kimsenin arkasında namaz kılmadım. Resulullah (Sallallahu aleyhi ve Sellem); \"semiallahu limen hamideh\" dediği zaman, biz; \"vehmetti galiba\" diye (endişe ede)cek kadar (uzun bîr süre) ayakta durur, sonra secde eder, iki secde arasında biz (yine) \"vehmetti galiba\" diye (endişeye düşe)cek kadar (uzun bir süre) otururdu. Diğer tahric: Buharî, ezan; Müslim, salat; Ahmed b. Hanbel, III- 100",
+			"text": "Enes b. Malik'deri; demiştir ki: Ben tamam olmak şartıyla Resulullah (Sallallahu aleyhi ve Sellem)'den daha kısa namaz kıldıran bir kimsenin arkasında namaz kılmadım. Resulullah (Sallallahu aleyhi ve Sellem); \"semiallahu limen hamideh\" dediği zaman, biz; \"vehmetti galiba\" diye (endişe ede)cek kadar (uzun bîr süre) ayakta durur, sonra secde eder, iki secde arasında biz (yine) \"vehmetti galiba\" diye (endişeye düşe)cek kadar (uzun bir süre) otururdu. Diğer tahric: Buharî, ezan; Müslim, salat; Ahmed b. Hanbel, III",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -12372,7 +12380,7 @@
 		{
 			"hadithnumber": 872,
 			"arabicnumber": 872,
-			"text": "Aişe (r.anha)'den rivayet edilmiştir: Nebi (Sallallahu aleyhi ve Sellem)'in rüku ve sücudunda \"sübbuhun, kuddusun, rabbu'l-melaiketi verruhi Münezzehsin! Mukaddessin! Meleklerle Ruhun rabbisin (Ey Allahım)\" derdi. Diğer tahric: Müslim, salat; Tatbik; Ahmed b. Hanbel, VI, 35, 94, 115, 148, 149, 176",
+			"text": "Aişe (r.anha)'den rivayet edilmiştir: Nebi (Sallallahu aleyhi ve Sellem)'in rüku ve sücudunda \"sübbuhun, kuddusun, rabbu'l-melaiketi verruhi Münezzehsin! Mukaddessin! Meleklerle Ruhun rabbisin (Ey Allahım)\" derdi. Diğer tahric: Müslim, salat; Tatbik; Ahmed b. Hanbel, VI, 35, 94, 115",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -12665,7 +12673,7 @@
 		{
 			"hadithnumber": 883,
 			"arabicnumber": 883,
-			"text": "İbn Abbas (r.a.)'dan rivayet edildiğine (göre), Nebi (Sallallahu aleyhi ve Sellem) \"Rabbinin o çok yüce adını tesbih (ve tenzih) et\" (ayet-i kerimesini) okuduğu zaman, yüce olan Rabbimi tesbih (ve tenzih) ederim\" derdi. Ebu Davud dedi ki: Bu hadisin rivayetinde Vekî'e muhalefet edildi. (Şöyle ki) Ebu Vekîile Şu'be, bu hadisi Ebu ishak Saîd b. Cübeyr vasıtasıyla İbn Abbas'dan mevkuf olarak rivayet ettiler. Diğer tahric: İbn Mace, ikame; Darimî, salat; Ahmed b. Hanbel, 1-232, 371; V, 382, 384, 38",
+			"text": "İbn Abbas (r.a.)'dan rivayet edildiğine (göre), Nebi (Sallallahu aleyhi ve Sellem) \"Rabbinin o çok yüce adını tesbih (ve tenzih) et\" (ayet-i kerimesini) okuduğu zaman, yüce olan Rabbimi tesbih (ve tenzih) ederim\" derdi. Ebu Davud dedi ki: Bu hadisin rivayetinde Vekî'e muhalefet edildi. (Şöyle ki) Ebu Vekîile Şu'be, bu hadisi Ebu ishak Saîd b. Cübeyr vasıtasıyla İbn Abbas'dan mevkuf olarak rivayet ettiler. Diğer tahric: İbn Mace, ikame; Darimî, salat; Ahmed b. Hanbel, 1-232, 371; V",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -12746,7 +12754,7 @@
 		{
 			"hadithnumber": 886,
 			"arabicnumber": 886,
-			"text": "Abdullah b. Mes'ud'dan; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem); \"Biriniz rüku'a vardığı zaman üç kere \"sübhane rabbiyye'l-azîm'' desin. Bu (rükü'daki tesbihin) en aşağısıdır. Secdeye vardığı zaman da üç kere \"Sübhane ranbiye'l-a'la\" desin. Bu da (secdedeki tesbihin) en aşağısıdır.” Ebu Davud dedi ki: Bu (hadis) mürseldir. (Çünkü) Avn, Abdul­lah ile buluşmamıştır. Diğer tahric: Tirnıızi, mevakit; deavat; İbn Mace, ikame; Darimi, salat; Ahmed b. Hanbel, I, 232, 371; V, 382, 384, 389",
+			"text": "Abdullah b. Mes'ud'dan; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem); \"Biriniz rüku'a vardığı zaman üç kere \"sübhane rabbiyye'l-azîm'' desin. Bu (rükü'daki tesbihin) en aşağısıdır. Secdeye vardığı zaman da üç kere \"Sübhane ranbiye'l-a'la\" desin. Bu da (secdedeki tesbihin) en aşağısıdır.” Ebu Davud dedi ki: Bu (hadis) mürseldir. (Çünkü) Avn, Abdul­lah ile buluşmamıştır. Diğer tahric: Tirnıızi, mevakit; deavat; İbn Mace, ikame; Darimi, salat; Ahmed b. Hanbel, I, 232, 371; V",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -13139,7 +13147,7 @@
 		{
 			"hadithnumber": 901,
 			"arabicnumber": 901,
-			"text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: \"Biriniz secdeye vardığı zaman köpeğin yayıldığı gibi yapmasın, uyluklarını birleştirsin.\" Diğer tahric: Tirmizî, salat; Nesaî, tatbîk; İbn Mace, ikame; Ahmed b. Hanbel, III, 279",
+			"text": "Ebu Hureyre (r.a.)'den rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: \"Biriniz secdeye vardığı zaman köpeğin yayıldığı gibi yapmasın, uyluklarını birleştirsin.\" Diğer tahric: Tirmizî, salat; Nesaî, tatbîk; İbn Mace, ikame; Ahmed b. Hanbel, III",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -13412,7 +13420,7 @@
 		{
 			"hadithnumber": 912,
 			"arabicnumber": 912,
-			"text": "Osman (b. Ebî Şeybe'nin) Câbir b. Semura'dan rivayetine göre, Cabir demiştir ki: Resûlullah (Sallallahu aleyhi ve Sellem) mescid'e girdi. Ellerini (ve gözlerini) havaya kaldırmış bazı kimseler gördü. (Bu cümle, hadisin Müsedded tarafından yapılan rivayetinde yoktur.) Ancak (Ebû Dâvûd'un hocaları Müsedded ve Osman) hadisin bundan sonraki kısmında birleştiler (ve şu sözleri naklettiler). Bunun üzerine Resûlullah (sallallahu aleyhi ve sellem) buyurdu ki: \"Bu kimseler gözlerini havaya dikmeye kesinlikle son vermelidirler.\" Müsedded (bu cümleyi) \"namazda\" diye nakletti (Muaviye ve Osman ittifakla şu şekilde tamamladılar:) \"Yahut onların gözleri (bir daha) kendilerine dönmeyecektir.\" Diğer tahric: Buhârî, ezan; Müslim, salât; Nesâî, sehv; îbn Mâce, ikâme; Ahmed b. Hanbel, III, 109, 112",
+			"text": "Osman (b. Ebî Şeybe'nin) Câbir b. Semura'dan rivayetine göre, Cabir demiştir ki: Resûlullah (Sallallahu aleyhi ve Sellem) mescid'e girdi. Ellerini (ve gözlerini) havaya kaldırmış bazı kimseler gördü. (Bu cümle, hadisin Müsedded tarafından yapılan rivayetinde yoktur.) Ancak (Ebû Dâvûd'un hocaları Müsedded ve Osman) hadisin bundan sonraki kısmında birleştiler (ve şu sözleri naklettiler). Bunun üzerine Resûlullah (sallallahu aleyhi ve sellem) buyurdu ki: \"Bu kimseler gözlerini havaya dikmeye kesinlikle son vermelidirler.\" Müsedded (bu cümleyi) \"namazda\" diye nakletti (Muaviye ve Osman ittifakla şu şekilde tamamladılar:) \"Yahut onların gözleri (bir daha) kendilerine dönmeyecektir.\" Diğer tahric: Buhârî, ezan; Müslim, salât; Nesâî, sehv; îbn Mâce, ikâme; Ahmed b. Hanbel, III",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -13643,7 +13651,7 @@
 		{
 			"hadithnumber": 921,
 			"arabicnumber": 921,
-			"text": "Ebû Hureyre (r.a.)'den; demiştir ki: Resûlullah (Sallallahu aleyhi ve Sellem): \"Namazda iki siyah renkli (haşere)'yi, (yani) yılanla akreb'i öldürünüz\" bu­yurdu.\" Diğer tahric: Tirmîzî, salât; İbn Mâce, ikâme; Nesâî, sehv; Dârimî, salât, Ahmed b. Hanbel II, 233, 248, 255, 284",
+			"text": "Ebû Hureyre (r.a.)'den; demiştir ki: Resûlullah (Sallallahu aleyhi ve Sellem): \"Namazda iki siyah renkli (haşere)'yi, (yani) yılanla akreb'i öldürünüz\" bu­yurdu.\" Diğer tahric: Tirmîzî, salât; İbn Mâce, ikâme; Nesâî, sehv; Dârimî, salât, Ahmed b. Hanbel II, 233",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -13724,7 +13732,7 @@
 		{
 			"hadithnumber": 924,
 			"arabicnumber": 924,
-			"text": "Abdullah (b. Mes'ûd)'dan; demiştir ki: \"Biz (İslâm'ın ilk yıllarında) namazda (bulunan kimseye) selâm verir ve ihtiyacımızı (ondan) sorardık. (Habeşistan'dan döndükten sonra) Resûlullah'ın yanına geldim. Namaz kılıyordu. Selâm verdim selâmı(mı) almadı. Beni selâmın alınıp verilmesiyle ilgili) olduk - olmadık düşünceler sardı. Resûlullah (s.a.v.) namazı bitirince, \"Allah emir (ve hükümlerinden istediğini yeniler. Allahü Teâlâ kesinlikle namazda konuşmamanıza (dair yeni) hüküm gönderdi/* buyurdu ve selâmımı aldı. Diğer tahric: Buhârî, tevhîd; Nesâî, sehv, kusûf; Ahmed b. Hanbel, I, 377",
+			"text": "Abdullah (b. Mes'ûd)'dan; demiştir ki: \"Biz (İslâm'ın ilk yıllarında) namazda (bulunan kimseye) selâm verir ve ihtiyacımızı (ondan) sorardık. (Habeşistan'dan döndükten sonra) Resûlullah'ın yanına geldim. Namaz kılıyordu. Selâm verdim selâmı(mı) almadı. Beni selâmın alınıp verilmesiyle ilgili) olduk - olmadık düşünceler sardı. Resûlullah (s.a.v.) namazı bitirince, \"Allah emir (ve hükümlerinden istediğini yeniler. Allahü Teâlâ kesinlikle namazda konuşmamanıza (dair yeni) hüküm gönderdi/* buyurdu ve selâmımı aldı. Diğer tahric: Buhârî, tevhîd; Nesâî, sehv, kusûf; Ahmed b. Hanbel, I",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -14321,7 +14329,7 @@
 		{
 			"hadithnumber": 947,
 			"arabicnumber": 947,
-			"text": "Ebû Hureyre (r.a.)'den; demiştir ki: Resûlullah (s.a.v.) namazda (ihtisâr'dan yani) eli böğüre koymaktan nehyetti. Ebû Dâvûd dedi ki: (İhtisar ile) böğüre el koymayı kastediyor. Diğer tahric: Buhârî, amel fi's-salat; Muslini, mesâcid; Nesâî, iftitâh; Tirmizi, salât; Dârimî, salât , Ahmed b. Hanbel, II, 232, 290",
+			"text": "Ebû Hureyre (r.a.)'den; demiştir ki: Resûlullah (s.a.v.) namazda (ihtisâr'dan yani) eli böğüre koymaktan nehyetti. Ebû Dâvûd dedi ki: (İhtisar ile) böğüre el koymayı kastediyor. Diğer tahric: Buhârî, amel fi's-salat; Muslini, mesâcid; Nesâî, iftitâh; Tirmizi, salât; Dârimî, salât , Ahmed b. Hanbel, II",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -15561,7 +15569,7 @@
 		{
 			"hadithnumber": 995,
 			"arabicnumber": 995,
-			"text": "Ebû Ubeyde babası (Abdullah b. Mes'ud)'dan rivayet etmiştir ki; Nebî (s.a.v.) ilk iki rekatten sonra otururken sanki kızgın taş üzerinde imiş gibi otururdu. (Şu'be) dedi ki; Biz (Sa'd b. İbrahim'e); \"kalkıncaya kadar (böyle) mi?\" dedik. (O da; \"evet) kalkıncaya kadar\" dedi. Diğer tahric: Tırmizî, salât; Nesâî, tatbîk; Ahmed b. Hanbel, I, 386, 410",
+			"text": "Ebû Ubeyde babası (Abdullah b. Mes'ud)'dan rivayet etmiştir ki; Nebî (s.a.v.) ilk iki rekatten sonra otururken sanki kızgın taş üzerinde imiş gibi otururdu. (Şu'be) dedi ki; Biz (Sa'd b. İbrahim'e); \"kalkıncaya kadar (böyle) mi?\" dedik. (O da; \"evet) kalkıncaya kadar\" dedi. Diğer tahric: Tırmizî, salât; Nesâî, tatbîk; Ahmed b. Hanbel, I",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -15638,7 +15646,7 @@
 		{
 			"hadithnumber": 998,
 			"arabicnumber": 998,
-			"text": "Câbir b. Semure'den; demiştir ki: Biz Resûlullah'ın arkasında namaz kılıyorduk. Bir adam sağındaki ve solundakine eli ile işaret edip selâm verdi. Resûlullah namazını bitirince: “Siz'den birinin bu hâli ne? Sanki o azgın atın kuyruğu gibi elini sallıyor.[Bu kelime bazı nüshalarda \"atıyor\" manasına ... şeklinde sabittir.] Halbuki sizden birinin şöyle yapıvermesi kâfidir. -Kâfi değil mi?-\" deyip (elini dizine koydu ve) parmağı ile işaret etti. (Resûlullah bundan sonra şöyle buyurdu:) \"sağındaki ve solundaki kardeşine selâm verir.\" Diğer tahric: Müslim, salât; Nesâî, sehv; Ahmed b. Hanbel, V, 86, 88, 93",
+			"text": "Câbir b. Semure'den; demiştir ki: Biz Resûlullah'ın arkasında namaz kılıyorduk. Bir adam sağındaki ve solundakine eli ile işaret edip selâm verdi. Resûlullah namazını bitirince: “Siz'den birinin bu hâli ne? Sanki o azgın atın kuyruğu gibi elini sallıyor.[Bu kelime bazı nüshalarda \"atıyor\" manasına ... şeklinde sabittir.] Halbuki sizden birinin şöyle yapıvermesi kâfidir. -Kâfi değil mi?-\" deyip (elini dizine koydu ve) parmağı ile işaret etti. (Resûlullah bundan sonra şöyle buyurdu:) \"sağındaki ve solundaki kardeşine selâm verir.\" Diğer tahric: Müslim, salât; Nesâî, sehv; Ahmed b. Hanbel, V",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -19353,7 +19361,7 @@
 		{
 			"hadithnumber": 1143,
 			"arabicnumber": 1143,
-			"text": "Abdulvâris, Eyyûb'dan; o, Atâ'dan; O da İbn Abbâs'tan önceki (1142.) hadisin mânâsım rivayet etti. Bu rivayette îbn Abbâs şöyle dedi: Resûlullah (s.a.v.) hutbeyi kadınlara duyuramadığını zannedip yanında Bilâl olduğu halde onlara doğru yürüdü. Kadınlara va'zetti, bağışta bulunmalarını emretti. Kadınlar da küpe ve bilezikleri Bilâl'in elbisesine (eteğine) attılar. Diğer tahric: Buhârî, ilim, libâs; Müslim, iydeyn; Nesaî, iydeyn; İbn Mâce, ikâme; Ahmed b. Hanbel, 1, 220, 235, 354; II], 36, 42\", 54",
+			"text": "Abdulvâris, Eyyûb'dan; o, Atâ'dan; O da İbn Abbâs'tan önceki (1142.) hadisin mânâsım rivayet etti. Bu rivayette îbn Abbâs şöyle dedi: Resûlullah (s.a.v.) hutbeyi kadınlara duyuramadığını zannedip yanında Bilâl olduğu halde onlara doğru yürüdü. Kadınlara va'zetti, bağışta bulunmalarını emretti. Kadınlar da küpe ve bilezikleri Bilâl'in elbisesine (eteğine) attılar. Diğer tahric: Buhârî, ilim, libâs; Müslim, iydeyn; Nesaî, iydeyn; İbn Mâce, ikâme; Ahmed b. Hanbel, 1, 220, 235, 354; II",
 			"grades": [
 				{
 					"name": "Al-Albani",

@@ -3,6 +3,14 @@
 		"name": "Sunan Abu Dawud",
 		"section": {
 			"24": "Wages (Kitab Al-Ijarah)"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 3416,
+				"hadithnumber_last": 3570,
+				"arabicnumber_first": 3416,
+				"arabicnumber_last": 3570
+			}
 		}
 	},
 	"hadiths": [
@@ -1583,7 +1591,7 @@
 		{
 			"hadithnumber": 3478,
 			"arabicnumber": 3478,
-			"text": "İyâs İbn Abd'den rivayet edildiğine göre; Rasulullah (Sallallahu aleyhi ve Sellem) su'yun fazlasını satmayı menetti. Diğer tahric: Müslüm, müsâkat; Tirmizî, buyu'; Nesâî, buyu'; İbn Mâce, rühün; Dârimî, rühün; Ahmed b. Hanbel, III, 338",
+			"text": "İyâs İbn Abd'den rivayet edildiğine göre; Rasulullah (Sallallahu aleyhi ve Sellem) su'yun fazlasını satmayı menetti. Diğer tahric: Müslüm, müsâkat; Tirmizî, buyu'; Nesâî, buyu'; İbn Mâce, rühün; Dârimî, rühün; Ahmed b. Hanbel, III",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -2829,7 +2837,7 @@
 		{
 			"hadithnumber": 3528,
 			"arabicnumber": 3528,
-			"text": "Umâre b. Umeyr'in, halasından rivayet ettiğine göre; o (Umâre'nin halası); Hz. Âişe (r.anha) ya: Kucağımda bir yetim var, onun malından yiyebilir miyim? diye sordu. Âişe (r.anha) de: Rasûlullah (Sallallahu aleyhi ve Sellem): \"İnsanın yediği şeylerin en temizi kendi kazancından olanıdır ve kişinin çocuğu onun kazanandandır\" buyurdu, dedi. Diğer tahric: Nesai, buyu'; İbn Mace, ticarât; Darimî, buyu'; Ahmed b. Hanbel, VI, 31, 42",
+			"text": "Umâre b. Umeyr'in, halasından rivayet ettiğine göre; o (Umâre'nin halası); Hz. Âişe (r.anha) ya: Kucağımda bir yetim var, onun malından yiyebilir miyim? diye sordu. Âişe (r.anha) de: Rasûlullah (Sallallahu aleyhi ve Sellem): \"İnsanın yediği şeylerin en temizi kendi kazancından olanıdır ve kişinin çocuğu onun kazanandandır\" buyurdu, dedi. Diğer tahric: Nesai, buyu'; İbn Mace, ticarât; Darimî, buyu'; Ahmed b. Hanbel, VI",
 			"grades": [
 				{
 					"name": "Al-Albani",

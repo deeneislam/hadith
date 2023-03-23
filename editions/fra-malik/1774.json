@@ -3,6 +3,14 @@
 		"name": "Muwatta Malik",
 		"section": {
 			"54": "General Subjects"
+		},
+		"section_detail": {
+			"54": {
+				"hadithnumber_first": 1763,
+				"hadithnumber_last": 1807,
+				"arabicnumber_first": 1763,
+				"arabicnumber_last": 1807
+			}
 		}
 	},
 	"hadiths": [

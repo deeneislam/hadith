@@ -3,6 +3,14 @@
 		"name": "Sunan Abu Dawud",
 		"section": {
 			"6": "Prayer (Kitab Al-Salat): Detailed Injunctions about Ramadan"
+		},
+		"section_detail": {
+			"6": {
+				"hadithnumber_first": 1371,
+				"hadithnumber_last": 1400,
+				"arabicnumber_first": 1371,
+				"arabicnumber_last": 1400
+			}
 		}
 	},
 	"hadiths": [
@@ -144,7 +152,7 @@
 		{
 			"hadithnumber": 1376,
 			"arabicnumber": 1376,
-			"text": "Âişe (r.anhâ)'dan rivayet edildiğine göre; ramazanın son on günü girince Nebi (s.a.v.) geceleri ihya eder, (ibâdete koyulur) paçaları sıvar ve ailesini uyandırırmış. Ebü Dâvûd dedi ki; (bu hadisi rivayet eden) Ebû Ya'fûr'un ismi Abdurrahman b. Ubey b. Nistâs'tır. Diğer tahric: Buhari, leyletu'l-kadr; Müslim, i'tikâf; Nesaî, kıyamu'l-leyl İbn Mâce, siyam; Ahmed b. Hanbel, VI,",
+			"text": "Âişe (r.anhâ)'dan rivayet edildiğine göre; ramazanın son on günü girince Nebi (s.a.v.) geceleri ihya eder, (ibâdete koyulur) paçaları sıvar ve ailesini uyandırırmış. Ebü Dâvûd dedi ki; (bu hadisi rivayet eden) Ebû Ya'fûr'un ismi Abdurrahman b. Ubey b. Nistâs'tır. Diğer tahric: Buhari, leyletu'l-kadr; Müslim, i'tikâf; Nesaî, kıyamu'l-leyl İbn Mâce, siyam; Ahmed b. Hanbel, VI",
 			"grades": [
 				{
 					"name": "Al-Albani",

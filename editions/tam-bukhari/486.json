@@ -3,6 +3,14 @@
 		"name": "Sahih al Bukhari",
 		"section": {
 			"8": "Prayers (Salat)"
+		},
+		"section_detail": {
+			"8": {
+				"hadithnumber_first": 349,
+				"hadithnumber_last": 520,
+				"arabicnumber_first": 349,
+				"arabicnumber_last": 520
+			}
 		}
 	},
 	"hadiths": [

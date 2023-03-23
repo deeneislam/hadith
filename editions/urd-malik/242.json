@@ -3,6 +3,14 @@
 		"name": "Muwatta Malik",
 		"section": {
 			"5": "Jumu'a"
+		},
+		"section_detail": {
+			"5": {
+				"hadithnumber_first": 225,
+				"hadithnumber_last": 245,
+				"arabicnumber_first": 225,
+				"arabicnumber_last": 245
+			}
 		}
 	},
 	"hadiths": [

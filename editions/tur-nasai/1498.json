@@ -3,6 +3,14 @@
 		"name": "Sunan an Nasai",
 		"section": {
 			"16": "The Book of Eclipses"
+		},
+		"section_detail": {
+			"16": {
+				"hadithnumber_first": 1459,
+				"hadithnumber_last": 1503,
+				"arabicnumber_first": 1459,
+				"arabicnumber_last": 1503
+			}
 		}
 	},
 	"hadiths": [

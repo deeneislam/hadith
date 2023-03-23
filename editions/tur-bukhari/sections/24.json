@@ -3,6 +3,14 @@
 		"name": "Sahih al Bukhari",
 		"section": {
 			"24": "Obligatory Charity Tax (Zakat)"
+		},
+		"section_detail": {
+			"24": {
+				"hadithnumber_first": 1395,
+				"hadithnumber_last": 1512,
+				"arabicnumber_first": 1395,
+				"arabicnumber_last": 1512
+			}
 		}
 	},
 	"hadiths": [
@@ -79,7 +87,7 @@
 		{
 			"hadithnumber": 1403,
 			"arabicnumber": 1403,
-			"text": "Ebu Hureyre'den rivayet edildiğine göre Nebi sallallahu aleyhi ve sellem şöyle buyurmuştur: \"Allah bir kimseye mal verdiği halde zekatını vermezse, kıyamet günü bu mal o'na, iki gözü üzerinde iki nokta bulunan zehirli erkek bir yılan olarak gösterilir. Yılan onun boynuna dolanır, avurtlarından yakalayarak: 'Ben senin malınım, sen'in biriktirdiklerin benim' der.\" Resulullah sallallahu aleyhi ve sellem daha sonra, \"Allah'ın kendilerine cömertçe verdiği mal'dan infak etme hususunda cimrilik gösterenler, sanmasınlar ki bu kendileri için hayırlıdır; tersine, bu onlar için çok kötüdür. Cimrilik gösterdikleri şey kıyamet günü boyunlarına dolanacaktır [Al-i İmran 180] ayetini okumuştur. Tekrar: 4",
+			"text": "Ebu Hureyre'den rivayet edildiğine göre Nebi sallallahu aleyhi ve sellem şöyle buyurmuştur: \"Allah bir kimseye mal verdiği halde zekatını vermezse, kıyamet günü bu mal o'na, iki gözü üzerinde iki nokta bulunan zehirli erkek bir yılan olarak gösterilir. Yılan onun boynuna dolanır, avurtlarından yakalayarak: 'Ben senin malınım, sen'in biriktirdiklerin benim' der.\" Resulullah sallallahu aleyhi ve sellem daha sonra, \"Allah'ın kendilerine cömertçe verdiği mal'dan infak etme hususunda cimrilik gösterenler, sanmasınlar ki bu kendileri için hayırlıdır; tersine, bu onlar için çok kötüdür. Cimrilik gösterdikleri şey kıyamet günü boyunlarına dolanacaktır [Al-i İmran 180] ayetini okumuştur. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 24,
@@ -99,7 +107,7 @@
 		{
 			"hadithnumber": 1405,
 			"arabicnumber": 1405,
-			"text": "Ebu Said'den rivayet edildiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Beş ukıyyeden daha az (gümüş için) zekat gerekmez. En az üç yaşındaki beş deve'den daha azı için zekat gerekmez. Beş vesk (zirai) mahsül'den daha azı için zekat gerekmez. Tekrar: 1",
+			"text": "Ebu Said'den rivayet edildiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Beş ukıyyeden daha az (gümüş için) zekat gerekmez. En az üç yaşındaki beş deve'den daha azı için zekat gerekmez. Beş vesk (zirai) mahsül'den daha azı için zekat gerekmez. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 24,
@@ -169,7 +177,7 @@
 		{
 			"hadithnumber": 1413,
 			"arabicnumber": 1413,
-			"text": "Adiy İbn Hatim şöyle anlatır: Resûlullah Sallallahu Aleyhi ve Sellem'in yanında bulunuyordum. İki kimse geldi. Bunlardan biri fakirlikten, diğeri yol kesicilikten şikayet etti. Bunun üzerine Resûlullah Sallallahu Aleyhi ve Sellem şöyle cevap verdi: \"Yol kesicilik meselesine gelince; az bir zaman sonra ticaret kervanları, yanlarında her hangi bir yol muhafızı (dahî) bulundurmadan Mekke'ye kadar gelecektir. Fakirliğe gelince; kişi elinde sadakası ile kapı kapı dolaşıp sadakayı kabul edecek kimse bulamayacağı bir zaman gelmedikçe kıyamet kopmayacaktır. Sonra, siz aranızda her hangi bir perde bulunmadan Allah'ın huzuruna çıkacaksınız, tercüme yapacak bir tercümana da gerek olmayacak. Allah size, \"Size mal verilmedi mi?\" diye soracak, o da, \"Evet verildi\" diyecek, Allah, \"Size Nebi gönderilmedi mi?\" diyecek, o da, \"Evet gönderildi\" diye cevap verecek. Daha sonra sağına bakacak cehennem'den başka bir şey göremeyecek, soluna bakacak yine öyle. O halde, yarım hurma ile bile olsa (sadaka vererek) cehennemden korunun. Bu da yoksa güzel söz söyleyin. Tekrar: 1417, 3595, 6023, 6539, 6540, 6",
+			"text": "Adiy İbn Hatim şöyle anlatır: Resûlullah Sallallahu Aleyhi ve Sellem'in yanında bulunuyordum. İki kimse geldi. Bunlardan biri fakirlikten, diğeri yol kesicilikten şikayet etti. Bunun üzerine Resûlullah Sallallahu Aleyhi ve Sellem şöyle cevap verdi: \"Yol kesicilik meselesine gelince; az bir zaman sonra ticaret kervanları, yanlarında her hangi bir yol muhafızı (dahî) bulundurmadan Mekke'ye kadar gelecektir. Fakirliğe gelince; kişi elinde sadakası ile kapı kapı dolaşıp sadakayı kabul edecek kimse bulamayacağı bir zaman gelmedikçe kıyamet kopmayacaktır. Sonra, siz aranızda her hangi bir perde bulunmadan Allah'ın huzuruna çıkacaksınız, tercüme yapacak bir tercümana da gerek olmayacak. Allah size, \"Size mal verilmedi mi?\" diye soracak, o da, \"Evet verildi\" diyecek, Allah, \"Size Nebi gönderilmedi mi?\" diyecek, o da, \"Evet gönderildi\" diye cevap verecek. Daha sonra sağına bakacak cehennem'den başka bir şey göremeyecek, soluna bakacak yine öyle. O halde, yarım hurma ile bile olsa (sadaka vererek) cehennemden korunun. Bu da yoksa güzel söz söyleyin. Tekrar: 1417, 3595, 6023",
 			"grades": [],
 			"reference": {
 				"book": 24,
@@ -189,7 +197,7 @@
 		{
 			"hadithnumber": 1415,
 			"arabicnumber": 1415,
-			"text": "İbn Mes'ud şöyle anlatır: Sadakayı emreden ayet nazil olduğu zaman biz {sadaka verebilmek için) hammallık yapardık. Bu arada bir kişi geldi ve çok miktarda sadaka verdi. Etraftakiler, \"Bu adam gösterişçidir\" dediler. Başka bir kişi geldi ve bir sa' kadar sadaka verdi. Bu sefer de \"Allah'ın bu bir sa' ya ihtiyacı yoktur\" dediler. Bunun üzerine bu ayet nazil olmuştu: \"Sadakalar hususunda, mu'minlerden gönüllü verenleri ve güçlerinin yettiğinden başkasını bulamayanları çekiştirip onlarla alay edenler var ya, Allah işte onları maskaraya çevirmiştir. Ve onlar için elem verici azap vardır.[Tevbe 79] Tekrar: 1416, 2",
+			"text": "İbn Mes'ud şöyle anlatır: Sadakayı emreden ayet nazil olduğu zaman biz {sadaka verebilmek için) hammallık yapardık. Bu arada bir kişi geldi ve çok miktarda sadaka verdi. Etraftakiler, \"Bu adam gösterişçidir\" dediler. Başka bir kişi geldi ve bir sa' kadar sadaka verdi. Bu sefer de \"Allah'ın bu bir sa' ya ihtiyacı yoktur\" dediler. Bunun üzerine bu ayet nazil olmuştu: \"Sadakalar hususunda, mu'minlerden gönüllü verenleri ve güçlerinin yettiğinden başkasını bulamayanları çekiştirip onlarla alay edenler var ya, Allah işte onları maskaraya çevirmiştir. Ve onlar için elem verici azap vardır.[Tevbe 79] Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 24,
@@ -289,7 +297,7 @@
 		{
 			"hadithnumber": 1425,
 			"arabicnumber": 1425,
-			"text": "Aişe r.anha'dan nakledildiğine göre Resûl-İ Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Kadın, evin yiyeceğinden; aile huzurunu kaçırmadan ve israfa kaçmadan infak ettiği zaman kendisi, infak sevabını; kocası da o yiyeceği kazanmış olmanın sevabını alır. Malı koruyan kişi de aynı sevabı alır. Bir kişinin aldığı sevap diğerinin aldığını eksiltmez. Tekrar: 1437, 1439, 1",
+			"text": "Aişe r.anha'dan nakledildiğine göre Resûl-İ Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Kadın, evin yiyeceğinden; aile huzurunu kaçırmadan ve israfa kaçmadan infak ettiği zaman kendisi, infak sevabını; kocası da o yiyeceği kazanmış olmanın sevabını alır. Malı koruyan kişi de aynı sevabı alır. Bir kişinin aldığı sevap diğerinin aldığını eksiltmez. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 24,
@@ -299,7 +307,7 @@
 		{
 			"hadithnumber": 1426,
 			"arabicnumber": 1426,
-			"text": "Ebu Hureyre r.a.'den nakledildiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"En hayırlı sadaka, zengin iken verilenidir. Sadaka vermeye, geçimini sağladığın kimselerden başla. Tekrar: 1",
+			"text": "Ebu Hureyre r.a.'den nakledildiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"En hayırlı sadaka, zengin iken verilenidir. Sadaka vermeye, geçimini sağladığın kimselerden başla. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 24,
@@ -459,7 +467,7 @@
 		{
 			"hadithnumber": 1443,
 			"arabicnumber": 1443,
-			"text": "Ebu Hureyre r.a.'den rivayet edildiğine göre Resûlullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Cimri ile sadaka veren kimsenin durumu üzerlerinde demir zırh bulunan iki kimsenin durumu gibidir.\" Ebu Hureyre r.a. Resûlullah Sallallahu Aleyhi ve Sellem'i işitmiştir: \"Cimri ile sadaka veren kimse'nin durumu, üzerinde, göğsünden köprücük kemiğine kadar demir zırh bulunan iki kimseye benzer, İnfak eden kimse, sadaka verdiği zaman üzerindeki zırh genişler, parmak uçlarına kadar uzanır ve (hatalarını) siler. Cimri kimse ne zaman sadaka vermek istese zırh biraz daha daralır. Kişi bunu genişletmeye çalışır ama yine de genişlemez. Tekrar; 1444, 2",
+			"text": "Ebu Hureyre r.a.'den rivayet edildiğine göre Resûlullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Cimri ile sadaka veren kimsenin durumu üzerlerinde demir zırh bulunan iki kimsenin durumu gibidir.\" Ebu Hureyre r.a. Resûlullah Sallallahu Aleyhi ve Sellem'i işitmiştir: \"Cimri ile sadaka veren kimse'nin durumu, üzerinde, göğsünden köprücük kemiğine kadar demir zırh bulunan iki kimseye benzer, İnfak eden kimse, sadaka verdiği zaman üzerindeki zırh genişler, parmak uçlarına kadar uzanır ve (hatalarını) siler. Cimri kimse ne zaman sadaka vermek istese zırh biraz daha daralır. Kişi bunu genişletmeye çalışır ama yine de genişlemez. Tekrar;",
 			"grades": [],
 			"reference": {
 				"book": 24,
@@ -509,7 +517,7 @@
 		{
 			"hadithnumber": 1448,
 			"arabicnumber": 1448,
-			"text": "Sümame'nin naklettiğine göre, Ebu Bekir, Enes İbn Malik'e yazdığı bir mektupta şöyle demiştir: Bir yaşını doldurmuş bir deveyi zekat olarak vermesi gereken kimsede bu deve bulunmayıp da iki yaşında bir dişi deve bulunursa, zekat olarak bu deve kabul edilir. Fakat o kişiye, ya yirmi dirhem ya da iki koyun geri verilir. Zekat mükellefinde, bir yaşında dişi deve bulunmayıp da iki yaşında bir erkek deve bulunuyorsa bu da kabul edilir. Fakat bu durumda ona geri bir şey verilmez. Tekrar: 1450, 1451, 1453, 1454, 1455, 2487, 3",
+			"text": "Sümame'nin naklettiğine göre, Ebu Bekir, Enes İbn Malik'e yazdığı bir mektupta şöyle demiştir: Bir yaşını doldurmuş bir deveyi zekat olarak vermesi gereken kimsede bu deve bulunmayıp da iki yaşında bir dişi deve bulunursa, zekat olarak bu deve kabul edilir. Fakat o kişiye, ya yirmi dirhem ya da iki koyun geri verilir. Zekat mükellefinde, bir yaşında dişi deve bulunmayıp da iki yaşında bir erkek deve bulunuyorsa bu da kabul edilir. Fakat bu durumda ona geri bir şey verilmez. Tekrar: 1450, 1451, 1453, 1454",
 			"grades": [],
 			"reference": {
 				"book": 24,
@@ -549,7 +557,7 @@
 		{
 			"hadithnumber": 1452,
 			"arabicnumber": 1452,
-			"text": "Ebu Saîd el-Hudrî şöyle anlatır: Bir bedevi gelerek hicret etme konusunda Resulullah Sallallahu Aleyhi ve Sellem'e danıştı. Nebi Sallallahu Aleyhi ve Sellem ona, \"Sana yazık olur. Çünkü hicret çok zor ve meşakkatli bir iştir. Sadakasını vereceğin deven var mı?\" buyurdu. Bedevi: \"Evet\" dedi. Bunun üzerine Efendimiz Sallallahu Aleyhi ve Sellem, \"Denizler ardında bile olsan çalış. Çünkü Allah yaptığın hiçbir iyiliği mükafatsız bırakmaz\" buyurdu. Tekrarı: 2",
+			"text": "Ebu Saîd el-Hudrî şöyle anlatır: Bir bedevi gelerek hicret etme konusunda Resulullah Sallallahu Aleyhi ve Sellem'e danıştı. Nebi Sallallahu Aleyhi ve Sellem ona, \"Sana yazık olur. Çünkü hicret çok zor ve meşakkatli bir iştir. Sadakasını vereceğin deven var mı?\" buyurdu. Bedevi: \"Evet\" dedi. Bunun üzerine Efendimiz Sallallahu Aleyhi ve Sellem, \"Denizler ardında bile olsan çalış. Çünkü Allah yaptığın hiçbir iyiliği mükafatsız bırakmaz\" buyurdu. Tekrarı:",
 			"grades": [],
 			"reference": {
 				"book": 24,
@@ -629,7 +637,7 @@
 		{
 			"hadithnumber": 1461,
 			"arabicnumber": 1461,
-			"text": "Enes İbn Malik şöyle anlatır: Ebu Talha, hurmalıkları bakımından Medine'de en zengin kimse idi. O, en çok mescidin karşısında bulunan Beyruha adlı bahçesini severdi. Resulullah Sallallahu Aleyhi ve Sellem oraya girer ve güzel suyundan içerdi. \"Sevdiğiniz şeylerden (Allah yolunda) harcamadıkça iyiliğe eremezsiniz. Her ne harcarsanız Allah onu hakkıyla bilir [Al-i İmran, 92] ayeti nazil olunca Ebu Tal­ha, hemen kalkıp Nebi Sallallahu Aleyhi ve Sellem'e geldi ve: \"Ey Allah'ın Resulü! Allah, \"Sevdiğiniz şeylerden infak etmedikçe iyiliğe kavuşamazsınız\" ayetini indirdi. En sevdiğim mal, Beyruha'dır. Onu, Allah için sadaka olarak veriyorum. Bundan dolayı Allah'ın bana 'iyi'yi (birr) vermesini ve ahirette sevap almayı umuyorum. Ey Allah'ın Resulü! Bu bahçe hakkında, Allah'ın sana gösterdiği şekilde tasarrufta bulun\" dedi. Bunun üzerine Efendimiz Sallallahu Aleyhi ve Sellem, \"Ne güzel! Bu çok kazanç getiren bir mal. Bu çok kar getiren bir mal. Dediklerini işittim. Ben, bunu akrabalarına vermeni uygun görüyorum\" buyurdu. Ebu Talha da, \"(Buyurduğunuz şekilde) yapacağım, Ya Resülallah!\" diyerek, bahçeyi, akrabaları ve amca çocukları arasında paylaştırdı. Yahya İbn Yahya ve İsmail'in Malik'ten yaptığı rivayette, \"kazançlı\" olarak tercüme ettiğimiz kelimesi yerine, \"gelip giden\" anlamına gelen kelimesi geçmektedir. Tekrar: 2318, 2752, 2758, 2769, 4",
+			"text": "Enes İbn Malik şöyle anlatır: Ebu Talha, hurmalıkları bakımından Medine'de en zengin kimse idi. O, en çok mescidin karşısında bulunan Beyruha adlı bahçesini severdi. Resulullah Sallallahu Aleyhi ve Sellem oraya girer ve güzel suyundan içerdi. \"Sevdiğiniz şeylerden (Allah yolunda) harcamadıkça iyiliğe eremezsiniz. Her ne harcarsanız Allah onu hakkıyla bilir [Al-i İmran, 92] ayeti nazil olunca Ebu Tal­ha, hemen kalkıp Nebi Sallallahu Aleyhi ve Sellem'e geldi ve: \"Ey Allah'ın Resulü! Allah, \"Sevdiğiniz şeylerden infak etmedikçe iyiliğe kavuşamazsınız\" ayetini indirdi. En sevdiğim mal, Beyruha'dır. Onu, Allah için sadaka olarak veriyorum. Bundan dolayı Allah'ın bana 'iyi'yi (birr) vermesini ve ahirette sevap almayı umuyorum. Ey Allah'ın Resulü! Bu bahçe hakkında, Allah'ın sana gösterdiği şekilde tasarrufta bulun\" dedi. Bunun üzerine Efendimiz Sallallahu Aleyhi ve Sellem, \"Ne güzel! Bu çok kazanç getiren bir mal. Bu çok kar getiren bir mal. Dediklerini işittim. Ben, bunu akrabalarına vermeni uygun görüyorum\" buyurdu. Ebu Talha da, \"(Buyurduğunuz şekilde) yapacağım, Ya Resülallah!\" diyerek, bahçeyi, akrabaları ve amca çocukları arasında paylaştırdı. Yahya İbn Yahya ve İsmail'in Malik'ten yaptığı rivayette, \"kazançlı\" olarak tercüme ettiğimiz kelimesi yerine, \"gelip giden\" anlamına gelen kelimesi geçmektedir. Tekrar: 2318, 2752",
 			"grades": [],
 			"reference": {
 				"book": 24,
@@ -719,7 +727,7 @@
 		{
 			"hadithnumber": 1470,
 			"arabicnumber": 1470,
-			"text": "Ebu Hureyre r.a.'den rivayet edildiğine göre Resul-i Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Canım elinde olan (Allah)'a yemin olsun ki, bir kimse'nin, urganını alıp bununla sırtında odun taşıması, bir kimseye gidip bir şeyler dilenmesinden ister versin ister vermesin- daha hayırlıdır. Tekrarı: 1",
+			"text": "Ebu Hureyre r.a.'den rivayet edildiğine göre Resul-i Ekrem Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Canım elinde olan (Allah)'a yemin olsun ki, bir kimse'nin, urganını alıp bununla sırtında odun taşıması, bir kimseye gidip bir şeyler dilenmesinden ister versin ister vermesin- daha hayırlıdır. Tekrarı:",
 			"grades": [],
 			"reference": {
 				"book": 24,
@@ -859,7 +867,7 @@
 		{
 			"hadithnumber": 1486,
 			"arabicnumber": 1486,
-			"text": "İbn Ömer (r.a.), \"Resulullah Sallallahu Aleyhi ve Sellem iyi olduğu ortaya çıkmayan meyvelerin satılmasını yasaklamıştır\" demiştir. \"İyi\" olmak şeklinde tercüme ettiğimiz \"salah\" kelimesinin ne anlama geldiği sorulduğu zaman Efendimiz sallallahu aleyhi ve sellem, \"zayıflık ve dayanaksızlığının kaybolması\" buyurmuştur. Tekrar: 2183, 2193, 2",
+			"text": "İbn Ömer (r.a.), \"Resulullah Sallallahu Aleyhi ve Sellem iyi olduğu ortaya çıkmayan meyvelerin satılmasını yasaklamıştır\" demiştir. \"İyi\" olmak şeklinde tercüme ettiğimiz \"salah\" kelimesinin ne anlama geldiği sorulduğu zaman Efendimiz sallallahu aleyhi ve sellem, \"zayıflık ve dayanaksızlığının kaybolması\" buyurmuştur. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 24,
@@ -869,7 +877,7 @@
 		{
 			"hadithnumber": 1487,
 			"arabicnumber": 1487,
-			"text": "Cabir Ibn Abdullah r.a., \"Resulullah Sallallahu Aleyhi ve Sellem iyi olduğu ortaya çıkmayan meyvelerin satılmasını yasaklamıştır\" demiştir. Tekrar: 2",
+			"text": "Cabir Ibn Abdullah r.a., \"Resulullah Sallallahu Aleyhi ve Sellem iyi olduğu ortaya çıkmayan meyvelerin satılmasını yasaklamıştır\" demiştir. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 24,
@@ -879,7 +887,7 @@
 		{
 			"hadithnumber": 1488,
 			"arabicnumber": 1488,
-			"text": "Enes İbn Malik r.a. şöyle anlatir: \"Resulullah Sallallahu Aleyhi ve Sellem serpilip büyüyene ve kızarana kadar meyvelerin satımını yasaklamıştır. Tekrar: 2195, 2",
+			"text": "Enes İbn Malik r.a. şöyle anlatir: \"Resulullah Sallallahu Aleyhi ve Sellem serpilip büyüyene ve kızarana kadar meyvelerin satımını yasaklamıştır. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 24,
@@ -899,7 +907,7 @@
 		{
 			"hadithnumber": 1490,
 			"arabicnumber": 1490,
-			"text": "Zeyd İbn Eslem'in naklettiğine göre babası şöyle anlatır: \"Ömer'i şöy­le söylerken işittim: \"Allah için bir atı sadaka olarak vermiştim. Alan kimse ata bakamayıp güçsüz bıraktı. Ben de onu satın almak istedim. O kimsenin, İzin alarak sattığını zannettim. Durumu Resûlullah Sallallahu Aleyhi ve Sellem'e sorunca, bana, \"Satın alma, onu sana bir dirheme verse bile asla verdiğin sadakaya geri dönme. Çünkü sadakasından geri dönen, kustuğunu geri ağzına alan gibidir\" buyurmuştur. Tekrar: 2623, 2",
+			"text": "Zeyd İbn Eslem'in naklettiğine göre babası şöyle anlatır: \"Ömer'i şöy­le söylerken işittim: \"Allah için bir atı sadaka olarak vermiştim. Alan kimse ata bakamayıp güçsüz bıraktı. Ben de onu satın almak istedim. O kimsenin, İzin alarak sattığını zannettim. Durumu Resûlullah Sallallahu Aleyhi ve Sellem'e sorunca, bana, \"Satın alma, onu sana bir dirheme verse bile asla verdiğin sadakaya geri dönme. Çünkü sadakasından geri dönen, kustuğunu geri ağzına alan gibidir\" buyurmuştur. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 24,
@@ -919,7 +927,7 @@
 		{
 			"hadithnumber": 1492,
 			"arabicnumber": 1492,
-			"text": "İbn Abbas r.a. şöyle anlatır: Resulullah Sallallahu Aleyhi ve Sellem Meymûne'nin azadlı kölesine zekat malından verilmiş bir koyunun murdar bir şekilde ölmüş olduğunu görünce onlara, \"Derisinden faydalansanız ya!\" buyurmuştu. Onlar hayvanın \"leş\" olduğunu söyleyince ise, \"Onun sadece yenilmesi haram kılınmıştır\" buyurmuştur. Tekrar: 2",
+			"text": "İbn Abbas r.a. şöyle anlatır: Resulullah Sallallahu Aleyhi ve Sellem Meymûne'nin azadlı kölesine zekat malından verilmiş bir koyunun murdar bir şekilde ölmüş olduğunu görünce onlara, \"Derisinden faydalansanız ya!\" buyurmuştu. Onlar hayvanın \"leş\" olduğunu söyleyince ise, \"Onun sadece yenilmesi haram kılınmıştır\" buyurmuştur. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 24,
@@ -969,7 +977,7 @@
 		{
 			"hadithnumber": 1497,
 			"arabicnumber": 1497,
-			"text": "Abdullah İbn Ebi Evfa şöyle anlatır: \"Resulullah (Sallallahu Aleyhi ve Sellem) birileri zekatlarını getirdiği zaman onlara, \"Allah'ım! Falan’ın ailesine merhamet et!\" derdi. Babam zekatını getirdiği zaman ona, \"Allahım! Ebu Evfa ailesine salat (merhamet) et\" diye dua etti. Tekrarı: 4",
+			"text": "Abdullah İbn Ebi Evfa şöyle anlatır: \"Resulullah (Sallallahu Aleyhi ve Sellem) birileri zekatlarını getirdiği zaman onlara, \"Allah'ım! Falan’ın ailesine merhamet et!\" derdi. Babam zekatını getirdiği zaman ona, \"Allahım! Ebu Evfa ailesine salat (merhamet) et\" diye dua etti. Tekrarı:",
 			"grades": [],
 			"reference": {
 				"book": 24,

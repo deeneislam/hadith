@@ -3,6 +3,14 @@
 		"name": "Muwatta Malik",
 		"section": {
 			"22": "Vows and Oaths"
+		},
+		"section_detail": {
+			"22": {
+				"hadithnumber_first": 1009,
+				"hadithnumber_last": 1027,
+				"arabicnumber_first": 1009,
+				"arabicnumber_last": 1027
+			}
 		}
 	},
 	"hadiths": [

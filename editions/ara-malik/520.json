@@ -3,6 +3,14 @@
 		"name": "Muwatta Malik",
 		"section": {
 			"16": "Burials"
+		},
+		"section_detail": {
+			"16": {
+				"hadithnumber_first": 520,
+				"hadithnumber_last": 577,
+				"arabicnumber_first": 520,
+				"arabicnumber_last": 577
+			}
 		}
 	},
 	"hadiths": [

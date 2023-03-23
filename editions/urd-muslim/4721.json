@@ -3,6 +3,14 @@
 		"name": "Sahih Muslim",
 		"section": {
 			"33": "The Book on Government"
+		},
+		"section_detail": {
+			"33": {
+				"hadithnumber_first": 4701,
+				"hadithnumber_last": 4967,
+				"arabicnumber_first": 142.05,
+				"arabicnumber_last": 1928.02
+			}
 		}
 	},
 	"hadiths": [

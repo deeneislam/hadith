@@ -3,6 +3,14 @@
 		"name": "Sunan Abu Dawud",
 		"section": {
 			"6": "Prayer (Kitab Al-Salat): Detailed Injunctions about Ramadan"
+		},
+		"section_detail": {
+			"6": {
+				"hadithnumber_first": 1371,
+				"hadithnumber_last": 1400,
+				"arabicnumber_first": 1371,
+				"arabicnumber_last": 1400
+			}
 		}
 	},
 	"hadiths": [

@@ -3,6 +3,14 @@
 		"name": "Muwatta Malik",
 		"section": {
 			"60": "The Supplication of the Unjustly Wronged"
+		},
+		"section_detail": {
+			"60": {
+				"hadithnumber_first": 1857,
+				"hadithnumber_last": 1857,
+				"arabicnumber_first": 1857,
+				"arabicnumber_last": 1857
+			}
 		}
 	},
 	"hadiths": [

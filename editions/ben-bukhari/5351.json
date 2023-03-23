@@ -3,6 +3,14 @@
 		"name": "Sahih al Bukhari",
 		"section": {
 			"69": "Supporting the Family"
+		},
+		"section_detail": {
+			"69": {
+				"hadithnumber_first": 5351,
+				"hadithnumber_last": 5372,
+				"arabicnumber_first": 5351,
+				"arabicnumber_last": 5372
+			}
 		}
 	},
 	"hadiths": [

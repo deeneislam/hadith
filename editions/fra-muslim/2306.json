@@ -3,6 +3,14 @@
 		"name": "Sahih Muslim",
 		"section": {
 			"12": "The Book of Zakat"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2263,
+				"hadithnumber_last": 2494,
+				"arabicnumber_first": 94.03,
+				"arabicnumber_last": 1078.02
+			}
 		}
 	},
 	"hadiths": [

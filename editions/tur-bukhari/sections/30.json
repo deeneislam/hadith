@@ -3,6 +3,14 @@
 		"name": "Sahih al Bukhari",
 		"section": {
 			"30": "Fasting"
+		},
+		"section_detail": {
+			"30": {
+				"hadithnumber_first": 1891,
+				"hadithnumber_last": 2007,
+				"arabicnumber_first": 1891,
+				"arabicnumber_last": 2007
+			}
 		}
 	},
 	"hadiths": [
@@ -39,7 +47,7 @@
 		{
 			"hadithnumber": 1894,
 			"arabicnumber": 1894,
-			"text": "Ebu Hureyre'nin naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Oruç bir kalkandır. Oruçlu olan kimse oruca uygun olmayan işler yapmasın ve (aklı başında insana yakışmayan) cahilce işlere kalkışmasın! Eğer birisi kendisi ile kavga etmeye yeltenirse veya kendisine söverse 'ben oruçluyum' desin! Canımı elinde bulunduran Allah'a yemin ederim ki oruçlunun ağzının kokusu, Allah katında miskin kokusundan daha güzel kokar. (Allah Teala şöyle buyurmuştur:) Oruçlu kimse yemeyi ve içmeyi benim için terk etmiş, benim için şehvetinden isteklerinden vazgeçmiştir. Oruç tamamen benim içindir ve bu ibadetin karşılığını bizzat ben veririm. İyiliklere de on katı mükafat verilir\" Tekrar: 1904, 5",
+			"text": "Ebu Hureyre'nin naklettiğine göre Resulullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: \"Oruç bir kalkandır. Oruçlu olan kimse oruca uygun olmayan işler yapmasın ve (aklı başında insana yakışmayan) cahilce işlere kalkışmasın! Eğer birisi kendisi ile kavga etmeye yeltenirse veya kendisine söverse 'ben oruçluyum' desin! Canımı elinde bulunduran Allah'a yemin ederim ki oruçlunun ağzının kokusu, Allah katında miskin kokusundan daha güzel kokar. (Allah Teala şöyle buyurmuştur:) Oruçlu kimse yemeyi ve içmeyi benim için terk etmiş, benim için şehvetinden isteklerinden vazgeçmiştir. Oruç tamamen benim içindir ve bu ibadetin karşılığını bizzat ben veririm. İyiliklere de on katı mükafat verilir\" Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 30,
@@ -719,7 +727,7 @@
 		{
 			"hadithnumber": 1965,
 			"arabicnumber": 1965,
-			"text": "Ebu Hureyre r.a. şöyle dedi: Resulullah Sallallahu Aleyhi ve Sellem visal orucu tutmayı yasakladı. Bunun üzerine Müslümanlardan bir adam: \"Ey Allah'ın Resulü! Sen visal orucu tutuyorsun\" dedi. Nebi Sallallahu Aleyhi ve Sellem: \"Hanginiz benim gibi olabilir! Ben gecemi, Rabbim'in beni yedirip içirmesiyle geçiriyorum\" dedi. Sahabe visal orucunu bırakmaktan kaçınınca Nebi onlara bir gün visal orucu tutturdu, ertesi gün de tutturdu. Sonra (şevvalin) hilal(i) görüldü. Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Eğer hilal gecikseydi, size daha çok tutturacaktım\". Bunu onlar visal orucu tutmaktan vazgeçmedikleri için adeta ceza olarak söyledi. Tekrar: 1966, 6",
+			"text": "Ebu Hureyre r.a. şöyle dedi: Resulullah Sallallahu Aleyhi ve Sellem visal orucu tutmayı yasakladı. Bunun üzerine Müslümanlardan bir adam: \"Ey Allah'ın Resulü! Sen visal orucu tutuyorsun\" dedi. Nebi Sallallahu Aleyhi ve Sellem: \"Hanginiz benim gibi olabilir! Ben gecemi, Rabbim'in beni yedirip içirmesiyle geçiriyorum\" dedi. Sahabe visal orucunu bırakmaktan kaçınınca Nebi onlara bir gün visal orucu tutturdu, ertesi gün de tutturdu. Sonra (şevvalin) hilal(i) görüldü. Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Eğer hilal gecikseydi, size daha çok tutturacaktım\". Bunu onlar visal orucu tutmaktan vazgeçmedikleri için adeta ceza olarak söyledi. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 30,
@@ -889,7 +897,7 @@
 		{
 			"hadithnumber": 1982,
 			"arabicnumber": 1982,
-			"text": "Enes r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem Ümmü Süleym'in evine gitti. Ümmü Süleym, Hz. Nebi'e hurma ve yağ getirdi. Hz.Nebi: \"Yağınızı yağdanlığa, hurmanızı da kabına geri bırakın. Ben oruçluyum\" buyurdu. Daha sonra da evin bir köşesinde farz namazı dışında bir namaz kıldı, Ümmü Süleym ve ev halkı için dua etti. Ümmü Süleym şöyle dedi: Ey Allah'ın elçisi, benim özel bir isteğim var. Hz. Nebi: Nedir?\" diye sordu. Ümmü Süleym: \"Hizmetçin Enes (için dua etmen)\" dedi. Nebi Sallallahu Aleyhi ve Sellem dünya ve ahiret için hayırlı olan ne varsa benim için bunları zikrederek dua etti ve şöyle dedi: \"Allah'ım ona mal ve çocuklar ver. Onu bereketli kıl!\". (Enes şöyle dedi): \"Gerçekten ben ensarın malı en çok olanlarındanım. (EvlatIarıma gelince) Kızım Ümeyne bana, Haccac'ın Basra'ya gelişine kadar yüz yirmi küsür tane öz çocuğumun vefat ederek toprağa gömüldüğünü söyledi\". Tekrar: 6334, 6",
+			"text": "Enes r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem Ümmü Süleym'in evine gitti. Ümmü Süleym, Hz. Nebi'e hurma ve yağ getirdi. Hz.Nebi: \"Yağınızı yağdanlığa, hurmanızı da kabına geri bırakın. Ben oruçluyum\" buyurdu. Daha sonra da evin bir köşesinde farz namazı dışında bir namaz kıldı, Ümmü Süleym ve ev halkı için dua etti. Ümmü Süleym şöyle dedi: Ey Allah'ın elçisi, benim özel bir isteğim var. Hz. Nebi: Nedir?\" diye sordu. Ümmü Süleym: \"Hizmetçin Enes (için dua etmen)\" dedi. Nebi Sallallahu Aleyhi ve Sellem dünya ve ahiret için hayırlı olan ne varsa benim için bunları zikrederek dua etti ve şöyle dedi: \"Allah'ım ona mal ve çocuklar ver. Onu bereketli kıl!\". (Enes şöyle dedi): \"Gerçekten ben ensarın malı en çok olanlarındanım. (EvlatIarıma gelince) Kızım Ümeyne bana, Haccac'ın Basra'ya gelişine kadar yüz yirmi küsür tane öz çocuğumun vefat ederek toprağa gömüldüğünü söyledi\". Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 30,
@@ -1089,7 +1097,7 @@
 		{
 			"hadithnumber": 2004,
 			"arabicnumber": 2004,
-			"text": "İbn Abbas r.a. şöyle dedi: Nebi Sallallahu Aleyhi ve Sellem Medine'ye gelince Yahudilerin aşura günü oruç tuttuğunu gördü. Onlara: \"Bu nedir?\" diye sordu. Yahudiler: \"Bu güzel bir gündür. Allah İsrailoğullarını düşmanlarından bu gün kurtardı, bu sebeple Musa bugün oruç tuttu\" dediler. Bunun üzerine Hz. Nebi Sallallahu Aleyhi ve Sellem: \"Ben Musa'ya (Musa'nın yaptığını yapmaya) sizden daha layığım\" dedi. O gün oruç tuttu ve aşura gününde oruç tutulmasını emretti. Tekrar: 3397, 3",
+			"text": "İbn Abbas r.a. şöyle dedi: Nebi Sallallahu Aleyhi ve Sellem Medine'ye gelince Yahudilerin aşura günü oruç tuttuğunu gördü. Onlara: \"Bu nedir?\" diye sordu. Yahudiler: \"Bu güzel bir gündür. Allah İsrailoğullarını düşmanlarından bu gün kurtardı, bu sebeple Musa bugün oruç tuttu\" dediler. Bunun üzerine Hz. Nebi Sallallahu Aleyhi ve Sellem: \"Ben Musa'ya (Musa'nın yaptığını yapmaya) sizden daha layığım\" dedi. O gün oruç tuttu ve aşura gününde oruç tutulmasını emretti. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 30,

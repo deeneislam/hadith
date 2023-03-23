@@ -3,6 +3,14 @@
 		"name": "Sunan an Nasai",
 		"section": {
 			"40": "The Book of al-'Aqiqah"
+		},
+		"section_detail": {
+			"40": {
+				"hadithnumber_first": 4212,
+				"hadithnumber_last": 4221,
+				"arabicnumber_first": 4212,
+				"arabicnumber_last": 4221
+			}
 		}
 	},
 	"hadiths": [

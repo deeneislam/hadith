@@ -3,6 +3,14 @@
 		"name": "Jami At Tirmidhi",
 		"section": {
 			"12": "The Book on Suckling"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 1146,
+				"hadithnumber_last": 1174,
+				"arabicnumber_first": 1146,
+				"arabicnumber_last": 1174
+			}
 		}
 	},
 	"hadiths": [

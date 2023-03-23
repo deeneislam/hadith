@@ -3,6 +3,14 @@
 		"name": "Muwatta Malik",
 		"section": {
 			"32": "Qirad"
+		},
+		"section_detail": {
+			"32": {
+				"hadithnumber_first": 1386,
+				"hadithnumber_last": 1387,
+				"arabicnumber_first": 1386,
+				"arabicnumber_last": 1387
+			}
 		}
 	},
 	"hadiths": [

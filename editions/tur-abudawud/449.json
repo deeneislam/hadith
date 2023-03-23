@@ -3,13 +3,21 @@
 		"name": "Sunan Abu Dawud",
 		"section": {
 			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
 		}
 	},
 	"hadiths": [
 		{
 			"hadithnumber": 449,
 			"arabicnumber": 449,
-			"text": "Enes b. Malik (r.a.), Resulullah (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu haber vermiştir: \"İnsanlar, mescidleriyle öğününceye kadar kıyamet kopmaz.\" Diğer tahric: Nesai, mesacid; İbn Mace, mesacid; Darimi, salat; Ahmed b. Hanbel, III 134, 145",
+			"text": "Enes b. Malik (r.a.), Resulullah (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu haber vermiştir: \"İnsanlar, mescidleriyle öğününceye kadar kıyamet kopmaz.\" Diğer tahric: Nesai, mesacid; İbn Mace, mesacid; Darimi, salat; Ahmed b. Hanbel, III",
 			"grades": [
 				{
 					"name": "Al-Albani",

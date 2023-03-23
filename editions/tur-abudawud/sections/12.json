@@ -3,6 +3,14 @@
 		"name": "Sunan Abu Dawud",
 		"section": {
 			"12": "Marriage (Kitab Al-Nikah)"
+		},
+		"section_detail": {
+			"12": {
+				"hadithnumber_first": 2046,
+				"hadithnumber_last": 2174,
+				"arabicnumber_first": 2046,
+				"arabicnumber_last": 2174
+			}
 		}
 	},
 	"hadiths": [
@@ -452,7 +460,7 @@
 		{
 			"hadithnumber": 2063,
 			"arabicnumber": 2063,
-			"text": "Aişe (r.anha)'dan; demiştir ki: Resulullah sallallahu aleyhi ve sellem (şöyle) buyurdu: ''Bir defa ve iki defa süt emmek (evlenmeyi) haram kılmaz.\" Diğer tahric: Müslim, reda'; Tirmizî, reda; Nesaî, nikah; İbn Mace, nikah; Darimî, nikah; Ahmed b. Hanbel, IV, 4-6, 31, 96",
+			"text": "Aişe (r.anha)'dan; demiştir ki: Resulullah sallallahu aleyhi ve sellem (şöyle) buyurdu: ''Bir defa ve iki defa süt emmek (evlenmeyi) haram kılmaz.\" Diğer tahric: Müslim, reda'; Tirmizî, reda; Nesaî, nikah; İbn Mace, nikah; Darimî, nikah; Ahmed b. Hanbel, IV",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -1333,7 +1341,7 @@
 		{
 			"hadithnumber": 2098,
 			"arabicnumber": 2098,
-			"text": "İbn Abbas (r.a.)'dan; demiştir ki: \"Rasulullah (Sallallahu aleyhi ve Sellem) şöyle) buyurdu: \"Dul, kendisine velisinden daha maliktir. Bekar’ın da kendisi hakkında izni alınır. Onun izni susmasıdır.\" Diğer tahric: Müslim, nikah; Tirmizî, nikah; İbn Mace, nikah (1870); Darimi, nikah; Muvatta, nikah; Ahmed b. Hanbel, I, 219, 242, 274",
+			"text": "İbn Abbas (r.a.)'dan; demiştir ki: \"Rasulullah (Sallallahu aleyhi ve Sellem) şöyle) buyurdu: \"Dul, kendisine velisinden daha maliktir. Bekar’ın da kendisi hakkında izni alınır. Onun izni susmasıdır.\" Diğer tahric: Müslim, nikah; Tirmizî, nikah; İbn Mace, nikah (1870); Darimi, nikah; Muvatta, nikah; Ahmed b. Hanbel, I",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -1618,7 +1626,7 @@
 		{
 			"hadithnumber": 2109,
 			"arabicnumber": 2109,
-			"text": "Enes (r.a.)'den rivayet olunduğuna göre; Resûlullah (Sallallahu aleyhi ve Sellem) Abdurrahman b. Avf (r.a.)'ın üzerinde za'ferân izi görünce; “Bu nedir?\" diye sordu. O da: Ya Rasulallah bir kadınla evlendim, cevâbını verdi. (Resûl-i Ekrem'); \"Onun mehri ne kadardır?\" diye sorunca; \"Bir nevat ağırlığında altındır\" diye cevap verdi. (Resûl-i Ekrem'de) \"Bir koyun ile de olsa düğün yemeği ver\" buyurdu. Diğer tahric: Buharî, nikah, Müslim, nikah, Tirmizî, nikah; Nesai, nikah; İbn Mace, nikah (1907); Darimî, nikah; Ahmed b. Hanbei, III, 227",
+			"text": "Enes (r.a.)'den rivayet olunduğuna göre; Resûlullah (Sallallahu aleyhi ve Sellem) Abdurrahman b. Avf (r.a.)'ın üzerinde za'ferân izi görünce; “Bu nedir?\" diye sordu. O da: Ya Rasulallah bir kadınla evlendim, cevâbını verdi. (Resûl-i Ekrem'); \"Onun mehri ne kadardır?\" diye sorunca; \"Bir nevat ağırlığında altındır\" diye cevap verdi. (Resûl-i Ekrem'de) \"Bir koyun ile de olsa düğün yemeği ver\" buyurdu. Diğer tahric: Buharî, nikah, Müslim, nikah, Tirmizî, nikah; Nesai, nikah; İbn Mace, nikah (1907); Darimî, nikah; Ahmed b. Hanbei, III",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -2946,7 +2954,7 @@
 		{
 			"hadithnumber": 2161,
 			"arabicnumber": 2161,
-			"text": "İbn Abbas (r.a.)'dan; demiştir ki: Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Eğer biriniz karısına yaklaşmak istediği zaman, \"Allah'ın ismiyle! Ey Allah'ım! Bizden ve bize vereceğin (çocuk)tan şeytanı uzak tut\" der de sonra bu birleşmeden dolayı kendilerine bir çocuk verilecek olursa, şeytan o çocuğa hiçbir zaman zarar veremez.” Diğer tahric: Buhari, Bed'ul-halk; vudu'; nikah; da'vat; tevhid; Müslim, talak; Tirmizi, nikah; İbn Mace, nikah (1919); Darimi, nikah; Ahmed b. Hanbel, I, 217, 220",
+			"text": "İbn Abbas (r.a.)'dan; demiştir ki: Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: \"Eğer biriniz karısına yaklaşmak istediği zaman, \"Allah'ın ismiyle! Ey Allah'ım! Bizden ve bize vereceğin (çocuk)tan şeytanı uzak tut\" der de sonra bu birleşmeden dolayı kendilerine bir çocuk verilecek olursa, şeytan o çocuğa hiçbir zaman zarar veremez.” Diğer tahric: Buhari, Bed'ul-halk; vudu'; nikah; da'vat; tevhid; Müslim, talak; Tirmizi, nikah; İbn Mace, nikah (1919); Darimi, nikah; Ahmed b. Hanbel, I",
 			"grades": [
 				{
 					"name": "Al-Albani",

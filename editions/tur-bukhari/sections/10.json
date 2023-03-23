@@ -3,13 +3,21 @@
 		"name": "Sahih al Bukhari",
 		"section": {
 			"10": "Call to Prayers (Adhaan)"
+		},
+		"section_detail": {
+			"10": {
+				"hadithnumber_first": 603,
+				"hadithnumber_last": 875,
+				"arabicnumber_first": 603,
+				"arabicnumber_last": 875
+			}
 		}
 	},
 	"hadiths": [
 		{
 			"hadithnumber": 603,
 			"arabicnumber": 603,
-			"text": "Enes (r.a.)'den şöyle nakledilmiştir: İnsanlara namaz vaktinin girdiğini duyurmak için ateş yakılmasını veya çan çalınmasını önerdiler. Bunların Yahudi ve Hıristiyan âdeti olduğu söylenerek bu önerilen reddedildi. Nihayet Bilal, ezanı çifter çifter, kameti de teker teker okumakla emrolundu. Tekrar: 605,",
+			"text": "Enes (r.a.)'den şöyle nakledilmiştir: İnsanlara namaz vaktinin girdiğini duyurmak için ateş yakılmasını veya çan çalınmasını önerdiler. Bunların Yahudi ve Hıristiyan âdeti olduğu söylenerek bu önerilen reddedildi. Nihayet Bilal, ezanı çifter çifter, kameti de teker teker okumakla emrolundu. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 10,
@@ -229,7 +237,7 @@
 		{
 			"hadithnumber": 626,
 			"arabicnumber": 626,
-			"text": "Aîşe (r.anha)'dan şöyle nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem müezzin sabah ezanını bitirince fecir aydınlandıktan sonra farz'dan evvel kalkar, kısa olarak iki rekat namaz kılardı. Sonra müezzin kamet okumak için gelinceye kadar sağ tarafının üstüne yatardı. Tekrar: 994, 1123, 1",
+			"text": "Aîşe (r.anha)'dan şöyle nakledilmiştir: \"Nebi Sallallahu Aleyhi ve Sellem müezzin sabah ezanını bitirince fecir aydınlandıktan sonra farz'dan evvel kalkar, kısa olarak iki rekat namaz kılardı. Sonra müezzin kamet okumak için gelinceye kadar sağ tarafının üstüne yatardı. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 10,
@@ -249,7 +257,7 @@
 		{
 			"hadithnumber": 628,
 			"arabicnumber": 628,
-			"text": "Malik İbn-i Huveyris'ten şöyle nakledilmiştir: Kabilemden bir grup insanla birlikte Nebi Sallallahu Aleyhi ve Sellem'in yanına geldim.Yirmi gün yanında kaldım. Çok merhametli ve yumuşak kalpli biriydi. Ailelerimize olan özlemimizi fark edince bize: 'Geri dönün, onların yanında olun, onlara dinlerini öğretin ve namaz kılın. Namaz vakti girince biriniz ezan okusun, en büyüğünüz de namaz kıldırsın' buyur­du. Tekrar: 630, 631, 658, 685, 819, 2",
+			"text": "Malik İbn-i Huveyris'ten şöyle nakledilmiştir: Kabilemden bir grup insanla birlikte Nebi Sallallahu Aleyhi ve Sellem'in yanına geldim.Yirmi gün yanında kaldım. Çok merhametli ve yumuşak kalpli biriydi. Ailelerimize olan özlemimizi fark edince bize: 'Geri dönün, onların yanında olun, onlara dinlerini öğretin ve namaz kılın. Namaz vakti girince biriniz ezan okusun, en büyüğünüz de namaz kıldırsın' buyur­du. Tekrar: 630, 631, 6",
 			"grades": [],
 			"reference": {
 				"book": 10,
@@ -539,7 +547,7 @@
 		{
 			"hadithnumber": 660,
 			"arabicnumber": 660,
-			"text": "Ebu Hureyre (r.a.) Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: Şu yedi kişiyi Allah Teala, kendi gölgesinden başka bir gölgenin olmadığı günde gölgelendirecektir: Adil yönetici. Rabbine ibadetle yetişen genç. Kalbi camilere bağlı olan adam. Allah için birbirlerini seven iki adam. Bir araya gelince de Allah için bir araya gelir, ayrılınca da Allah İçin ayrılırlar. Makam ve güzellik sahibi bir kadın'ın kendisini zinaya davet etmesi durumunda 'Ben Allah'tan korkarım' diye cevap veren kimse. Sağ elinin infak ettiğini sol eli bilmeyecek kadar gizli hayır ve hasenatta bulunan kişi. Yalnız başına iken Allah'ı andığı zaman gözleri dolan kimse. Tekrar: 1",
+			"text": "Ebu Hureyre (r.a.) Nebi Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: Şu yedi kişiyi Allah Teala, kendi gölgesinden başka bir gölgenin olmadığı günde gölgelendirecektir: Adil yönetici. Rabbine ibadetle yetişen genç. Kalbi camilere bağlı olan adam. Allah için birbirlerini seven iki adam. Bir araya gelince de Allah için bir araya gelir, ayrılınca da Allah İçin ayrılırlar. Makam ve güzellik sahibi bir kadın'ın kendisini zinaya davet etmesi durumunda 'Ben Allah'tan korkarım' diye cevap veren kimse. Sağ elinin infak ettiğini sol eli bilmeyecek kadar gizli hayır ve hasenatta bulunan kişi. Yalnız başına iken Allah'ı andığı zaman gözleri dolan kimse. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 10,
@@ -1229,7 +1237,7 @@
 		{
 			"hadithnumber": 729,
 			"arabicnumber": 729,
-			"text": "Hz. Aişe şöyle demiştir: \"Resûlullah Sallallahu Aleyhi ve Sellem bir gece odalarından birinde namaz kılıyordu. Odanın duvarı biraz alçak olduğu için insanlar O'nu görebiliyordu. Bunun üzerine ashabtan bir kısmı O'na uyarak namaz kılmaya başladı. Sabah olunca bu yaptıklarını Resûlullah Sallallahu Aleyhi ve Sellem'e arz ettiler. Resûl-i Ekrem (Sallallahu aleyhi ve Sellem) ikinci gece de kalkıp namaz kılmaya başladı. Bunu görenler yine O'na uyarak namaz kıldılar. Bu durum iki veya üç Qece devam etti. Fakat bundan sonra Resûlullah Sallallahu Aleyhi ve Sellem bir daha kalkıp namaz kılmadı, odasında kaldı. Sabah olunca ashâb-ı kiram bunun sebebini öğrenmek istediler. Nebiyy-i Ekrem Efendimiz (Sallallahu aleyhi ve Sellem) şöyle buyurdu: Gece namazının size farz kılınmasından korktum. Tekrar: 730, 924, 1129, 2",
+			"text": "Hz. Aişe şöyle demiştir: \"Resûlullah Sallallahu Aleyhi ve Sellem bir gece odalarından birinde namaz kılıyordu. Odanın duvarı biraz alçak olduğu için insanlar O'nu görebiliyordu. Bunun üzerine ashabtan bir kısmı O'na uyarak namaz kılmaya başladı. Sabah olunca bu yaptıklarını Resûlullah Sallallahu Aleyhi ve Sellem'e arz ettiler. Resûl-i Ekrem (Sallallahu aleyhi ve Sellem) ikinci gece de kalkıp namaz kılmaya başladı. Bunu görenler yine O'na uyarak namaz kıldılar. Bu durum iki veya üç Qece devam etti. Fakat bundan sonra Resûlullah Sallallahu Aleyhi ve Sellem bir daha kalkıp namaz kılmadı, odasında kaldı. Sabah olunca ashâb-ı kiram bunun sebebini öğrenmek istediler. Nebiyy-i Ekrem Efendimiz (Sallallahu aleyhi ve Sellem) şöyle buyurdu: Gece namazının size farz kılınmasından korktum. Tekrar: 73",
 			"grades": [],
 			"reference": {
 				"book": 10,
@@ -1889,7 +1897,7 @@
 		{
 			"hadithnumber": 794,
 			"arabicnumber": 794,
-			"text": "Aişe (radiyallahu anha)'nın şöyle dediği nakledilmiştir: \"Resûlullah Sallallahu Aleyhi ve Sellem. rükûlarında ve secdelerinde سبحانك اللهم ربنا وبحمدك، اللهم اغفر لي 'Sübhaneke Allahumme Rabbena ve bi hamdike Allahummağfirli’ diye dua ederdi. Tekrar: 817, 4",
+			"text": "Aişe (radiyallahu anha)'nın şöyle dediği nakledilmiştir: \"Resûlullah Sallallahu Aleyhi ve Sellem. rükûlarında ve secdelerinde سبحانك اللهم ربنا وبحمدك، اللهم اغفر لي 'Sübhaneke Allahumme Rabbena ve bi hamdike Allahummağfirli’ diye dua ederdi. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 10,
@@ -2039,7 +2047,7 @@
 		{
 			"hadithnumber": 809,
 			"arabicnumber": 809,
-			"text": "İbn Abbas (r.a.)'in şöyle dediği nakledilmiştir; \"Resûlullah Sallallahu Aleyhi ve Sellem'e yedi azası üzerinde secde etmesi ve namazda iken elbisesiyle, saçıyla - başıyla uğraşmaması emredildi. Bu azalar şunlardır: Alın, iki el, iki diz ve iki ayak. Tekrar: 810",
+			"text": "İbn Abbas (r.a.)'in şöyle dediği nakledilmiştir; \"Resûlullah Sallallahu Aleyhi ve Sellem'e yedi azası üzerinde secde etmesi ve namazda iken elbisesiyle, saçıyla - başıyla uğraşmaması emredildi. Bu azalar şunlardır: Alın, iki el, iki diz ve iki ayak. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 10,

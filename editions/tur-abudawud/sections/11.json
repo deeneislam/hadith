@@ -3,6 +3,14 @@
 		"name": "Sunan Abu Dawud",
 		"section": {
 			"11": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)"
+		},
+		"section_detail": {
+			"11": {
+				"hadithnumber_first": 1721,
+				"hadithnumber_last": 2045,
+				"arabicnumber_first": 1721,
+				"arabicnumber_last": 2045
+			}
 		}
 	},
 	"hadiths": [
@@ -2000,7 +2008,7 @@
 		{
 			"hadithnumber": 1798,
 			"arabicnumber": 1798,
-			"text": "Ebû Vâil'den; demiştir ki: es-Subeyy b. Mâ'bed şöyle dedi: Ben (Hac ile umrenin) ikisine birden niyet et(miş)tim. Ömer bana; \"Nebiinin sünnetine uymuşsun\" dedi. Şunlar da rivayet etti: Nesâî, menâsik; İbn Mâce, menâsik; Ahmed b. Hanbel, I, 14,",
+			"text": "Ebû Vâil'den; demiştir ki: es-Subeyy b. Mâ'bed şöyle dedi: Ben (Hac ile umrenin) ikisine birden niyet et(miş)tim. Ömer bana; \"Nebiinin sünnetine uymuşsun\" dedi. Şunlar da rivayet etti: Nesâî, menâsik; İbn Mâce, menâsik; Ahmed b. Hanbel, I",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -2959,7 +2967,7 @@
 		{
 			"hadithnumber": 1835,
 			"arabicnumber": 1835,
-			"text": "İbn Abbas'dan rivayet edildiğine göre, Nebi Sallallahu Aleyhi ve Sellem ihramlı iken kan aldırmıştır. Diğer tahric: Buharî, cezau's-sayd, savm; Müslim, hac; Tirmm, hac, savmöO; Nesaî, hac; İbn Mace, siyanı, menasik; Darİmî, menasik; Muvatta', hac; Ahmed b. Hanbel, I, 215, 221, 222, 236, 244, 248, 249, 250, 258, 260, 280, 283, 286, 292, 299, 305, 306, 315, 333, 344, 346, 351, 372, 374; III, 164, 267,",
+			"text": "İbn Abbas'dan rivayet edildiğine göre, Nebi Sallallahu Aleyhi ve Sellem ihramlı iken kan aldırmıştır. Diğer tahric: Buharî, cezau's-sayd, savm; Müslim, hac; Tirmm, hac, savmöO; Nesaî, hac; İbn Mace, siyanı, menasik; Darİmî, menasik; Muvatta', hac; Ahmed b. Hanbel, I, 215, 221, 222, 236, 244, 248, 249, 250, 258, 260, 280, 283, 286, 292, 299, 305, 306, 315, 333, 344, 346, 351, 372, 374; III",
 			"grades": [
 				{
 					"name": "Al-Albani",
@@ -3113,7 +3121,7 @@
 		{
 			"hadithnumber": 1841,
 			"arabicnumber": 1841,
-			"text": "Abdü'd-dâr oğullarının kardeşi Nübeyh b. Vehb'den rivayet olunduğuna göre, Ömer b. Ubeydullah, Ebân b. Osman b. Affân'a -ki o gün Ebân hac emriydi ve her ikisi de ihramlı idi- (şu soruyu) sormak üzere ( bir adam) gönderdi: \"Ben Talha b. Ömer'i Şeybe b. Cübeyr'in kızıyla evlendirmek istiyorum, senin de nikahta hazır bulunmanı arzu ediyorum (ne dersin)?\" Ebân bu isteği uygunsuz buldu ve; Ben babam Osman b. Affan'ı; Resûlullah (S.A.V.) ihramlı bir kimse ne evlenebilir ne de evlendirebilir, \" derken işittim,\" cevabını verdi. Diğer tahric: Müslim, nikah; Tirmizî, hac; Nesai, menasik, nikah; îbn Mace, nikah; Darimî, nikah; Muvatta', hac; Ahraed b. Hanbel, I, 57,",
+			"text": "Abdü'd-dâr oğullarının kardeşi Nübeyh b. Vehb'den rivayet olunduğuna göre, Ömer b. Ubeydullah, Ebân b. Osman b. Affân'a -ki o gün Ebân hac emriydi ve her ikisi de ihramlı idi- (şu soruyu) sormak üzere ( bir adam) gönderdi: \"Ben Talha b. Ömer'i Şeybe b. Cübeyr'in kızıyla evlendirmek istiyorum, senin de nikahta hazır bulunmanı arzu ediyorum (ne dersin)?\" Ebân bu isteği uygunsuz buldu ve; Ben babam Osman b. Affan'ı; Resûlullah (S.A.V.) ihramlı bir kimse ne evlenebilir ne de evlendirebilir, \" derken işittim,\" cevabını verdi. Diğer tahric: Müslim, nikah; Tirmizî, hac; Nesai, menasik, nikah; îbn Mace, nikah; Darimî, nikah; Muvatta', hac; Ahraed b. Hanbel, I",
 			"grades": [
 				{
 					"name": "Al-Albani",

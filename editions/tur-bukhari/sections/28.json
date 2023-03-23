@@ -3,13 +3,21 @@
 		"name": "Sahih al Bukhari",
 		"section": {
 			"28": "Penalty of Hunting while on Pilgrimage"
+		},
+		"section_detail": {
+			"28": {
+				"hadithnumber_first": 1821,
+				"hadithnumber_last": 1866,
+				"arabicnumber_first": 1821,
+				"arabicnumber_last": 1866
+			}
 		}
 	},
 	"hadiths": [
 		{
 			"hadithnumber": 1821,
 			"arabicnumber": 1821,
-			"text": "Ebu Katade'nin oğlu Abdullah şöyle demiştir: Hudeybiye antlaşmasının yapıldığı yıl babam da gitti. Arkadaşları ihrama girdiği halde o ihrama girmedi. Nebi Sallallahu Aleyhi ve Sellem'e kendisi ile savaşmak isteyen bir ordunun bulunduğu haber verildi. Nebi Sallallahu Aleyhi ve Sellem de bunun üzerine hareket etti. (Ebu Katade dedi ki): Ben, onun ashabının yanına vardığım zaman onların gülüştüğünü gördüm. Baktım, yanımda vahşî bir eşek sürüsü var. Birine hamle yaptım, ok fırlattım, hareketsiz hale getirdim. Onlardan yardım istedim. Onlar yardım etmekten kaçındılar. Ben onu öldürdüm, etinden yedik. Düşmanın Hz. Peygamber ile aramıza gireceğinden korktuk. Hz. Peygamber'i aramaya koyuldum. Atımı bazen koşturuyor bazen yürütüyordum. Gece yarısı Benî Gıfar kabilesinden bir adama rastladım. Ona: \"Nebi Sallallahu Aleyhi ve Sellem'den nerede ayrıldın?\" diye sordum. Adam şöyle dedi: \"Ta'hin'de ayrıldım. Sukya denilen yerde öğle uykusu uyumak üzereydi\" dedi. Ben: \"Ey Allah'ın Resulü! Ashabın sana selam söylüyor. Onlar düşmanın seninle onların arasına girmesinden korktular. Onları bekle\" dedim. Daha sonra Şöyle dedim: \"Ey Allah'ın Resulü vahşî bir eşek avladım. Yanımda ondan kalan bir parça var\". Allah'ın Resulü, ihramlı olan ashabına \"yiyiniz\" buyurdu. Tekrar: 1822, 1823, 1824, 2570, 2854, 2914, 4149, 5406, 5407, 5",
+			"text": "Ebu Katade'nin oğlu Abdullah şöyle demiştir: Hudeybiye antlaşmasının yapıldığı yıl babam da gitti. Arkadaşları ihrama girdiği halde o ihrama girmedi. Nebi Sallallahu Aleyhi ve Sellem'e kendisi ile savaşmak isteyen bir ordunun bulunduğu haber verildi. Nebi Sallallahu Aleyhi ve Sellem de bunun üzerine hareket etti. (Ebu Katade dedi ki): Ben, onun ashabının yanına vardığım zaman onların gülüştüğünü gördüm. Baktım, yanımda vahşî bir eşek sürüsü var. Birine hamle yaptım, ok fırlattım, hareketsiz hale getirdim. Onlardan yardım istedim. Onlar yardım etmekten kaçındılar. Ben onu öldürdüm, etinden yedik. Düşmanın Hz. Peygamber ile aramıza gireceğinden korktuk. Hz. Peygamber'i aramaya koyuldum. Atımı bazen koşturuyor bazen yürütüyordum. Gece yarısı Benî Gıfar kabilesinden bir adama rastladım. Ona: \"Nebi Sallallahu Aleyhi ve Sellem'den nerede ayrıldın?\" diye sordum. Adam şöyle dedi: \"Ta'hin'de ayrıldım. Sukya denilen yerde öğle uykusu uyumak üzereydi\" dedi. Ben: \"Ey Allah'ın Resulü! Ashabın sana selam söylüyor. Onlar düşmanın seninle onların arasına girmesinden korktular. Onları bekle\" dedim. Daha sonra Şöyle dedim: \"Ey Allah'ın Resulü vahşî bir eşek avladım. Yanımda ondan kalan bir parça var\". Allah'ın Resulü, ihramlı olan ashabına \"yiyiniz\" buyurdu. Tekrar: 1822, 1823, 1824, 2570, 2854, 2914, 4149",
 			"grades": [],
 			"reference": {
 				"book": 28,
@@ -99,7 +107,7 @@
 		{
 			"hadithnumber": 1830,
 			"arabicnumber": 1830,
-			"text": "Abdullah r.a. şöyle dedi: Biz Mina'da bir mağarada Nebi Sallallahu Aleyhi ve Sellem ile birlikteyken kendisine \"Mürselat\" suresi indirildi. Nebi Sallallahu Aleyhi ve Sellem okuyor, ben de henüz okuması dolayısıyla ağzı kurumadan onun okuduklarını ezberliyordum. Birden üzerimize bir yılan sıçradı. Nebi Sallallahu Aleyhi ve Sellem: \"Onu öldürün\" buyurdu. Biz onu öldürmek için hemen davrandık ki yılan kaçtı. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem: \"Siz onun şerrinden korunduğunuz gibi o da sizin şerrinizden korundu\" buyurdu. Tekrar: 3317, 4",
+			"text": "Abdullah r.a. şöyle dedi: Biz Mina'da bir mağarada Nebi Sallallahu Aleyhi ve Sellem ile birlikteyken kendisine \"Mürselat\" suresi indirildi. Nebi Sallallahu Aleyhi ve Sellem okuyor, ben de henüz okuması dolayısıyla ağzı kurumadan onun okuduklarını ezberliyordum. Birden üzerimize bir yılan sıçradı. Nebi Sallallahu Aleyhi ve Sellem: \"Onu öldürün\" buyurdu. Biz onu öldürmek için hemen davrandık ki yılan kaçtı. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem: \"Siz onun şerrinden korunduğunuz gibi o da sizin şerrinizden korundu\" buyurdu. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 28,
@@ -149,7 +157,7 @@
 		{
 			"hadithnumber": 1835,
 			"arabicnumber": 1835,
-			"text": "İbn Abbas r.a. şöyle dedi: Resulullah Sallallahu Aleyhi ve Sellem ihramlı iken kan aldırdı. Tekrar: 1938, 1939, 2103, 2278, 2279, 5691, 5694, 5695, 5",
+			"text": "İbn Abbas r.a. şöyle dedi: Resulullah Sallallahu Aleyhi ve Sellem ihramlı iken kan aldırdı. Tekrar: 1938, 1939, 2103, 2278, 2279, 5691",
 			"grades": [],
 			"reference": {
 				"book": 28,
@@ -169,7 +177,7 @@
 		{
 			"hadithnumber": 1837,
 			"arabicnumber": 1837,
-			"text": "İbn Abbas r.a. şöyle söyledi: Nebi Sallallahu Aleyhi ve Sellem Meymune ile ihramlı iken evlendi. Tekrar: 4",
+			"text": "İbn Abbas r.a. şöyle söyledi: Nebi Sallallahu Aleyhi ve Sellem Meymune ile ihramlı iken evlendi. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 28,
@@ -289,7 +297,7 @@
 		{
 			"hadithnumber": 1849,
 			"arabicnumber": 1849,
-			"text": "Biri bir başkasının elini ısırdı. Adam elini çekti, ısıran adamın dişi kırıldı. Nebi Sallallahu Aleyhi ve Sellem diyete hükmetmedi. Tekrar: 2265, 2",
+			"text": "Biri bir başkasının elini ısırdı. Adam elini çekti, ısıran adamın dişi kırıldı. Nebi Sallallahu Aleyhi ve Sellem diyete hükmetmedi. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 28,
@@ -419,7 +427,7 @@
 		{
 			"hadithnumber": 1862,
 			"arabicnumber": 1862,
-			"text": "İbn Abbas (r.a.) şöyle dedİ: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Kadın ancak yanında mahremi ile yolculuk yapabilir, (Yabancı) bir erkek kadın'ın yanına ancak yanında mahremi varken girebilir.\" Bir adam: \"Ey Allah'ın Resulü! Ben falanca orduya katılarak savaşa çıkmak istiyorum. Eşim ise hac yapmak istiyor\" dedi. Nebi Sallallahu Aleyhi ve Sellem adama: \"Sen de onunla birlikte git\" buyurdu. Tekrar: 3",
+			"text": "İbn Abbas (r.a.) şöyle dedİ: Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: \"Kadın ancak yanında mahremi ile yolculuk yapabilir, (Yabancı) bir erkek kadın'ın yanına ancak yanında mahremi varken girebilir.\" Bir adam: \"Ey Allah'ın Resulü! Ben falanca orduya katılarak savaşa çıkmak istiyorum. Eşim ise hac yapmak istiyor\" dedi. Nebi Sallallahu Aleyhi ve Sellem adama: \"Sen de onunla birlikte git\" buyurdu. Tekrar:",
 			"grades": [],
 			"reference": {
 				"book": 28,

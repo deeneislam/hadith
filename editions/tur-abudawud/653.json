@@ -3,13 +3,21 @@
 		"name": "Sunan Abu Dawud",
 		"section": {
 			"2": "Prayer (Kitab Al-Salat)"
+		},
+		"section_detail": {
+			"2": {
+				"hadithnumber_first": 391,
+				"hadithnumber_last": 1160,
+				"arabicnumber_first": 391,
+				"arabicnumber_last": 1160
+			}
 		}
 	},
 	"hadiths": [
 		{
 			"hadithnumber": 653,
 			"arabicnumber": 653,
-			"text": "Amr b. Şuayb'in babasından rivayet ettiğine göre dedesi (şöyle) demiştir: \"Ben Nebi (Sallallahu aleyhi ve Sellem)'i ayakkabılı da ayakkabısız da namaz kılarken gördüm.\" Diğer tahric: İbn Mace, ikame; Nesaî, sehv; Ahmed b. Hanbel, II, 174, 178, 179, 190",
+			"text": "Amr b. Şuayb'in babasından rivayet ettiğine göre dedesi (şöyle) demiştir: \"Ben Nebi (Sallallahu aleyhi ve Sellem)'i ayakkabılı da ayakkabısız da namaz kılarken gördüm.\" Diğer tahric: İbn Mace, ikame; Nesaî, sehv; Ahmed b. Hanbel, II, 174",
 			"grades": [
 				{
 					"name": "Al-Albani",

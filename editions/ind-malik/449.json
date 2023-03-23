@@ -3,6 +3,14 @@
 		"name": "Muwatta Malik",
 		"section": {
 			"13": "Asking for Rain"
+		},
+		"section_detail": {
+			"13": {
+				"hadithnumber_first": 449,
+				"hadithnumber_last": 454,
+				"arabicnumber_first": 449,
+				"arabicnumber_last": 454
+			}
 		}
 	},
 	"hadiths": [
