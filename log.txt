@@ -2129,3 +2129,81 @@ Generating Edition
  Generated edition urd-ibnmajah
 
 editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.8.1/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for ben-abudawud.txt
+
+ deletion completed for ben-abudawud
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-abudawud
+
+Starting to create files for ben-bukhari.txt
+
+ deletion completed for ben-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-bukhari
+
+Starting to create files for ben-ibnmajah.txt
+
+ deletion completed for ben-ibnmajah
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-ibnmajah
+
+Starting to create files for ben-malik.txt
+
+ deletion completed for ben-malik
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-malik
+
+Starting to create files for ben-muslim.txt
+
+ deletion completed for ben-muslim
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-muslim
+
+Starting to create files for ben-nasai.txt
+
+ deletion completed for ben-nasai
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-nasai
+
+Starting to create files for ben-tirmidhi.txt
+
+ deletion completed for ben-tirmidhi
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition ben-tirmidhi
+
+editions.json and editions.min.json generated
