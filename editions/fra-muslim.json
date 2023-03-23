@@ -88,19 +88,19 @@
 			"4": {
 				"hadithnumber_first": 837,
 				"hadithnumber_last": 1160,
-				"arabicnumber_first": 274.12,
+				"arabicnumber_first": 377,
 				"arabicnumber_last": 519.02
 			},
 			"5": {
 				"hadithnumber_first": 1161,
 				"hadithnumber_last": 1569,
-				"arabicnumber_first": 33.03,
+				"arabicnumber_first": 520.01,
 				"arabicnumber_last": 684.04
 			},
 			"6": {
 				"hadithnumber_first": 1570,
 				"hadithnumber_last": 1950,
-				"arabicnumber_first": 336.04,
+				"arabicnumber_first": 685.01,
 				"arabicnumber_last": 843.02
 			},
 			"7": {
@@ -136,13 +136,13 @@
 			"12": {
 				"hadithnumber_first": 2263,
 				"hadithnumber_last": 2494,
-				"arabicnumber_first": 94.03,
+				"arabicnumber_first": 979.01,
 				"arabicnumber_last": 1078.02
 			},
 			"13": {
 				"hadithnumber_first": 2495,
 				"hadithnumber_last": 2779,
-				"arabicnumber_first": 762.04,
+				"arabicnumber_first": 1079.01,
 				"arabicnumber_last": 1170
 			},
 			"14": {
@@ -154,25 +154,25 @@
 			"15": {
 				"hadithnumber_first": 2791,
 				"hadithnumber_last": 3397,
-				"arabicnumber_first": 703.05,
+				"arabicnumber_first": 1177.01,
 				"arabicnumber_last": 1399.09
 			},
 			"16": {
 				"hadithnumber_first": 388,
 				"hadithnumber_last": 3567,
-				"arabicnumber_first": 154.02,
+				"arabicnumber_first": 1400.01,
 				"arabicnumber_last": 1443
 			},
 			"17": {
 				"hadithnumber_first": 3568,
 				"hadithnumber_last": 3651,
-				"arabicnumber_first": 715.04,
+				"arabicnumber_first": 1444.01,
 				"arabicnumber_last": 1470.02
 			},
 			"18": {
 				"hadithnumber_first": 3652,
 				"hadithnumber_last": 3742,
-				"arabicnumber_first": 938.03,
+				"arabicnumber_first": 1471.01,
 				"arabicnumber_last": 1491
 			},
 			"19": {
@@ -184,19 +184,19 @@
 			"20": {
 				"hadithnumber_first": 3770,
 				"hadithnumber_last": 3800,
-				"arabicnumber_first": 1370.04,
+				"arabicnumber_first": 1501.01,
 				"arabicnumber_last": 1510.02
 			},
 			"21": {
 				"hadithnumber_first": 3801,
 				"hadithnumber_last": 3961,
-				"arabicnumber_first": 1412.05,
+				"arabicnumber_first": 1511.01,
 				"arabicnumber_last": 1550.05
 			},
 			"22": {
 				"hadithnumber_first": 3962,
 				"hadithnumber_last": 4139,
-				"arabicnumber_first": 715.13,
+				"arabicnumber_first": 1551.01,
 				"arabicnumber_last": 1613
 			},
 			"23": {
@@ -214,7 +214,7 @@
 			"25": {
 				"hadithnumber_first": 4204,
 				"hadithnumber_last": 4234,
-				"arabicnumber_first": 1004.03,
+				"arabicnumber_first": 1627.01,
 				"arabicnumber_last": 1637.03
 			},
 			"26": {
@@ -226,7 +226,7 @@
 			"27": {
 				"hadithnumber_first": 4254,
 				"hadithnumber_last": 4341,
-				"arabicnumber_first": 997.03,
+				"arabicnumber_first": 1646.01,
 				"arabicnumber_last": 1668.03
 			},
 			"28": {
@@ -244,31 +244,31 @@
 			"30": {
 				"hadithnumber_first": 4470,
 				"hadithnumber_last": 4497,
-				"arabicnumber_first": 593.06,
+				"arabicnumber_first": 1711.01,
 				"arabicnumber_last": 1721
 			},
 			"31": {
 				"hadithnumber_first": 4498,
 				"hadithnumber_last": 4518,
-				"arabicnumber_first": 48.02,
+				"arabicnumber_first": 1722.01,
 				"arabicnumber_last": 1729
 			},
 			"32": {
 				"hadithnumber_first": 4519,
 				"hadithnumber_last": 4700,
-				"arabicnumber_first": 1254.02,
+				"arabicnumber_first": 1730.01,
 				"arabicnumber_last": 1817
 			},
 			"33": {
 				"hadithnumber_first": 4701,
 				"hadithnumber_last": 4967,
-				"arabicnumber_first": 142.05,
+				"arabicnumber_first": 1818.01,
 				"arabicnumber_last": 1928.02
 			},
 			"34": {
 				"hadithnumber_first": 4972,
 				"hadithnumber_last": 5063,
-				"arabicnumber_first": 561.03,
+				"arabicnumber_first": 1929.01,
 				"arabicnumber_last": 1959
 			},
 			"35": {
@@ -280,7 +280,7 @@
 			"36": {
 				"hadithnumber_first": 5114,
 				"hadithnumber_last": 5383,
-				"arabicnumber_first": 17.04,
+				"arabicnumber_first": 1979.02,
 				"arabicnumber_last": 2064.04
 			},
 			"37": {
@@ -298,7 +298,7 @@
 			"39": {
 				"hadithnumber_first": 5646,
 				"hadithnumber_last": 5861,
-				"arabicnumber_first": 287.05,
+				"arabicnumber_first": 2160,
 				"arabicnumber_last": 2245.02
 			},
 			"40": {
@@ -322,37 +322,37 @@
 			"43": {
 				"hadithnumber_first": 384,
 				"hadithnumber_last": 6168,
-				"arabicnumber_first": 151.03,
+				"arabicnumber_first": 2276,
 				"arabicnumber_last": 2380.06
 			},
 			"44": {
 				"hadithnumber_first": 6169,
 				"hadithnumber_last": 6499,
-				"arabicnumber_first": 799.04,
+				"arabicnumber_first": 2381,
 				"arabicnumber_last": 2547
 			},
 			"45": {
 				"hadithnumber_first": 6500,
 				"hadithnumber_last": 6722,
-				"arabicnumber_first": 1914.02,
+				"arabicnumber_first": 2548.01,
 				"arabicnumber_last": 2642.02
 			},
 			"46": {
 				"hadithnumber_first": 6723,
 				"hadithnumber_last": 6774,
-				"arabicnumber_first": 112.02,
+				"arabicnumber_first": 2643.01,
 				"arabicnumber_last": 2664
 			},
 			"47": {
 				"hadithnumber_first": 6775,
 				"hadithnumber_last": 6804,
-				"arabicnumber_first": 157.05,
+				"arabicnumber_first": 2665,
 				"arabicnumber_last": 2674
 			},
 			"48": {
 				"hadithnumber_first": 6805,
 				"hadithnumber_last": 6936,
-				"arabicnumber_first": 589.02,
+				"arabicnumber_first": 2675.01,
 				"arabicnumber_last": 2735.03
 			},
 			"49": {
@@ -364,7 +364,7 @@
 			"50": {
 				"hadithnumber_first": 6952,
 				"hadithnumber_last": 7023,
-				"arabicnumber_first": 2619.02,
+				"arabicnumber_first": 2744.01,
 				"arabicnumber_last": 2771
 			},
 			"51": {
@@ -382,19 +382,19 @@
 			"53": {
 				"hadithnumber_first": 7130,
 				"hadithnumber_last": 7234,
-				"arabicnumber_first": 2128.02,
+				"arabicnumber_first": 2822,
 				"arabicnumber_last": 2879
 			},
 			"54": {
 				"hadithnumber_first": 7235,
 				"hadithnumber_last": 7416,
-				"arabicnumber_first": 144.04,
+				"arabicnumber_first": 2880.01,
 				"arabicnumber_last": 2955.03
 			},
 			"55": {
 				"hadithnumber_first": 7417,
 				"hadithnumber_last": 7522,
-				"arabicnumber_first": 533.03,
+				"arabicnumber_first": 2956,
 				"arabicnumber_last": 3014
 			},
 			"56": {
