@@ -6,10 +6,10 @@
 		},
 		"section_detail": {
 			"0": {
-				"hadithnumber_first": 299,
-				"hadithnumber_last": 7495,
-				"arabicnumber_first": 299,
-				"arabicnumber_last": 7495
+				"hadithnumber_first": 0,
+				"hadithnumber_last": 0,
+				"arabicnumber_first": 0,
+				"arabicnumber_last": 0
 			}
 		}
 	},
@@ -17,7 +17,7 @@
 		{
 			"hadithnumber": 2285,
 			"arabicnumber": 2285,
-			"text": "Abdullah İbn Ömer r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem, Hayber arazisini, ekip dikmeleri için, çıkacak mahsulün yarısı karşılığında onlara (kiraya) vermiştir Nafi' kira miktarını söylemişti, fakat ben aklımda tutamadım Tekrar. 2",
+			"text": "Abdullah İbn Ömer r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem, Hayber arazisini, ekip dikmeleri için, çıkacak mahsulün yarısı karşılığında onlara (kiraya) vermiştir Nafi' kira miktarını söylemişti, fakat ben aklımda tutamadım Tekrar",
 			"grades": [],
 			"reference": {
 				"book": 0,
