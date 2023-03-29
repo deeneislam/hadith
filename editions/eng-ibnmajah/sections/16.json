@@ -217,10 +217,6 @@
 					"grade": "Sahih"
 				},
 				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan Lighairihi"
-				},
-				{
 					"name": "Zubair Ali Zai",
 					"grade": "Sahih"
 				}
@@ -903,10 +899,6 @@
 					"grade": "Sahih"
 				},
 				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Hasan"
-				},
-				{
 					"name": "Zubair Ali Zai",
 					"grade": "Sahih Muslim"
 				}
@@ -1269,10 +1261,6 @@
 					"grade": "Hasan"
 				},
 				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Sahih Lighairihi"
-				},
-				{
 					"name": "Zubair Ali Zai",
 					"grade": "Hasan"
 				}
@@ -1375,10 +1363,6 @@
 				{
 					"name": "Muhammad Fouad Abd al-Baqi",
 					"grade": "Hasan"
-				},
-				{
-					"name": "Shuaib Al Arnaut",
-					"grade": "Daif"
 				}
 			],
 			"reference": {
