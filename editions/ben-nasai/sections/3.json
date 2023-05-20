@@ -121,7 +121,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -134,10 +134,6 @@
 			"arabicnumber": 353,
 			"text": "",
 			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
 				{
 					"name": "Zubair Ali Zai",
 					"grade": "Sahih"

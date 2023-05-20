@@ -3905,6 +3905,10 @@
 2783.2 | (Another chain) with a similar narration
 2787.2 | Another chain of narration similar in meaning
 2811.2 | Shu'bah and Ath-Thawri reported it from Abu Ishaq from Al-Bara bin 'Azib who said:"I saw a red Hullah on the Messenger of Allah." (Another chain of narration)
+2815.02 | Narrated Anas bin Malik:that the Messenger of Allah (ﷺ) prohibited saffron for men
+2824.02 | Narrated Salim and Hamzah, the sons of 'Abdullah bin 'Umar:from their father that the Messenger of Allah (ﷺ) said: "An omen is in three: A woman, a dwelling, and a (riding) beast
+2824.03 | Narrated Salim and Hamzah, the sons of 'Abdullah bin 'Umar:from their father that the Messenger of Allah (ﷺ) said: "An omen is in three: A woman, a dwelling, and a (riding) beast
+2824.04 | Narrated Salim and Hamzah, the sons of 'Abdullah bin 'Umar:from their father that the Messenger of Allah (ﷺ) said: "An omen is in three: A woman, a dwelling, and a (riding) beast
 2846.2 | (Another chain) from 'Aishah with the same narration
 2855.2 | (Another chain) with similar meaning
 2856.2 | It has been reported from Hisham bin 'Urwah from his father, that 'Aishah said:"The most loved deed to the Messenger of Allah (ﷺ) was what he could do regularly." (Another chain) with similar meaning
@@ -3919,10 +3923,6 @@
 3604.08 | Abu Hurairah narrated that the Messenger of Allah (ﷺ) used to supplicate, saying:“O Allah, give me pleasure in my hearing and my sight, and make it the inheritor from me, and aid me against whoever oppresses me, and take vengeance from him for me (Allāhumma matti`nī bisam`ī wa baṣarī waj`alhumal-wāritha minnī, wanṣurnī `alā man yaẓlimunī, wa khudh minhu bitha’rī)”
 3604.09 | Thabit narrated from Anas, who said “The Messenger of Allah (ﷺ) said:‘Let one of you ask his Lord for his every need, even until he asks Him for the strap of his sandal when it breaks.’”
 3604.1 | Thabit Al-Bunani narrated that the Messenger of Allah (ﷺ) said:“Let one of you ask his Lord for his every need, until he asks Him for salt, and asks Him for the strap of his sandal when it breaks.”
-2815.02 | Narrated Anas bin Malik:that the Messenger of Allah (ﷺ) prohibited saffron for men
-2824.02 | Narrated Salim and Hamzah, the sons of 'Abdullah bin 'Umar:from their father that the Messenger of Allah (ﷺ) said: "An omen is in three: A woman, a dwelling, and a (riding) beast
-2824.03 | Narrated Salim and Hamzah, the sons of 'Abdullah bin 'Umar:from their father that the Messenger of Allah (ﷺ) said: "An omen is in three: A woman, a dwelling, and a (riding) beast
-2824.04 | Narrated Salim and Hamzah, the sons of 'Abdullah bin 'Umar:from their father that the Messenger of Allah (ﷺ) said: "An omen is in three: A woman, a dwelling, and a (riding) beast
 {
 	"name": "eng-tirmidhi",
 	"book": "tirmidhi",

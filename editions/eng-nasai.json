@@ -8395,7 +8395,7 @@
 		{
 			"hadithnumber": 352,
 			"arabicnumber": 352,
-			"text": "It was narrated from 'Aishah that Umm Habibah asked the Messenger of Allah (ﷺ) about bleeding. 'Aishah said:\"I saw her wash tub filled with blood.\" The Messenger of Allah (ﷺ) said to her: \"Stop (praying) for as long as your period used to last, then perform Ghusl",
+			"text": "It was narrated from 'Aishah that Umm Habibah asked the Messenger of Allah (ﷺ) about bleeding. 'Aishah said:\"I saw her wash tub filled with blood.\" The Messenger of Allah (ﷺ) said to her: \"Stop (praying) for as long as your period used to last, then perform Ghusl. And Qutayba told us about it again, and he did not mention Ja`far ibn Rabi`ah in it",
 			"grades": [
 				{
 					"name": "Abu Ghuddah",
@@ -8407,7 +8407,7 @@
 				},
 				{
 					"name": "Zubair Ali Zai",
-					"grade": "Sahih Muslim"
+					"grade": "Sahih"
 				}
 			],
 			"reference": {
@@ -8418,12 +8418,8 @@
 		{
 			"hadithnumber": 353,
 			"arabicnumber": 353,
-			"text": "And Qutayba told us about it again, and he did not mention Ja`far ibn Rabi`ah in it",
+			"text": "It was narrated from 'Aishah that Umm Habibah asked the Messenger of Allah (ﷺ) about bleeding. 'Aishah said:\"I saw her wash tub filled with blood.\" The Messenger of Allah (ﷺ) said to her: \"Stop (praying) for as long as your period used to last, then perform Ghusl. And Qutayba told us about it again, and he did not mention Ja`far ibn Rabi`ah in it",
 			"grades": [
-				{
-					"name": "Al-Albani",
-					"grade": "Daif"
-				},
 				{
 					"name": "Zubair Ali Zai",
 					"grade": "Sahih"
@@ -113173,7 +113169,7 @@
 		{
 			"hadithnumber": 4938,
 			"arabicnumber": 4938,
-			"text": "Uthman bin Abi Al-Walid said:\"I heard 'Urwah bin Az-Zubair say: \"Aishah used to narrate that he Prophet of Allah said: The hand (of the thief) should not be cut off except for a shield or its equivalent in value. And he said that 'Urwah said: A shield is (worth) four Dirhams",
+			"text": "Uthman bin Abi Al-Walid said:\"I heard 'Urwah bin Az-Zubair say: \"Aishah used to narrate that he Prophet of Allah said: The hand (of the thief) should not be cut off except for a shield or its equivalent in value. And he said that 'Urwah said: A shield is (worth) four Dirhams. And he (the narrator) said: I heard sulaiman bin Yasar say that he heard 'Amrah say: I heard 'Aishah narrate that she heard the Messenger of Allah say: The hand (of the thief) should not be cut off except for four Dinars or more",
 			"grades": [
 				{
 					"name": "Abu Ghuddah",
@@ -113196,13 +113192,8 @@
 		{
 			"hadithnumber": 4939,
 			"arabicnumber": 4939,
-			"text": "And he (the narrator) said: I heard sulaiman bin Yasar say that he heard 'Amrah say: I heard 'Aishah narrate that she heard the Messenger of Allah say: The hand (of the thief) should not be cut off except for four Dinars or more",
-			"grades": [
-				{
-					"name": "Abu Ghuddah",
-					"grade": "-"
-				}
-			],
+			"text": "Uthman bin Abi Al-Walid said:\"I heard 'Urwah bin Az-Zubair say: \"Aishah used to narrate that he Prophet of Allah said: The hand (of the thief) should not be cut off except for a shield or its equivalent in value. And he said that 'Urwah said: A shield is (worth) four Dirhams. And he (the narrator) said: I heard sulaiman bin Yasar say that he heard 'Amrah say: I heard 'Aishah narrate that she heard the Messenger of Allah say: The hand (of the thief) should not be cut off except for four Dinars or more",
+			"grades": [],
 			"reference": {
 				"book": 46,
 				"hadith": 69
