@@ -13,46 +13,5 @@
 			}
 		}
 	},
-	"hadiths": [
-		{
-			"hadithnumber": 2815.02,
-			"arabicnumber": 2815.02,
-			"text": "Narrated Anas bin Malik:that the Messenger of Allah (ﷺ) prohibited saffron for men",
-			"grades": [],
-			"reference": {
-				"book": 0,
-				"hadith": 0
-			}
-		},
-		{
-			"hadithnumber": 2824.02,
-			"arabicnumber": 2824.02,
-			"text": "Narrated Salim and Hamzah, the sons of 'Abdullah bin 'Umar:from their father that the Messenger of Allah (ﷺ) said: \"An omen is in three: A woman, a dwelling, and a (riding) beast",
-			"grades": [],
-			"reference": {
-				"book": 0,
-				"hadith": 0
-			}
-		},
-		{
-			"hadithnumber": 2824.03,
-			"arabicnumber": 2824.03,
-			"text": "Narrated Salim and Hamzah, the sons of 'Abdullah bin 'Umar:from their father that the Messenger of Allah (ﷺ) said: \"An omen is in three: A woman, a dwelling, and a (riding) beast",
-			"grades": [],
-			"reference": {
-				"book": 0,
-				"hadith": 0
-			}
-		},
-		{
-			"hadithnumber": 2824.04,
-			"arabicnumber": 2824.04,
-			"text": "Narrated Salim and Hamzah, the sons of 'Abdullah bin 'Umar:from their father that the Messenger of Allah (ﷺ) said: \"An omen is in three: A woman, a dwelling, and a (riding) beast",
-			"grades": [],
-			"reference": {
-				"book": 0,
-				"hadith": 0
-			}
-		}
-	]
+	"hadiths": []
 }
