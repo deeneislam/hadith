@@ -114,5 +114,5 @@ jobs:
         run: |
           git pull
           git add --sparse -A
-          git commit -m ${{ env.mycmd }}
+          git commit -m update-${{ env.mycmd }}
           git push
