@@ -152,6 +152,18 @@
 				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ind-bukhari.min.json"
 			},
 			{
+				"name": "rus-bukhari",
+				"book": "bukhari",
+				"author": "Abdullah Nirsha And Editors Of Daura.com",
+				"language": "Russian",
+				"has_sections": true,
+				"direction": "ltr",
+				"source": "https://isnad.link/book/sahih-al-buhari",
+				"comments": "",
+				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/rus-bukhari.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/rus-bukhari.min.json"
+			},
+			{
 				"name": "tam-bukhari",
 				"book": "bukhari",
 				"author": "Unknown",
