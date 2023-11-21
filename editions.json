@@ -63,6 +63,18 @@
 				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ind-abudawud.min.json"
 			},
 			{
+				"name": "rus-abudawud",
+				"book": "abudawud",
+				"author": "Unknown",
+				"language": "Russian",
+				"has_sections": true,
+				"direction": "ltr",
+				"source": "https://isnad.link/",
+				"comments": "",
+				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/rus-abudawud.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/rus-abudawud.min.json"
+			},
+			{
 				"name": "tur-abudawud",
 				"book": "abudawud",
 				"author": "Unknown",
@@ -465,6 +477,18 @@
 				"comments": "",
 				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ind-muslim.json",
 				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ind-muslim.min.json"
+			},
+			{
+				"name": "rus-muslim",
+				"book": "muslim",
+				"author": "Unknown",
+				"language": "Russian",
+				"has_sections": true,
+				"direction": "ltr",
+				"source": "https://isnad.link/",
+				"comments": "",
+				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/rus-muslim.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/rus-muslim.min.json"
 			},
 			{
 				"name": "tam-muslim",
