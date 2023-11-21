@@ -7177,3 +7177,21 @@ Generating Edition
  Generated edition rus-bukhari
 
 editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js update
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for rus-bukhari.txt
+
+ deletion completed for rus-bukhari
+
+editions.json and editions.min.json generated
+
+Generating Edition
+
+ Generated edition rus-bukhari
+
+editions.json and editions.min.json generated
