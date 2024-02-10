@@ -438,8 +438,8 @@ async function jsonDB(singlefile) {
 
     var filepath = path.join(linebylineDir, filename)
     var fileSize = fs.statSync(filepath).size
-    // read the first 25k bytes of file to be stored as snippet in jsondb object
-    var data = await streamRead(filepath, 0, 25_000)
+    // read the first 100k bytes of file to be stored as snippet in jsondb object
+    var data = await streamRead(filepath, 0, 100_000)
 
     jsondb[filename] = {}
     // taking verse from line 11 to 20 and storing it for searching and duplicate detection
