@@ -5,7 +5,7 @@
 1.  Go to [web editor](https://github.dev/fawazahmed0/hadith-api "web editor")
 
 ### Add new translations:
-1. The [database/originals](https://github.com/fawazahmed0/hadith-api/tree/1/database/originals "database/originals") folder have different translations that were used as an input to apiscript.js, please refer those files to check whether your translation file will work fine or not. You may want to [preprocess](https://github.com/fawazahmed0/hadith-api/blob/1/Preprocessing.md) the file, if it is in other than text format(pdf, Images, docx, etc). Also make sure the correct hadith numbers are used in your file, the hadith numbers should be the same as is used in this api, so that proper hadith grades will be mapped
+1. The [database/originals](https://github.com/fawazahmed0/hadith-api/tree/b1b3b64b6c50e3199d7ce8ecd0910c66dc3622ee/database/originals "database/originals") folder have different translations that were used as an input to apiscript.js, please refer those files to check whether your translation file will work fine or not. You may want to [preprocess](https://github.com/fawazahmed0/hadith-api/blob/1/Preprocessing.md) the file, if it is in other than text format(pdf, Images, docx, etc). Also make sure the correct hadith numbers are used in your file, the hadith numbers should be the same as is used in this api, so that proper hadith grades will be mapped
 
     [Example 1](https://raw.githubusercontent.com/fawazahmed0/hadith-api/1/database/originals/englishtirmidhiscrapped.txt "Example 1")
 
@@ -23,7 +23,7 @@
     "comments":"Add any comments here"
     }
     ```  
-    Please see [database/originals](https://github.com/fawazahmed0/hadith-api/tree/1/database/originals "database/originals") , all the files have the json data at end of file.
+    Please see [database/originals](https://github.com/fawazahmed0/hadith-api/tree/b1b3b64b6c50e3199d7ce8ecd0910c66dc3622ee/database/originals "database/originals") , all the files have the json data at end of file.
 When specifying the language, please use proper [iso name of language](https://github.com/fawazahmed0/quran-api/blob/1/isocodes/iso-codes.json "iso name of language"). Also the book name should be same as given in [info](https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/info.json).
 
 3. Drag & drop the translations to the [start](https://github.com/fawazahmed0/hadith-api/tree/1/start "start") directory, you can paste any number of translations.
