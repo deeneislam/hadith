@@ -265,24 +265,11 @@ function saveJSON(jsondata, pathToFile, indent) {
   }
 
 // reads the file using streams, start is the starting byte and end is the bytes to read
-async function streamRead(pathtofile, start, end) {
-  var readstream;
-  if (start && !end)
-    readstream = fs.createReadStream(pathtofile, {
-      start: start
-    });
-  else if (!start && end)
-    readstream = fs.createReadStream(pathtofile, {
-      end: end
-    });
-  else if (!start && !end)
-    readstream = fs.createReadStream(pathtofile);
-  else
-    readstream = fs.createReadStream(pathtofile, {
-      start: start,
-      end: end
-    });
+async function streamRead(pathtofile, start=0, end=Infinity) {
+  if(end<0||end<start)
+  end=Infinity
 
+  var readstream = fs.createReadStream(pathtofile, {start:Math.max(start,0),end})
   var data = ''
   for await (var chunk of readstream) {
     data = data + chunk.toString()
