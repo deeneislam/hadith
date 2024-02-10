@@ -39,14 +39,7 @@
 39 | خَیْرُ زَّادِ الْتَّقْوَی
 40 | الْمَجَالِسُ بِالْاَمَانَةِ
 {
-	"name": "ara-dehlawi",
-	"book": "dehlawi",
 	"author": "Shah Waliullah Dehlawi",
-	"language": "Arabic",
-	"has_sections": true,
-	"direction": "rtl",
-	"source": "",
-	"comments": "",
-	"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-dehlawi.json",
-	"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-dehlawi.min.json"
+	"book": "dehlawi",
+	"language": "arabic"
 }
