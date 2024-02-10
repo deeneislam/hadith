@@ -438,17 +438,14 @@ async function jsonDB(singlefile) {
 
     var filepath = path.join(linebylineDir, filename)
     var fileSize = fs.statSync(filepath).size
-    var shardPercentage = 0.02
-    if(fileSize < 50000) { //For Shah Waliullah, Nawawi, Qudsi, size was less than 50K and only 40 hadith, hence snippet was blank.
-      shardPercentage = 0.5
-    }
-    // read the first shardPercentage bytes of file to be stored as snippet in jsondb object
-    var data = await streamRead(filepath, 0, parseInt(fileSize * shardPercentage))
+    // read the first 2% bytes of file to be stored as snippet in jsondb object
+    var data = await streamRead(filepath, 0, parseInt(fileSize * 0.02))
+
     jsondb[filename] = {}
     // taking verse from line 11 to 20 and storing it for searching and duplicate detection
     jsondb[filename]['snippet'] = data.split(/\r?\n/).slice(10, 20).map(e => e.replace(/^\d+\.?\d*\s*\|\s*/, '').trim()).join('\n')
     // reading last 6k bytes of file to fetch json
-    data = await streamRead(filepath, fileSize - 2000) // reducing it to 2K from 6K because 40 Hadith of Shah Waliullah Dehlawi ~3.5KB
+    data = await streamRead(filepath, fileSize - 6000)
     // parse the json
     jsondb[filename]['jsondata'] = getJSONInArray(data.split(/\r?\n/))[0]
     // break the loop, as we only wanted to add one file
