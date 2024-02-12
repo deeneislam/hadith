@@ -7259,3 +7259,29 @@ Generating Edition
  Generated edition ara-qudsi
 
 editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js create
+
+Flags Used
+checkduplicate:true
+jsonrequired:true
+
+Starting to create files for eng-dehlawi.txt
+
+Generating Edition
+
+ Generated edition eng-dehlawi
+
+Starting to create files for eng-nawawi.txt
+
+Generating Edition
+
+ Generated edition eng-nawawi
+
+Starting to create files for eng-qudsi.txt
+
+Generating Edition
+
+ Generated edition eng-qudsi
+
+editions.json and editions.min.json generated
