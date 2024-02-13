@@ -662,6 +662,18 @@
 				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-nawawi.min.json"
 			},
 			{
+				"name": "ben-nawawi",
+				"book": "nawawi",
+				"author": "Imam Nawawi",
+				"language": "Bengali",
+				"has_sections": true,
+				"direction": "ltr",
+				"source": "",
+				"comments": "",
+				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ben-nawawi.json",
+				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ben-nawawi.min.json"
+			},
+			{
 				"name": "eng-nawawi",
 				"book": "nawawi",
 				"author": "Imam Nawawi",
