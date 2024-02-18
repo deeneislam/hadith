@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Musnad Imam Abu Hanifa",
+		"section": {
+			"26": "The Book of Literature"
+		},
+		"section_detail": {
+			"26": {
+				"hadithnumber_first": 445,
+				"hadithnumber_last": 475,
+				"arabicnumber_first": 445,
+				"arabicnumber_last": 475
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 465,
+			"arabicnumber": 465,
+			"text": "عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ، قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «الدَّالُّ عَلَى الْخَيْرِ كَفَاعِلِهِ»",
+			"grades": [],
+			"reference": {
+				"book": 26,
+				"hadith": 22
+			}
+		}
+	]
+}

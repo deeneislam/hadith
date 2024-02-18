@@ -1,0 +1,28 @@
+{
+	"metadata": {
+		"name": "Musnad Imam Abu Hanifa",
+		"section": {
+			"23": "The Book of Foods, Drinks, Drinking, Victims, Hunting, and Sacrifices"
+		},
+		"section_detail": {
+			"23": {
+				"hadithnumber_first": 388,
+				"hadithnumber_last": 422,
+				"arabicnumber_first": 388,
+				"arabicnumber_last": 422
+			}
+		}
+	},
+	"hadiths": [
+		{
+			"hadithnumber": 415,
+			"arabicnumber": 415,
+			"text": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا، «أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنِ الدُّبَّاءِ وَالْحَنْتَمِ»",
+			"grades": [],
+			"reference": {
+				"book": 23,
+				"hadith": 28
+			}
+		}
+	]
+}
