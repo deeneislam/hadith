@@ -7337,3 +7337,32 @@ BEGIN:
  deletion completed for ara-abuhanifa
 
 editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js search paradise
+
+ Line: paradise contains in edition 
+eng-abudawud
+
+ Line: paradise contains in edition 
+eng-bukhari
+
+ Line: paradise contains in edition 
+eng-dehlawi
+
+ Line: paradise contains in edition 
+eng-ibnmajah
+
+ Line: paradise contains in edition 
+eng-muslim
+
+ Line: paradise contains in edition 
+eng-nasai
+
+ Line: paradise contains in edition 
+eng-nawawi
+
+ Line: paradise contains in edition 
+eng-qudsi
+
+ Line: paradise contains in edition 
+eng-tirmidhi
