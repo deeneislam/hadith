@@ -100,10 +100,6 @@
 			}
 		]
 	},
-	"abuhanifa": {
-		"name": "Musnad Imam Abu Hanifa",
-		"collection": []
-	},
 	"bukhari": {
 		"name": "Sahih al Bukhari",
 		"collection": [
