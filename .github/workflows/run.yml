@@ -109,7 +109,6 @@ jobs:
           
       # commiting and pushing changes
       - name: commit and push
-        if: ${{ ! contains(env.mycmd, 'search') }}
         shell: bash
         run: |
           git pull
