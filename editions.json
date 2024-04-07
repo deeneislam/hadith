@@ -102,20 +102,7 @@
 	},
 	"abuhanifa": {
 		"name": "Musnad Imam Abu Hanifa",
-		"collection": [
-			{
-				"name": "ara-abuhanifa",
-				"book": "abuhanifa",
-				"author": "Imam Abu Hanifa",
-				"language": "Arabic",
-				"has_sections": true,
-				"direction": "rtl",
-				"source": "",
-				"comments": "",
-				"link": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-abuhanifa.json",
-				"linkmin": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions/ara-abuhanifa.min.json"
-			}
-		]
+		"collection": []
 	},
 	"bukhari": {
 		"name": "Sahih al Bukhari",
