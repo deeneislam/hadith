@@ -7384,3 +7384,68 @@ Generating Edition
  Generated edition eng-malik
 
 editions.json and editions.min.json generated
+BEGIN:
+/opt/hostedtoolcache/node/19.9.0/x64/bin/node /home/runner/work/hadith-api/hadith-api/apiscript.js search we
+
+ Line: we contains in edition 
+eng-abudawud
+
+ Line: we contains in edition 
+eng-bukhari
+
+ Line: we contains in edition 
+eng-dehlawi
+
+ Line: we contains in edition 
+eng-ibnmajah
+
+ Line: we contains in edition 
+eng-malik
+
+ Line: we contains in edition 
+eng-muslim
+
+ Line: we contains in edition 
+eng-nasai
+
+ Line: we contains in edition 
+eng-nawawi
+
+ Line: we contains in edition 
+eng-qudsi
+
+ Line: we contains in edition 
+eng-tirmidhi
+
+ Line: we contains in edition 
+ind-abudawud
+
+ Line: we contains in edition 
+ind-bukhari
+
+ Line: we contains in edition 
+ind-ibnmajah
+
+ Line: we contains in edition 
+ind-malik
+
+ Line: we contains in edition 
+ind-muslim
+
+ Line: we contains in edition 
+ind-nasai
+
+ Line: we contains in edition 
+ind-tirmidhi
+
+ Line: we contains in edition 
+tur-bukhari
+
+ Line: we contains in edition 
+tur-ibnmajah
+
+ Line: we contains in edition 
+tur-malik
+
+ Line: we contains in edition 
+tur-muslim
